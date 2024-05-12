@@ -1,5 +1,12 @@
 [
   {
+    "id": 9900,
+    "title": "II - 1",
+    "description": "Neural and Hormonal Systems",
+    "german_title": "-",
+    "german_description": "-"
+  },
+  {
     "id": 0,
     "title": "biological psychology",
     "description": "The scientific study of the links between biological (genetic, neural, hormonal) and psychological processes. Some biological psychologists call themselves behavioral neuroscientists, neuropsychologists, behavior geneticists, physiological psychologists, or biopsychologists",
@@ -127,9 +134,121 @@
   },
   {
     "id": 18,
-    "title": "-",
-    "description": "-",
+    "title": "nervous system",
+    "description": "The body’s speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems.",
+    "german_title": "Nervensystems.",
+    "german_description": "Das schnelle, elektrochemische Kommunikationsnetzwerk des Körpers, bestehend aus allen Nervenzellen des peripheren und zentralen Nervensystems."
+  },
+  {
+    "id": 19,
+    "title": "central nervous system (CNS)",
+    "description": "the brain and spinal cord.",
+    "german_title": "Zentralnervensystem (ZNS)",
+    "german_description": "das Gehirn und das Rückenmark."
+  },
+  {
+    "id": 20,
+    "title": "Peripheral nervous system (PNS)",
+    "description": "the sensory and motor neurons that connect the central nervous system (CNS) to the rest of the body.",
+    "german_title": "peripheres Nervensystem (PNS)",
+    "german_description": "die sensorischen und motorischen Neuronen, die das Zentralnervensystem (ZNS) mit dem Rest des Körpers verbinden."
+  },
+  {
+    "id": 21,
+    "title": "nerves",
+    "description": "bundled axons that form neural cables connecting the central nervous system with muscles, glands, and sensory organs.",
+    "german_title": "Nerven",
+    "german_description": "gebündelte Axone, die Nervenkabel bilden, die das Zentralnervensystem mit Muskeln, Drüsen und Sinnesorganen verbinden."
+  },
+  {
+    "id": 22,
+    "title": "sensory (afferent) neurons",
+    "description": " neurons that carry incoming information from the body’s tissues and sensory receptors to the brain and spinal cord.",
+    "german_title": "sensorische (afferente) Neuronen",
+    "german_description": "Neuronen, die eingehende Informationen aus den Geweben und Sinnesrezeptoren des Körpers an das Gehirn und das Rückenmark weiterleiten."
+  },
+  {
+    "id": 23,
+    "title": "motor (efferent) neurons",
+    "description": "neurons that carry outgoing information from the brain and spinal cord to the muscles and glands.",
+    "german_title": "motorische (efferente) Neuronen",
+    "german_description": "Neuronen, die ausgehende Informationen vom Gehirn und Rückenmark zu den Muskeln und Drüsen weiterleiten."
+  },
+  {
+    "id": 24,
+    "title": "interneurons",
+    "description": "neurons within the brain and spinal cord; they communicate internally and process information between the sensory inputs and motor outputs.",
+    "german_title": "Interneurone",
+    "german_description": "Neuronen im Gehirn und Rückenmark; Sie kommunizieren intern und verarbeiten Informationen zwischen den sensorischen Eingaben und den motorischen Ausgaben."
+  },
+  {
+    "id": 25,
+    "title": "somatic nervous system",
+    "description": "the division of the peripheral nervous system that controls the body’s skeletal muscles. Also called the skeletal nervous system.",
+    "german_title": "somatisches Nervensystem",
+    "german_description": "der Teil des peripheren Nervensystems, der die Skelettmuskulatur des Körpers steuert. Auch Skelettnervensystem genannt."
+  },
+  {
+    "id": 26,
+    "title": "autonomic [aw-tuh-NAHM-ik] nervous system (ANS)",
+    "description": "the part of the peripheral nervous system that controls the glands and the muscles of the internal organs (such as the heart). Its sympathetic division arouses; its parasympathetic division calms.",
+    "german_title": "autonomes [aw-tuh-NAHM-ik] Nervensystem (ANS)",
+    "german_description": "der Teil des peripheren Nervensystems, der die Drüsen und Muskeln der inneren Organe (z. B. des Herzens) steuert. Seine sympathische Spaltung weckt; seine parasympathische Teilung beruhigt sich."
+  },
+  {
+    "id": 27,
+    "title": "sympathetic nervous system",
+    "description": "The division of the autonomic nervous system that arouses the body, mobilizing its energy.",
+    "german_title": "sympathisches Nervensystem",
+    "german_description": "Die Teilung des autonomen Nervensystems, die den Körper aktiviert und seine Energie mobilisiert."
+  },
+  {
+    "id": 28,
+    "title": "parasympathetic nervous system",
+    "description": "the division of the autonomic nervous system that calms the body conserving its energy.",
+    "german_title": "Parasympathisches Nervensystem",
+    "german_description": "die Teilung des autonomen Nervensystems, die den Körper beruhigt und seine Energie spart."
+  },
+  {
+    "id": 29,
+    "title": "reflex",
+    "description": "A simple, automatic response to a sensory stimulus, such as the knee-jerk reflex.",
+    "german_title": "Reflex",
+    "german_description": "Eine einfache, automatische Reaktion auf einen Sinnesreiz, beispielsweise den Knie-Ruck-Reflex."
+  },
+  {
+    "id": 30,
+    "title": "endocrine [EN-duh-krin] system",
+    "description": "The body’s “slow” chemical communication system; glands and fat tissue that secrete hormones into the bloodstream.",
+    "german_title": "endokrines [EN-duh-krin] System",
+    "german_description": "Das „langsame“ chemische Kommunikationssystem des Körpers; Drüsen und Fettgewebe, die Hormone in den Blutkreislauf abgeben."
+  },
+  {
+    "id": 31,
+    "title": "hormonese",
+    "description": "chemical messengers that are manufactured by the endocrine glands travel through the bloodstream, and affect other tissues.",
+    "german_title": "Hormone",
+    "german_description": "Chemische Botenstoffe, die von den endokrinen Drüsen produziert werden, wandern durch den Blutkreislauf und wirken sich auf andere Gewebe aus."
+  },
+  {
+    "id": 32,
+    "title": "adrenal [ah-DREEN-el] glands",
+    "description": "a pair of endocrine glands that sits just above the kidneys and secretes hormones (epinephrine and norepinephrine) that help arouse the body in times of stress.",
+    "german_title": "Nebennieren [ah-DREEN-el] Drüsen",
+    "german_description": "ein Paar endokriner Drüsen, die direkt über den Nieren sitzen und Hormone (Epinephrin und Noradrenalin) absondern, die dabei helfen, den Körper in Zeiten von Stress zu aktivieren."
+  },
+  {
+    "id": 33,
+    "title": "pituitary gland",
+    "description": "the endocrine system’s most influential gland. Under the influence of the hypothalamus, the pituitary regulates growth and controls other endocrine glands.",
+    "german_title": "Hypophyse",
+    "german_description": "the endocrine system’s most influential gland. Under the influence of the hypothalamus, the pituitary regulates growth and controls other endocrine glands."
+  },
+  {
+    "id": 9901,
+    "title": "II - 2",
+    "description": "Tools of Discovery, Older Brain Structures, and the Limbic System",
     "german_title": "-",
     "german_description": "-"
-  }  
+  }
 ]
