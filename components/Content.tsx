@@ -9,7 +9,7 @@ export default async function Content() {
   const info_style = 'flex flex-col w-[200px] md:w-[300px] lg:w-[450px] xl:w-[600px] p-6 border-slate-300/5 hover:scale-[105%] transition-all'
 
   return (
-    <div className='flex flex-col justify-center items-center'>
+    <div className='flex px-4 flex-col justify-center items-center'>
       <h3 className='text-xl opacity-75'>II: Neural and Hormonal Systems</h3>
       { 
         items.map((item) => (
