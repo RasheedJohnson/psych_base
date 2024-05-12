@@ -1,0 +1,135 @@
+[
+  {
+    "id": 0,
+    "title": "biological psychology",
+    "description": "The scientific study of the links between biological (genetic, neural, hormonal) and psychological processes. Some biological psychologists call themselves behavioral neuroscientists, neuropsychologists, behavior geneticists, physiological psychologists, or biopsychologists",
+    "german_title": "biologische Psychologie",
+    "german_description": "Die wissenschaftliche Untersuchung der Zusammenhänge zwischen biologischen (genetischen, neuronalen, hormonellen) und psychologischen Prozessen. Einige biologische Psychologen bezeichnen sich selbst als Verhaltensneurowissenschaftler, Neuropsychologen, Verhaltensgenetiker, physiologische Psychologen oder Biopsychologen"
+  },
+  {
+    "id": 1,
+    "title": "neuoroplasticity",
+    "description": "the brain’s ability to change, especially during childhood, by reorganizing after damage or by building new pathways based on experience.",
+    "german_title": "Neuroplastizität",
+    "german_description": "die Fähigkeit des Gehirns, sich zu verändern, insbesondere im Kindesalter, indem es sich nach einer Schädigung neu organisiert oder auf der Grundlage von Erfahrungen neue Bahnen aufbaut."
+  },
+  {
+    "id": 2,
+    "title": "neuron",
+    "description": "a nerve cell; the basic building block of the nervous system.",
+    "german_title": "neuron",
+    "german_description": "eine Nervenzelle; der Grundbaustein des Nervensystems."
+  },
+  {
+    "id": 3,
+    "title": "cell body",
+    "description": " the part of a neuron that contains the nucleus; the cell’s life-support center.",
+    "german_title": "Zellkörper",
+    "german_description": "der Teil eines Neurons, der den Kern enthält; das lebenserhaltende Zentrum der Zelle."
+  },
+  {
+    "id": 4,
+    "title": "dendrites",
+    "description": "a neuron’s often bushy, branching extensions that receive and integrate messages, conducting impulses toward the cell body.",
+    "german_title": "Dendriten",
+    "german_description": "die oft buschigen, verzweigten Fortsätze eines Neurons, die Nachrichten empfangen und integrieren und Impulse an den Zellkörper weiterleiten."
+  },
+  {
+    "id": 5,
+    "title": "axon",
+    "description": "the segmented neuron extension that passes messages through its branches to other neurons or to muscles or glands",
+    "german_title": "Axon",
+    "german_description": "die segmentierte Neuronenverlängerung, die über ihre Zweige Nachrichten an andere Neuronen oder an Muskeln oder Drüsen weiterleitet"
+  },
+  {
+    "id": 6,
+    "title": " myelin [MY-uh-lin] sheath",
+    "description": "a fatty tissue layer segmentally encasing the axons of some neurons; enables vastly greater transmission speed as neural impulses hop from one node to the next.",
+    "german_title": "Myelin [MY-uh-lin] Hülle",
+    "german_description": "eine Fettgewebsschicht, die die Axone einiger Neuronen segmentweise umhüllt; ermöglicht eine wesentlich höhere Übertragungsgeschwindigkeit, da neuronale Impulse von einem Knoten zum nächsten springen."
+  },
+  {
+    "id": 7,
+    "title": "glial cells (glia)",
+    "description": "cells in the nervous system that support, nourish, and protect neurons; they also play a role in learning, thinking, and memory.",
+    "german_title": "Gliazellen (Glia)",
+    "german_description": "Zellen im Nervensystem, die Neuronen unterstützen, nähren und schützen; Sie spielen auch eine Rolle beim Lernen, Denken und Gedächtnis."
+  },
+  {
+    "id": 8,
+    "title": "action potential",
+    "description": "a neural impulse; a brief electrical charge that travels down an axon.",
+    "german_title": "Aktionspotential",
+    "german_description": "ein neuronaler Impuls; eine kurze elektrische Ladung, die durch ein Axon wandert."
+  },
+  {
+    "id": 9,
+    "title": "threshold",
+    "description": "the level of stimulation required to trigger a neural impulse",
+    "german_title": "Schwelle",
+    "german_description": "das Ausmaß der Stimulation, das erforderlich ist, um einen Nervenimpuls auszulösen"
+  },
+  {
+    "id": 10,
+    "title": "refractory period",
+    "description": "in neural processing, a brief resting pause that occurs after a neuron has fired; subsequent action potentials cannot occur until the axon returns to its resting state",
+    "german_title": "Refraktärzeit",
+    "german_description": "bei der neuronalen Verarbeitung eine kurze Ruhepause, die auftritt, nachdem ein Neuron gefeuert hat; Nachfolgende Aktionspotentiale können erst auftreten, wenn das Axon in seinen Ruhezustand zurückkehrt"
+  },
+  {
+    "id": 11,
+    "title": "all-or-none response",
+    "description": "a neuron’s reaction of either firing (with a full-strength response) or not firing.",
+    "german_title": "Alles-oder-Nichts-Antwort",
+    "german_description": "Die Reaktion eines Neurons, entweder zu feuern (mit einer Reaktion voller Stärke) oder nicht zu feuern."
+  },
+  {
+    "id": 12,
+    "title": "synapse [SIN-aps]",
+    "description": "the junction between the axon tip of the sending neuron and the dendrite or cell body of the receiving neuron. The tiny gap at this junction is called the synaptic gap (or synaptic cleft).",
+    "german_title": "Synapse [SIN-aps]",
+    "german_description": "die Verbindung zwischen der Axonspitze des sendenden Neurons und dem Dendriten oder Zellkörper des empfangenden Neurons. Der winzige Spalt an dieser Verbindung wird synaptischer Spalt (oder synaptischer Spalt) genannt."
+  },
+  {
+    "id": 13,
+    "title": "neurotransmitters",
+    "description": "chemical messengers that cross the synaptic gap between neurons. When released by the sending neuron, neurotransmitters travel across the synapse and bind to receptor sites on the receiving neuron, thereby influencing whether that neuron will generate a neural impulse.",
+    "german_title": "Neurotransmitter",
+    "german_description": "chemische Botenstoffe, die die synaptische Lücke zwischen Neuronen überwinden. Wenn sie vom sendenden Neuron freigesetzt werden, wandern Neurotransmitter durch die Synapse und binden an Rezeptorstellen am empfangenden Neuron und beeinflussen so, ob dieses Neuron einen Nervenimpuls erzeugt."
+  },
+  {
+    "id": 14,
+    "title": "reuptake",
+    "description": "a neurotransmitter’s reabsorption by the sending neuron.",
+    "german_title": "Wiederaufnahme",
+    "german_description": "die Rückresorption eines Neurotransmitters durch das sendende Neuron."
+  },
+  {
+    "id": 15,
+    "title": "endorphins [en-DOR-fins]",
+    "description": "“morphine within”—natural, opiate-like neurotransmitters linked to pain control and to pleasure.",
+    "german_title": "Endorphine [en-DOR-flossen]",
+    "german_description": "„Morphin im Inneren“ – natürliche, opiatähnliche Neurotransmitter, die mit der Schmerzkontrolle und dem Vergnügen verbunden sind."
+  },
+  {
+    "id": 16,
+    "title": "agonist",
+    "description": "a molecule that increases a neurotransmitter’s action.",
+    "german_title": "Agonist",
+    "german_description": "ein Molekül, das die Wirkung eines Neurotransmitters verstärkt."
+  },
+  {
+    "id": 17,
+    "title": "antagonist",
+    "description": "a molecule that inhibits or blocks a neurotransmitter’s action.",
+    "german_title": "Gegnerin / Gegner",
+    "german_description": "ein Molekül, das die Wirkung eines Neurotransmitters hemmt oder blockiert."
+  },
+  {
+    "id": 18,
+    "title": "-",
+    "description": "-",
+    "german_title": "-",
+    "german_description": "-"
+  }  
+]
