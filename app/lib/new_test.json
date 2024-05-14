@@ -1,11 +1,4 @@
-item = [
-  {
-    "id": 0,
-    "title": "TITLE",
-    "content": "Prologue",
-    "de_title": "-",
-    "de_content": "-"
-  },
+[
   {
     "id": 1,
     "title": "CHAPTER 0",
@@ -187,6 +180,13 @@ item = [
     "content": "a study method incorporating five steps: Survey, Question, Read, Retrieve, Review.",
     "de_title": "SQ3R",
     "de_content": "eine Lernmethode, die fünf Schritte umfasst: Befragung, Frage, Lesen, Abrufen, Überprüfen."
+  },
+  {
+    "id": 9002,
+    "title": "title",
+    "content": "What is Psychology",
+    "de_title": "-",
+    "de_content": "-"
   },
   {
     "id": 29,
