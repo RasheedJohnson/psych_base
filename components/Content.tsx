@@ -13,7 +13,8 @@ export default async function Content() {
     <div className='flex px-4 flex-col justify-center items-center'>
       { 
         items.map((item) => (
-          item.id >= 9900 ? (
+
+          item.title == "CHAPTER" ? (
             <div key={item.id} className="flex flex-col justify-center items-center mt-5">
               <h3 className='text-xl opacity-75'>{item.title}: {item.description}</h3>
             </div>
