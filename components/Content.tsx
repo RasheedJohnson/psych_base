@@ -8,7 +8,7 @@ export default async function Content() {
 
   const chapter_container_styles = 'flex flex-col justify-center items-center mb-5 mt-14';
   const chapter_styles = 'text-md opacity-70 font-light max-w-[390px] flex justify-center text-center'
-  const chapter_number_styles = 'text-white opacity-100 text-lg font-semibold'
+  const chapter_number_styles = 'text-white opacity-100 text-lg font-semibold text-center'
 
   const title_style = 'font-medium mb-2 text-md md:text-xl'
   const desc_style = 'font-light opacity-75 text-xs md:text-md'
