@@ -13,7 +13,7 @@ export default function Home() {
         {/* GRADIENT */}
 
         <h1 className="font-medium text-3xl mb-4">Psychology Database</h1>
-        <div className='w-max-350px h-[1px] mb-10 bg-gradient-to-r from-black from-10% via-slate-700 via-30% to-black to-90%'></div>
+        <div className='w-full h-[1px] mb-10 bg-gradient-to-r from-black from-10% via-slate-700 via-30% to-black to-90%'></div>
         <Content />
       </div>
     </main>
