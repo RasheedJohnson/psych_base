@@ -13,8 +13,8 @@ export default async function Content() {
   const title_style = 'font-medium mb-5 text-md md:text-xl'
   const desc_style = 'font-light opacity-75 text-xs md:text-md'
 
-  const info_style = 'flex flex-col w-[200px] md:w-[300px] lg:w-[450px] xl:w-[600px] border-slate-300/5 hover:scale-[105%] transition-all'
-  const horizontal_divider = 'w-[100px] md:w-[500px] lg:w-[800px] xl:w-[1200px] h-[1px] bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%';
+  const info_style = 'flex flex-col w-1/2 border-slate-300/5 hover:scale-[105%] transition-all'
+  const horizontal_divider = ' h-[1px] bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%';
   const len_match = 4;
 
   const test_text = "chapter";
@@ -40,7 +40,7 @@ export default async function Content() {
                 </div>
               
               
-                <div className={info_style}>
+                <div className={`${info_style} max-w-full`}>
                   <p className={title_style}>
                     {item.de_title}</p>
                   <p className={desc_style}>
