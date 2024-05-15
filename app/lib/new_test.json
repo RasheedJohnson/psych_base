@@ -182,275 +182,275 @@
     "de_content": "eine Lernmethode, die fünf Schritte umfasst: Befragung, Frage, Lesen, Abrufen, Überprüfen."
   },
   {
-    "id": 9002,
-    "title": "title",
-    "content": "What is Psychology",
-    "de_title": "-",
-    "de_content": "-"
-  },
-  {
     "id": 29,
-    "title": "CHAPTER 1:",
-    "content": "Thinking Critically With Psychological Science",
+    "title": "CHAPTER 1: Thinking Critically With Psychological Science",
+    "content": "Research Strategies: How Psychologists Ask and Answer Questions",
     "de_title": "-",
     "de_content": "-"
   },
   {
     "id": 30,
     "title": "hindsight bias",
-    "content": "the tendency to believe, after learning an outcome, that one would have foreseen it. (Also known as the I-knew-it-all-along phenomenon. )",
+    "content": "the tendency to believe, after learning an outcome, that one would have foreseen it. (Also known as the I-knew-it-all-along phenomenon.)",
     "de_title": "Voreingenommenheit im Nachhinein",
-    "de_content": "die Tendenz, nach dem Bekanntwerden eines Ergebnisses zu glauben, dass man es vorausgesehen hätte. (Auch bekannt als das 'Ich habe es schon immer gewusst'-Phänomen)."
+    "de_content": "die Tendenz zu glauben, nachdem man ein Ergebnis erfahren hat, dass man es vorhergesehen hätte. (Auch bekannt als das Ich-wusste-es-schon-schon-Phänomen.)"
   },
   {
-    "id": 0,
+    "id": 31,
     "title": "theory",
     "content": "an explanation using an integrated set of principles that organizes observations and predicts behaviors or events.",
     "de_title": "Theorie",
-    "de_content": "eine Erklärung, die sich auf eine Reihe integrierter Grundsätze stützt, die Beobachtungen ordnen und Verhaltensweisen oder Ereignisse vorhersagen."
+    "de_content": "eine Erklärung unter Verwendung eines integrierten Satzes von Prinzipien, die Beobachtungen organisiert und Verhaltensweisen oder Ereignisse vorhersagt."
   },
   {
-    "id": 0,
+    "id": 32,
     "title": "hypothesis",
     "content": "a testable prediction, often implied by a theory.",
     "de_title": "Hypothese",
     "de_content": "eine überprüfbare Vorhersage, die oft durch eine Theorie impliziert wird."
   },
   {
-    "id": 0,
+    "id": 33,
     "title": "operational definition",
     "content": "a carefully worded statement of the exact procedures (operations) used in a research study. For example, human intelligence may be operationally defined as what an intelligence test measures. (Also known as operationalization.)",
     "de_title": "operationelle Definition",
-    "de_content": "eine sorgfältig formulierte Aussage über die genauen Verfahren (Operationen), die in einer Forschungsstudie verwendet werden. So kann beispielsweise die menschliche Intelligenz operativ als das definiert werden, was ein Intelligenztest misst. (Auch bekannt als Operationalisierung.)"
+    "de_content": "eine sorgfältig formulierte Darstellung der genauen Verfahren (Operationen), die in einer Forschungsstudie verwendet werden. Beispielsweise kann die menschliche Intelligenz operativ als das definiert werden, was ein Intelligenztest misst. (Auch Operationalisierung genannt.)"
   },
   {
-    "id": 0,
+    "id": 34,
     "title": "replication",
     "content": "repeating the essence of a research study, usually with different participants in different situations, to see whether the basic finding can be reproduced.",
     "de_title": "Replikation",
-    "de_content": "Wiederholung des Kerns einer Forschungsstudie, in der Regel mit verschiedenen Teilnehmern in verschiedenen Situationen, um zu sehen, ob das grundlegende Ergebnis reproduziert werden kann."
+    "de_content": "Wiederholen des Wesens einer Forschungsstudie, normalerweise mit verschiedenen Teilnehmern in unterschiedlichen Situationen, um zu sehen, ob das grundlegende Ergebnis reproduziert werden kann."
   },
   {
-    "id": 0,
+    "id": 35,
     "title": "preregistration",
     "content": "publicly communicating planned study design, hypotheses, data collection, and analyses.",
     "de_title": "Vorabregistrierung",
-    "de_content": "öffentliche Bekanntgabe des geplanten Studiendesigns, der Hypothesen, der Datenerhebung und der Analysen."
+    "de_content": "öffentliche Kommunikation des geplanten Studiendesigns, der Hypothesen, der Datenerhebung und der Analysen."
   },
   {
-    "id": 0,
+    "id": 36,
     "title": "meta-analysis",
     "content": "a statistical procedure for analyzing the results of multiple studies to reach an overall conclusion.",
     "de_title": "Meta-Analyse",
     "de_content": "ein statistisches Verfahren zur Analyse der Ergebnisse mehrerer Studien, um zu einer Gesamtschlussfolgerung zu gelangen."
   },
   {
-    "id": 0,
+    "id": 37,
     "title": "case study",
     "content": "a descriptive technique in which one individual or group is studied in depth in the hope of revealing universal principles.",
     "de_title": "Fallstudie",
-    "de_content": "eine beschreibende Technik, bei der ein Individuum oder eine Gruppe eingehend untersucht wird, in der Hoffnung, universelle Prinzipien zu erkennen."
+    "de_content": "eine beschreibende Technik, bei der eine Einzelperson oder eine Gruppe eingehend untersucht wird, in der Hoffnung, universelle Prinzipien aufzudecken."
   },
   {
-    "id": 0,
+    "id": 38,
     "title": "naturalistic observation",
     "content": "a descriptive technique of observing and recording behavior in naturally occurring situations without trying t omanipulate and control the situation.",
     "de_title": "naturalistische Beobachtung",
-    "de_content": "eine beschreibende Technik zur Beobachtung und Aufzeichnung von Verhalten in natürlich vorkommenden Situationen, ohne zu versuchen, die Situation zu manipulieren und zu kontrollieren."
+    "de_content": "eine beschreibende Technik zur Beobachtung und Aufzeichnung des Verhaltens in natürlich vorkommenden Situationen, ohne zu versuchen, die Situation zu manipulieren und zu kontrollieren."
   },
   {
-    "id": 0,
+    "id": 39,
     "title": "survey",
     "content": "a descriptive technique for obtaining the self-reported attitudes or behaviors of a particular group, usually by questioning a representative, random sample  of the group.",
     "de_title": "Umfrage",
-    "de_content": "eine deskriptive Technik, um die selbstberichteten Einstellungen oder Verhaltensweisen einer bestimmten Gruppe zu erfassen, in der Regel durch Befragung einer repräsentativen Zufallsstichprobe der Gruppe."
+    "de_content": "Eine beschreibende Technik zur Ermittlung der selbstberichteten Einstellungen oder Verhaltensweisen einer bestimmten Gruppe, üblicherweise durch Befragung einer repräsentativen Zufallsstichprobe der Gruppe."
   },
   {
-    "id": 0,
+    "id": 41,
     "title": "random sample",
     "content": "a sample that fairly represents a population because each member has an equal chance of inclusion.",
     "de_title": "Stichprobe",
-    "de_content": "eine Stichprobe, die eine Grundgesamtheit angemessen repräsentiert, da jedes Mitglied die gleiche Chance hat, einbezogen zu werden."
+    "de_content": "eine Stichprobe, die eine Grundgesamtheit angemessen repräsentiert, da jedes Mitglied die gleiche Chance auf Aufnahme hat."
   },
   {
-    "id": 0,
+    "id": 42,
     "title": "population",
     "content": "all those in a group being studied, from which random samples may be drawn. (Note:  Except for national studies, this does not  refer to a country’s whole population.)",
     "de_title": "Bevölkerung",
-    "de_content": "alle Personen einer untersuchten Gruppe, aus der Zufallsstichproben gezogen werden können. (Anmerkung: Außer bei nationalen Studien bezieht sich dies nicht auf die gesamte Bevölkerung eines Landes)."
+    "de_content": "alle Personen einer untersuchten Gruppe, aus denen Zufallsstichproben gezogen werden können. (Hinweis: Mit Ausnahme nationaler Studien bezieht sich dies nicht auf die Gesamtbevölkerung eines Landes.)"
   },
   {
-    "id": 0,
+    "id": 43,
     "title": "correlation",
     "content": "a measure of the extent to which two factors vary together, and thus of how well either factor predicts the other.",
     "de_title": "Korrelation",
-    "de_content": "ein Maß für das Ausmaß, in dem zwei Faktoren zusammen variieren, und somit dafür, wie gut ein Faktor den anderen vorhersagt."
+    "de_content": "ein Maß für das Ausmaß, in dem zwei Faktoren gemeinsam variieren, und damit dafür, wie gut einer der beiden Faktoren den anderen vorhersagt."
   },
   {
-    "id": 0,
+    "id": 44,
     "title": "correlation coefficient",
     "content": "a statistical index of the relationship between two things (from −1.00 to +1.00).",
     "de_title": "Korrelationskoeffizient",
-    "de_content": "ein statistischer Index für die Beziehung zwischen zwei Dingen (von -1,00 bis +1,00)."
+    "de_content": "ein statistischer Index der Beziehung zwischen zwei Dingen (von –1,00 bis +1,00)."
   },
   {
-    "id": 0,
+    "id": 45,
     "title": "variable",
     "content": "anything that can vary and is feasible and ethical to measure.",
     "de_title": "variabel",
-    "de_content": "alles, was variieren kann und was machbar und ethisch vertretbar zu messen ist."
+    "de_content": "alles, was variieren kann und machbar und ethisch zu messen ist."
   },
   {
-    "id": 0,
+    "id": 46,
     "title": "scatterplot",
     "content": "a graphed cluster of dots, each of which represents the values of two variables. The slope of the points suggests the direction of the relationship between the two variables. The amount of scatter suggests the strength of the correlation (little scatter indicates high correlation).",
     "de_title": "Streudiagramm",
-    "de_content": "ein grafisch dargestelltes Cluster von Punkten, die jeweils die Werte von zwei Variablen darstellen. Die Neigung der Punkte zeigt die Richtung der Beziehung zwischen den beiden Variablen an. Das Ausmaß der Streuung deutet auf die Stärke der Korrelation hin (geringe Streuung bedeutet hohe Korrelation)."
+    "de_content": "eine grafische Ansammlung von Punkten, von denen jeder die Werte von zwei Variablen darstellt. Die Steigung der Punkte gibt Aufschluss über die Richtung der Beziehung zwischen den beiden Variablen. Das Ausmaß der Streuung deutet auf die Stärke der Korrelation hin (eine geringe Streuung weist auf eine hohe Korrelation hin)."
   },
   {
-    "id": 0,
+    "id": 47,
     "title": "illusory correlation",
     "content": "perceiving a relationship where none exists, or perceiving a stronger-than-actual relationship.",
     "de_title": "Scheinkorrelation",
-    "de_content": "eine Beziehung wahrzunehmen, wo keine besteht, oder eine Beziehung wahrzunehmen, die stärker ist als die tatsächliche."
+    "de_content": "eine Beziehung wahrnehmen, wo keine existiert, oder eine stärkere als tatsächliche Beziehung wahrnehmen."
   },
   {
-    "id": 0,
+    "id": 48,
     "title": "regression toward the mean",
     "content": "the tendency for extreme or unusual scores or events to fall back (regress) toward the average.",
     "de_title": "Regression zum Mittelwert",
-    "de_content": "die Tendenz, dass extreme oder ungewöhnliche Werte oder Ereignisse auf den Durchschnitt zurückfallen (regressieren)."
+    "de_content": "die Tendenz, dass extreme oder ungewöhnliche Werte oder Ereignisse in Richtung des Durchschnitts zurückfallen (Regression)."
   },
   {
-    "id": 0,
+    "id": 49,
     "title": "experiment",
     "content": "a research method in which an investigator manipulates one or more factors (independent variables) to observe the effect on some behavior or mental process (the dependent variable). By random assignment  of participants, the experimenter aims to control other relevant factors.",
     "de_title": "Experiment",
-    "de_content": "eine Forschungsmethode, bei der ein Versuchsleiter einen oder mehrere Faktoren (unabhängige Variablen) manipuliert, um die Auswirkungen auf ein bestimmtes Verhalten oder einen mentalen Prozess (die abhängige Variable) zu beobachten. Durch die zufällige Zuteilung der Teilnehmer versucht der Versuchsleiter, andere relevante Faktoren zu kontrollieren."
+    "de_content": "eine Forschungsmethode, bei der ein Forscher einen oder mehrere Faktoren (unabhängige Variablen) manipuliert, um die Auswirkung auf ein Verhalten oder einen mentalen Prozess (die abhängige Variable) zu beobachten. Durch die zufällige Zuteilung der Teilnehmer versucht der Experimentator, andere relevante Faktoren zu kontrollieren."
   },
   {
-    "id": 0,
+    "id": 50,
     "title": "experimental group",
     "content": "in an experiment, the group exposed to the treatment, that is, to one version of the independent variable.",
     "de_title": "Versuchsgruppe",
-    "de_content": "in einem Experiment die Gruppe, die der Behandlung, d. h. einer Version der unabhängigen Variablen, ausgesetzt ist."
+    "de_content": "In einem Experiment wurde die Gruppe der Behandlung, also einer Version der unabhängigen Variablen, ausgesetzt."
   },
   {
-    "id": 0,
+    "id": 51,
     "title": "control group",
     "content": "in an experiment, the group not  exposed to the treatment; contrasts with the experimental group and serves as a comparison for evaluating the effect of the treatment.",
     "de_title": "Kontrollgruppe",
     "de_content": "in einem Experiment die Gruppe, die nicht der Behandlung ausgesetzt ist; sie steht im Gegensatz zur Versuchsgruppe und dient als Vergleich für die Bewertung der Wirkung der Behandlung."
   },
   {
-    "id": 0,
+    "id": 52,
     "title": "random assignment",
     "content": "assigning participants to experimental and control groups by chance, thus minimizing preexisting differences between the different groups.",
     "de_title": "zufällige Zuordnung",
-    "de_content": "die zufällige Zuordnung der Teilnehmer zu den Versuchs- und Kontrollgruppen, um bereits bestehende Unterschiede zwischen den verschiedenen Gruppen zu minimieren."
+    "de_content": "Zufällige Zuordnung der Teilnehmer zu Versuchs- und Kontrollgruppen, wodurch bereits bestehende Unterschiede zwischen den verschiedenen Gruppen minimiert werden."
   },
   {
-    "id": 0,
+    "id": 53,
     "title": "double-blind procedure",
     "content": "an experimental procedure in which both the research participants and the research staff are ignorant (blind) about whether the research participants have received the treatment or a placebo. Commonly used in drug-evaluationstudies.",
     "de_title": "Doppelblindverfahren",
-    "de_content": "ein experimentelles Verfahren, bei dem sowohl die Versuchsteilnehmer als auch das Forschungspersonal nicht wissen (blind), ob die Versuchsteilnehmer die Behandlung oder ein Placebo erhalten haben. Wird häufig in Studien zur Bewertung von Arzneimitteln verwendet."
+    "de_content": "ein experimentelles Verfahren, bei dem sowohl die Forschungsteilnehmer als auch das Forschungspersonal nicht wissen (blind), ob die Forschungsteilnehmer die Behandlung oder ein Placebo erhalten haben. Wird häufig in Arzneimittelbewertungsstudien verwendet."
   },
   {
-    "id": 0,
-    "title": "'placebo [pluh-see-bo] effect' NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 54,
+    "title": "placebo [pluh-SEE-bo; Latin for “I shall please”] effect",
+    "content": "experimental results caused by expectations alone; any effect on behavior caused by the administration of an inert substance or condition, which the recipient assumes is an active agent.",
+    "de_title": "Placebo [pluh-SEE-bo] Wirkung",
+    "de_content": "experimentelle Ergebnisse, die allein durch Erwartungen verursacht werden; jede Auswirkung auf das Verhalten, die durch die Verabreichung einer inerten Substanz oder eines Zustands verursacht wird, von dem der Empfänger annimmt, dass es sich um einen Wirkstoff handelt."
   },
   {
-    "id": 0,
+    "id": 55,
     "title": "independent variable",
     "content": "in an experiment, the factor that is manipulated; the variable whose effect is being studied.",
     "de_title": "unabhängige Variable",
-    "de_content": "In einem Experiment der Faktor, der manipuliert wird; die Variable, deren Wirkung untersucht wird."
+    "de_content": "in einem Experiment der manipulierte Faktor; die Variable, deren Wirkung untersucht wird."
   },
   {
-    "id": 0,
+    "id": 56,
     "title": "confounding variable",
     "content": "in an experiment, a factor other than the factor being studied that might influence a study’s results.",
     "de_title": "Störvariable",
     "de_content": "in einem Experiment ein anderer Faktor als der untersuchte Faktor, der die Ergebnisse einer Studie beeinflussen könnte."
   },
   {
-    "id": 0,
+    "id": 57,
     "title": "dependent variable",
     "content": "in an experiment, the outcome that is measured; the variable that may change when the independent variable is manipulated.",
     "de_title": "abhängige Variable",
-    "de_content": "in einem Experiment das Ergebnis, das gemessen wird; die Variable, die sich ändern kann, wenn die unabhängige Variable manipuliert wird."
+    "de_content": "in einem Experiment das gemessene Ergebnis; die Variable, die sich ändern kann, wenn die unabhängige Variable manipuliert wird."
   },
   {
-    "id": 0,
+    "id": 58,
     "title": "informed consent",
     "content": "giving potential participants enough information about a study to enable them to choose whether they wish to participate.",
-    "de_title": "Zustimmung nach Inkenntnissetzung",
-    "de_content": "den potenziellen Teilnehmern genügend Informationen über eine Studie zu geben, damit sie selbst entscheiden können, ob sie teilnehmen möchten."
+    "de_title": "Einverständniserklärung",
+    "de_content": "Geben Sie potenziellen Teilnehmern genügend Informationen über eine Studie, damit sie entscheiden können, ob sie teilnehmen möchten."
   },
   {
-    "id": 0,
+    "id": 59,
     "title": "debriefing",
     "content": "the postexperimental explanation of a study, including its purpose and any deceptions, to its participants.",
     "de_title": "Nachbesprechung",
-    "de_content": "die postexperimentelle Erklärung einer Studie, einschließlich ihres Zwecks und etwaiger Täuschungen, gegenüber ihren Teilnehmern."
+    "de_content": "die postexperimentelle Erklärung einer Studie, einschließlich ihres Zwecks und etwaiger Täuschungen, an ihre Teilnehmer."
   },
   {
-    "id": 0,
+    "id": 60,
+    "title": "Chapter 1 - 2:",
+    "content": "Statistical Reasoning in Everyday Life",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 62,
     "title": "mode",
     "content": "the most frequently occurring score(s) in a distribution.",
     "de_title": "Modus",
-    "de_content": "die am häufigsten vorkommende(n) Punktzahl(en) in einer Verteilung."
+    "de_content": "die am häufigsten vorkommenden Werte in einer Verteilung."
   },
   {
-    "id": 0,
+    "id": 63,
     "title": "mean",
     "content": "the arithmetic average of a distribution, obtained by adding the scores and then dividing by the number of scores.",
     "de_title": "mittlere",
-    "de_content": "das arithmetische Mittel einer Verteilung, das durch Addition der Werte und anschließende Division durch die Anzahl der Werte gebildet wird."
+    "de_content": "das arithmetische Mittel einer Verteilung, das durch Addition der Bewertungen und anschließende Division durch die Anzahl der Bewertungen erhalten wird."
   },
   {
-    "id": 0,
+    "id": 64,
     "title": "median",
     "content": "the middle score in a distribution; half the scores are above it and half are below it.",
     "de_title": "Median",
-    "de_content": "der mittlere Wert in einer Verteilung; die Hälfte der Werte liegt darüber und die Hälfte darunter."
+    "de_content": "die mittlere Punktzahl in einer Verteilung; Die Hälfte der Werte liegt darüber und die andere Hälfte darunter."
   },
   {
-    "id": 0,
+    "id": 65,
     "title": "range",
     "content": "the difference between the highest and lowest scores in a distribution.",
     "de_title": "Bereich",
-    "de_content": "die Differenz zwischen der höchsten und der niedrigsten Punktzahl in einer Verteilung."
+    "de_content": "die Differenz zwischen den höchsten und niedrigsten Werten in einer Verteilung."
   },
   {
-    "id": 0,
+    "id": 66,
     "title": "standard deviation",
     "content": "a computed measure of how much scores vary around the mean score.",
     "de_title": "Standardabweichung",
-    "de_content": "ein rechnerisches Maß dafür, wie stark die Ergebnisse um den Mittelwert schwanken."
+    "de_content": "ein berechnetes Maß dafür, wie stark die Werte um den Mittelwert schwanken."
   },
   {
-    "id": 0,
+    "id": 67,
     "title": "normal curve",
     "content": "a symmetrical, bell-shaped curve that describes the distribution of many types of data; most scores fall near the mean (about 68 percent fall within one standard deviation of it) and fewer and fewer near the extremes. (Also called a normal distribution. )",
     "de_title": "normale Kurve",
-    "de_content": "eine symmetrische, glockenförmige Kurve, die die Verteilung vieler Arten von Daten beschreibt; die meisten Werte liegen in der Nähe des Mittelwerts (etwa 68 % liegen innerhalb einer Standardabweichung davon) und immer weniger in der Nähe der Extreme. (Auch Normalverteilung genannt.)"
+    "de_content": "eine symmetrische, glockenförmige Kurve, die die Verteilung vieler Datentypen beschreibt; Die meisten Werte liegen in der Nähe des Mittelwerts (etwa 68 Prozent liegen innerhalb einer Standardabweichung davon) und immer weniger in der Nähe der Extremwerte. (Auch Normalverteilung genannt.)"
   },
   {
-    "id": 0,
+    "id": 68,
     "title": "statistical significance",
     "content": "a statistical statement of how likely it is that an obtained result occurred by chance.",
     "de_title": "statistische Signifikanz",
-    "de_content": "eine statistische Aussage darüber, wie wahrscheinlich es ist, dass ein bestimmtes Ergebnis zufällig zustande gekommen ist."
+    "de_content": "eine statistische Aussage darüber, wie wahrscheinlich es ist, dass ein erzieltes Ergebnis zufällig zustande gekommen ist."
   },
   {
-    "id": 0,
+    "id": 69,
     "title": "CHAPTER 2: The Biology of Mind",
-    "content": "-",
+    "content": "Neural and Hormonal Systems",
     "de_title": "-",
     "de_content": "-"
   },

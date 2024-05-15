@@ -3,11 +3,11 @@ import items from "@/app/lib/new_test.json";
 
 export default async function Content() {
   
-  const content_container_styles = 'flex flex-col justify-center max-w-[80%] items-start  border-zinc-100/20 border-[1px] rounded-md mb-2 py-5 px-4 ';
+  const content_container_styles = 'flex flex-col justify-center max-w-[80%] md:w-full items-start  border-zinc-100/20 border-[1px] rounded-md mb-2 py-5 px-4 ';
   const content_styles = 'flex flex-col md:flex-row md:justify-center items-center w-full gap-5 md:gap-2 list-none mt-5';
 
-  const chapter_container_styles = 'flex flex-col justify-center items-center my-5 ';
-  const chapter_styles = 'text-md opacity-70 font-light'
+  const chapter_container_styles = 'flex flex-col justify-center items-center mb-5 mt-14';
+  const chapter_styles = 'text-md opacity-70 font-light max-w-[390px] flex justify-center text-center'
   const chapter_number_styles = 'text-white opacity-100 text-lg font-semibold'
 
   const title_style = 'font-medium mb-2 text-md md:text-xl'
@@ -26,9 +26,10 @@ export default async function Content() {
         items.map((item) => (
           item.title.toLocaleLowerCase().includes(test_text) ? (
             <div key={item.id} className={`${chapter_container_styles}`}>
-              <p className={chapter_number_styles}>{item.title}</p>
+              {item.title.toLocaleLowerCase().includes("-") ? (""): (<p className={chapter_number_styles}>{item.title}</p>)}
               <h4 className={chapter_styles}>
                 {item.content}</h4>
+              <div className='h-[1px] w-[300px] mt-2 bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%'></div>
             </div>
           ) : (
             <div key={item.id} id="card" className={content_container_styles}>
