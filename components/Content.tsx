@@ -25,7 +25,7 @@ export default async function Content() {
       {
         items.map((item) => (
           item.title.toLocaleLowerCase().includes(test_text) ? (
-            <div key={item.id} className={`${chapter_container_styles}`}>
+            <div key={item.id} id={item.title} className={`${chapter_container_styles}`}>
               {item.title.toLocaleLowerCase().includes("-") ? (""): (<p className={chapter_number_styles}>{item.title}</p>)}
               <h4 className={chapter_styles}>
                 {item.content}</h4>

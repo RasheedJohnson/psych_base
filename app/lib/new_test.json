@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "CHAPTER 0",
+    "title": "CHAPTER 0: Prologue",
     "content": "What Is Psychology?",
     "de_title": "-",
     "de_content": "-"
@@ -455,207 +455,207 @@
     "de_content": "-"
   },
   {
-    "id": 0,
+    "id": 71,
     "title": "biological psychology",
     "content": "the scientific study of the links between biological (genetic, neural, hormonal) and psychological processes. Some biological psychologists call themselves behavioral neuroscientists, neuropsychologists, behavior geneticists, physiological psychologists,  or biopsychologists.",
     "de_title": "biologische Psychologie",
-    "de_content": "die wissenschaftliche Untersuchung der Verbindungen zwischen biologischen (genetischen, neuronalen, hormonellen) und psychologischen Prozessen. Einige biologische Psychologen nennen sich Verhaltensneurowissenschaftler, Neuropsychologen, Verhaltensgenetiker, physiologische Psychologen oder Biopsychologen."
+    "de_content": "die wissenschaftliche Untersuchung der Zusammenhänge zwischen biologischen (genetischen, neuronalen, hormonellen) und psychologischen Prozessen. Einige biologische Psychologen bezeichnen sich selbst als Verhaltensneurowissenschaftler, Neuropsychologen, Verhaltensgenetiker, physiologische Psychologen oder Biopsychologen."
   },
   {
-    "id": 0,
+    "id": 72,
     "title": "neuroplasticity",
     "content": "the brain’s ability to change, especially during childhood, by reorganizing after damage or by building new pathways based on experience.",
     "de_title": "Neuroplastizität",
-    "de_content": "die Fähigkeit des Gehirns, sich vor allem in der Kindheit zu verändern, indem es sich nach einer Schädigung reorganisiert oder auf der Grundlage von Erfahrungen neue Bahnen bildet."
+    "de_content": "die Fähigkeit des Gehirns, sich zu verändern, insbesondere im Kindesalter, indem es sich nach einer Schädigung neu organisiert oder auf der Grundlage von Erfahrungen neue Bahnen aufbaut."
   },
   {
-    "id": 0,
+    "id": 73,
     "title": "neuron",
     "content": "a nerve cell; the basic building block of the nervous system.",
     "de_title": "Neuron",
     "de_content": "eine Nervenzelle; der Grundbaustein des Nervensystems."
   },
   {
-    "id": 0,
+    "id": 74,
     "title": "cell body",
     "content": "the part of a neuron that contains the nucleus; the cell’s life-support center.",
     "de_title": "Zellkörper",
-    "de_content": "der Teil eines Neurons, der den Zellkern enthält; das Lebenszentrum der Zelle."
+    "de_content": "der Teil eines Neurons, der den Kern enthält; das lebenserhaltende Zentrum der Zelle."
   },
   {
-    "id": 0,
+    "id": 75,
     "title": "dendrites",
     "content": "a neuron’s often bushy, branching extensions that receive and integrate messages, conducting impulses toward the cell body.",
     "de_title": "Dendriten",
-    "de_content": "die oft buschigen, verzweigten Fortsätze eines Neurons, die Nachrichten empfangen und integrieren und Impulse zum Zellkörper leiten."
+    "de_content": "die oft buschigen, verzweigten Fortsätze eines Neurons, die Nachrichten empfangen und integrieren und Impulse an den Zellkörper weiterleiten."
   },
   {
-    "id": 0,
+    "id": 76,
     "title": "axon",
     "content": "the segmented neuron extension that passes messages through its branches to other neurons or to muscles or glands.",
     "de_title": "Axon",
-    "de_content": "der segmentierte Neuronenfortsatz, der über seine Verzweigungen Nachrichten an andere Neuronen oder an Muskeln oder Drüsen weiterleitet."
+    "de_content": "die segmentierte Neuronenverlängerung, die über ihre Zweige Nachrichten an andere Neuronen oder an Muskeln oder Drüsen weiterleitet."
   },
   {
-    "id": 0,
+    "id": 77,
     "title": "myelin [MY-uh-lin] sheath",
     "content": "a fatty tissue layer segmentally encasing the axons of some neurons; enables vastly greater transmission speed as neural impulses hop from one node to the next.",
     "de_title": "Myelin [MY-uh-lin]-Hülle",
-    "de_content": "eine Fettgewebeschicht, die die Axone einiger Neuronen segmental umhüllt; ermöglicht eine wesentlich höhere Übertragungsgeschwindigkeit, wenn Nervenimpulse von einem Knotenpunkt zum nächsten springen."
+    "de_content": "eine Fettgewebsschicht, die die Axone einiger Neuronen segmentweise umhüllt; ermöglicht eine wesentlich höhere Übertragungsgeschwindigkeit, da neuronale Impulse von einem Knoten zum nächsten springen."
   },
   {
-    "id": 0,
+    "id": 78,
     "title": "glial cells (glia)",
     "content": "cells in the nervous system that support, nourish, and protect neurons; they also play a role in learning, thinking, and memory.",
     "de_title": "Gliazellen (Glia)",
-    "de_content": "Zellen im Nervensystem, die Neuronen unterstützen, ernähren und schützen; sie spielen auch eine Rolle beim Lernen, Denken und Gedächtnis."
+    "de_content": "Zellen im Nervensystem, die Neuronen unterstützen, nähren und schützen; Sie spielen auch eine Rolle beim Lernen, Denken und Gedächtnis."
   },
   {
-    "id": 0,
+    "id": 79,
     "title": "action potential",
     "content": "a neural impulse; a brief electrical charge that travels down an axon.",
     "de_title": "Aktionspotenzial",
-    "de_content": "ein Nervenimpuls; eine kurze elektrische Ladung, die ein Axon entlang wandert."
+    "de_content": "ein neuronaler Impuls; eine kurze elektrische Ladung, die durch ein Axon wandert."
   },
   {
-    "id": 0,
+    "id": 81,
     "title": "threshold",
     "content": "the level of stimulation required to trigger a neural impulse.",
     "de_title": "Schwellenwert",
-    "de_content": "der Grad der Stimulation, der erforderlich ist, um einen neuronalen Impuls auszulösen."
+    "de_content": "das Ausmaß der Stimulation, das erforderlich ist, um einen Nervenimpuls auszulösen."
   },
   {
-    "id": 0,
+    "id": 82,
     "title": "refractory period",
     "content": "(1) in neural processing, a brief resting pause that occurs after a neuron has fired; subsequent action potentials cannot occur until the axon returns to its resting state. (2) in human sexuality, a resting period that occurs after orgasm, during which a person cannot achieve another orgasm.",
     "de_title": "Refraktärzeit",
-    "de_content": "(1) in der neuronalen Verarbeitung eine kurze Ruhepause, die eintritt, nachdem ein Neuron gefeuert hat; nachfolgende Aktionspotentiale können nicht auftreten, bis das Axon in seinen Ruhezustand zurückkehrt. (2) in der menschlichen Sexualität eine Ruhephase, die nach einem Orgasmus eintritt und während der eine Person keinen weiteren Orgasmus erreichen kann."
+    "de_content": "(1) bei der neuronalen Verarbeitung eine kurze Ruhepause, die auftritt, nachdem ein Neuron gefeuert hat; Nachfolgende Aktionspotentiale können erst auftreten, wenn das Axon in seinen Ruhezustand zurückkehrt. (2) In der menschlichen Sexualität eine Ruhephase nach dem Orgasmus, in der eine Person keinen weiteren Orgasmus erreichen kann."
   },
   {
-    "id": 0,
+    "id": 83,
     "title": "all-or-none response",
     "content": "a neuron’s reaction of either firing (with a full-strength response) or not firing.",
     "de_title": "Alles-oder-nichts-Antwort",
-    "de_content": "die Reaktion eines Neurons, entweder zu feuern (mit einer Reaktion voller Stärke) oder nicht zu feuern."
+    "de_content": "Die Reaktion eines Neurons, entweder zu feuern (mit einer Reaktion voller Stärke) oder nicht zu feuern."
   },
   {
-    "id": 0,
-    "title": "synapse [sin-aps] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 84,
+    "title": "synapse [SIN-aps]",
+    "content": "the junction between the axon tip of the sending neuron and the dendrite or cell body of the receiving neuron. The tiny gap at this junction is called the synaptic gap (or synaptic cleft)",
+    "de_title": "Synapse [SIN-aps]",
+    "de_content": "die Verbindung zwischen der Axonspitze des sendenden Neurons und dem Dendriten oder Zellkörper des empfangenden Neurons. Der winzige Spalt an dieser Verbindung wird synaptischer Spalt (oder synaptischer Spalt) genannt."
   },
   {
-    "id": 0,
+    "id": 85,
     "title": "neurotransmitters",
     "content": "chemical messengers that cross the synaptic gap between neurons. When released by the sending neuron, neurotransmitters travel across the synapse and bind to receptor sites on the receiving neuron, thereby influencing whether that neuron will generate a neural impulse.",
     "de_title": "Neurotransmitter",
-    "de_content": "chemische Botenstoffe, die den synaptischen Spalt zwischen den Neuronen überqueren. Wenn sie vom sendenden Neuron freigesetzt werden, wandern die Neurotransmitter über die Synapse und binden sich an Rezeptorstellen auf dem empfangenden Neuron, wodurch sie beeinflussen, ob dieses Neuron einen Nervenimpuls erzeugt."
+    "de_content": "chemische Botenstoffe, die die synaptische Lücke zwischen Neuronen überwinden. Wenn sie vom sendenden Neuron freigesetzt werden, wandern Neurotransmitter durch die Synapse und binden an Rezeptorstellen am empfangenden Neuron und beeinflussen so, ob dieses Neuron einen Nervenimpuls erzeugt."
   },
   {
-    "id": 0,
+    "id": 86,
     "title": "reuptake",
     "content": "a neurotransmitter’s reabsorption by the sending neuron.",
     "de_title": "Wiederaufnahme",
     "de_content": "die Rückresorption eines Neurotransmitters durch das sendende Neuron."
   },
   {
-    "id": 0,
-    "title": "endorphins [en-dor-fins] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 87,
+    "title": "endorphins [en-DOR-fins]",
+    "content": "“morphine within”—natural, opiate-like neurotransmitters linked to pain control and to pleasure.",
+    "de_title": "Endorphine [en-DOR-flossen]",
+    "de_content": "„Morphin im Inneren“ – natürliche, opiatähnliche Neurotransmitter, die mit der Schmerzkontrolle und dem Vergnügen verbunden sind."
   },
   {
-    "id": 0,
+    "id": 88,
     "title": "agonist",
     "content": "a molecule that increases a neurotransmitter’s action.",
     "de_title": "Agonist",
     "de_content": "ein Molekül, das die Wirkung eines Neurotransmitters verstärkt."
   },
   {
-    "id": 0,
+    "id": 89,
     "title": "antagonist",
     "content": "a molecule that inhibits or blocks a neurotransmitter’s action.",
     "de_title": "Antagonist",
     "de_content": "ein Molekül, das die Wirkung eines Neurotransmitters hemmt oder blockiert."
   },
   {
-    "id": 0,
+    "id": 90,
     "title": "nervous system",
     "content": "the body’s speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems.",
     "de_title": "Nervensystem",
-    "de_content": "das schnelle, elektrochemische Kommunikationsnetz des Körpers, das aus allen Nervenzellen des peripheren und zentralen Nervensystems besteht."
-  },
+    "de_content": "das schnelle, elektrochemische Kommunikationsnetzwerk des Körpers, bestehend aus allen Nervenzellen des peripheren und zentralen Nervensystems."
+  },  
   {
-    "id": 0,
+    "id": 101,
     "title": "central nervous system (CNS)",
     "content": "the brain and spinal cord.",
     "de_title": "Zentrales Nervensystem (ZNS)",
     "de_content": "das Gehirn und das Rückenmark."
   },
   {
-    "id": 0,
+    "id": 102,
     "title": "peripheral nervous system (PNS)",
     "content": "the sensory and motor neurons that connect the central nervous system (CNS) to the rest of the body.",
     "de_title": "peripheres Nervensystem (PNS)",
-    "de_content": "die sensorischen und motorischen Neuronen, die das zentrale Nervensystem (ZNS) mit dem Rest des Körpers verbinden."
+    "de_content": "die sensorischen und motorischen Neuronen, die das Zentralnervensystem (ZNS) mit dem Rest des Körpers verbinden."
   },
   {
-    "id": 0,
+    "id": 103,
     "title": "nerves",
     "content": "bundled axons that form neural cables connecting the central nervous system with muscles, glands, and sensory organs.",
     "de_title": "Nerven",
-    "de_content": "gebündelte Axone, die Nervenkabel bilden, die das zentrale Nervensystem mit Muskeln, Drüsen und Sinnesorganen verbinden."
+    "de_content": "gebündelte Axone, die Nervenkabel bilden, die das Zentralnervensystem mit Muskeln, Drüsen und Sinnesorganen verbinden."
   },
   {
-    "id": 0,
+    "id": 104,
     "title": "sensory (afferent) neurons",
     "content": "neurons that carry incoming information from the body’s tissues and sensory receptors to the brain and spinal cord.",
     "de_title": "sensorische (afferente) Neuronen",
-    "de_content": "Neuronen, die die von den Körpergeweben und Sinnesrezeptoren eingehenden Informationen an das Gehirn und das Rückenmark weiterleiten."
+    "de_content": "Neuronen, die eingehende Informationen aus den Geweben und Sinnesrezeptoren des Körpers an das Gehirn und das Rückenmark weiterleiten."
   },
   {
-    "id": 0,
+    "id": 105,
     "title": "motor (efferent) neurons",
     "content": "neurons that carry outgoing information from the brain and spinal cord to the muscles and glands.",
     "de_title": "motorische (efferente) Neuronen",
-    "de_content": "Neuronen, die ausgehende Informationen vom Gehirn und Rückenmark zu den Muskeln und Drüsen leiten."
+    "de_content": "Neuronen, die ausgehende Informationen vom Gehirn und Rückenmark zu den Muskeln und Drüsen weiterleiten."
   },
   {
-    "id": 0,
+    "id": 106,
     "title": "interneurons",
     "content": "neurons within the brain and spinal cord; they communicate internally and process information between the sensory inputs and motor outputs.",
     "de_title": "Interneuronen",
-    "de_content": "Neuronen im Gehirn und Rückenmark; sie kommunizieren intern und verarbeiten Informationen zwischen den sensorischen Eingängen und den motorischen Ausgängen."
+    "de_content": "Neuronen im Gehirn und Rückenmark; Sie kommunizieren intern und verarbeiten Informationen zwischen den sensorischen Eingaben und den motorischen Ausgaben."
   },
   {
-    "id": 0,
+    "id": 107,
     "title": "somatic nervous system",
     "content": "the division of the peripheral nervous system that controls the body’s skeletal muscles. Also called the skeletal nervous system.",
     "de_title": "somatisches Nervensystem",
-    "de_content": "die Abteilung des peripheren Nervensystems, die die Skelettmuskeln des Körpers steuert. Wird auch als Skelettnervensystem bezeichnet."
+    "de_content": "der Teil des peripheren Nervensystems, der die Skelettmuskulatur des Körpers steuert. Auch Skelettnervensystem genannt."
   },
   {
-    "id": 0,
+    "id": 108,
     "title": "autonomic [aw-tuh-NAHM-ik] nervous system (ANS)",
     "content": "the part of the peripheral nervous system that controls the glands and the muscles of the internal organs (such as the heart). Its sympathetic  division arouses; its parasympathetic  division calms.",
-    "de_title": "autonomes [aw-tuh-NAHM-ik] Nervensystem (ANS)",
-    "de_content": "der Teil des peripheren Nervensystems, der die Drüsen und die Muskeln der inneren Organe (z. B. des Herzens) kontrolliert. Sein sympathischer Teil erregt, sein parasympathischer Teil beruhigt."
+    "de_title": "autonomes Nervensystem (ANS)",
+    "de_content": "der Teil des peripheren Nervensystems, der die Drüsen und Muskeln der inneren Organe (z. B. des Herzens) steuert. Seine sympathische Spaltung weckt; seine parasympathische Teilung beruhigt sich."
   },
   {
-    "id": 0,
+    "id": 109,
     "title": "sympathetic nervous system",
     "content": "the division of the autonomic nervous system that arouses the body, mobilizing its energy.",
     "de_title": "sympathisches Nervensystem",
-    "de_content": "die Abteilung des autonomen Nervensystems, die den Körper erregt und seine Energie mobilisiert."
+    "de_content": "die Teilung des autonomen Nervensystems, die den Körper erregt und seine Energie mobilisiert."
   },
   {
-    "id": 0,
+    "id": 110,
     "title": "parasympathetic nervous system",
     "content": "the division of the autonomic nervous system that calms the body, conserving its energy.",
     "de_title": "Parasympathikus",
-    "de_content": "die Abteilung des autonomen Nervensystems, die den Körper beruhigt und seine Energie bewahrt."
+    "de_content": "die Teilung des autonomen Nervensystems, die den Körper beruhigt und seine Energie bewahrt."
   },
   {
     "id": 0,
