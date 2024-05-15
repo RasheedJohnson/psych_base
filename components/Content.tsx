@@ -32,7 +32,7 @@ export default async function Content() {
           ) : (
             <div key={item.id} className={content_container_styles}>
               <div className={content_styles}>
-                <div className={info_style}>
+                <div className={`${info_style} max-w-full`}>
                   <p className={title_style}>
                     {item.title}</p>
                   <p className={desc_style}>
