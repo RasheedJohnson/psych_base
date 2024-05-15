@@ -13,8 +13,8 @@ const Navbar = () => {
       </div>
       <div className='flex flex-row gap-5 font-light'>
         {
-          navItems.map((item) => (
-            <Link className='hover:text-blue-300 hover:scale-[105%] hover:font-semibold' href={"#" + item}>{item.slice(0,2).toLowerCase() + item.slice(7,9)}</Link>
+          navItems.map((item, index) => (
+            <Link key={index} className='hover:text-blue-300 hover:scale-[105%] hover:font-semibold' href={`#${item}`}>{item.slice(0,2).toLowerCase() + item.slice(7,9)}</Link>
           ))
         }
       </div>
