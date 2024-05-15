@@ -4,7 +4,7 @@ import items from "@/app/lib/new_test.json";
 export default async function Content() {
   
   const content_container_styles = 'flex flex-col justify-center items-center';
-  const content_styles = 'flex flex-row justify-center items-start gap-5 list-none z-10 m-5';
+  const content_styles = 'flex flex-row justify-center items-start gap-2 list-none z-10 m-5';
 
   const chapter_container_styles = 'flex flex-col justify-center items-center mt-5 ';
   const chapter_styles = 'text-md opacity-70 font-light'
@@ -13,7 +13,7 @@ export default async function Content() {
   const title_style = 'font-medium mb-5 text-md md:text-xl'
   const desc_style = 'font-light opacity-75 text-xs md:text-md'
 
-  const info_style = 'flex flex-col w-[200px] md:w-[300px] lg:w-[450px] xl:w-[600px] p-6 border-slate-300/5 hover:scale-[105%] transition-all'
+  const info_style = 'flex flex-col w-[200px] md:w-[300px] lg:w-[450px] xl:w-[600px] border-slate-300/5 hover:scale-[105%] transition-all'
   const horizontal_divider = 'w-[100px] md:w-[500px] lg:w-[800px] xl:w-[1200px] h-[1px] bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%';
   const len_match = 4;
 
