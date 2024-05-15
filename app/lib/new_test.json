@@ -658,226 +658,226 @@
     "de_content": "die Teilung des autonomen Nervensystems, die den Körper beruhigt und seine Energie bewahrt."
   },
   {
-    "id": 0,
+    "id": 111,
     "title": "reflex",
     "content": "a simple, automatic response to a sensory stimulus, such as the knee-jerk reflex.",
     "de_title": "reflex",
-    "de_content": "eine einfache, automatische Reaktion auf einen Sinnesreiz, wie z. B. der Knieschluckreflex."
+    "de_content": "eine einfache, automatische Reaktion auf einen Sinnesreiz, beispielsweise den Knie-Ruck-Reflex."
   },
   {
-    "id": 0,
+    "id": 112,
     "title": "endocrine [EN-duh-krin] system",
     "content": "the body’s “slow” chemical communication system; glands and fat tissue that secrete hormones into the bloodstream.",
-    "de_title": "endokrines [EN-duh-krin] System",
-    "de_content": "das 'langsame' chemische Kommunikationssystem des Körpers; Drüsen und Fettgewebe, die Hormone in den Blutkreislauf absondern."
+    "de_title": "endokrines System",
+    "de_content": "das „langsame“ chemische Kommunikationssystem des Körpers; Drüsen und Fettgewebe, die Hormone in den Blutkreislauf abgeben."
   },
   {
-    "id": 0,
+    "id": 113,
     "title": "hormones",
     "content": "chemical messengers that are manufactured by the endocrine glands, travel through the bloodstream, and affect other tissues.",
     "de_title": "Hormone",
-    "de_content": "chemische Botenstoffe, die von den endokrinen Drüsen hergestellt werden, durch den Blutkreislauf wandern und andere Gewebe beeinflussen."
+    "de_content": "chemische Botenstoffe, die von den endokrinen Drüsen produziert werden, durch den Blutkreislauf wandern und andere Gewebe beeinflussen."
   },
   {
-    "id": 0,
+    "id": 114,
     "title": "adrenal [ah-DREEN-el] glands",
     "content": "a pair of endocrine glands that sits just above the kidneys and secretes hormones (epinephrine and norepinephrine) that help arouse the body in times of stress.",
-    "de_title": "Nebennieren [ah-DREEN-el] Drüsen",
-    "de_content": "ein Paar endokriner Drüsen, das direkt über den Nieren sitzt und Hormone (Epinephrin und Norepinephrin) ausschüttet, die den Körper in Stresssituationen erregen."
+    "de_title": "Nebennieren Drüsen",
+    "de_content": "ein Paar endokriner Drüsen, die direkt über den Nieren sitzen und Hormone (Epinephrin und Noradrenalin) absondern, die dabei helfen, den Körper in Zeiten von Stress zu aktivieren."
   },
   {
-    "id": 0,
+    "id": 115,
     "title": "pituitary gland",
     "content": "the endocrine system’s most influential gland. Under the influence of the hypothalamus, the pituitary regulates growth and controls other endocrine glands.",
     "de_title": "Hirnanhangsdrüse",
     "de_content": "die einflussreichste Drüse des endokrinen Systems. Unter dem Einfluss des Hypothalamus reguliert die Hypophyse das Wachstum und steuert andere endokrine Drüsen."
   },
   {
-    "id": 0,
+    "id": 116,
     "title": "lesion [LEE-zhuhn]",
     "content": "tissue destruction. A brain lesion is a naturally or experimentally caused destruction of brain tissue.",
-    "de_title": "Läsion [LEE-zhuhn]",
+    "de_title": "Läsion",
     "de_content": "Gewebezerstörung. Eine Hirnläsion ist eine natürlich oder experimentell verursachte Zerstörung von Hirngewebe."
   },
   {
-    "id": 0,
+    "id": 117,
     "title": "EEG (electroencephalogram)",
     "content": "an amplified recording of the waves of electrical activity sweeping across the brain’s surface. These waves are measured by electrodes placed on the scalp.",
     "de_title": "EEG (Elektroenzephalogramm)",
-    "de_content": "eine verstärkte Aufzeichnung der Wellen elektrischer Aktivität, die über die Gehirnoberfläche laufen. Diese Wellen werden durch Elektroden auf der Kopfhaut gemessen."
+    "de_content": "eine verstärkte Aufzeichnung der Wellen elektrischer Aktivität, die über die Gehirnoberfläche streichen. Diese Wellen werden durch Elektroden gemessen, die auf der Kopfhaut angebracht werden."
   },
   {
-    "id": 0,
+    "id": 118,
     "title": "magnetoencephalography (MEG)",
     "content": "a brain-imaging technique that measures magnetic fields from the brain’s natural electrical activity.",
     "de_title": "Magnetoenzephalographie (MEG)",
-    "de_content": "eine Technik zur Bildgebung des Gehirns, die Magnetfelder aus der natürlichen elektrischen Aktivität des Gehirns misst."
+    "de_content": "eine bildgebende Technik des Gehirns, die Magnetfelder anhand der natürlichen elektrischen Aktivität des Gehirns misst."
   },
   {
-    "id": 0,
+    "id": 119,
     "title": "PET (positron emission tomography)",
     "content": "a technique for detecting brain activity that displays where a radioactive form of glucose goes while the brain performs a given task.",
     "de_title": "PET (Positronen-Emissions-Tomographie)",
-    "de_content": "eine Technik zur Feststellung der Gehirnaktivität, die anzeigt, wohin sich eine radioaktive Form von Glukose bewegt, während das Gehirn eine bestimmte Aufgabe ausführt."
+    "de_content": "Eine Technik zur Erkennung der Gehirnaktivität, die anzeigt, wohin eine radioaktive Form von Glukose gelangt, während das Gehirn eine bestimmte Aufgabe ausführt."
   },
   {
-    "id": 0,
+    "id": 120,
     "title": "MRI (magnetic resonance imaging)",
     "content": "a technique that uses magnetic fields and radio waves to produce computer-generated images of soft tissue. MRI scans show brain anatomy.",
     "de_title": "MRI (Magnetresonanztomographie)",
-    "de_content": "eine Technik, die mit Hilfe von Magnetfeldern und Radiowellen computergenerierte Bilder von Weichgewebe erzeugt. MRT-Scans zeigen die Anatomie des Gehirns."
+    "de_content": "Eine Technik, die Magnetfelder und Radiowellen nutzt, um computergenerierte Bilder von Weichgewebe zu erzeugen. MRT-Scans zeigen die Anatomie des Gehirns."
   },
   {
-    "id": 0,
+    "id": 121,
     "title": "fMRI (functional MRI)",
     "content": "a technique for revealing blood flow and, therefore, brain activity by comparing successive MRI scans. fMRI scans show brain function as well as structure.",
     "de_title": "fMRI (funktionelles MRI)",
-    "de_content": "eine Technik, die den Blutfluss und damit die Gehirnaktivität durch den Vergleich aufeinander folgender MRT-Scans aufzeigt. fMRI-Scans zeigen sowohl die Gehirnfunktion als auch die Struktur."
+    "de_content": "eine Technik zur Aufdeckung des Blutflusses und damit der Gehirnaktivität durch den Vergleich aufeinanderfolgender MRT-Scans. fMRT-Scans zeigen sowohl die Funktion als auch die Struktur des Gehirns."
   },
   {
-    "id": 0,
+    "id": 122,
     "title": "brainstem",
     "content": "the oldest part and central core of the brain, beginning where the spinal cord swells as it enters the skull; the brainstem is responsible for automatic survival functions.",
     "de_title": "Hirnstamm",
-    "de_content": "der älteste Teil und zentrale Kern des Gehirns, der dort beginnt, wo das Rückenmark beim Eintritt in den Schädel anschwillt; der Hirnstamm ist für die automatischen Überlebensfunktionen zuständig."
+    "de_content": "der älteste Teil und zentrale Kern des Gehirns, der dort beginnt, wo das Rückenmark anschwillt, wenn es in den Schädel eintritt; Der Hirnstamm ist für automatische Überlebensfunktionen verantwortlich."
   },
   {
-    "id": 0,
+    "id": 123,
     "title": "medulla [muh-dul-uh] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "content": "the base of the brainstem; controls heartbeat and breathing",
+    "de_title": "Medulla [muh-DUL-uh]",
+    "de_content": "die Basis des Hirnstamms; steuert Herzschlag und Atmung"
   },
   {
-    "id": 0,
+    "id": 124,
     "title": "thalamus [thal-uh-muss] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "content": "the brain’s sensory control center, located on top of the brainstem; it directs messages to the sensory receiving areas in the cortex and transmits replies to the cerebellum and medulla",
+    "de_title": "Thalamus [THAL-uh-muss]",
+    "de_content": "das sensorische Kontrollzentrum des Gehirns, das sich oben auf dem Hirnstamm befindet; Es leitet Nachrichten an die sensorischen Empfangsbereiche im Kortex und übermittelt Antworten an das Kleinhirn und das Mark"
   },
   {
-    "id": 0,
+    "id": 125,
     "title": "reticular formation",
     "content": "a nerve network that travels through the brainstem into the thalamus; filters information and plays an important role in controlling arousal.",
     "de_title": "Retikularformation",
-    "de_content": "ein Nervennetz, das durch den Hirnstamm in den Thalamus verläuft; filtert Informationen und spielt eine wichtige Rolle bei der Erregungskontrolle."
+    "de_content": "ein Nervennetzwerk, das durch den Hirnstamm in den Thalamus wandert; filtert Informationen und spielt eine wichtige Rolle bei der Kontrolle der Erregung."
   },
   {
-    "id": 0,
+    "id": 126,
     "title": "cerebellum [sehr-uh-bell-um] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "content": "the “little brain” at the rear of the brainstem; functions include processing sensory input, coordinating movement output and balance, and enabling nonverbal learning and memory.",
+    "de_title": "Kleinhirn",
+    "de_content": "das „kleine Gehirn“ im hinteren Teil des Hirnstamms; Zu den Funktionen gehören die Verarbeitung sensorischer Eingaben, die Koordinierung der Bewegungsausgabe und des Gleichgewichts sowie die Ermöglichung von nonverbalem Lernen und Gedächtnis."
   },
   {
-    "id": 0,
+    "id": 127,
     "title": "limbic system",
     "content": "neural system (including the amygdala, hypothalamus,  and hippocampus ) located below the cerebral hemispheres; associated with emotions and drives.",
     "de_title": "limbisches System",
-    "de_content": "neuronales System (einschließlich Amygdala, Hypothalamus und Hippocampus), das unterhalb der Gehirnhälften liegt und mit Emotionen und Trieben in Verbindung steht."
+    "de_content": "neuronales System (einschließlich Amygdala, Hypothalamus und Hippocampus), das sich unterhalb der Gehirnhälften befindet; mit Emotionen und Trieben verbunden."
   },
   {
-    "id": 0,
-    "title": "amygdala [uh-mig-duh-la] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 128,
+    "title": "amygdala [uh-MIG-duh-la]",
+    "content": " two lima-bean-sized neural clusters in the limbic system; linked to emotion.",
+    "de_title": "amygdala [uh-MIG-duh-la]",
+    "de_content": "zwei limabohnengroße Nervencluster im limbischen System; mit Emotionen verbunden."
   },
   {
-    "id": 0,
-    "title": "hypothalamus [hi-po-thal-uh-muss] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 129,
+    "title": "hypothalamus [hi-po-thal-uh-muss]",
+    "content": "a neural structure in the limbic system lying below (hypo) the thalamus; it directs several maintenance activities (eating, drinking, body temperature), helps govern the endocrine system via the pituitary gland, and is linked to emotion and reward.",
+    "de_title": " hypothalamus [hi-po-THAL-uh-muss]",
+    "de_content": "eine neuronale Struktur im limbischen System, die unterhalb (Hypo) des Thalamus liegt; Es steuert verschiedene Aufrechterhaltungsaktivitäten (Essen, Trinken, Körpertemperatur), hilft über die Hypophyse bei der Steuerung des endokrinen Systems und ist mit Emotionen und Belohnungen verbunden."
   },
   {
-    "id": 0,
+    "id": 130,
     "title": "hippocampus",
     "content": "a neural center located in the limbic system; helps process explicit (conscious) memories—of facts and events—for storage.",
     "de_title": "Hippocampus",
-    "de_content": "ein neuronales Zentrum im limbischen System; hilft, explizite (bewusste) Erinnerungen - Fakten und Ereignisse - zu verarbeiten und zu speichern."
+    "de_content": "ein neuronales Zentrum im limbischen System; hilft dabei, explizite (bewusste) Erinnerungen – an Fakten und Ereignisse – zur Speicherung zu verarbeiten."
   },
   {
-    "id": 0,
+    "id": 131,
     "title": "cerebral [seh-REE-bruhl] cortex",
     "content": "the intricate fabric of interconnected neural cells covering the cerebral hemispheres; the body’s ultimate control and information-processing center.",
     "de_title": "zerebrale [seh-REE-bruhl] Hirnrinde",
     "de_content": "das komplizierte Geflecht miteinander verbundener Nervenzellen, das die Gehirnhälften bedeckt; das ultimative Kontroll- und Informationsverarbeitungszentrum des Körpers."
   },
   {
-    "id": 0,
+    "id": 132,
     "title": "frontal lobes",
     "content": "the portion of the cerebral cortex lying just behind the forehead; involved in speaking and muscle movements and in making plans and judgments.",
     "de_title": "Frontallappen",
-    "de_content": "der Teil der Großhirnrinde, der direkt hinter der Stirn liegt; er ist am Sprechen und an den Muskelbewegungen sowie an Plänen und Urteilen beteiligt."
+    "de_content": "der Teil der Großhirnrinde, der direkt hinter der Stirn liegt; beteiligt sich am Sprechen und an Muskelbewegungen sowie am Erstellen von Plänen und Urteilen."
   },
   {
-    "id": 0,
+    "id": 133,
     "title": "parietal [puh-RYE-uh-tuhl] lobes",
     "content": "the portion of the cerebral cortex lying at the top of the head and toward the rear; receives sensory input for touch and body position.",
-    "de_title": "parietale [puh-RYE-uh-tuhl] Lappen",
-    "de_content": "der Teil der Großhirnrinde, der oben auf dem Kopf und nach hinten gerichtet ist; empfängt sensorische Informationen für Berührung und Körperhaltung."
+    "de_title": "parietale Lappen",
+    "de_content": "der Teil der Großhirnrinde, der oben am Kopf und hinten liegt; empfängt sensorische Eingaben für Berührung und Körperposition."
   },
   {
-    "id": 0,
+    "id": 134,
     "title": "occipital [ahk-SIP-uh-tuhl] lobes",
     "content": "the portion of the cerebral cortex lying at the back of the head; includes areas that receive information from the visual fields.",
     "de_title": "Okzipitallappen [ahk-SIP-uh-tuhl] Lappen",
-    "de_content": "der Teil der Großhirnrinde, der am Hinterkopf liegt; umfasst Bereiche, die Informationen aus dem Gesichtsfeld empfangen."
+    "de_content": "der Teil der Großhirnrinde, der am Hinterkopf liegt; umfasst Bereiche, die Informationen aus den Gesichtsfeldern empfangen."
   },
   {
-    "id": 0,
+    "id": 135,
     "title": "temporal lobes",
     "content": "the portion of the cerebral cortex lying roughly above the ears; includes the auditory areas, each receiving information primarily from the opposite ear.",
     "de_title": "Schläfenlappen",
-    "de_content": "der Teil der Großhirnrinde, der ungefähr über den Ohren liegt; umfasst die Hörbereiche, die jeweils Informationen hauptsächlich vom gegenüberliegenden Ohr empfangen."
+    "de_content": "der Teil der Großhirnrinde, der ungefähr über den Ohren liegt; umfasst die Hörbereiche, die jeweils Informationen hauptsächlich vom gegenüberliegenden Ohr erhalten."
   },
   {
-    "id": 0,
+    "id": 136,
     "title": "motor cortex",
     "content": "a cerebral cortex area at the rear of the frontal lobes that controls voluntary movements.",
     "de_title": "motorische Rinde",
-    "de_content": "ein Areal der Großhirnrinde im hinteren Teil der Frontallappen, das willkürliche Bewegungen kontrolliert."
+    "de_content": "ein Bereich der Großhirnrinde hinter den Frontallappen, der willkürliche Bewegungen steuert."
   },
   {
-    "id": 0,
+    "id": 137,
     "title": "somatosensory cortex",
     "content": "a cerebral cortex area at the front of the parietal lobes that registers and processes body touch and movement sensations.",
     "de_title": "somatosensorischer Kortex",
-    "de_content": "ein Bereich der Großhirnrinde an der Vorderseite der Scheitellappen, der Berührungs- und Bewegungsempfindungen des Körpers registriert und verarbeitet."
+    "de_content": "Ein Bereich der Großhirnrinde an der Vorderseite der Scheitellappen, der Körperberührungen und Bewegungsempfindungen registriert und verarbeitet."
   },
   {
-    "id": 0,
+    "id": 138,
     "title": "association areas",
     "content": "areas of the cerebral cortex that are not involved in primary motor or sensory functions; rather, they are involved in higher mental functions such as learning, remembering, thinking, and speaking.",
     "de_title": "Verbandsgebiete",
-    "de_content": "Bereiche der Großhirnrinde, die nicht an den primären motorischen oder sensorischen Funktionen beteiligt sind, sondern an höheren geistigen Funktionen wie Lernen, Erinnern, Denken und Sprechen."
+    "de_content": "Bereiche der Großhirnrinde, die nicht an primären motorischen oder sensorischen Funktionen beteiligt sind; Vielmehr sind sie an höheren mentalen Funktionen wie Lernen, Erinnern, Denken und Sprechen beteiligt."
   },
   {
-    "id": 0,
+    "id": 139,
     "title": "neurogenesis",
     "content": "the formation of new neurons.",
     "de_title": "Neurogenese",
-    "de_content": "die Bildung von neuen Neuronen."
+    "de_content": "die Bildung neuer Neuronen."
   },
   {
-    "id": 0,
-    "title": "corpus callosum [kor-pus kah-low-sum] NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 141,
+    "title": "corpus callosum [KOR-pus kah-LOW-sum]",
+    "content": "das große Band neuronaler Fasern, das die beiden Gehirnhälften verbindet und Nachrichten zwischen ihnen überträgt.",
+    "de_title": "Corpus callosum",
+    "de_content": "das große Band neuronaler Fasern, das die beiden Gehirnhälften verbindet und Nachrichten zwischen ihnen überträgt."
   },
   {
-    "id": 0,
+    "id": 142,
     "title": "split brain",
     "content": "a condition resulting from surgery that separates the brain’s two hemispheres by cutting the fibers (mainly those of the corpus callosum) connecting them.",
     "de_title": "gespaltenes Gehirn",
-    "de_content": "ein Zustand, der auf eine Operation zurückzuführen ist, bei der die beiden Gehirnhälften durch Durchtrennung der sie verbindenden Fasern (hauptsächlich des Corpus callosum) getrennt werden."
+    "de_content": "ein Zustand, der aus einer Operation resultiert, bei der die beiden Gehirnhälften getrennt werden, indem die sie verbindenden Fasern (hauptsächlich die des Corpus callosum) durchtrennt werden."
   },
   {
-    "id": 0,
-    "title": "CHAPTER 3: Consciousness and the Two-TrackMind",
-    "content": "-",
+    "id": 143,
+    "title": "CHAPTER 3: Consciousness and the Two TrackMind",
+    "content": "Basic Consciousness Concepts",
     "de_title": "-",
     "de_content": "-"
   },

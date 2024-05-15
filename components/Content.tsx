@@ -24,7 +24,7 @@ export default async function Content() {
     <div id="card-group" className='flex flex-col justify-center items-center'>
       {
         items.map((item) => (
-          item.title.toLocaleLowerCase().includes(test_text) ? (
+          item.title.toLowerCase().includes(test_text) ? (
             <div key={item.id} id={item.title} className={`${chapter_container_styles}`}>
               {item.title.toLocaleLowerCase().includes("-") ? (""): (<p className={chapter_number_styles}>{item.title}</p>)}
               <h4 className={chapter_styles}>
