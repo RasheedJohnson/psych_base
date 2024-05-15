@@ -8,7 +8,7 @@ export default function Home() {
   
 
   return (
-    <main className="flex flex-col max-w-full items-center justify-between">
+    <main className="flex flex-colmax-w-screen items-center justify-between">
       <div className="flex flex-col justify-center items-center">
         {/* GRADIENT */}
 

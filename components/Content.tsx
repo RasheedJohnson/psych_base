@@ -13,14 +13,14 @@ export default async function Content() {
   const title_style = 'font-medium mb-5 text-md md:text-xl'
   const desc_style = 'font-light opacity-75 text-xs md:text-md'
 
-  const info_style = 'flex flex-col w-1/2 border-slate-300/5 hover:scale-[105%] transition-all'
+  const info_style = 'flex flex-col px-[20px] w-1/2 border-slate-300/5 hover:scale-[105%] transition-all'
   const horizontal_divider = ' h-[1px] bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%';
   const len_match = 4;
 
   const test_text = "chapter";
 
   return (
-    <div className='flex px-4 flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center'>
       {
         items.map((item) => (
           item.title.toLocaleLowerCase().includes(test_text) ? (
