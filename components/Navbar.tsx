@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className='max-w-screen top-0 sticky border-b-[1px] border-slate-300/40 p-6 backdrop-blur-sm z-20 flex flex-row justify-between shadow-2xl shadow-black'>
       <div className=''>
         <h2 className='font-bold'>
-          V's PsychDB
+          V&apos;s PsychDB
         </h2>
       </div>
       <div className='flex flex-row gap-5 font-light'>
