@@ -17,7 +17,10 @@ const Navbar = () => {
     "CHAPTER 0: Prologue",
     "CHAPTER 1: Thinking Critically With Psychological Science",
     "CHAPTER 2: The Biology of Mind",
-    "CHAPTER 3: Consciousness and the Two TrackMind"
+    "CHAPTER 3: Consciousness and the Two TrackMind",
+    "CHAPTER 4: Nature, Nurture, and Human Diversity",
+    "CHAPTER 5: Developing Through the Life Span",
+    "CHAPTER 6: Sensation and Perception"
   ]
 
   return (

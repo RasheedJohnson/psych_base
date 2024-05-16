@@ -882,311 +882,1403 @@
     "de_content": "-"
   },
   {
-    "id": 0,
+    "id": 144,
     "title": "consciousness",
     "content": "our subjective awareness of ourselves and our environment.",
     "de_title": "Bewusstsein",
-    "de_content": "unser subjektives Bewusstsein von uns selbst und unserer Umwelt."
+    "de_content": "unser subjektives Bewusstsein für uns selbst und unsere Umwelt."
   },
   {
-    "id": 0,
+    "id": 145,
     "title": "hypnosis",
     "content": "a social interaction in which one person (the hypnotist) suggests to another (the subject) that certain perceptions, feelings, thoughts, or behaviors will spontaneously occur.",
     "de_title": "Hypnose",
-    "de_content": "eine soziale Interaktion, bei der eine Person (der Hypnotiseur) einer anderen (der Versuchsperson) suggeriert, dass bestimmte Wahrnehmungen, Gefühle, Gedanken oder Verhaltensweisen spontan auftreten werden."
+    "de_content": "eine soziale Interaktion, bei der eine Person (der Hypnotiseur) einer anderen Person (dem Subjekt) suggeriert, dass bestimmte Wahrnehmungen, Gefühle, Gedanken oder Verhaltensweisen spontan auftreten werden."
   },
   {
-    "id": 0,
+    "id": 146,
     "title": "cognitive neuroscience",
     "content": "the interdisciplinary study of the brain activity linked with cognition (including perception, thinking, memory, and language).",
     "de_title": "kognitive Neurowissenschaften",
-    "de_content": "die interdisziplinäre Erforschung der mit der Kognition verbundenen Gehirntätigkeit (einschließlich Wahrnehmung, Denken, Gedächtnis und Sprache)."
+    "de_content": "die interdisziplinäre Untersuchung der mit Kognition verbundenen Gehirnaktivität (einschließlich Wahrnehmung, Denken, Gedächtnis und Sprache)."
   },
   {
-    "id": 0,
+    "id": 147,
     "title": "selective attention",
     "content": "focusing conscious awareness on a particular stimulus.",
     "de_title": "selektive Aufmerksamkeit",
-    "de_content": "Fokussierung der bewussten Wahrnehmung auf einen bestimmten Reiz."
+    "de_content": "Fokussierung des bewussten Bewusstseins auf einen bestimmten Reiz."
   },
   {
-    "id": 0,
+    "id": 148,
     "title": "inattentional blindness",
     "content": "failing to see visible objects when our attention is directed elsewhere.",
     "de_title": "Unaufmerksamkeitsblindheit",
-    "de_content": "dass wir sichtbare Objekte nicht sehen, wenn unsere Aufmerksamkeit auf etwas anderes gerichtet ist."
+    "de_content": "sichtbare Objekte nicht sehen, wenn unsere Aufmerksamkeit auf etwas anderes gerichtet ist."
   },
   {
-    "id": 0,
+    "id": 149,
     "title": "change blindness",
     "content": "failing to notice changes in the environment; a form of inattentional blindness.",
     "de_title": "Veränderungsblindheit",
-    "de_content": "das Nichtwahrnehmen von Veränderungen in der Umwelt; eine Form der Unaufmerksamkeitsblindheit."
+    "de_content": "Veränderungen in der Umgebung nicht bemerken; eine Form der unabsichtlichen Blindheit."
   },
   {
-    "id": 0,
+    "id": 151,
     "title": "dual processing",
     "content": "the principle that information is often simultaneously processed on separate conscious and unconscious tracks.",
     "de_title": "doppelte Verarbeitung",
-    "de_content": "das Prinzip, dass Informationen oft gleichzeitig auf getrennten bewussten und unbewussten Bahnen verarbeitet werden."
+    "de_content": "das Prinzip, dass Informationen oft gleichzeitig auf getrennten bewussten und unbewussten Spuren verarbeitet werden."
   },
   {
-    "id": 0,
+    "id": 152,
     "title": "blindsight",
     "content": "a condition in which a person can respond to a visual stimulus without consciously experiencing it.",
     "de_title": "Blindsight",
     "de_content": "ein Zustand, in dem eine Person auf einen visuellen Reiz reagieren kann, ohne ihn bewusst wahrzunehmen."
   },
   {
-    "id": 0,
+    "id": 153,
     "title": "parallel processing",
     "content": "processing many aspects of a stimulus or problem simultaneously.",
     "de_title": "Parallelverarbeitung",
-    "de_content": "viele Aspekte eines Reizes oder Problems gleichzeitig zu verarbeiten."
+    "de_content": "Viele Aspekte eines Reizes oder Problems gleichzeitig verarbeiten."
   },
   {
-    "id": 0,
+    "id": 154,
     "title": "sequential processing",
     "content": "processing one aspect of a stimulus or problem at a time; generally used to process new information or to solve difficult problems.",
     "de_title": "sequenzielle Abarbeitung",
-    "de_content": "Verarbeitung eines Aspekts eines Reizes oder Problems zur gleichen Zeit; wird im Allgemeinen verwendet, um neue Informationen zu verarbeiten oder um schwierige Probleme zu lösen."
+    "de_content": "Verarbeitung jeweils eines Aspekts eines Reizes oder Problems; Wird im Allgemeinen dazu verwendet, neue Informationen zu verarbeiten oder schwierige Probleme zu lösen."
   },
   {
-    "id": 0,
-    "title": "sleep",
-    "content": "a periodic, natural loss of consciousness—as distinct from unconsciousness resulting from a coma, general anesthesia, or hibernation. (Adapted from Dement, 1999.)",
-    "de_title": "schlafen",
-    "de_content": "ein periodischer, natürlicher Verlust des Bewusstseins - im Unterschied zur Bewusstlosigkeit, die aus einem Koma, einer Vollnarkose oder einem Winterschlaf resultiert. (Adaptiert von Dement, 1999.)"
-  },
-  {
-    "id": 0,
-    "title": "circadian [ser-KAY-dee-an] rhythm",
-    "content": "our biological clock; regular bodily rhythms (for example, of temperature and wakefulness) that occur on a 24-hour cycle.",
-    "de_title": "zirkadianer [ser-KAY-dee-an] Rhythmus",
-    "de_content": "unsere biologische Uhr; regelmäßige Körperrhythmen (z. B. Temperatur und Wachsein), die in einem 24-Stunden-Zyklus auftreten."
-  },
-  {
-    "id": 0,
-    "title": "rem sleep NOT FOUND",
-    "content": "-",
+    "id": 155,
+    "title": "Chapter 3 - b",
+    "content": "Sleep and Dreams",
     "de_title": "-",
     "de_content": "-"
   },
   {
-    "id": 0,
+    "id": 156,
+    "title": "sleep",
+    "content": "a periodic, natural loss of consciousness—as distinct from unconsciousness resulting from a coma, general anesthesia, or hibernation. (Adapted from Dement, 1999.)",
+    "de_title": "schlafen",
+    "de_content": "ein periodischer, natürlicher Bewusstseinsverlust – im Gegensatz zur Bewusstlosigkeit infolge eines Komas, einer Vollnarkose oder eines Winterschlafs. (Adaptiert von Dement, 1999.)"
+  },
+  {
+    "id": 157,
+    "title": "circadian [ser-KAY-dee-an] rhythm",
+    "content": "our biological clock; regular bodily rhythms (for example, of temperature and wakefulness) that occur on a 24-hour cycle.",
+    "de_title": "zirkadianer [ser-KAY-dee-an] Rhythmus",
+    "de_content": "unsere biologische Uhr; regelmäßige Körperrhythmen (z. B. Temperatur und Wachheit), die in einem 24-Stunden-Zyklus auftreten."
+  },
+  {
+    "id": 158,
+    "title": "REM sleep",
+    "content": "rapid eye movement sleep; a recurring sleep stage during which vivid dreams commonly occur. Also known as paradoxical sleep, because the muscles are relaxed (except for minor twitches) but other body systems are active. (Sometimes called R sleep.)",
+    "de_title": "REM-Schlaf",
+    "de_content": "Schlaf mit schnellen Augenbewegungen; ein wiederkehrendes Schlafstadium, in dem häufig lebhafte Träume auftreten. Wird auch als paradoxer Schlaf bezeichnet, da die Muskeln entspannt sind (bis auf leichte Zuckungen), andere Körpersysteme jedoch aktiv sind. (Manchmal auch R-Schlaf genannt.)"
+  },
+  {
+    "id": 159,
     "title": "alpha waves",
     "content": "the relatively slow brain waves of a relaxed, awake state.",
     "de_title": "Alphawellen",
     "de_content": "die relativ langsamen Gehirnwellen eines entspannten, wachen Zustands."
   },
   {
-    "id": 0,
+    "id": 160,
     "title": "hallucinations",
     "content": "false sensory experiences, such as seeing something in the absence of an external visual stimulus.",
     "de_title": "Halluzinationen",
-    "de_content": "falsche Sinneserfahrungen, z. B. etwas zu sehen, obwohl es keinen äußeren visuellen Reiz gibt."
+    "de_content": "falsche Sinneserfahrungen, etwa etwas zu sehen, ohne dass ein äußerer visueller Reiz vorhanden ist."
   },
   {
-    "id": 0,
+    "id": 161,
     "title": "delta waves",
     "content": "the large, slow brain waves associated with deep sleep.",
     "de_title": "Deltawellen",
     "de_content": "die großen, langsamen Gehirnwellen, die mit dem Tiefschlaf verbunden sind."
   },
   {
-    "id": 0,
-    "title": "suprachiasmatic nucleus (scn NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 162,
+    "title": "suprachiasmatic nucleus (SCN)",
+    "content": "a pair of cell clusters in the hypothalamus that controls circadian rhythm. In response to light, the SCN causes the pineal gland to adjust melatonin production, thus modifying our feelings of sleepiness.",
+    "de_title": "suprachiasmatischer Kern (SCN)",
+    "de_content": "ein Zellclusterpaar im Hypothalamus, das den zirkadianen Rhythmus steuert. Als Reaktion auf Licht veranlasst das SCN die Zirbeldrüse, die Melatoninproduktion anzupassen und so unser Schläfrigkeitsgefühl zu verändern."
   },
   {
-    "id": 0,
+    "id": 163,
     "title": "insomnia",
     "content": "recurring problems in falling or staying asleep.",
     "de_title": "Schlaflosigkeit",
-    "de_content": "wiederkehrende Probleme beim Einschlafen oder Durchschlafen."
+    "de_content": "wiederkehrende Probleme beim Ein- oder Durchschlafen."
   },
   {
-    "id": 0,
+    "id": 164,
     "title": "narcolepsy",
     "content": "a sleep disorder characterized by uncontrollable sleep attacks. The sufferer may lapse directly into REM sleep, often at inopportune times.",
     "de_title": "Narkolepsie",
-    "de_content": "eine Schlafstörung, die durch unkontrollierbare Schlafattacken gekennzeichnet ist. Der Betroffene kann direkt in den REM-Schlaf verfallen, oft zu unpassenden Zeiten."
+    "de_content": "eine Schlafstörung, die durch unkontrollierbare Schlafattacken gekennzeichnet ist. Der Betroffene kann direkt in den REM-Schlaf verfallen, oft zu ungünstigen Zeiten."
   },
   {
-    "id": 0,
+    "id": 165,
     "title": "sleep apnea",
     "content": "a sleep disorder characterized by temporary cessations of breathing during sleep and repeated momentary awakenings.",
     "de_title": "Schlafapnoe",
-    "de_content": "eine Schlafstörung, die durch vorübergehende Atemaussetzer im Schlaf und wiederholtes kurzzeitiges Erwachen gekennzeichnet ist."
+    "de_content": "Eine Schlafstörung, die durch vorübergehende Atemaussetzer während des Schlafs und wiederholtes kurzzeitiges Aufwachen gekennzeichnet ist."
   },
   {
-    "id": 0,
+    "id": 166,
     "title": "night terrors",
     "content": "a sleep disorder characterized by high arousal and an appearance of being terrified; unlike nightmares, night terrors occur during N3 sleep, within 2 or 3 hours of falling asleep, and are seldom remembered.",
     "de_title": "Nachtängste",
-    "de_content": "eine Schlafstörung, die durch hohe Erregung und den Anschein von Angst gekennzeichnet ist; im Gegensatz zu Albträumen tritt der Nachtschreck während des N3-Schlafs auf, innerhalb von 2 oder 3 Stunden nach dem Einschlafen, und wird nur selten erinnert."
+    "de_content": "eine Schlafstörung, die durch starke Erregung und den Anschein von Angst gekennzeichnet ist; Im Gegensatz zu Albträumen treten Nachtangst während des N3-Schlafs innerhalb von 2 oder 3 Stunden nach dem Einschlafen auf und werden selten erinnert."
   },
   {
-    "id": 0,
+    "id": 167,
     "title": "dream",
     "content": "a sequence of images, emotions, and thoughts passing through a sleeping person’s mind.",
     "de_title": "Traum",
-    "de_content": "eine Abfolge von Bildern, Gefühlen und Gedanken, die einer schlafenden Person durch den Kopf gehen."
+    "de_content": "eine Abfolge von Bildern, Emotionen und Gedanken, die einer schlafenden Person durch den Kopf gehen."
   },
   {
-    "id": 0,
+    "id": 168,
     "title": "manifest content",
     "content": "according to Freud, the symbolic, remembered story line of a dream (as distinct from its latent, or hidden, content).",
     "de_title": "Manifestinhalt",
-    "de_content": "nach Freud der symbolische, erinnerte Handlungsstrang eines Traumes (im Unterschied zu seinem latenten oder verborgenen Inhalt)."
+    "de_content": "Laut Freud ist dies der symbolische, erinnerte Handlungsstrang eines Traums (im Unterschied zu seinem latenten oder verborgenen Inhalt)."
   },
   {
-    "id": 0,
+    "id": 169,
     "title": "latent content",
     "content": "according to Freud, the underlying meaning of a dream (as distinct from its manifest content).",
     "de_title": "latenter Inhalt",
     "de_content": "nach Freud die zugrundeliegende Bedeutung eines Traums (im Unterschied zu seinem manifesten Inhalt)."
   },
   {
-    "id": 0,
+    "id": 170,
     "title": "REM rebound",
     "content": "the tendency for REM sleep to increase following REM sleep deprivation.",
     "de_title": "REM-Rückprall",
     "de_content": "die Tendenz, dass der REM-Schlaf nach REM-Schlafentzug zunimmt."
   },
   {
-    "id": 0,
+    "id": 171,
+    "title": "chapter 3 - b",
+    "content": "Drugs and Consciousness",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 172,
     "title": "psychoactive drug",
     "content": "a chemical substance that alters perceptions and moods.",
     "de_title": "psychoaktive Droge",
     "de_content": "eine chemische Substanz, die Wahrnehmungen und Stimmungen verändert."
   },
   {
-    "id": 0,
+    "id": 173,
     "title": "substance use disorder",
     "content": "a disorder characterized by continued substance craving and use despite significant life disruption and/or physical risk.",
     "de_title": "Substanzkonsumstörung",
-    "de_content": "eine Störung, die durch anhaltendes Drogenverlangen und -konsum trotz erheblicher Beeinträchtigung des Lebens und/oder körperlicher Risiken gekennzeichnet ist."
+    "de_content": "Eine Störung, die durch anhaltendes Verlangen und Konsum von Substanzen trotz erheblicher Lebensunterbrechung und/oder körperlichem Risiko gekennzeichnet ist."
   },
   {
-    "id": 0,
+    "id": 174,
     "title": "tolerance",
     "content": "the diminishing effect with regular use of the same dose of a drug, requiring the user to take larger and larger doses before experiencing the drug’s effect.",
     "de_title": "Toleranz",
-    "de_content": "die abnehmende Wirkung bei regelmäßigem Konsum der gleichen Dosis einer Droge, so dass der Konsument immer höhere Dosen einnehmen muss, bevor er die Wirkung der Droge spürt."
+    "de_content": "die nachlassende Wirkung bei regelmäßiger Einnahme der gleichen Dosis eines Arzneimittels, was dazu führt, dass der Benutzer immer größere Dosen einnehmen muss, bevor er die Wirkung des Arzneimittels verspürt."
   },
   {
-    "id": 0,
-    "title": "addiction NOT FOUND",
-    "content": "-",
-    "de_title": "-",
-    "de_content": "-"
+    "id": 175,
+    "title": "Addiction",
+    "content": "an everyday term for compulsive substance use (and sometimes for dysfunctional behavior patterns, such as out-of-control gambling) that continues despite harmful consequences. (See also substance use disorder.)",
+    "de_title": "Sucht",
+    "de_content": "ein alltäglicher Begriff für zwanghaften Substanzkonsum (und manchmal auch für dysfunktionale Verhaltensmuster, wie z. B. unkontrolliertes Glücksspiel), der trotz schädlicher Folgen anhält. (Siehe auch Substanzgebrauchsstörung.)"
   },
   {
-    "id": 0,
+    "id": 176,
     "title": "withdrawal",
     "content": "the discomfort and distress that follow discontinuing an addictive drug or behavior.",
     "de_title": "Rücknahme",
-    "de_content": "das Unbehagen und die Verzweiflung nach dem Absetzen einer Droge oder eines Verhaltens, das süchtig macht."
+    "de_content": "das Unbehagen und die Belastung, die nach dem Absetzen einer Suchtdroge oder eines süchtig machenden Verhaltens entstehen."
   },
   {
-    "id": 0,
+    "id": 177,
     "title": "depressants",
     "content": "drugs (such as alcohol, barbiturates, and opiates) that reduce neural activity and slow body functions.",
     "de_title": "Beruhigungsmittel",
-    "de_content": "Drogen (wie Alkohol, Barbiturate und Opiate), die die neuronale Aktivität verringern und die Körperfunktionen verlangsamen."
+    "de_content": "Medikamente (wie Alkohol, Barbiturate und Opiate), die die Nervenaktivität reduzieren und Körperfunktionen verlangsamen."
   },
   {
-    "id": 0,
+    "id": 178,
     "title": "alcohol use disorder",
     "content": "(popularly known as alcoholism ) alcohol use marked by tolerance, withdrawal, and a drive to continue problematic use.",
     "de_title": "Alkoholmissbrauchsstörung",
     "de_content": "(im Volksmund als Alkoholismus bekannt) Alkoholkonsum, der durch Toleranz, Entzug und den Drang, den problematischen Konsum fortzusetzen, gekennzeichnet ist."
   },
   {
-    "id": 0,
+    "id": 179,
     "title": "barbiturates",
     "content": "drugs that depress central nervous system activity, reducing anxiety but impairing memory and judgment.",
     "de_title": "Barbiturate",
-    "de_content": "Medikamente, die die Aktivität des zentralen Nervensystems dämpfen, die Angst reduzieren, aber das Gedächtnis und das Urteilsvermögen beeinträchtigen."
+    "de_content": "Medikamente, die die Aktivität des Zentralnervensystems dämpfen, Angstzustände verringern, aber das Gedächtnis und das Urteilsvermögen beeinträchtigen."
   },
   {
-    "id": 0,
+    "id": 180,
     "title": "opiates",
     "content": "opium and its derivatives, such as morphine and heroin; depress neural activity, temporarily lessening pain and anxiety.",
     "de_title": "Opiate",
-    "de_content": "Opium und seine Derivate, wie Morphin und Heroin, dämpfen die neuronale Aktivität und lindern vorübergehend Schmerzen und Angstzustände."
+    "de_content": "Opium und seine Derivate wie Morphin und Heroin; hemmt die neuronale Aktivität und lindert vorübergehend Schmerzen und Ängste."
   },
   {
-    "id": 0,
+    "id": 182,
     "title": "stimulants",
     "content": "drugs (such as caffeine, nicotine, and the more powerful cocaine, amphetamines, methamphetamine, and Ecstasy) that excite neural activity and speed up body functions.",
     "de_title": "Stimulanzien",
-    "de_content": "Drogen (wie Koffein, Nikotin und die stärkeren Kokain, Amphetamine, Methamphetamin und Ecstasy), die die Nervenaktivität anregen und die Körperfunktionen beschleunigen."
+    "de_content": "Drogen (wie Koffein, Nikotin und das stärkere Kokain, Amphetamine, Methamphetamin und Ecstasy), die die Nervenaktivität anregen und die Körperfunktionen beschleunigen."
   },
   {
-    "id": 0,
+    "id": 183,
     "title": "amphetamines",
     "content": "drugs (such as methamphetamine ) that stimulate neural activity, causing accelerated body functions and associated energy and mood changes.",
     "de_title": "Amphetamine",
-    "de_content": "Drogen (wie z. B. Methamphetamin), die die neuronale Aktivität stimulieren, was zu beschleunigten Körperfunktionen und damit verbundenen Energie- und Stimmungsschwankungen führt."
+    "de_content": "Medikamente (wie Methamphetamin), die die Nervenaktivität stimulieren, was zu beschleunigten Körperfunktionen und damit verbundenen Energie- und Stimmungsschwankungen führt.."
   },
   {
-    "id": 0,
+    "id": 184,
     "title": "nicotine",
     "content": "a stimulating and highly addictive psychoactive drug in tobacco products.",
     "de_title": "Nikotin",
-    "de_content": "eine stimulierende und stark süchtig machende psychoaktive Droge in Tabakerzeugnissen."
+    "de_content": "eine anregende und stark süchtig machende psychoaktive Droge in Tabakprodukten."
   },
   {
-    "id": 0,
+    "id": 185,
     "title": "cocaine",
     "content": "a powerful and addictive stimulant derived from the coca plant; produces temporarily increased alertness and euphoria.",
     "de_title": "Kokain",
-    "de_content": "ein starkes und süchtig machendes Stimulans, das aus der Kokapflanze gewonnen wird; erzeugt vorübergehend erhöhte Wachsamkeit und Euphorie."
+    "de_content": "ein starkes und süchtig machendes Stimulans, das aus der Kokapflanze gewonnen wird; erzeugt vorübergehend erhöhte Aufmerksamkeit und Euphorie."
   },
   {
-    "id": 0,
+    "id": 186,
     "title": "methamphetamine",
     "content": "a powerfully addictive drug that stimulates the central nervous system, with accelerated body functions and associated energy and mood changes; over time, reduces baseline dopamine levels.",
     "de_title": "Methamphetamin",
-    "de_content": "eine stark süchtig machende Droge, die das zentrale Nervensystem stimuliert, was zu beschleunigten Körperfunktionen und damit verbundenen Energie- und Stimmungsschwankungen führt; mit der Zeit sinkt der Dopamin-Grundspiegel."
+    "de_content": "ein stark süchtig machendes Medikament, das das Zentralnervensystem stimuliert, mit beschleunigten Körperfunktionen und damit verbundenen Energie- und Stimmungsveränderungen; Mit der Zeit sinkt der Dopamin-Grundspiegel."
   },
   {
-    "id": 0,
+    "id": 187,
     "title": "Ecstasy (MDMA)",
     "content": "a synthetic stimulant and mild hallucinogen. Produces euphoria and social intimacy, but with short-term health risks and longer-term harm to serotonin-producing neurons and to mood and cognition.",
     "de_title": "Ecstasy (MDMA)",
-    "de_content": "ein synthetisches Stimulans und leichtes Halluzinogen. Erzeugt Euphorie und soziale Intimität, birgt jedoch kurzfristige Gesundheitsrisiken und schädigt längerfristig die Serotonin produzierenden Neuronen sowie die Stimmung und die Kognition."
+    "de_content": "ein synthetisches Stimulans und mildes Halluzinogen. Erzeugt Euphorie und soziale Intimität, birgt jedoch kurzfristige Gesundheitsrisiken und längerfristige Schäden an Serotonin produzierenden Neuronen sowie an Stimmung und Kognition."
   },
   {
-    "id": 0,
+    "id": 188,
     "title": "hallucinogens",
     "content": "psychedelic (“mind-manifesting”) drugs, such as LSD, that distort perceptions and evoke sensory images in the absence of sensory input.",
     "de_title": "Halluzinogene",
-    "de_content": "psychedelische ('bewusstseinsverändernde') Drogen wie LSD, die die Wahrnehmung verzerren und sensorische Bilder in Abwesenheit von sensorischem Input hervorrufen."
+    "de_content": "psychedelische („geistesmanifestierende“) Drogen wie LSD, die die Wahrnehmung verzerren und ohne sensorischen Input Sinnesbilder hervorrufen."
   },
   {
-    "id": 0,
+    "id": 189,
     "title": "near-death experience",
     "content": "an altered state of consciousness reported after a close brush with death (such as cardiac arrest); often similar to drug-induced hallucinations.",
     "de_title": "Nahtoderfahrung",
     "de_content": "ein veränderter Bewusstseinszustand, der nach einer unmittelbaren Begegnung mit dem Tod (z. B. Herzstillstand) auftritt; oft ähnlich wie bei drogeninduzierten Halluzinationen."
   },
   {
+    "id": 190,
+    "title": "LSD",
+    "content": "(lysergic acid diethylamide) a powerful hallucinogenic drug; also known as acid",
+    "de_title": "LSD",
+    "de_content": "(Lysergsäurediethylamid), eine starke halluzinogene Droge; auch Säure genannt"
+  },
+  {
+    "id": 191,
+    "title": "THC",
+    "content": "the major active ingredient in marijuana; triggers a variety of effects, including mild hallucinations.",
+    "de_title": "THC",
+    "de_content": "der Hauptwirkstoff in Marihuana; löst eine Vielzahl von Wirkungen aus, darunter auch leichte Halluzinationen."
+  },
+  {
+    "id": 192,
+    "title": "CHAPTER 4: Nature, Nurture, and Human Diversity",
+    "content": "Behavior Genetics: Predicting Individual Differences",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 193,
+    "title": "behavior genetics",
+    "content": "the study of the relative power and limits of genetic and environmental influences on behavior.",
+    "de_title": "Verhaltensgenetik",
+    "de_content": "die Untersuchung der relativen Stärke und Grenzen genetischer und umweltbedingter Einflüsse auf das Verhalten."
+  },
+  {
+    "id": 194,
+    "title": "heredity",
+    "content": "the genetic transfer of characteristics from parents to offspring.",
+    "de_title": "Vererbung",
+    "de_content": "die genetische Übertragung von Merkmalen von den Eltern auf die Nachkommen."
+  },
+  {
+    "id": 195,
+    "title": "environment",
+    "content": "every nongenetic influence, from prenatal nutrition to the people and things around us.",
+    "de_title": "Umfeld",
+    "de_content": "jeder nichtgenetische Einfluss, von der vorgeburtlichen Ernährung bis hin zu den Menschen und Dingen um uns herum."
+  },
+  {
+    "id": 196,
+    "title": "chromosomes",
+    "content": "threadlike structures made of DNA molecules that contain the genes.",
+    "de_title": "Chromosomen",
+    "de_content": "fadenförmige Strukturen aus DNA-Molekülen, die die Gene enthalten."
+  },
+  {
+    "id": 198,
+    "title": " DNA (deoxyribonucleic acid)",
+    "content": "a complex molecule containing the genetic information that makes up the chromosomes.",
+    "de_title": "DNA (Desoxyribonukleinsäure)",
+    "de_content": "ein komplexes Molekül, das die genetische Information enthält, aus der die Chromosomen bestehen."
+  },
+  {
+    "id": 199,
+    "title": "genes",
+    "content": "the biochemical units of heredity that make up the chromosomes; small segments of DNA capable of synthesizing proteins.",
+    "de_title": "Gene",
+    "de_content": "die biochemischen Vererbungseinheiten, aus denen die Chromosomen bestehen; kleine DNA-Abschnitte, die Proteine synthetisieren können."
+  },
+  {
+    "id": 200,
+    "title": "genome",
+    "content": "the complete instructions for making an organism, consisting of all the genetic material in that organism’s chromosomes.",
+    "de_title": "Genom",
+    "de_content": "die vollständigen Anweisungen zur Herstellung eines Organismus, bestehend aus dem gesamten genetischen Material in den Chromosomen dieses Organismus."
+  },
+  {
+    "id": 201,
+    "title": "identical (monozygotic) twins",
+    "content": "individuals who developed from a single fertilized egg that split in two, creating two genetically identical organisms.",
+    "de_title": "eineiige (eineiige) Zwillinge",
+    "de_content": "Individuen, die sich aus einer einzigen befruchteten Eizelle entwickelten, die sich in zwei Teile teilte, wodurch zwei genetisch identische Organismen entstanden."
+  },
+  {
+    "id": 202,
+    "title": "fraternal (dizygotic) twins",
+    "content": "individuals who developed from separate fertilized eggs. They are genetically no closer than ordinary siblings, but shared a prenatal environment.",
+    "de_title": "zweieiige (zweieiige) Zwillinge",
+    "de_content": "Individuen, die sich aus getrennten befruchteten Eiern entwickelt haben. Sie stehen sich genetisch nicht näher als gewöhnliche Geschwister, teilten jedoch eine pränatale Umgebung."
+  },
+  {
+    "id": 203,
+    "title": "temperament",
+    "content": "a person’s characteristic emotional reactivity and intensity.",
+    "de_title": "Temperament",
+    "de_content": "die charakteristische emotionale Reaktivität und Intensität einer Person."
+  },
+  {
+    "id": 204,
+    "title": "heritability",
+    "content": "the proportion of variation among individuals in a group that we can attribute to genes. The heritability of a trait may vary,    depending on the range of populations and environments studied.",
+    "de_title": "Erblichkeit",
+    "de_content": "der Anteil der Variation zwischen Individuen in einer Gruppe, den wir den Genen zuschreiben können. Die Vererbbarkeit eines Merkmals kann je nach untersuchter Population und Umgebung unterschiedlich sein."
+  },
+  {
     "id": 0,
-    "title": "lsd NOT FOUND",
-    "content": "-",
+    "title": "interaction",
+    "content": "the interplay that occurs when the effect of one factor (such as environment) depends on another factor (such as heredity).",
+    "de_title": "Interaktion",
+    "de_content": "das Zusammenspiel, das auftritt, wenn die Wirkung eines Faktors (z. B. der Umwelt) von einem anderen Faktor (z. B. Vererbung) abhängt."
+  },
+  {
+    "id": 0,
+    "title": "molecular genetics",
+    "content": "the subfield of biology that studies the molecular structure and function of genes.",
+    "de_title": "Molekulargenetik",
+    "de_content": "das Teilgebiet der Biologie, das die molekulare Struktur und Funktion von Genen untersucht."
+  },
+  {
+    "id": 0,
+    "title": "molecular behavior genetics",
+    "content": "the study of how the structure and function of genes interact with our environment to influence behavior.",
+    "de_title": "Molekulare Verhaltensgenetik",
+    "de_content": "die Untersuchung, wie die Struktur und Funktion von Genen mit unserer Umwelt interagieren, um das Verhalten zu beeinflussen."
+  },
+  {
+    "id": 0,
+    "title": "epigenetics",
+    "content": "“above” or “in addition to” (epi) genetics; the study of the molecular mechanisms by which environments can influence gene expression (without a DNA change).",
+    "de_title": "Epigenetik",
+    "de_content": "„über“ oder „zusätzlich zu“ (Epi-)Genetik; die Untersuchung der molekularen Mechanismen, durch die Umgebungen die Genexpression beeinflussen können (ohne eine DNA-Veränderung)."
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter - ",
+    "content": "Evolutionary Psychology: Explaining Human Nature and Nurture",
     "de_title": "-",
     "de_content": "-"
   },
   {
     "id": 0,
-    "title": "THC",
-    "content": "the major active ingredient in marijuana; triggers a variety of effects, including mild hallucinations.",
-    "de_title": "THC",
-    "de_content": "der Hauptwirkstoff von Marihuana, löst eine Reihe von Wirkungen aus, darunter auch leichte Halluzinationen."
+    "title": "evolutionary psychology",
+    "content": "the study of the evolution of behavior and the mind, using principles of natural selection.",
+    "de_title": "Evolutionspsychologie",
+    "de_content": "das Studium der Entwicklung des Verhaltens und des Geistes unter Verwendung der Prinzipien der natürlichen Selektion."
+  },
+  {
+    "id": 0,
+    "title": "natural selection",
+    "content": "the principle that inherited traits that better enable an organism to survive and reproduce in a particular environment will (in competition with other trait variations) most likely be passed on to succeeding generations.",
+    "de_title": "natürliche Auslese",
+    "de_content": "Das Prinzip, dass vererbte Merkmale, die es einem Organismus besser ermöglichen, in einer bestimmten Umgebung zu überleben und sich zu vermehren, (im Wettbewerb mit anderen Merkmalsvarianten) höchstwahrscheinlich an nachfolgende Generationen weitergegeben werden."
+  },
+  {
+    "id": 0,
+    "title": "mutation",
+    "content": "a random error in gene replication that leads to a change.",
+    "de_title": "mutation",
+    "de_content": "ein zufälliger Fehler bei der Genreplikation, der zu einer Veränderung führt."
+  },
+  {
+    "id": 0,
+    "title": "social script",
+    "content": "a culturally modeled guide for how to act in various situations.",
+    "de_title": "soziales Drehbuch",
+    "de_content": "a culturally modeled guide for how to act in various situations."
+  },
+  {
+    "id": 0,
+    "title": "Chapter - ",
+    "content": "Cultural and Gender Diversity: Understanding Nature and Nurture",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "culture",
+    "content": "the enduring behaviors, ideas, attitudes, values, and traditions shared by a group of people and transmitted from one generation to the next.",
+    "de_title": "Kultur",
+    "de_content": "die dauerhaften Verhaltensweisen, Ideen, Einstellungen, Werte und Traditionen, die von einer Gruppe von Menschen geteilt und von einer Generation zur nächsten weitergegeben werden."
+  },
+  {
+    "id": 0,
+    "title": "norm",
+    "content": "an understood rule for accepted and expected behavior. Norms prescribe “proper” behavior.",
+    "de_title": "Norm",
+    "de_content": "eine verstandene Regel für akzeptiertes und erwartetes Verhalten. Normen schreiben „richtiges“ Verhalten vor."
+  },
+  {
+    "id": 0,
+    "title": "individualism",
+    "content": "giving priority to one’s own goals over group goals and defining one’s identity in terms of personal attributes rather than group identifications.",
+    "de_title": "Individualismus",
+    "de_content": "Den eigenen Zielen Vorrang vor Gruppenzielen einräumen und die eigene Identität anhand persönlicher Eigenschaften und nicht anhand von Gruppenidentifikationen definieren."
+  },
+  {
+    "id": 0,
+    "title": "collectivism",
+    "content": "giving priority to the goals of one’s group (often one’s extended family or work group) and defining one’s identity accordingly.",
+    "de_title": "Kollektivismus",
+    "de_content": "Den Zielen der eigenen Gruppe (häufig der erweiterten Familie oder der Arbeitsgruppe) Priorität einräumen und die eigene Identität entsprechend definieren."
+  },
+  {
+    "id": 0,
+    "title": "sex",
+    "content": "in psychology, the biologically influenced characteristics by which people define male, female, and intersex.",
+    "de_title": "sex",
+    "de_content": "In der Psychologie die biologisch beeinflussten Merkmale, anhand derer Menschen männlich, weiblich und intersexuell definieren."
+  },
+  {
+    "id": 0,
+    "title": "gender",
+    "content": "in psychology, the behavioral characteristics that people associate with boy, girl, man, and woman. (See also gender identity.)",
+    "de_title": "Geschlecht",
+    "de_content": "In der Psychologie die Verhaltensmerkmale, die Menschen mit Jungen, Mädchen, Männern und Frauen assoziieren. (Siehe auch Geschlechtsidentität.)"
+  },
+  {
+    "id": 0,
+    "title": "intersex",
+    "content": "possessing male and female biological sexual characteristics at birth.",
+    "de_title": "intersexuell",
+    "de_content": "bei der Geburt männliche und weibliche biologische Geschlechtsmerkmale besitzen"
+  },
+  {
+    "id": 0,
+    "title": "aggression",
+    "content": "any physical or verbal behavior intended to harm someone physically or emotionally.",
+    "de_title": "aggression",
+    "de_content": "jedes körperliche oder verbale Verhalten, das darauf abzielt, jemandem körperlich oder emotional zu schaden."
+  },
+  {
+    "id": 0,
+    "title": "relational aggression",
+    "content": "an act of aggression (physical or verbal) intended to harm a person’s relationship or social standing.",
+    "de_title": "relationale Aggression",
+    "de_content": "ein Akt der Aggression (körperlich oder verbal), der darauf abzielt, die Beziehung oder das soziale Ansehen einer Person zu schädigen."
+  },
+  {
+    "id": 0,
+    "title": "X chromosome",
+    "content": "the sex chromosome found in males and females. Females typically have two X chromosomes; males typically have one. An X chromosome from each parent produces a female child.",
+    "de_title": "X-Chromosom",
+    "de_content": "das Geschlechtschromosom, das bei Männern und Frauen vorkommt. Frauen haben typischerweise zwei X-Chromosomen; Männer haben normalerweise einen. Ein X-Chromosom jedes Elternteils bringt ein weibliches Kind hervor."
+  },
+  {
+    "id": 0,
+    "title": " Y chromosome",
+    "content": "the sex chromosome typically found only in males. When paired with an X chromosome from the mother, it produces a male child.",
+    "de_title": "Y-Chromosom",
+    "de_content": "das Geschlechtschromosom, das normalerweise nur bei Männern vorkommt. Wenn es mit einem X-Chromosom der Mutter gepaart wird, entsteht ein männliches Kind."
+  },
+  {
+    "id": 0,
+    "title": "testosterone",
+    "content": "the most important male sex hormone. Males and females have it, but the additional testosterone in males stimulates the growth of the male sex organs during the fetal period, and the development of the male sex characteristics during puberty.",
+    "de_title": "Testosteron",
+    "de_content": "das wichtigste männliche Sexualhormon. Männer und Frauen haben es, aber das zusätzliche Testosteron bei Männern stimuliert das Wachstum der männlichen Geschlechtsorgane während der Fötalperiode und die Entwicklung der männlichen Geschlechtsmerkmale während der Pubertät."
+  },
+  {
+    "id": 0,
+    "title": "estrogens",
+    "content": "sex hormones, such as estradiol, that contribute to female sex characteristics and are secreted in greater amounts by females than by males.",
+    "de_title": "Östrogene",
+    "de_content": "Sexualhormone wie Östradiol, die zu den weiblichen Geschlechtsmerkmalen beitragen und von Frauen in größeren Mengen ausgeschüttet werden als von Männern."
+  },
+  {
+    "id": 0,
+    "title": "puberty",
+    "content": "the period of sexual maturation, when a person becomes capable of reproducing.",
+    "de_title": "Pubertät",
+    "de_content": "die Zeit der Geschlechtsreife, in der ein Mensch fortpflanzungsfähig wird."
+  },
+  {
+    "id": 0,
+    "title": "primary sex characteristics",
+    "content": "the body structures (ovaries, testes, and external genitalia) that make sexual reproduction possible",
+    "de_title": "primäre Geschlechtsmerkmale",
+    "de_content": "die Körperstrukturen (Eierstöcke, Hoden und äußere Genitalien), die die sexuelle Fortpflanzung ermöglichen"
+  },
+  {
+    "id": 0,
+    "title": "secondary sex characteristics",
+    "content": "nonreproductive sexual traits, such as female breasts and hips, male voice quality, and body hair.",
+    "de_title": "sekundäre Geschlechtsmerkmale",
+    "de_content": "nichtreproduktive sexuelle Merkmale wie weibliche Brüste und Hüften, männliche Stimmqualität und Körperbehaarung."
+  },
+  {
+    "id": 0,
+    "title": "spermarche",
+    "content": "[sper-MAR-key] the first ejaculation.",
+    "de_title": "Spermarche",
+    "de_content": "die erste Ejakulation."
+  },
+  {
+    "id": 0,
+    "title": "menarche",
+    "content": "[meh-NAR-key] the first menstrual period.",
+    "de_title": "Menarche",
+    "de_content": "die erste Menstruationsperiode."
+  },
+  {
+    "id": 0,
+    "title": "role",
+    "content": "a set of expectations (norms) about a social position, defining how those in the position ought to behave.",
+    "de_title": "Rolle",
+    "de_content": "eine Reihe von Erwartungen (Normen) an eine soziale Position, die definieren, wie sich die Personen in dieser Position verhalten sollten."
+  },
+  {
+    "id": 0,
+    "title": "gender role",
+    "content": "a set of expected behaviors, attitudes, and traits for men and for women.",
+    "de_title": "Geschlechterrolle",
+    "de_content": "eine Reihe erwarteter Verhaltensweisen, Einstellungen und Eigenschaften für Männer und Frauen."
+  },
+  {
+    "id": 0,
+    "title": "sexual aggression",
+    "content": "any physical or verbal behavior of a sexual nature that is unwanted or intended to harm someone physically or emotionally. Can be expressed as either sexual harassment or sexual assault.",
+    "de_title": "sexuelle Aggression",
+    "de_content": "Jedes körperliche oder verbale Verhalten sexueller Natur, das unerwünscht ist oder darauf abzielt, jemandem körperlich oder emotional zu schaden. Kann entweder als sexuelle Belästigung oder als sexueller Übergriff ausgedrückt werden."
+  },
+  {
+    "id": 0,
+    "title": "gender identity",
+    "content": "our sense of being male, female, neither, or some combination of male and female.",
+    "de_title": "Geschlechtsidentität",
+    "de_content": "unser Gefühl, männlich, weiblich, keines von beiden oder eine Kombination aus männlich und weiblich zu sein."
+  },
+  {
+    "id": 0,
+    "title": "social learning theory",
+    "content": "the theory that we learn social behavior by observing and imitating and by being rewarded or punished.",
+    "de_title": "Theorie des sozialen Lernens",
+    "de_content": "die Theorie, dass wir soziales Verhalten lernen, indem wir beobachten und nachahmen und indem wir belohnt oder bestraft werden."
+  },
+  {
+    "id": 0,
+    "title": "gender typing",
+    "content": "the acquisition of a traditional masculine or feminine role.",
+    "de_title": "Geschlechtstypisierung",
+    "de_content": "die Übernahme einer traditionellen männlichen oder weiblichen Rolle."
+  },
+  {
+    "id": 0,
+    "title": "androgyny",
+    "content": "displaying both traditionally masculine and traditionally feminine psychological characteristics.",
+    "de_title": "Androgynie",
+    "de_content": "sowohl traditionell männliche als auch traditionell weibliche psychologische Merkmale aufweisen."
+  },
+  {
+    "id": 0,
+    "title": "transgender",
+    "content": "an umbrella term describing people whose gender identity or expression differs from that associated with their birth assigned sex.",
+    "de_title": "Transgender",
+    "de_content": "Ein Überbegriff für Menschen, deren Geschlechtsidentität oder -ausdruck sich von dem bei der Geburt zugewiesenen Geschlecht unterscheidet."
+  },
+  {
+    "id": 0,
+    "title": "CHAPTER 5: Developing Through the Life Span",
+    "content": "Developmental Issues, Prenatal Development, and the Newborn",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter - ",
+    "content": "Infancy and Childhood",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter -",
+    "content": "Adolescence",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter -",
+    "content": "Adulthood",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "CHAPTER 6: Sensation and Perception",
+    "content": "Basic Concepts of Sensation and Perception",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter - ",
+    "content": "Vision: Sensory and Perceptual Processing",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "Chapter - ",
+    "content": "The Nonvisual Senses",
+    "de_title": "-",
+    "de_content": "-"
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
   }
 ]
