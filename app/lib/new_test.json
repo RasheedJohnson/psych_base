@@ -1547,529 +1547,502 @@
     "de_content": "-"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 246,
+    "title": "developmental psychology",
+    "content": "a branch of psychology that studies physical, cognitive, and social development throughout the life span.",
+    "de_title": "Entwicklungspsychologie",
+    "de_content": "ein Zweig der Psychologie, der die körperliche, kognitive und soziale Entwicklung während der gesamten Lebensspanne untersucht."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 247,
+    "title": "cross-sectional study",
+    "content": "research that compares people of different ages at the same point in time.",
+    "de_title": "Querschnittsstudie",
+    "de_content": "Forschung, die Menschen unterschiedlichen Alters zum gleichen Zeitpunkt vergleicht."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 248,
+    "title": "longitudinal study",
+    "content": "research that follows and retests the same people over time.",
+    "de_title": "Längsschnittstudie",
+    "de_content": "Forschung, die dieselben Personen im Laufe der Zeit verfolgt und erneut testet."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 249,
+    "title": "zygote",
+    "content": "the fertilized egg; it enters a 2-week period of rapid cell division and develops into an embryo.",
+    "de_title": "Zygote",
+    "de_content": "die befruchtete Eizelle; Es beginnt eine zweiwöchige Phase der schnellen Zellteilung und entwickelt sich zum Embryo."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 250,
+    "title": "embryo",
+    "content": "the developing human organism from about 2 weeks after fertilization through the second month.",
+    "de_title": "Embryo",
+    "de_content": "Der sich entwickelnde menschliche Organismus beginnt etwa zwei Wochen nach der Befruchtung bis zum zweiten Monat."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 251,
+    "title": "fetus",
+    "content": "the developing human organism from 9 weeks after conception to birth.",
+    "de_title": "Fötus",
+    "de_content": "der sich entwickelnde menschliche Organismus von 9 Wochen nach der Empfängnis bis zur Geburt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 252,
+    "title": "teratogens",
+    "content": "agents, such as chemicals and viruses, that can reach the embryo or fetus during prenatal development and cause harm.",
+    "de_title": "Teratogene",
+    "de_content": "Wirkstoffe wie Chemikalien und Viren, die während der pränatalen Entwicklung zum Embryo oder Fötus gelangen und dort Schäden anrichten können."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 253,
+    "title": "fetal alcohol syndrome (FAS)",
+    "content": "physical and cognitive abnormalities in children caused by a pregnant woman’s heavy drinking. In severe cases, signs include a small, out-of-proportion head and abnormal facial features.",
+    "de_title": "Fetales Alkoholsyndrom (FAS)",
+    "de_content": "körperliche und kognitive Anomalien bei Kindern, die durch den starken Alkoholkonsum einer schwangeren Frau verursacht werden. In schweren Fällen sind ein kleiner, unproportionaler Kopf und abnormale Gesichtszüge Anzeichen dafür."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 254,
+    "title": "habituation",
+    "content": "decreasing responsiveness with repeated stimulation. As infants gain familiarity with repeated exposure to a stimulus, their interest wanes and they look away sooner.",
+    "de_title": "Gewöhnung",
+    "de_content": "verminderte Reaktionsfähigkeit bei wiederholter Stimulation. Wenn Säuglinge mit der wiederholten Einwirkung eines Reizes vertraut werden, lässt ihr Interesse nach und sie schauen früher weg."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 256,
     "title": "Chapter - ",
     "content": "Infancy and Childhood",
     "de_title": "-",
     "de_content": "-"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 257,
+    "title": "maturation",
+    "content": "biological growth processes that enable orderly changes in behavior, relatively uninfluenced by experience.",
+    "de_title": "Reifung",
+    "de_content": "biologische Wachstumsprozesse, die geordnete Verhaltensänderungen ermöglichen, die relativ unbeeinflusst von Erfahrungen sind."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 258,
+    "title": "cognition",
+    "content": "all the mental activities associated with thinking, knowing, remembering, and communicating.",
+    "de_title": "cognition",
+    "de_content": "alle mentalen Aktivitäten, die mit Denken, Wissen, Erinnern und Kommunizieren verbunden sind."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 259,
+    "title": "schema",
+    "content": "a concept or framework that organizes and interprets information.",
+    "de_title": "Schema",
+    "de_content": "ein Konzept oder Rahmen, der Informationen organisiert und interpretiert."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 260,
+    "title": "assimilation",
+    "content": "interpreting our new experiences in terms of our existing schemas.",
+    "de_title": "Assimilation",
+    "de_content": "Interpretation unserer neuen Erfahrungen im Hinblick auf unsere bestehenden Schemata."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 261,
+    "title": "accommodation",
+    "content": "adapting our current understandings (schemas) to incorporate new information.",
+    "de_title": "Unterkunft",
+    "de_content": "Anpassung unseres aktuellen Verständnisses (Schemas), um neue Informationen zu integrieren."
+  },
+
+  {
+    "id": 262,
+    "title": "sensorimotor stage",
+    "content": "in Piaget’s theory, the stage (from birth to nearly 2 years of age) at which infants know the world mostly in terms of their sensory impressions and motor activities.",
+    "de_title": "sensomotorisches Stadium",
+    "de_content": "In Piagets Theorie ist es das Stadium (von der Geburt bis zum Alter von fast zwei Jahren), in dem Säuglinge die Welt hauptsächlich anhand ihrer Sinneseindrücke und motorischen Aktivitäten kennen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 263,
+    "title": "object permanence",
+    "content": "the awareness that things continue to exist even when not perceived.",
+    "de_title": "Objektpermanenz",
+    "de_content": "das Bewusstsein, dass Dinge weiter existieren, auch wenn sie nicht wahrgenommen werden."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 264,
+    "title": "preoperational stage",
+    "content": "in Piaget’s theory, the stage (from about 2 to 6 or 7 years of age) at which a child learns to use language but does not yet comprehend the mental operations of concrete logic.",
+    "de_title": "präoperatives Stadium",
+    "de_content": "in Piagets Theorie das Stadium (etwa im Alter von 2 bis 6 oder 7 Jahren), in dem ein Kind den Gebrauch von Sprache lernt, aber die mentalen Operationen der konkreten Logik noch nicht versteht."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 265,
+    "title": "conservation",
+    "content": "the principle (which Piaget believed to be a part of concrete operational reasoning) that properties such as mass, volume, and number remain the same despite changes in the forms of objects.",
+    "de_title": "Erhaltung",
+    "de_content": "das Prinzip (von dem Piaget glaubte, dass es Teil konkreter operativer Überlegungen sei), dass Eigenschaften wie Masse, Volumen und Anzahl trotz Veränderungen in der Form von Objekten gleich bleiben."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 267,
+    "title": "egocentrism",
+    "content": "in Piaget’s theory, the preoperational child’s difficulty taking another’s point of view.",
+    "de_title": "Egozentrismus",
+    "de_content": "in Piagets Theorie die Schwierigkeit des präoperationellen Kindes, den Standpunkt eines anderen einzunehmen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 268,
+    "title": "concrete operational stage",
+    "content": "in Piaget’s theory, the stage of cognitive development (from about 7 to 11 years of age) at which children gain the mental operations that enable them to think logically about concrete events.",
+    "de_title": "konkrete Betriebsphase",
+    "de_content": "in Piagets Theorie das Stadium der kognitiven Entwicklung (im Alter von etwa 7 bis 11 Jahren), in dem Kinder die mentalen Fähigkeiten erlangen, die es ihnen ermöglichen, logisch über konkrete Ereignisse nachzudenken."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 269,
+    "title": "formal operational stage",
+    "content": "in Piaget’s theory, the stage of cognitive development (normally beginning about age 12) at which people begin to think logically about abstract concepts.",
+    "de_title": "formelle Betriebsphase",
+    "de_content": "in Piagets Theorie das Stadium der kognitiven Entwicklung (normalerweise ab dem 12. Lebensjahr), in dem Menschen beginnen, logisch über abstrakte Konzepte nachzudenken."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 270,
+    "title": "scaffold",
+    "content": "in Vygotsky’s theory, a framework that offers children temporary support as they develop higher levels of thinking.",
+    "de_title": "Gerüst",
+    "de_content": "in Vygotskys Theorie ein Rahmen, der Kindern vorübergehende Unterstützung bei der Entwicklung höherer Denkebenen bietet."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 268,
+    "title": "theory of mind",
+    "content": "people’s ideas about their own and others’ mental states—about their feelings, perceptions, and thoughts, and the behaviors these might predict.",
+    "de_title": "Theorie des Geistes",
+    "de_content": "die Vorstellungen von Menschen über ihren eigenen Geisteszustand und den anderer – über ihre Gefühle, Wahrnehmungen und Gedanken und die Verhaltensweisen, die diese vorhersagen könnten."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 269,
+    "title": "stranger anxiety",
+    "content": "the fear of strangers that infants commonly display, beginning by about 8 months of age.",
+    "de_title": "Fremde Angst",
+    "de_content": "die Angst vor Fremden, die Säuglinge häufig zeigen, beginnend im Alter von etwa 8 Monaten."
   },
   {
-    "id": 0,
+    "id": 270,
+    "title": "attachment",
+    "content": "an emotional tie with others; shown in young children by their seeking closeness to caregivers and showing distress on separation.",
+    "de_title": "Anhang",
+    "de_content": "eine emotionale Bindung zu anderen; Dies zeigt sich bei kleinen Kindern daran, dass sie die Nähe zu Bezugspersonen suchen und sich bei der Trennung kummervoll zeigen."
+  },
+  {
+    "id": 271,
+    "title": "critical period",
+    "content": "an optimal period early in the life of an organism when exposure to certain stimuli or experiences produces normal development.",
+    "de_title": "kritische Periode",
+    "de_content": "ein optimaler Zeitraum zu Beginn des Lebens eines Organismus, in dem die Einwirkung bestimmter Reize oder Erfahrungen zu einer normalen Entwicklung führt."
+  },
+  {
+    "id": 272,
+    "title": "imprinting",
+    "content": "the process by which certain animals form strong attachments during early life.",
+    "de_title": "Prägung",
+    "de_content": "der Prozess, durch den bestimmte Tiere im frühen Leben starke Bindungen eingehen."
+  },
+  {
+    "id": 273,
+    "title": "basic trust",
+    "content": "according to Erik Erikson, a sense that the world is predictable and trustworthy; said to be formed during infancy by appropriate experiences with responsive caregivers.",
+    "de_title": "Urvertrauen",
+    "de_content": "laut Erik Erikson das Gefühl, dass die Welt vorhersehbar und vertrauenswürdig ist; soll im Säuglingsalter durch entsprechende Erfahrungen mit aufmerksamen Bezugspersonen geformt werden."
+  },
+  {
+    "id": 274,
+    "title": "self-concept",
+    "content": "all our thoughts and feelings about ourselves, in answer to the question, “Who am I?”",
+    "de_title": "Selbstverständnis",
+    "de_content": "all unsere Gedanken und Gefühle über uns selbst, als Antwort auf die Frage „Wer bin ich?“"
+  },
+  {
+    "id": 275,
     "title": "Chapter -",
     "content": "Adolescence",
     "de_title": "-",
     "de_content": "-"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 276,
+    "title": "adolescence",
+    "content": "the transition period from childhood to adulthood, extending from puberty to independence.",
+    "de_title": "Jugend",
+    "de_content": "die Übergangszeit von der Kindheit zum Erwachsenenalter, die von der Pubertät bis zur Unabhängigkeit reicht."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 278,
+    "title": "puberty",
+    "content": "the period of sexual maturation, during which a person usually becomes capable of reproducing",
+    "de_title": "Pubertät",
+    "de_content": "die Zeit der Geschlechtsreife, in der ein Mensch üblicherweise fortpflanzungsfähig wird"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 279,
+    "title": "identity",
+    "content": "our sense of self; according to Erikson, the adolescent’s task is to solidify a sense of self by testing and integrating various roles.",
+    "de_title": "Identität",
+    "de_content": "unser Selbstbewusstsein; Laut Erikson besteht die Aufgabe des Jugendlichen darin, sein Selbstbewusstsein durch das Testen und Integrieren verschiedener Rollen zu festigen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 280,
+    "title": "social identity",
+    "content": "the “we” aspect of our self-concept; the part of our answer to “Who am I?” that comes from our group memberships.",
+    "de_title": "soziale Identität",
+    "de_content": "der „Wir“-Aspekt unseres Selbstverständnisses; der Teil unserer Antwort auf „Wer bin ich?“ das kommt von unseren Gruppenmitgliedschaften."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 281,
+    "title": "intimacy",
+    "content": "in Erikson’s theory, the ability to form close, loving relationships; a primary developmental task in young adulthood.",
+    "de_title": "Intimität",
+    "de_content": "in Eriksons Theorie die Fähigkeit, enge, liebevolle Beziehungen aufzubauen; eine primäre Entwicklungsaufgabe im jungen Erwachsenenalter."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 282,
+    "title": "emerging adulthood",
+    "content": "a period from about age 18 to the mid-twenties, when many in Western cultures are no longer adolescents but have not yet achieved full independence as adults.",
+    "de_title": "heranwachsendes Erwachsenenalter",
+    "de_content": "eine Zeitspanne von etwa 18 bis Mitte Zwanzig, in der viele in westlichen Kulturen keine Jugendlichen mehr sind, aber als Erwachsene noch nicht die volle Unabhängigkeit erreicht haben."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 283,
     "title": "Chapter -",
     "content": "Adulthood",
-    "de_title": "-",
-    "de_content": "-"
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 284,
+    "title": "menopause",
+    "content": "the time of natural cessation of menstruation; also refers to the biological changes a woman experiences as her ability to reproduce declines.",
+    "de_title": "Menopause",
+    "de_content": "der Zeitpunkt des natürlichen Endes der Menstruation; bezieht sich auch auf die biologischen Veränderungen, die eine Frau erfährt, wenn ihre Fortpflanzungsfähigkeit abnimmt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 285,
+    "title": "neurocognitive disorders (NCDs)",
+    "content": "acquired (not lifelong) disorders marked by cognitive deficits; often related to Alzheimer’s disease, brain injury or disease, or substance abuse. Also called dementia in older adults.",
+    "de_title": "neurokognitive Störungen (NCDs)",
+    "de_content": "erworbene (nicht lebenslange) Störungen, die durch kognitive Defizite gekennzeichnet sind; häufig im Zusammenhang mit der Alzheimer-Krankheit, einer Hirnverletzung oder -erkrankung oder Drogenmissbrauch. Bei älteren Erwachsenen wird sie auch Demenz genannt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 286,
+    "title": "Alzheimer’s disease",
+    "content": "a neurocognitive disorder marked by neural plaques, often with onset after age 80, and entailing a progressive decline in memory and other cognitive abilities.",
+    "de_title": "Alzheimer-Erkrankung",
+    "de_content": "Eine neurokognitive Störung, die durch neurale Plaques gekennzeichnet ist, häufig nach dem 80. Lebensjahr auftritt und einen fortschreitenden Rückgang des Gedächtnisses und anderer kognitiver Fähigkeiten mit sich bringt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 287,
+    "title": "social clock",
+    "content": "the culturally preferred timing of social events such as marriage, parenthood, and retirement.",
+    "de_title": "soziale Uhr",
+    "de_content": "der kulturell bevorzugte Zeitpunkt gesellschaftlicher Ereignisse wie Heirat, Elternschaft und Ruhestand."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 288,
     "title": "CHAPTER 6: Sensation and Perception",
     "content": "Basic Concepts of Sensation and Perception",
-    "de_title": "-",
-    "de_content": "-"
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 289,
+    "title": "sensation",
+    "content": "the process by which our sensory receptors and nervous system receive and represent stimulus energies from our environment.",
+    "de_title": "Sensation",
+    "de_content": "der Prozess, durch den unsere Sinnesrezeptoren und unser Nervensystem Reizenergien aus unserer Umgebung empfangen und darstellen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 290,
+    "title": "sensory receptors",
+    "content": "sensory nerve endings that respond to stimuli.",
+    "de_title": "Sinnesrezeptoren",
+    "de_content": "sensorische Nervenenden, die auf Reize reagieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 291,
+    "title": "perception",
+    "content": "the process by which our brain organizes and interprets sensory information, enabling us to recognize objects and events as meaningful.",
+    "de_title": "Wahrnehmung",
+    "de_content": "der Prozess, durch den unser Gehirn sensorische Informationen organisiert und interpretiert und es uns ermöglicht, Objekte und Ereignisse als bedeutungsvoll zu erkennen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 292,
+    "title": "bottom-up processing",
+    "content": "information processing that begins with the sensory receptors and works up to the brain’s integration of sensory information.",
+    "de_title": "Bottom-up-Verarbeitung",
+    "de_content": "Informationsverarbeitung, die bei den Sinnesrezeptoren beginnt und bis zur Integration sensorischer Informationen durch das Gehirn reicht."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 293,
+    "title": "top-down processing",
+    "content": "information processing guided by higher-level mental processes, as when we construct perceptions drawing on our experience and expectations.",
+    "de_title": "Top-Down-Verarbeitung",
+    "de_content": "Informationsverarbeitung, die von mentalen Prozessen auf höherer Ebene gesteuert wird, beispielsweise wenn wir Wahrnehmungen auf der Grundlage unserer Erfahrungen und Erwartungen konstruieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 294,
+    "title": "transduction",
+    "content": "conversion of one form of energy into another. In sensation, the transforming of stimulus energies, such as sights, sounds, and smells, into neural impulses our brain can interpret.",
+    "de_title": "Transduktion",
+    "de_content": "Umwandlung einer Energieform in eine andere. Bei der Empfindung handelt es sich um die Umwandlung von Reizenergien wie Bildern, Geräuschen und Gerüchen in neuronale Impulse, die unser Gehirn interpretieren kann."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 295,
+    "title": "psychophysics",
+    "content": "the study of relationships between the physical characteristics of stimuli, such as their intensity, and our psychological experience of them.",
+    "de_title": "Psychophysik",
+    "de_content": "die Untersuchung der Beziehungen zwischen den physischen Eigenschaften von Reizen, wie z. B. ihrer Intensität, und unserer psychologischen Erfahrung mit ihnen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 296,
+    "title": "absolute threshold",
+    "content": "the minimum stimulus energy needed to detect a particular stimulus 50 percent of the time.",
+    "de_title": "absolute Schwelle",
+    "de_content": "die minimale Reizenergie, die erforderlich ist, um einen bestimmten Reiz in 50 Prozent der Fälle zu erkennen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 297,
+    "title": "signal detection theory",
+    "content": "a theory predicting how and when we detect the presence of a faint stimulus (signal) amid background stimulation (noise). Assumes there is no single absolute threshold and that detection depends partly on a person’s experience, expectations, motivation, and alertness.",
+    "de_title": "Signaldetektionstheorie",
+    "de_content": "eine Theorie, die vorhersagt, wie und wann wir das Vorhandensein eines schwachen Reizes (Signals) inmitten einer Hintergrundstimulation (Rauschen) erkennen. Geht davon aus, dass es keinen einzigen absoluten Schwellenwert gibt und dass die Erkennung teilweise von der Erfahrung, den Erwartungen, der Motivation und der Wachsamkeit einer Person abhängt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 298,
+    "title": "subliminal",
+    "content": "below one’s absolute threshold for conscious awareness.",
+    "de_title": "unterschwellig",
+    "de_content": "unterhalb der absoluten Schwelle für bewusstes Bewusstsein."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 299,
+    "title": "difference threshold",
+    "content": "the minimum difference between two stimuli required for detection 50 percent of the time. We experience the difference threshold as a just noticeable difference (or jnd).",
+    "de_title": "Differenzschwelle",
+    "de_content": "der minimale Unterschied zwischen zwei Reizen, der für die Erkennung in 50 Prozent der Fälle erforderlich ist. Wir erleben die Differenzschwelle als einen gerade noch wahrnehmbaren Unterschied (oder jnd)."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 301,
+    "title": "Weber’s law",
+    "content": "the principle that, to be perceived as different, two stimuli must differ by a constant minimum percentage (rather than a constant amount).",
+    "de_title": "Webers Gesetz",
+    "de_content": "Das Prinzip, dass sich zwei Reize um einen konstanten Mindestprozentsatz (und nicht um einen konstanten Betrag) unterscheiden müssen, um als unterschiedlich wahrgenommen zu werden."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 302,
+    "title": "sensory adaptation",
+    "content": "diminished sensitivity as a consequence of constant stimulation.",
+    "de_title": "sensorische Anpassung",
+    "de_content": "verminderte Empfindlichkeit als Folge ständiger Stimulation."
   },
   {
-    "id": 0,
+    "id": 303,
+    "title": "perceptual set",
+    "content": "a mental predisposition to perceive one thing and not another.",
+    "de_title": "Wahrnehmungssatz",
+    "de_content": "eine geistige Veranlagung, eine Sache wahrzunehmen und eine andere nicht."
+  },
+  {
+    "id": 304,
+    "title": "priming",
+    "content": "the activation, often unconsciously, of certain associations, thus predisposing one’s perception, memory, or response.",
+    "de_title": "Grundierung",
+    "de_content": "die oft unbewusste Aktivierung bestimmter Assoziationen, wodurch die Wahrnehmung, das Gedächtnis oder die Reaktion eines Menschen prädisponiert werden."
+  },
+  {
+    "id": 305,
     "title": "Chapter - ",
     "content": "Vision: Sensory and Perceptual Processing",
     "de_title": "-",
     "de_content": "-"
+  },
+  {
+    "id": 306,
+    "title": "wavelength",
+    "content": "the distance from the peak of one light or sound wave to the peak of the next. Electromagnetic wavelengths vary from the short blips of gamma rays to the long pulses of radio transmission.",
+    "de_title": "Wellenlänge",
+    "de_content": "der Abstand vom Höhepunkt einer Licht- oder Schallwelle zum Höhepunkt der nächsten. Elektromagnetische Wellenlängen variieren von kurzen Gammastrahlenimpulsen bis hin zu langen Impulsen der Funkübertragung."
+  },
+  {
+    "id": 307,
+    "title": "hue",
+    "content": "the dimension of color that is determined by the wavelength of light; what we know as the color names blue, green, and so forth.",
+    "de_title": "Farbton",
+    "de_content": "die Farbdimension, die durch die Wellenlänge des Lichts bestimmt wird; was wir als Farbnamen kennen: Blau, Grün usw."
+  },
+  {
+    "id": 308,
+    "title": "intensity",
+    "content": "the amount of energy in a light wave or sound wave, which influences what we perceive as brightness or loudness. Intensity is determined by the wave’s amplitude (height).",
+    "de_title": "Intensität",
+    "de_content": "die Energiemenge einer Licht- oder Schallwelle, die beeinflusst, was wir als Helligkeit oder Lautstärke wahrnehmen. Die Intensität wird durch die Amplitude (Höhe) der Welle bestimmt."
+  },
+  {
+    "id": 309,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 310,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 311,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 312,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 0,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
   },
   {
     "id": 0,

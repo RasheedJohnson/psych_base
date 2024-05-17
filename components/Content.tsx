@@ -47,7 +47,13 @@ export default function Content() {
         items.map((item) => (
           item.title.toLowerCase().includes(test_text) ? (
             <div key={item.id} id={item.title} className={`${chapter_container_styles}`}>
-              {item.title.toLocaleLowerCase().includes("-") ? (""): (<p className={chapter_number_styles}>{item.title}</p>)}
+              {
+                item.title.toLowerCase().includes("-") ? (
+                  ""
+                ) : (
+                  <p className={chapter_number_styles}>{item.title}</p>
+                )
+              }
               <h4 className={chapter_styles}>
                 {item.content}</h4>
               <div className='h-[1px] w-[300px] mt-2 bg-gradient-to-r from-slate-500 from-10% via-slate-900 via-30% to-slate-500 to-90%'></div>
