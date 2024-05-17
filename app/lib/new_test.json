@@ -1288,266 +1288,259 @@
     "de_content": "der Anteil der Variation zwischen Individuen in einer Gruppe, den wir den Genen zuschreiben können. Die Vererbbarkeit eines Merkmals kann je nach untersuchter Population und Umgebung unterschiedlich sein."
   },
   {
-    "id": 0,
+    "id": 205,
     "title": "interaction",
     "content": "the interplay that occurs when the effect of one factor (such as environment) depends on another factor (such as heredity).",
     "de_title": "Interaktion",
     "de_content": "das Zusammenspiel, das auftritt, wenn die Wirkung eines Faktors (z. B. der Umwelt) von einem anderen Faktor (z. B. Vererbung) abhängt."
   },
   {
-    "id": 0,
+    "id": 206,
     "title": "molecular genetics",
     "content": "the subfield of biology that studies the molecular structure and function of genes.",
     "de_title": "Molekulargenetik",
     "de_content": "das Teilgebiet der Biologie, das die molekulare Struktur und Funktion von Genen untersucht."
   },
   {
-    "id": 0,
+    "id": 207,
     "title": "molecular behavior genetics",
     "content": "the study of how the structure and function of genes interact with our environment to influence behavior.",
     "de_title": "Molekulare Verhaltensgenetik",
     "de_content": "die Untersuchung, wie die Struktur und Funktion von Genen mit unserer Umwelt interagieren, um das Verhalten zu beeinflussen."
   },
   {
-    "id": 0,
+    "id": 208,
     "title": "epigenetics",
     "content": "“above” or “in addition to” (epi) genetics; the study of the molecular mechanisms by which environments can influence gene expression (without a DNA change).",
     "de_title": "Epigenetik",
     "de_content": "„über“ oder „zusätzlich zu“ (Epi-)Genetik; die Untersuchung der molekularen Mechanismen, durch die Umgebungen die Genexpression beeinflussen können (ohne eine DNA-Veränderung)."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 209,
     "title": "Chapter - ",
     "content": "Evolutionary Psychology: Explaining Human Nature and Nurture",
     "de_title": "-",
     "de_content": "-"
   },
   {
-    "id": 0,
+    "id": 210,
     "title": "evolutionary psychology",
     "content": "the study of the evolution of behavior and the mind, using principles of natural selection.",
     "de_title": "Evolutionspsychologie",
     "de_content": "das Studium der Entwicklung des Verhaltens und des Geistes unter Verwendung der Prinzipien der natürlichen Selektion."
   },
   {
-    "id": 0,
+    "id": 211,
     "title": "natural selection",
     "content": "the principle that inherited traits that better enable an organism to survive and reproduce in a particular environment will (in competition with other trait variations) most likely be passed on to succeeding generations.",
     "de_title": "natürliche Auslese",
     "de_content": "Das Prinzip, dass vererbte Merkmale, die es einem Organismus besser ermöglichen, in einer bestimmten Umgebung zu überleben und sich zu vermehren, (im Wettbewerb mit anderen Merkmalsvarianten) höchstwahrscheinlich an nachfolgende Generationen weitergegeben werden."
   },
   {
-    "id": 0,
+    "id": 212,
     "title": "mutation",
     "content": "a random error in gene replication that leads to a change.",
     "de_title": "mutation",
     "de_content": "ein zufälliger Fehler bei der Genreplikation, der zu einer Veränderung führt."
   },
   {
-    "id": 0,
+    "id": 213,
     "title": "social script",
     "content": "a culturally modeled guide for how to act in various situations.",
     "de_title": "soziales Drehbuch",
     "de_content": "a culturally modeled guide for how to act in various situations."
   },
   {
-    "id": 0,
+    "id": 214,
     "title": "Chapter - ",
     "content": "Cultural and Gender Diversity: Understanding Nature and Nurture",
     "de_title": "-",
     "de_content": "-"
   },
   {
-    "id": 0,
+    "id": 215,
     "title": "culture",
     "content": "the enduring behaviors, ideas, attitudes, values, and traditions shared by a group of people and transmitted from one generation to the next.",
     "de_title": "Kultur",
     "de_content": "die dauerhaften Verhaltensweisen, Ideen, Einstellungen, Werte und Traditionen, die von einer Gruppe von Menschen geteilt und von einer Generation zur nächsten weitergegeben werden."
   },
   {
-    "id": 0,
+    "id": 216,
     "title": "norm",
     "content": "an understood rule for accepted and expected behavior. Norms prescribe “proper” behavior.",
     "de_title": "Norm",
     "de_content": "eine verstandene Regel für akzeptiertes und erwartetes Verhalten. Normen schreiben „richtiges“ Verhalten vor."
   },
   {
-    "id": 0,
+    "id": 217,
     "title": "individualism",
     "content": "giving priority to one’s own goals over group goals and defining one’s identity in terms of personal attributes rather than group identifications.",
     "de_title": "Individualismus",
     "de_content": "Den eigenen Zielen Vorrang vor Gruppenzielen einräumen und die eigene Identität anhand persönlicher Eigenschaften und nicht anhand von Gruppenidentifikationen definieren."
   },
   {
-    "id": 0,
+    "id": 218,
     "title": "collectivism",
     "content": "giving priority to the goals of one’s group (often one’s extended family or work group) and defining one’s identity accordingly.",
     "de_title": "Kollektivismus",
     "de_content": "Den Zielen der eigenen Gruppe (häufig der erweiterten Familie oder der Arbeitsgruppe) Priorität einräumen und die eigene Identität entsprechend definieren."
   },
   {
-    "id": 0,
+    "id": 219,
     "title": "sex",
     "content": "in psychology, the biologically influenced characteristics by which people define male, female, and intersex.",
     "de_title": "sex",
     "de_content": "In der Psychologie die biologisch beeinflussten Merkmale, anhand derer Menschen männlich, weiblich und intersexuell definieren."
   },
   {
-    "id": 0,
+    "id": 220,
     "title": "gender",
     "content": "in psychology, the behavioral characteristics that people associate with boy, girl, man, and woman. (See also gender identity.)",
     "de_title": "Geschlecht",
     "de_content": "In der Psychologie die Verhaltensmerkmale, die Menschen mit Jungen, Mädchen, Männern und Frauen assoziieren. (Siehe auch Geschlechtsidentität.)"
   },
   {
-    "id": 0,
+    "id": 221,
     "title": "intersex",
     "content": "possessing male and female biological sexual characteristics at birth.",
     "de_title": "intersexuell",
     "de_content": "bei der Geburt männliche und weibliche biologische Geschlechtsmerkmale besitzen"
   },
   {
-    "id": 0,
+    "id": 223,
     "title": "aggression",
     "content": "any physical or verbal behavior intended to harm someone physically or emotionally.",
     "de_title": "aggression",
     "de_content": "jedes körperliche oder verbale Verhalten, das darauf abzielt, jemandem körperlich oder emotional zu schaden."
   },
   {
-    "id": 0,
+    "id": 224,
     "title": "relational aggression",
     "content": "an act of aggression (physical or verbal) intended to harm a person’s relationship or social standing.",
     "de_title": "relationale Aggression",
     "de_content": "ein Akt der Aggression (körperlich oder verbal), der darauf abzielt, die Beziehung oder das soziale Ansehen einer Person zu schädigen."
   },
   {
-    "id": 0,
+    "id": 225,
     "title": "X chromosome",
     "content": "the sex chromosome found in males and females. Females typically have two X chromosomes; males typically have one. An X chromosome from each parent produces a female child.",
     "de_title": "X-Chromosom",
     "de_content": "das Geschlechtschromosom, das bei Männern und Frauen vorkommt. Frauen haben typischerweise zwei X-Chromosomen; Männer haben normalerweise einen. Ein X-Chromosom jedes Elternteils bringt ein weibliches Kind hervor."
   },
   {
-    "id": 0,
+    "id": 227,
     "title": " Y chromosome",
     "content": "the sex chromosome typically found only in males. When paired with an X chromosome from the mother, it produces a male child.",
     "de_title": "Y-Chromosom",
     "de_content": "das Geschlechtschromosom, das normalerweise nur bei Männern vorkommt. Wenn es mit einem X-Chromosom der Mutter gepaart wird, entsteht ein männliches Kind."
   },
   {
-    "id": 0,
+    "id": 228,
     "title": "testosterone",
     "content": "the most important male sex hormone. Males and females have it, but the additional testosterone in males stimulates the growth of the male sex organs during the fetal period, and the development of the male sex characteristics during puberty.",
     "de_title": "Testosteron",
     "de_content": "das wichtigste männliche Sexualhormon. Männer und Frauen haben es, aber das zusätzliche Testosteron bei Männern stimuliert das Wachstum der männlichen Geschlechtsorgane während der Fötalperiode und die Entwicklung der männlichen Geschlechtsmerkmale während der Pubertät."
   },
   {
-    "id": 0,
+    "id": 229,
     "title": "estrogens",
     "content": "sex hormones, such as estradiol, that contribute to female sex characteristics and are secreted in greater amounts by females than by males.",
     "de_title": "Östrogene",
     "de_content": "Sexualhormone wie Östradiol, die zu den weiblichen Geschlechtsmerkmalen beitragen und von Frauen in größeren Mengen ausgeschüttet werden als von Männern."
   },
   {
-    "id": 0,
+    "id": 230,
     "title": "puberty",
     "content": "the period of sexual maturation, when a person becomes capable of reproducing.",
     "de_title": "Pubertät",
     "de_content": "die Zeit der Geschlechtsreife, in der ein Mensch fortpflanzungsfähig wird."
   },
   {
-    "id": 0,
+    "id": 231,
     "title": "primary sex characteristics",
     "content": "the body structures (ovaries, testes, and external genitalia) that make sexual reproduction possible",
     "de_title": "primäre Geschlechtsmerkmale",
     "de_content": "die Körperstrukturen (Eierstöcke, Hoden und äußere Genitalien), die die sexuelle Fortpflanzung ermöglichen"
   },
   {
-    "id": 0,
+    "id": 232,
     "title": "secondary sex characteristics",
     "content": "nonreproductive sexual traits, such as female breasts and hips, male voice quality, and body hair.",
     "de_title": "sekundäre Geschlechtsmerkmale",
     "de_content": "nichtreproduktive sexuelle Merkmale wie weibliche Brüste und Hüften, männliche Stimmqualität und Körperbehaarung."
   },
   {
-    "id": 0,
+    "id": 234,
     "title": "spermarche",
     "content": "[sper-MAR-key] the first ejaculation.",
     "de_title": "Spermarche",
     "de_content": "die erste Ejakulation."
   },
   {
-    "id": 0,
+    "id": 236,
     "title": "menarche",
     "content": "[meh-NAR-key] the first menstrual period.",
     "de_title": "Menarche",
     "de_content": "die erste Menstruationsperiode."
   },
   {
-    "id": 0,
+    "id": 237,
     "title": "role",
     "content": "a set of expectations (norms) about a social position, defining how those in the position ought to behave.",
     "de_title": "Rolle",
     "de_content": "eine Reihe von Erwartungen (Normen) an eine soziale Position, die definieren, wie sich die Personen in dieser Position verhalten sollten."
   },
   {
-    "id": 0,
+    "id": 238,
     "title": "gender role",
     "content": "a set of expected behaviors, attitudes, and traits for men and for women.",
     "de_title": "Geschlechterrolle",
     "de_content": "eine Reihe erwarteter Verhaltensweisen, Einstellungen und Eigenschaften für Männer und Frauen."
   },
   {
-    "id": 0,
+    "id": 239,
     "title": "sexual aggression",
     "content": "any physical or verbal behavior of a sexual nature that is unwanted or intended to harm someone physically or emotionally. Can be expressed as either sexual harassment or sexual assault.",
     "de_title": "sexuelle Aggression",
     "de_content": "Jedes körperliche oder verbale Verhalten sexueller Natur, das unerwünscht ist oder darauf abzielt, jemandem körperlich oder emotional zu schaden. Kann entweder als sexuelle Belästigung oder als sexueller Übergriff ausgedrückt werden."
   },
   {
-    "id": 0,
+    "id": 240,
     "title": "gender identity",
     "content": "our sense of being male, female, neither, or some combination of male and female.",
     "de_title": "Geschlechtsidentität",
     "de_content": "unser Gefühl, männlich, weiblich, keines von beiden oder eine Kombination aus männlich und weiblich zu sein."
   },
   {
-    "id": 0,
+    "id": 241,
     "title": "social learning theory",
     "content": "the theory that we learn social behavior by observing and imitating and by being rewarded or punished.",
     "de_title": "Theorie des sozialen Lernens",
     "de_content": "die Theorie, dass wir soziales Verhalten lernen, indem wir beobachten und nachahmen und indem wir belohnt oder bestraft werden."
   },
   {
-    "id": 0,
+    "id": 242,
     "title": "gender typing",
     "content": "the acquisition of a traditional masculine or feminine role.",
     "de_title": "Geschlechtstypisierung",
     "de_content": "die Übernahme einer traditionellen männlichen oder weiblichen Rolle."
   },
   {
-    "id": 0,
+    "id": 243,
     "title": "androgyny",
     "content": "displaying both traditionally masculine and traditionally feminine psychological characteristics.",
     "de_title": "Androgynie",
     "de_content": "sowohl traditionell männliche als auch traditionell weibliche psychologische Merkmale aufweisen."
   },
   {
-    "id": 0,
+    "id": 244,
     "title": "transgender",
     "content": "an umbrella term describing people whose gender identity or expression differs from that associated with their birth assigned sex.",
     "de_title": "Transgender",
     "de_content": "Ein Überbegriff für Menschen, deren Geschlechtsidentität oder -ausdruck sich von dem bei der Geburt zugewiesenen Geschlecht unterscheidet."
   },
   {
-    "id": 0,
+    "id": 245,
     "title": "CHAPTER 5: Developing Through the Life Span",
     "content": "Developmental Issues, Prenatal Development, and the Newborn",
     "de_title": "-",
