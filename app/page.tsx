@@ -12,8 +12,8 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center">
         {/* GRADIENT */}
 
-        <h1 className="font-medium text-md lg:text-3xl mb-4">Psychology Database</h1>
-        <div className='w-full h-[1px] mb-10 bg-gradient-to-r from-black from-10% via-slate-700 via-30% to-black to-90%'></div>
+        <h1 className="font-medium text-md lg:text-3xl mt-6 mb-2">Psychology Database</h1>
+        <div className='w-full h-[1px] bg-gradient-to-r from-black from-10% via-slate-700 via-30% to-black to-90%'></div>
         <Content />
       </div>
     </main>
