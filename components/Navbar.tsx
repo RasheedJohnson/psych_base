@@ -20,7 +20,8 @@ const Navbar = () => {
     "CHAPTER 3: Consciousness and the Two TrackMind",
     "CHAPTER 4: Nature, Nurture, and Human Diversity",
     "CHAPTER 5: Developing Through the Life Span",
-    "CHAPTER 6: Sensation and Perception"
+    "CHAPTER 6: Sensation and Perception",
+    "CHAPTER 7: Learning"
   ]
 
   return (

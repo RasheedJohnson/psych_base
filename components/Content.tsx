@@ -1,5 +1,4 @@
 "use client"
-import { promises as fs } from 'fs';
 import items from "@/app/lib/new_test.json";
 import { useState } from 'react';
 
@@ -42,7 +41,7 @@ export default function Content() {
   }
 
   return (
-    <div id="card-group" className='flex flex-col justify-center items-center'>
+    <div id="card-group" className='flex flex-col justify-center items-center pb-10'>
       {
         items.map((item) => (
           item.title.toLowerCase().includes(test_text) ? (

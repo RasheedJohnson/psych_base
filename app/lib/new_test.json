@@ -1983,265 +1983,538 @@
   },
   {
     "id": 309,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "Retina",
+    "content": "the light-sensitive inner surface of the eye, containing the receptor rods and cones plus layers of neurons that begin the processing of visual information.",
+    "de_title": "Retina",
+    "de_content": "die lichtempfindliche Innenfläche des Auges, die die Rezeptorstäbe und -zapfen sowie Schichten von Neuronen enthält, die mit der Verarbeitung visueller Informationen beginnen."
   },
   {
     "id": 310,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "accommodation",
+    "content": "the process by which the eye’s lens changes shape to focus near or far objects on the retina.",
+    "de_title": "Unterkunft",
+    "de_content": "Der Prozess, bei dem die Augenlinse ihre Form ändert, um nahe oder ferne Objekte auf der Netzhaut zu fokussieren."
   },
   {
     "id": 311,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "rods",
+    "content": "retinal receptors that detect black, white, and gray, and are sensitive to movement. Rods are necessary for peripheral and twilight vision, when cones don’t respond.",
+    "de_title": "Stangen",
+    "de_content": "Netzhautrezeptoren, die Schwarz, Weiß und Grau erkennen und empfindlich auf Bewegungen reagieren. Stäbchen sind für das periphere Sehen und das Sehen in der Dämmerung notwendig, wenn die Zapfen nicht reagieren."
   },
   {
     "id": 312,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "cones",
+    "content": "retinal receptors that are concentrated near the center of the retina and that function in daylight or in well-lit conditions. Cones detect fine detail and give rise to color sensations.",
+    "de_title": "Kegel",
+    "de_content": "Netzhautrezeptoren, die nahe der Mitte der Netzhaut konzentriert sind und bei Tageslicht oder guten Lichtverhältnissen funktionieren. Zapfen erkennen feine Details und lösen Farbempfindungen aus."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 313,
+    "title": "optic nerve",
+    "content": "the nerve that carries neural impulses from the eye to the brain.",
+    "de_title": "Sehnerv",
+    "de_content": "der Nerv, der Nervenimpulse vom Auge zum Gehirn überträgt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 315,
+    "title": "blind spot",
+    "content": " the point at which the optic nerve leaves the eye, creating a “blind” spot because no receptor cells are located there",
+    "de_title": "blinder Fleck",
+    "de_content": "Der Punkt, an dem der Sehnerv das Auge verlässt, wodurch ein „blinder“ Fleck entsteht, da sich dort keine Rezeptorzellen befinden"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 316,
+    "title": "fovea",
+    "content": "the central focal point in the retina, around which the eye’s cones cluster.",
+    "de_title": "Fovea",
+    "de_content": "der zentrale Brennpunkt in der Netzhaut, um den sich die Augenzapfen gruppieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 317,
+    "title": "Young-Helmholtz trichromatic (three-color) theory",
+    "content": "the theory that the retina contains three different types of color receptors—one most sensitive to red, one to green, one to blue—which, when stimulated in combination, can produce the perception of any color.",
+    "de_title": "Trichromatische (Dreifarben-)Theorie von Young-Helmholtz",
+    "de_content": "Die Theorie besagt, dass die Netzhaut drei verschiedene Arten von Farbrezeptoren enthält – einen für Rot, einen für Grün und einen für Blau –, die, wenn sie in Kombination stimuliert werden, die Wahrnehmung jeder Farbe hervorrufen können."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 318,
+    "title": "opponent-process theory",
+    "content": "the theory that opposing retinal processes (red-green, blue-yellow, white-black) enable color vision. For example, some cells are stimulated by green and inhibited by red; others are stimulated by red and inhibited by green.",
+    "de_title": "Gegnerprozesstheorie",
+    "de_content": "die Theorie, dass gegensätzliche Netzhautprozesse (Rot-Grün, Blau-Gelb, Weiß-Schwarz) das Farbsehen ermöglichen. Beispielsweise werden manche Zellen durch Grün stimuliert und durch Rot gehemmt; andere werden durch Rot stimuliert und durch Grün gehemmt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 319,
+    "title": "feature detectors",
+    "content": "nerve cells in the brain’s visual cortex that respond to specific features of the stimulus, such as shape, angle, or movement.",
+    "de_title": "Feature-Detektoren",
+    "de_content": "Nervenzellen im visuellen Kortex des Gehirns, die auf bestimmte Merkmale des Reizes reagieren, wie z. B. Form, Winkel oder Bewegung."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 320,
+    "title": "parallel processing",
+    "content": "processing many aspects of a stimulus or problem simultaneously.",
+    "de_title": "Parallelverarbeitung",
+    "de_content": "Viele Aspekte eines Reizes oder Problems gleichzeitig verarbeiten."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 321,
+    "title": "gestalt",
+    "content": "an organized whole. Gestalt psychologists emphasized our tendency to integrate pieces of information into meaningful wholes.",
+    "de_title": "Gestalt",
+    "de_content": "ein organisiertes Ganzes. Gestaltpsychologen betonten unsere Tendenz, Informationsteile zu sinnvollen Ganzen zu integrieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 322,
+    "title": "figure-ground",
+    "content": "the organization of the visual field into objects (the figures) that stand out from their surroundings (the ground).",
+    "de_title": "Figurengrund",
+    "de_content": "die Organisation des Gesichtsfeldes in Objekte (die Figuren), die sich von ihrer Umgebung (dem Boden) abheben."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 324,
+    "title": "grouping",
+    "content": "the perceptual tendency to organize stimuli into coherent groups.",
+    "de_title": "Gruppierung",
+    "de_content": "die Wahrnehmungstendenz, Reize in kohärenten Gruppen zu organisieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 325,
+    "title": "depth perception",
+    "content": "the ability to see objects in three dimensions, although the images that strike the retina are two-dimensional; allows us to judge distance.",
+    "de_title": "Tiefenwahrnehmung",
+    "de_content": "die Fähigkeit, Objekte dreidimensional zu sehen, obwohl die Bilder, die auf die Netzhaut treffen, zweidimensional sind; ermöglicht es uns, Entfernungen zu beurteilen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 326,
+    "title": "visual cliff",
+    "content": "a laboratory device for testing depth perception in infants and young animals.",
+    "de_title": "visuelle Klippe",
+    "de_content": "ein Laborgerät zur Prüfung der Tiefenwahrnehmung bei Säuglingen und Jungtieren."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 327,
+    "title": "binocular cue",
+    "content": "a depth cue, such as retinal disparity, that depends on the use of two eyes",
+    "de_title": "Fernglas-Hinweis",
+    "de_content": "ein Tiefenhinweis, wie z. B. eine Netzhautdisparität, der von der Verwendung zweier Augen abhängt"
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 328,
+    "title": "retinal disparity",
+    "content": "a binocular cue for perceiving depth. By comparing retinal images from the two eyes, the brain computes distance—the greater the disparity (difference) between the two images, the closer the object.",
+    "de_title": "Netzhautdisparität",
+    "de_content": "ein binokularer Hinweis zur Wahrnehmung von Tiefe. Durch den Vergleich der Netzhautbilder der beiden Augen berechnet das Gehirn die Entfernung – je größer die Ungleichheit (Unterschied) zwischen den beiden Bildern, desto näher ist das Objekt."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 329,
+    "title": "monocular cue",
+    "content": "a depth cue, such as interposition or linear perspective, available to either eye alone.",
+    "de_title": "monokularer Hinweis",
+    "de_content": "ein Tiefenhinweis, wie z. B. Interposition oder lineare Perspektive, der nur für jedes Auge verfügbar ist."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 330,
+    "title": "phi phenomenon",
+    "content": "an illusion of movement created when two or more adjacent lights blink on and off in quick succession.",
+    "de_title": "Phi-Phänomen",
+    "de_content": "eine Illusion von Bewegung, die entsteht, wenn zwei oder mehr benachbarte Lichter schnell hintereinander ein- und ausgehen."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 331,
+    "title": "perceptual constancy",
+    "content": "perceiving objects as unchanging (having consistent color, brightness, shape, and size) even as illumination and retinal images change.",
+    "de_title": "Wahrnehmungskonstanz",
+    "de_content": "Wahrnehmung von Objekten als unveränderlich (mit gleichbleibender Farbe, Helligkeit, Form und Größe), auch wenn sich Beleuchtung und Netzhautbilder ändern."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "id": 332,
+    "title": "perceptual adaptation",
+    "content": "the ability to adjust to changed sensory input, including an artificially displaced or even inverted visual field.",
+    "de_title": "Wahrnehmungsanpassung",
+    "de_content": "die Fähigkeit, sich an veränderte Sinneseindrücke anzupassen, einschließlich eines künstlich verschobenen oder sogar umgekehrten Gesichtsfeldes."
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 333,
     "title": "Chapter - ",
     "content": "The Nonvisual Senses",
-    "de_title": "-",
-    "de_content": "-"
+    "de_title": "",
+    "de_content": ""
   },
   {
-    "id": 0,
+    "id": 335,
+    "title": "audition",
+    "content": "the sense or act of hearing.",
+    "de_title": "Hörens???",
+    "de_content": "der Sinn oder Akt des Hörens."
+  },
+  {
+    "id": 336,
+    "title": "frequency",
+    "content": "the number of complete wavelengths that pass a point in a given time (for example, per second).",
+    "de_title": "Frequenz",
+    "de_content": "die Anzahl vollständiger Wellenlängen, die in einer bestimmten Zeit (z. B. pro Sekunde) einen Punkt passieren."
+  },
+  {
+    "id": 337,
+    "title": "pitch",
+    "content": "a tone’s experienced highness or lowness; depends on frequency.",
+    "de_title": "Tonhöhe",
+    "de_content": "die erlebte Höhe oder Tiefe eines Tons; hängt von der Frequenz ab."
+  },
+  {
+    "id": 338,
+    "title": "middle ear",
+    "content": "the chamber between the eardrum and cochlea containing three tiny bones—hammer (malleus), anvil (incus), and stirrup (stapes)—that concentrate the vibrations of the eardrum on the cochlea’s oval window.",
+    "de_title": "Mittelohr",
+    "de_content": "Die Kammer zwischen Trommelfell und Cochlea enthält drei winzige Knochen – Hammer (Malleus), Amboss (Incus) und Steigbügel (Stapes) –, die die Schwingungen des Trommelfells auf das ovale Fenster der Cochlea konzentrieren."
+  },
+  {
+    "id": 339,
+    "title": "cochlea",
+    "content": "[KOHK-lee-uh] a coiled, bony, fluid-filled tube in the inner ear; sound waves traveling through the cochlear fluid trigger nerve impulses.",
+    "de_title": "Schnecke",
+    "de_content": "[KOHK-lee-uh] ein gewundener, knöcherner, mit Flüssigkeit gefüllter Schlauch im Innenohr; Schallwellen, die sich durch die Cochleaflüssigkeit ausbreiten, lösen Nervenimpulse aus."
+  },
+  {
+    "id": 340,
+    "title": "inner ear",
+    "content": "the innermost part of the ear, containing the cochlea, semicircular canals, and vestibular sacs.",
+    "de_title": "Innenohr",
+    "de_content": "der innerste Teil des Ohrs, der die Cochlea, die Bogengänge und die Vestibularsäcke enthält."
+  },
+  {
+    "id": 341,
+    "title": "sensorineural hearing loss",
+    "content": "the most common form of hearing loss, caused by damage to the cochlea’s receptor cells or to the auditory nerve; also called nerve deafness.",
+    "de_title": "Schallempfindungsschwerhörigkeit",
+    "de_content": "die häufigste Form von Hörverlust, die durch eine Schädigung der Rezeptorzellen der Cochlea oder des Hörnervs verursacht wird; auch Nerventaubheit genannt."
+  },
+  {
+    "id": 342,
+    "title": "conduction hearing loss",
+    "content": "a less common form of hearing loss, caused by damage to the mechanical system that conducts sound waves to the cochlea.",
+    "de_title": "Schallleitungsschwerhörigkeit",
+    "de_content": "eine seltenere Form von Hörverlust, die durch eine Schädigung des mechanischen Systems verursacht wird, das Schallwellen zur Cochlea leitet."
+  },
+  {
+    "id": 345,
+    "title": "cochlear implant",
+    "content": "a device for converting sounds into electrical signals and stimulating the auditory nerve through electrodes threaded into the cochlea.",
+    "de_title": "Cochleaimplantat",
+    "de_content": "ein Gerät zur Umwandlung von Tönen in elektrische Signale und zur Stimulation des Hörnervs durch in die Cochlea eingefädelte Elektroden."
+  },
+  {
+    "id": 346,
+    "title": "place theory",
+    "content": "in hearing, the theory that links the pitch we hear with the place where the cochlea’s membrane is stimulated. (Also called place coding.)",
+    "de_title": "Ortstheorie",
+    "de_content": "Beim Hören handelt es sich um die Theorie, die die Tonhöhe, die wir hören, mit dem Ort verknüpft, an dem die Membran der Cochlea stimuliert wird. (Auch Ortskodierung genannt.)"
+  },
+  {
+    "id": 347,
+    "title": "frequency theory",
+    "content": "in hearing, the theory that the rate of nerve impulses traveling up the auditory nerve matches the frequency of a tone, thus enabling us to sense its pitch. (Also called temporal coding.)",
+    "de_title": "Frequenztheorie",
+    "de_content": "Beim Hören handelt es sich um die Theorie, dass die Geschwindigkeit der Nervenimpulse, die den Hörnerv hinauf wandern, mit der Frequenz eines Tons übereinstimmt und es uns so ermöglicht, seine Tonhöhe zu spüren. (Auch zeitliche Kodierung genannt.)"
+  },
+  {
+    "id": 348,
+    "title": "gate-control theory",
+    "content": "the theory that the spinal cord contains a neurological “gate” that blocks pain signals or allows them to pass on to the brain. The “gate” is opened by the activity of pain signals traveling up small nerve fibers and is closed by activity in larger fibers or by information coming from the brain.",
+    "de_title": "Gate-Control-Theorie",
+    "de_content": "die Theorie, dass das Rückenmark ein neurologisches „Tor“ enthält, das Schmerzsignale blockiert oder deren Weiterleitung an das Gehirn ermöglicht. Das „Tor“ wird durch die Aktivität von Schmerzsignalen geöffnet, die über kleine Nervenfasern wandern, und wird durch Aktivität in größeren Fasern oder durch Informationen aus dem Gehirn geschlossen."
+  },
+  {
+    "id": 349,
+    "title": "hypnosis",
+    "content": "a social interaction in which one person (the hypnotist) suggests to another (the subject) that certain perceptions, feelings, thoughts, or behaviors will spontaneously occur.",
+    "de_title": "Hypnose",
+    "de_content": "eine soziale Interaktion, bei der eine Person (der Hypnotiseur) einer anderen Person (dem Subjekt) suggeriert, dass bestimmte Wahrnehmungen, Gefühle, Gedanken oder Verhaltensweisen spontan auftreten werden."
+  },
+  {
+    "id": 350,
+    "title": "dissociation",
+    "content": "a split in consciousness, which allows some thoughts and behaviors to occur simultaneously with others.",
+    "de_title": "Dissoziation",
+    "de_content": "eine Bewusstseinsspaltung, die es ermöglicht, dass einige Gedanken und Verhaltensweisen gleichzeitig mit anderen auftreten."
+  },
+  {
+    "id": 351,
+    "title": "posthypnotic suggestion",
+    "content": "a suggestion, made during a hypnosis session, to be carried out after the subject is no longer hypnotized; used by some clinicians to help control undesired symptoms and behaviors.",
+    "de_title": "posthypnotische Suggestion",
+    "de_content": "ein während einer Hypnosesitzung gemachter Vorschlag, der ausgeführt werden soll, nachdem die Person nicht mehr hypnotisiert ist; Wird von einigen Ärzten verwendet, um unerwünschte Symptome und Verhaltensweisen zu kontrollieren."
+  },
+  {
+    "id": 352,
+    "title": "gustation",
+    "content": "Our sense of taste.",
+    "de_title": "Geschmack",
+    "de_content": "unser Geschmackssinn."
+  },
+  {
+    "id": 353,
+    "title": "olfaction",
+    "content": "Our sense of smell.",
+    "de_title": "Geruchssinn",
+    "de_content": "Unser Geruchssinn."
+  },
+  {
+    "id": 354,
+    "title": "kinesthesia",
+    "content": "[kin-ehs-THEE-zhuh] our movement sense—our system for sensing the position and movement of individual body parts.",
+    "de_title": "Kinästhesie",
+    "de_content": "[kin-ehs-THEE-zhuh] unser Bewegungssinn – unser System zur Wahrnehmung der Position und Bewegung einzelner Körperteile."
+  },
+  {
+    "id": 355,
+    "title": "vestibular sense",
+    "content": "our balance sense—our sense of body movement and position that enables our sense of balance.",
+    "de_title": "Vestibularsinn",
+    "de_content": "unser Gleichgewichtssinn – unser Sinn für Körperbewegung und -position, der unseren Gleichgewichtssinn ermöglicht."
+  },
+  {
+    "id": 356,
+    "title": "sensory interaction",
+    "content": "the principle that one sense can influence another, as when the smell of food influences its taste.",
+    "de_title": "sensorische Interaktion",
+    "de_content": "das Prinzip, dass ein Sinn einen anderen beeinflussen kann, so wie wenn der Geruch eines Lebensmittels seinen Geschmack beeinflusst."
+  },
+  {
+    "id": 357,
+    "title": "embodied cognition",
+    "content": "the influence of bodily sensations, gestures, and other states on cognitive preferences and judgments.",
+    "de_title": "verkörperte Erkenntnis",
+    "de_content": "der Einfluss von Körperempfindungen, Gesten und anderen Zuständen auf kognitive Präferenzen und Urteile."
+  },
+  {
+    "id": 358,
+    "title": "extrasensory perception (ESP)",
+    "content": "the controversial claim that perception can occur apart from sensory input; includes telepathy, clairvoyance, and precognition.",
+    "de_title": "außersinnliche Wahrnehmung (ESP)",
+    "de_content": "die umstrittene Behauptung, dass Wahrnehmung unabhängig von sensorischen Eingaben erfolgen kann; Dazu gehören Telepathie, Hellsehen und Präkognition."
+  },
+  {
+    "id": 359,
+    "title": "parapsychology",
+    "content": "the study of paranormal phenomena, including ESP and psychokinesis (also called telekinesis).",
+    "de_title": "Parapsychologie",
+    "de_content": "das Studium paranormaler Phänomene, einschließlich außersinnlicher Wahrnehmung und Psychokinese (auch Telekinese genannt)."
+  },
+  {
+    "id": 360,
+    "title": "CHAPTER 7: Learning",
+    "content": "Basic Learning Concepts and Classical Conditioning",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 361,
+    "title": "learning",
+    "content": "the process of acquiring through experience new and relatively enduring information or behaviors.",
+    "de_title": "Lernen",
+    "de_content": "der Prozess des Erwerbs durch Erfahrung neuer und relativ dauerhafter Informationen oder Verhaltensweisen."
+  },
+  {
+    "id": 362,
+    "title": "associative learning",
+    "content": "learning that certain events occur together. The events may be two stimuli (as in classical conditioning) or a response and its consequence (as in operant conditioning).",
+    "de_title": "Assoziatives Lernen",
+    "de_content": "lernen, dass bestimmte Ereignisse zusammen auftreten. Die Ereignisse können zwei Reize (wie bei der klassischen Konditionierung) oder eine Reaktion und ihre Konsequenz (wie bei der operanten Konditionierung) sein."
+  },
+  {
+    "id": 363,
+    "title": "stimulus",
+    "content": "any event or situation that evokes a response.",
+    "de_title": "Stimulus",
+    "de_content": "jedes Ereignis oder jede Situation, die eine Reaktion hervorruft."
+  },
+  {
+    "id": 364,
+    "title": "respondent behavior",
+    "content": "behavior that occurs as an automatic response to some stimulus.",
+    "de_title": "Verhalten des Befragten",
+    "de_content": "Verhalten, das als automatische Reaktion auf einen Reiz auftritt."
+  },
+  {
+    "id": 365,
+    "title": "operant behavior",
+    "content": "behavior that operates on the environment, producing a consequence.",
+    "de_title": "operantes Verhalten",
+    "de_content": "Verhalten, das auf die Umwelt einwirkt und eine Konsequenz hervorruft."
+  },
+  {
+    "id": 366,
+    "title": "cognitive learning",
+    "content": "the acquisition of mental information, whether by observing events, by watching others, or through language.",
+    "de_title": "Kognitives Lernen",
+    "de_content": "der Erwerb mentaler Informationen, sei es durch die Beobachtung von Ereignissen, durch die Beobachtung anderer oder durch Sprache."
+  },
+  {
+    "id": 367,
+    "title": "classical conditioning",
+    "content": "a type of learning in which we link two or more stimuli; as a result, to illustrate with Pavlov’s classic experiment, the first stimulus (a tone) comes to elicit behavior (drooling) in anticipation of the second stimulus (food).",
+    "de_title": "klassische Konditionierung",
+    "de_content": "eine Art des Lernens, bei dem wir zwei oder mehr Reize verknüpfen; Um es mit Pawlows klassischem Experiment zu veranschaulichen: Der erste Reiz (ein Ton) löst in Erwartung des zweiten Reizes (Essen) ein Verhalten (Sabbern) aus."
+  },
+  {
+    "id": 368,
+    "title": "behaviorism",
+    "content": "the view that psychology (1) should be an objective science that (2) studies behavior without reference to mental processes. Most research psychologists today agree with (1) but not with (2).",
+    "de_title": "Behaviorismus",
+    "de_content": "die Ansicht, dass Psychologie (1) eine objektive Wissenschaft sein sollte, die (2) Verhalten ohne Bezug auf mentale Prozesse untersucht. Die meisten Forschungspsychologen stimmen heute mit (1) überein, nicht jedoch mit (2)."
+  },
+  {
+    "id": 369,
+    "title": "neutral stimulus (NS)",
+    "content": "in classical conditioning, a stimulus that elicits no response before conditioning.",
+    "de_title": "neutraler Reiz (NS)",
+    "de_content": "Bei der klassischen Konditionierung ein Reiz, der vor der Konditionierung keine Reaktion hervorruft."
+  },
+  {
+    "id": 370,
+    "title": "unconditioned response (UR)",
+    "content": "in classical conditioning, an unlearned, naturally occurring response (such as salivation) to an unconditioned stimulus (US) (such as food in the mouth).",
+    "de_title": "unbedingte Reaktion (UR)",
+    "de_content": "Bei der klassischen Konditionierung handelt es sich um eine ungelernte, natürlich vorkommende Reaktion (z. B. Speichelfluss) auf einen unbedingten Reiz (US) (z. B. Nahrung im Mund)."
+  },
+  {
+    "id": 371,
+    "title": "unconditioned stimulus (US)",
+    "content": "in classical conditioning, a stimulus that unconditionally—naturally and automatically—triggers an unconditioned response (UR).",
+    "de_title": "unbedingter Reiz (USA)",
+    "de_content": "in der klassischen Konditionierung ein Reiz, der bedingungslos – natürlich und automatisch – eine unbedingte Reaktion (UR) auslöst."
+  },
+  {
+    "id": 372,
+    "title": "conditioned response (CR)",
+    "content": "in classical conditioning, a learned response to a previously neutral (but now conditioned) stimulus (CS).",
+    "de_title": "konditionierte Reaktion (CR)",
+    "de_content": "Bei der klassischen Konditionierung handelt es sich um eine erlernte Reaktion auf einen zuvor neutralen (jetzt aber konditionierten) Reiz (CS)."
+  },
+  {
+    "id": 373,
+    "title": "conditioned stimulus (CS)",
+    "content": "in classical conditioning, an originally neutral stimulus that, after association with an unconditioned stimulus (US), comes to trigger a conditioned response (CR).",
+    "de_title": "konditionierter Reiz (CS)",
+    "de_content": "Bei der klassischen Konditionierung handelt es sich um einen ursprünglich neutralen Reiz, der nach Assoziation mit einem unbedingten Reiz (US) eine konditionierte Reaktion (CR) auslöst."
+  },
+  {
+    "id": 374,
+    "title": "acquisition",
+    "content": "in classical conditioning, the initial stage—when one links a neutral stimulus and an unconditioned stimulus so that the neutral stimulus begins triggering the conditioned response. (In operant conditioning, the strengthening of a reinforced response.)",
+    "de_title": "Erwerb",
+    "de_content": "Bei der klassischen Konditionierung handelt es sich um das Anfangsstadium – wenn man einen neutralen Reiz und einen unbedingten Reiz verknüpft, sodass der neutrale Reiz beginnt, die konditionierte Reaktion auszulösen. (Bei der operanten Konditionierung die Verstärkung einer verstärkten Reaktion.)"
+  },
+  {
+    "id": 375,
+    "title": "higher-order conditioning",
+    "content": "a procedure in which the conditioned stimulus in one conditioning experience is paired with a new neutral stimulus, creating a second (often weaker) conditioned stimulus. For example, an animal that has learned that a tone predicts food might then learn that a light predicts the tone and begin responding to the light alone. (Also called second-order conditioning.)",
+    "de_title": "Konditionierung höherer Ordnung",
+    "de_content": "ein Verfahren, bei dem der konditionierte Reiz in einer Konditionierungserfahrung mit einem neuen neutralen Reiz gepaart wird, wodurch ein zweiter (oft schwächerer) konditionierter Reiz entsteht. Beispielsweise könnte ein Tier, das gelernt hat, dass ein Ton Nahrung vorhersagt, dann lernen, dass ein Licht den Ton vorhersagt, und anfangen, nur auf das Licht zu reagieren. (Auch Konditionierung zweiter Ordnung genannt.)"
+  },
+  {
+    "id": 376,
+    "title": "extinction",
+    "content": "the diminishing of a conditioned response; occurs in classical conditioning when an unconditioned stimulus (US) does not follow a conditioned stimulus (CS); occurs in operant conditioning when a response is no longer reinforced.",
+    "de_title": "Aussterben",
+    "de_content": "das Nachlassen einer konditionierten Reaktion; tritt bei der klassischen Konditionierung auf, wenn ein unbedingter Reiz (US) nicht auf einen konditionierten Reiz (CS) folgt; tritt bei der operanten Konditionierung auf, wenn eine Reaktion nicht mehr verstärkt wird."
+  },
+  {
+    "id": 377,
+    "title": "spontaneous recovery",
+    "content": "the reappearance, after a pause, of an extinguished conditioned response.",
+    "de_title": "spontane Wiederherstellung",
+    "de_content": "das Wiederauftauchen einer erloschenen konditionierten Reaktion nach einer Pause."
+  },
+  {
+    "id": 378,
+    "title": "generalization",
+    "content": "(also called stimulus generalization) in classical conditioning, the tendency, once a response has been conditioned, for stimuli similar to the conditioned stimulus to elicit similar responses. (In operant conditioning, generalization occurs when responses learned in one situation occur in other, similar situations.)",
+    "de_title": "Verallgemeinerung",
+    "de_content": "(auch Reizgeneralisierung genannt) Bei der klassischen Konditionierung handelt es sich um die Tendenz, dass Reize, die dem konditionierten Reiz ähnlich sind, nach der Konditionierung einer Reaktion ähnliche Reaktionen hervorrufen. (Bei der operanten Konditionierung kommt es zu einer Generalisierung, wenn in einer Situation erlernte Reaktionen in anderen, ähnlichen Situationen auftreten.)"
+  },
+  {
+    "id": 379,
+    "title": "discrimination",
+    "content": "in classical conditioning, the learned ability to distinguish between a conditioned stimulus and similar stimuli that do not signal an unconditioned stimulus. (In operant conditioning, the ability to distinguish responses that are reinforced from similar responses that are not reinforced.)",
+    "de_title": "Diskriminierung",
+    "de_content": "Bei der klassischen Konditionierung handelt es sich um die erlernte Fähigkeit, zwischen einem konditionierten Reiz und ähnlichen Reizen zu unterscheiden, die keinen unbedingten Reiz signalisieren. (Bei der operanten Konditionierung die Fähigkeit, verstärkte Reaktionen von ähnlichen, nicht verstärkten Reaktionen zu unterscheiden.)"
+  },
+  {
+    "id": 380,
+    "title": "CHAPTER - ",
+    "content": "Operant Conditioning",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 381,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 382,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 383,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 384,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 385,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 386,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 387,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 388,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
+    "id": 389,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  {
-    "id": 0,
+    "id": 390,
     "title": "",
     "content": "",
     "de_title": "",
