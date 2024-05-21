@@ -21,7 +21,10 @@ const Navbar = () => {
     "CHAPTER 4: Nature, Nurture, and Human Diversity",
     "CHAPTER 5: Developing Through the Life Span",
     "CHAPTER 6: Sensation and Perception",
-    "CHAPTER 7: Learning"
+    "CHAPTER 7: Learning",
+    "CHAPTER 8: Memory",
+    "CHAPTER 9: Thinking and Language",
+    "CHAPTER 10: Intelligence"
   ]
 
   return (

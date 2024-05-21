@@ -2452,69 +2452,1035 @@
   },
   {
     "id": 381,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "operant conditioning",
+    "content": "a type of learning in which a behavior becomes more likely to recur if followed by a reinforcer or less likely to recur if followed by a punisher.",
+    "de_title": "operante Konditionierung",
+    "de_content": "Eine Art des Lernens, bei dem die Wahrscheinlichkeit, dass ein Verhalten wiederkehrt, steigt, wenn es von einem Verstärker gefolgt wird, oder weniger wahrscheinlich, dass es wiederkehrt, wenn es von einem Bestrafer gefolgt wird."
   },
   {
     "id": 382,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "law of effect",
+    "content": "Thorndike’s principle that behaviors followed by favorable consequences become more likely, and that behaviors followed by unfavorable consequences become less likely.",
+    "de_title": "Gesetz der Wirkung",
+    "de_content": "Thorndikes Prinzip besagt, dass Verhaltensweisen, die positive Folgen nach sich ziehen, wahrscheinlicher werden und Verhaltensweisen, die ungünstige Folgen nach sich ziehen, unwahrscheinlicher werden."
   },
   {
     "id": 383,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "operant chamber",
+    "content": "in operant conditioning research, a chamber (also known as a Skinner box) containing a bar or key that an animal can manipulate to obtain a food or water reinforcer; attached devices record the animal’s rate of bar pressing or key pecking.",
+    "de_title": "Operantenkammer",
+    "de_content": "in der operanten Konditionierungsforschung eine Kammer (auch als Skinner-Box bekannt), die einen Riegel oder Schlüssel enthält, den ein Tier manipulieren kann, um einen Nahrungs- oder Wasserverstärker zu erhalten; Angeschlossene Geräte zeichnen auf, wie oft das Tier auf die Stange drückt oder auf Tasten pickt."
   },
   {
     "id": 384,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "reinforcement",
+    "content": "in operant conditioning, any event that strengthens the behavior it follows.",
+    "de_title": "Verstärkung",
+    "de_content": "Bei der operanten Konditionierung jedes Ereignis, das das darauf folgende Verhalten verstärkt."
   },
   {
     "id": 385,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "shaping",
+    "content": "an operant conditioning procedure in which reinforcers guide behavior toward closer and closer approximations of the desired behavior.",
+    "de_title": "Gestaltung",
+    "de_content": "ein operantes Konditionierungsverfahren, bei dem Verstärker das Verhalten so lenken, dass es dem gewünschten Verhalten immer näher kommt."
   },
   {
     "id": 386,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "positive reinforcement",
+    "content": "increasing behaviors by presenting a pleasurable stimulus. A positive reinforcer is any stimulus that, when presented after a response, strengthens the response.",
+    "de_title": "positive Verstärkung",
+    "de_content": "Steigerung des Verhaltens durch Darbietung eines angenehmen Reizes. Ein positiver Verstärker ist jeder Reiz, der, wenn er nach einer Reaktion präsentiert wird, die Reaktion verstärkt."
   },
   {
     "id": 387,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "negative reinforcement",
+    "content": "increasing behaviors by stopping or reducing an aversive stimulus. A negative reinforcer is any stimulus that, when removed after a response, strengthens the response. (Note: Negative reinforcement is not punishment.)",
+    "de_title": "negative Verstärkung",
+    "de_content": "Steigerung des Verhaltens durch Stoppen oder Reduzieren eines aversiven Reizes. Ein negativer Verstärker ist jeder Reiz, der, wenn er nach einer Reaktion entfernt wird, die Reaktion verstärkt. (Hinweis: Negative Verstärkung ist keine Bestrafung.)"
   },
   {
     "id": 388,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "primary reinforcer",
+    "content": "an innately reinforcing stimulus, such as one that satisfies a biological need.",
+    "de_title": "primärer Verstärker",
+    "de_content": "ein von Natur aus verstärkender Reiz, etwa einer, der ein biologisches Bedürfnis befriedigt."
   },
   {
     "id": 389,
+    "title": "conditioned reinforcer",
+    "content": "a stimulus that gains its reinforcing power through its association with a primary reinforcer. (Also known as a secondary reinforcer.)",
+    "de_title": "konditionierter Verstärker",
+    "de_content": "ein Reiz, der seine verstärkende Kraft durch die Verbindung mit einem primären Verstärker erhält. (Auch als sekundärer Verstärker bekannt.)"
+  },
+  {
+    "id": 390,
+    "title": "reinforcement schedule",
+    "content": "a pattern that defines how often a desired response will be reinforced.",
+    "de_title": "Verstärkungsplan",
+    "de_content": "ein Muster, das definiert, wie oft eine gewünschte Reaktion verstärkt wird."
+  },
+  {
+    "id": 391,
+    "title": "continuous reinforcement schedule",
+    "content": "reinforcing the desired response every time it occurs.",
+    "de_title": "kontinuierlicher Verstärkungsplan",
+    "de_content": "Die gewünschte Reaktion wird jedes Mal verstärkt, wenn sie auftritt."
+  },
+  {
+    "id": 392,
+    "title": "partial (intermittent) reinforcement schedule",
+    "content": "reinforcing a response only part of the time; results in slower acquisition of a response but much greater resistance to extinction than does continuous reinforcement.",
+    "de_title": "teilweiser (intermittierender) Verstärkungsplan",
+    "de_content": "eine Reaktion nur zeitweise verstärken; führt zu einem langsameren Erwerb einer Reaktion, aber zu einem viel größeren Widerstand gegen Auslöschung als eine kontinuierliche Verstärkung."
+  },
+  {
+    "id": 393,
+    "title": "fixed-ratio schedule",
+    "content": "in operant conditioning, a reinforcement schedule that reinforces a response only after a specified number of responses.",
+    "de_title": "Zeitplan mit festem Verhältnis",
+    "de_content": "Bei der operanten Konditionierung handelt es sich um einen Verstärkungsplan, der eine Reaktion erst nach einer bestimmten Anzahl von Antworten verstärkt."
+  },
+  {
+    "id": 394,
+    "title": "variable-ratio schedule",
+    "content": "in operant conditioning, a reinforcement schedule that reinforces a response after an unpredictable number of responses.",
+    "de_title": "Zeitplan mit variablem Verhältnis",
+    "de_content": "Bei der operanten Konditionierung handelt es sich um einen Verstärkungsplan, der eine Reaktion nach einer unvorhersehbaren Anzahl von Reaktionen verstärkt."
+  },
+  {
+    "id": 395,
+    "title": "fixed-interval schedule",
+    "content": "in operant conditioning, a reinforcement schedule that reinforces a response only after a specified time has elapsed.",
+    "de_title": "Zeitplan mit festen Intervallen",
+    "de_content": "Bei der operanten Konditionierung handelt es sich um einen Verstärkungsplan, der eine Reaktion erst nach Ablauf einer bestimmten Zeit verstärkt."
+  },
+  {
+    "id": 396,
+    "title": "variable-interval schedule",
+    "content": "in operant conditioning, a reinforcement schedule that reinforces a response at unpredictable time intervals.",
+    "de_title": "Zeitplan mit variablen Intervallen",
+    "de_content": "Bei der operanten Konditionierung handelt es sich um einen Verstärkungsplan, der eine Reaktion in unvorhersehbaren Zeitintervallen verstärkt."
+  },
+  {
+    "id": 397,
+    "title": "punishment",
+    "content": "an event that tends to decrease the behavior that it follows.",
+    "de_title": "Bestrafung",
+    "de_content": "ein Ereignis, das dazu neigt, das darauf folgende Verhalten zu verringern."
+  },
+  {
+    "id": 398,
+    "title": "CHAPTER - ",
+    "content": "Biology, Cognition, and Learning",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 399,
+    "title": "preparedness",
+    "content": "a biological predisposition to learn associations, such as between taste and nausea, that have survival value.",
+    "de_title": "Bereitschaft",
+    "de_content": "eine biologische Veranlagung, Assoziationen wie zwischen Geschmack und Übelkeit zu erlernen, die überlebenswichtig sind."
+  },
+  {
+    "id": 400,
+    "title": "instinctive drift",
+    "content": "the tendency of learned behavior to gradually revert to biologically predisposed patterns.",
+    "de_title": "instinktives Driften",
+    "de_content": "die Tendenz erlernten Verhaltens, allmählich zu biologisch prädisponierten Mustern zurückzukehren."
+  },
+  {
+    "id": 401,
+    "title": "cognitive map",
+    "content": "a mental representation of the layout of one’s environment. For example, after exploring a maze, rats act as if they have learned a cognitive map of it.",
+    "de_title": "kognitive Karte",
+    "de_content": "eine mentale Darstellung des Aufbaus der eigenen Umgebung. Beispielsweise verhalten sich Ratten nach der Erkundung eines Labyrinths so, als hätten sie eine kognitive Karte davon erlernt."
+  },
+  {
+    "id": 402,
+    "title": "latent learning",
+    "content": "learning that occurs but is not apparent until there is an incentive to demonstrate it.",
+    "de_title": "latentes Lernen",
+    "de_content": "Lernen, das stattfindet, aber erst sichtbar wird, wenn ein Anreiz besteht, es zu demonstrieren."
+  },
+  {
+    "id": 403,
+    "title": "observational learning",
+    "content": "learning by observing others.",
+    "de_title": "beobachtendes Lernen",
+    "de_content": "Lernen durch Beobachtung anderer."
+  },
+  {
+    "id": 404,
+    "title": "modeling",
+    "content": "the process of observing and imitating a specific behavior.",
+    "de_title": "Modellieren",
+    "de_content": "der Prozess der Beobachtung und Nachahmung eines bestimmten Verhaltens."
+  },
+  {
+    "id": 405,
+    "title": "mirror neurons",
+    "content": "frontal lobe neurons that some scientists believe fire when we perform certain actions or observe another doing so. The brain’s mirroring of another’s action may enable imitation and empathy.",
+    "de_title": "mirror neurons",
+    "de_content": "Neuronen im Frontallappen, von denen einige Wissenschaftler glauben, dass sie feuern, wenn wir bestimmte Aktionen ausführen oder beobachten, wie jemand anderes dies tut. Die Spiegelung der Handlung eines anderen durch das Gehirn kann Nachahmung und Empathie ermöglichen."
+  },
+  {
+    "id": 406,
+    "title": "prosocial behavior",
+    "content": "positive, constructive, helpful behavior. The opposite of antisocial behavior.",
+    "de_title": "prosoziales Verhalten",
+    "de_content": "positives, konstruktives, hilfsbereites Verhalten. Das Gegenteil von asozialem Verhalten."
+  },
+  {
+    "id": 407,
+    "title": "CHAPTER 8: Memory",
+    "content": "Studying and Encoding Memories",
+    "de_title": "",
+    "de_content": ""
+  },
+  {
+    "id": 408,
+    "title": "memory",
+    "content": "the persistence of learning over time through the encoding, storage, and retrieval of information.",
+    "de_title": "Erinnerung",
+    "de_content": "die Beständigkeit des Lernens im Laufe der Zeit durch die Kodierung, Speicherung und den Abruf von Informationen."
+  },
+  {
+    "id": 409,
+    "title": "recall",
+    "content": "a measure of memory in which the person must retrieve information learned earlier, as on a fill-in-the-blank test.",
+    "de_title": "abrufen",
+    "de_content": "Ein Maß für das Gedächtnis, bei dem die Person zuvor gelernte Informationen abrufen muss, wie bei einem Lückentext-Test."
+  },
+  {
+    "id": 411,
+    "title": "recognition",
+    "content": "a measure of memory in which the person identifies items previously learned, as on a multiple-choice test.",
+    "de_title": "Erkennung",
+    "de_content": "Ein Maß für das Gedächtnis, bei dem die Person zuvor gelernte Elemente identifiziert, wie bei einem Multiple-Choice-Test."
+  },
+  {
+    "id": 412,
+    "title": "relearning",
+    "content": "a measure of memory that assesses the amount of time saved when learning material again.",
+    "de_title": "neu lernen",
+    "de_content": "ein Maß für das Gedächtnis, das die Zeitersparnis beim erneuten Erlernen von Stoff misst."
+  },
+  {
+    "id": 413,
+    "title": "encoding",
+    "content": "the process of getting information into the memory system—for example, by extracting meaning.",
+    "de_title": "Codierung",
+    "de_content": "der Prozess, Informationen in das Gedächtnissystem zu bekommen – zum Beispiel durch Extrahieren von Bedeutung."
+  },
+  {
+    "id": 414,
+    "title": "storage",
+    "content": "the process of retaining encoded information over time.",
+    "de_title": "Lagerung",
+    "de_content": "der Prozess der Speicherung verschlüsselter Informationen über einen längeren Zeitraum."
+  },
+  {
+    "id": 415,
+    "title": "retrieval",
+    "content": "the process of getting information out of memory storage.",
+    "de_title": "Abruf",
+    "de_content": "der Prozess des Herausholens von Informationen aus dem Speicher."
+  },
+  {
+    "id": 416,
+    "title": "parallel processing",
+    "content": "processing many aspects of a stimulus or problem simultaneously.",
+    "de_title": "Parallelverarbeitung",
+    "de_content": "Viele Aspekte eines Reizes oder Problems gleichzeitig verarbeiten."
+  },
+  {
+    "id": 417,
+    "title": "sensory memory",
+    "content": "the immediate, very brief recording of sensory information in the memory system.",
+    "de_title": "sensorisches Gedächtnis",
+    "de_content": "die unmittelbare, sehr kurze Aufzeichnung sensorischer Informationen im Gedächtnissystem."
+  },
+  {
+    "id": 418,
+    "title": "short-term memory",
+    "content": "briefly activated memory of a few items (such as digits of a phone number while calling) that is later stored or forgotten.",
+    "de_title": "Kurzzeitgedächtnis",
+    "de_content": "Kurzzeitig aktivierte Erinnerung an einige Elemente (z. B. Ziffern einer Telefonnummer beim Anrufen), die später gespeichert oder vergessen wird."
+  },
+  {
+    "id": 419,
+    "title": "long-term memory",
+    "content": "the relatively permanent and limitless archive of the memory system. Includes knowledge, skills, and experiences.",
+    "de_title": "Langzeitgedächtnis",
+    "de_content": "das relativ permanente und unbegrenzte Archiv des Speichersystems. Beinhaltet Kenntnisse, Fähigkeiten und Erfahrungen."
+  },
+  { 
+    "id": 421,
+    "title": "working memory",
+    "content": "a newer understanding of short-term memory; conscious, active processing of both incoming sensory information, and information retrieved from long-term memory.",
+    "de_title": "Arbeitsgedächtnis",
+    "de_content": "ein neueres Verständnis des Kurzzeitgedächtnisses; bewusste, aktive Verarbeitung sowohl eingehender sensorischer Informationen als auch aus dem Langzeitgedächtnis abgerufener Informationen."
+  },
+  { 
+    "id": 422,
+    "title": "explicit memory",
+    "content": "retention of facts and experiences that we can consciously know and “declare.” (Also called declarative memory.)",
+    "de_title": "explizites Gedächtnis",
+    "de_content": "Speicherung von Fakten und Erfahrungen, die wir bewusst kennen und „deklarieren“ können. (Auch deklaratives Gedächtnis genannt.)"
+  },
+  { 
+    "id": 423,
+    "title": "effortful processing",
+    "content": "encoding that requires attention and conscious effort.",
+    "de_title": "aufwändige Bearbeitung",
+    "de_content": "Kodierung, die Aufmerksamkeit und bewusste Anstrengung erfordert."
+  },
+  { 
+    "id": 424,
+    "title": "automatic processing",
+    "content": "unconscious encoding of incidental information, such as space, time, and frequency, and of familiar or well-learned information, such as sounds, smells, and word meanings.",
+    "de_title": "automatische Verarbeitung",
+    "de_content": "unbewusste Kodierung zufälliger Informationen wie Raum, Zeit und Frequenz sowie vertrauter oder gut erlernter Informationen wie Geräusche, Gerüche und Wortbedeutungen."
+  },
+  { 
+    "id": 425,
+    "title": "implicit memory",
+    "content": "retention of learned skills or classically conditioned associations independent of conscious recollection. (Also called nondeclarative memory.)",
+    "de_title": "implizites Gedächtnis",
+    "de_content": "Beibehaltung erlernter Fähigkeiten oder klassisch bedingter Assoziationen unabhängig von bewusster Erinnerung. (Auch nichtdeklaratives Gedächtnis genannt.)"
+  },
+  { 
+    "id": 426,
+    "title": "iconic memory",
+    "content": "a momentary sensory memory of visual stimuli; a photographic or picture-image memory lasting no more than a few tenths of a second.",
+    "de_title": "ikonische Erinnerung",
+    "de_content": "eine momentane sensorische Erinnerung an visuelle Reize; ein fotografisches oder Bild-Bild-Gedächtnis, das nicht länger als einige Zehntelsekunden dauert."
+  },
+  { 
+    "id": 427,
+    "title": "echoic memory",
+    "content": "a momentary sensory memory of auditory stimuli; if attention is elsewhere, sounds and words can still be recalled within 3 or 4 seconds.",
+    "de_title": "echoisches Gedächtnis",
+    "de_content": "eine momentane sensorische Erinnerung an Hörreize; Wenn die Aufmerksamkeit woanders liegt, können Geräusche und Wörter immer noch innerhalb von 3 oder 4 Sekunden abgerufen werden."
+  },
+  { 
+    "id": 428,
+    "title": "chunking",
+    "content": "organizing items into familiar, manageable units; often occurs automatically.",
+    "de_title": "Chunking",
+    "de_content": "Organisieren von Gegenständen in vertrauten, überschaubaren Einheiten; passiert oft automatisch."
+  },
+  { 
+    "id": 429,
+    "title": "mnemonics",
+    "content": "[nih-MON-iks] memory aids, especially those techniques that use vivid imagery and organizational devices.",
+    "de_title": "Mnemonik",
+    "de_content": "Gedächtnishilfen, insbesondere solche Techniken, die lebendige Bilder und Organisationshilfen verwenden."
+  },
+  { 
+    "id": 430,
+    "title": "spacing effect",
+    "content": "the tendency for distributed study or practice to yield better long-term retention than is achieved through massed study or practice.",
+    "de_title": "Abstandseffekt",
+    "de_content": "Die Tendenz, dass verteiltes Lernen oder Üben zu einer besseren langfristigen Bindung führt, als dies durch massenhaftes Lernen oder Üben erreicht wird."
+  },
+  { 
+    "id": 431,
+    "title": "testing effect",
+    "content": "enhanced memory after retrieving, rather than simply rereading, information. Also sometimes referred to as a retrieval practice effect or test-enhanced learning.",
+    "de_title": "Testwirkung",
+    "de_content": "Verbessertes Gedächtnis nach dem Abrufen von Informationen, anstatt sie einfach erneut zu lesen. Wird manchmal auch als Abrufübungseffekt oder testgestütztes Lernen bezeichnet."
+  },
+  { 
+    "id": 432,
+    "title": "shallow processing",
+    "content": "encoding on a basic level, based on the structure or appearance of words.",
+    "de_title": "flache Verarbeitung",
+    "de_content": "Kodierung auf einer grundlegenden Ebene, basierend auf der Struktur oder dem Aussehen von Wörtern."
+  },
+  { 
+    "id": 433,
+    "title": "deep processing",
+    "content": "encoding semantically, based on the meaning of the words; tends to yield the best retention.",
+    "de_title": "tiefe verarbeitung",
+    "de_content": "semantische Kodierung, basierend auf der Bedeutung der Wörter; neigt dazu, die beste Retention zu erzielen."
+  },
+  { 
+    "id": 434,
+    "title": "CHAPTER - ",
+    "content": "Storing and Retrieving Memories",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 435,
+    "title": "semantic memory",
+    "content": "explicit memory of facts and general knowledge; one of our two conscious memory systems (the other is episodic memory).",
+    "de_title": "semantisches Gedächtnis",
+    "de_content": "explizite Erinnerung an Fakten und Allgemeinwissen; eines unserer beiden bewussten Gedächtnissysteme (das andere ist das episodische Gedächtnis)."
+  },
+  { 
+    "id": 436,
+    "title": "episodic memory",
+    "content": "explicit memory of personally experienced events; one of our two conscious memory systems (the other is semantic memory).",
+    "de_title": "episodisches Gedächtnis",
+    "de_content": "explizite Erinnerung an persönlich erlebte Ereignisse; eines unserer beiden bewussten Gedächtnissysteme (das andere ist das semantische Gedächtnis)."
+  },
+  { 
+    "id": 437,
+    "title": "hippocampus",
+    "content": "a neural center located in the limbic system; helps process explicit (conscious) memories—of facts and events—for storage.",
+    "de_title": "Hippocampus",
+    "de_content": "ein neuronales Zentrum im limbischen System; hilft dabei, explizite (bewusste) Erinnerungen – an Fakten und Ereignisse – zur Speicherung zu verarbeiten."
+  },
+  { 
+    "id": 438,
+    "title": "memory consolidation",
+    "content": "the neural storage of a long-term memory.",
+    "de_title": "Gedächtniskonsolidierung",
+    "de_content": "die neuronale Speicherung eines Langzeitgedächtnisses."
+  },
+  { 
+    "id": 439,
+    "title": "flashbulb memory",
+    "content": "a clear memory of an emotionally significant moment or event.",
+    "de_title": "Flashbulb-Speicher",
+    "de_content": "eine klare Erinnerung an einen emotional bedeutsamen Moment oder ein emotional bedeutsames Ereignis."
+  },
+  { 
+    "id": 440,
+    "title": "long-term potentiation (LTP)",
+    "content": "an increase in a nerve cell’s firing potential after brief, rapid stimulation; a neural basis for learning and memory.",
+    "de_title": "Langzeitpotenzierung (LTP)",
+    "de_content": "eine Erhöhung des Zündpotentials einer Nervenzelle nach kurzer, schneller Stimulation; eine neuronale Grundlage für Lernen und Gedächtnis."
+  },
+  { 
+    "id": 441,
+    "title": "priming",
+    "content": "the activation, often unconsciously, of particular associations in memory.",
+    "de_title": "Grundierung",
+    "de_content": "die oft unbewusste Aktivierung bestimmter Assoziationen im Gedächtnis."
+  },
+  { 
+    "id": 442,
+    "title": "encoding specificity principle",
+    "content": "the idea that cues and contexts specific to a particular memory will be most effective in helping us recall it.",
+    "de_title": "Kodierungsspezifitätsprinzip",
+    "de_content": "die Idee, dass Hinweise und Kontexte, die für eine bestimmte Erinnerung spezifisch sind, uns am effektivsten dabei helfen, sie abzurufen."
+  },
+  { 
+    "id": 443,
+    "title": "mood-congruent memory",
+    "content": "the tendency to recall experiences that are consistent with one’s current good or bad mood.",
+    "de_title": "stimmungskongruentes Gedächtnis",
+    "de_content": "die Tendenz, sich an Erfahrungen zu erinnern, die mit der aktuellen guten oder schlechten Stimmung eines Menschen übereinstimmen."
+  },
+  { 
+    "id": 444,
+    "title": "serial position effect",
+    "content": "our tendency to recall best the last (recency effect) and first (primacy effect) items in a list.",
+    "de_title": "serieller Positionseffekt",
+    "de_content": "unsere Tendenz, sich am besten an das letzte (Aktualitätseffekt) und das erste (Primatitätseffekt) Element in einer Liste zu erinnern."
+  },
+  { 
+    "id": 445,
+    "title": "CHAPTER - ",
+    "content": "Forgetting, Memory Construction, and Improving Memory",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 446,
+    "title": "anterograde amnesia",
+    "content": "an inability to form new memories.",
+    "de_title": "anterograde Amnesie",
+    "de_content": "eine Unfähigkeit, neue Erinnerungen zu bilden."
+  },
+  { 
+    "id": 447,
+    "title": "retrograde amnesia",
+    "content": "an inability to remember information from one’s past.",
+    "de_title": "retrograde Amnesie",
+    "de_content": "eine Unfähigkeit, sich an Informationen aus der Vergangenheit zu erinnern."
+  },
+  { 
+    "id": 448,
+    "title": "proactive interference",
+    "content": "the forward-acting disruptive effect of older learning on the recall of new information.",
+    "de_title": "proaktives Eingreifen",
+    "de_content": "die zukunftsgerichtete störende Wirkung älteren Lernens auf die Erinnerung an neue Informationen."
+  },
+  { 
+    "id": 449,
+    "title": "retroactive interference",
+    "content": "the backward-acting disruptive effect of newer learning on the recall of old information.",
+    "de_title": "rückwirkender Eingriff",
+    "de_content": "die rückwärts wirkende störende Wirkung neueren Lernens auf die Erinnerung an alte Informationen."
+  },
+  { 
+    "id": 450,
+    "title": "repression",
+    "content": "in psychoanalytic theory, the basic defense mechanism that banishes from consciousness anxiety-arousing thoughts, feelings, and memories.",
+    "de_title": "Repression",
+    "de_content": "In der psychoanalytischen Theorie der grundlegende Abwehrmechanismus, der angstauslösende Gedanken, Gefühle und Erinnerungen aus dem Bewusstsein verbannt."
+  },
+  { 
+    "id": 452,
+    "title": "reconsolidation",
+    "content": "a process in which previously stored memories, when retrieved, are potentially altered before being stored again.",
+    "de_title": "Neukonsolidierung",
+    "de_content": "ein Prozess, bei dem zuvor gespeicherte Erinnerungen beim Abrufen möglicherweise verändert werden, bevor sie erneut gespeichert werden."
+  },
+  { 
+    "id": 453,
+    "title": "misinformation effect",
+    "content": "occurs when a memory has been corrupted by misleading information.",
+    "de_title": "Fehlinformationseffekt",
+    "de_content": "tritt auf, wenn ein Speicher durch irreführende Informationen beschädigt wurde."
+  },
+  { 
+    "id": 454,
+    "title": "source amnesia",
+    "content": "faulty memory for how, when, or where information was learned or imagined. (Also called source misattribution.) Source amnesia, along with the misinformation effect, is at the heart of many false memories.",
+    "de_title": "Quelle Amnesie",
+    "de_content": "fehlerhaftes Gedächtnis dafür, wie, wann oder wo Informationen gelernt oder eingebildet wurden. (Auch Quellenverfälschung genannt.) Quellenamnesie ist zusammen mit dem Fehlinformationseffekt die Grundlage vieler falscher Erinnerungen."
+  },
+  { 
+    "id": 455,
+    "title": "déjà vu",
+    "content": "that eerie sense that “I’ve experienced this before.” Cues from the current situation may unconsciously trigger retrieval of an earlier experience.",
+    "de_title": "Déjà-vu",
+    "de_content": "dieses unheimliche Gefühl: „Das habe ich schon einmal erlebt.“ Hinweise aus der aktuellen Situation können unbewusst das Abrufen einer früheren Erfahrung auslösen."
+  },
+  { 
+    "id": 456,
+    "title": "CHAPTER 9: Thinking and Language",
+    "content": "Thinking",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 457,
+    "title": "cognition",
+    "content": "all the mental activities associated with thinking, knowing, remembering, and communicating.",
+    "de_title": "Erkenntnis",
+    "de_content": "alle mentalen Aktivitäten, die mit Denken, Wissen, Erinnern und Kommunizieren verbunden sind."
+  },
+  { 
+    "id": 458,
+    "title": "metacognition",
+    "content": "cognition about our cognition; keeping track of and evaluating our mental processes.",
+    "de_title": "Metakognition",
+    "de_content": "Erkenntnis über unsere Erkenntnis; Verfolgen und Auswerten unserer mentalen Prozesse."
+  },
+  { 
+    "id": 459,
+    "title": "concept",
+    "content": "a mental grouping of similar objects, events, ideas, or people.",
+    "de_title": "Konzept",
+    "de_content": "eine mentale Gruppierung ähnlicher Objekte, Ereignisse, Ideen oder Personen."
+  },
+  { 
+    "id": 460,
+    "title": "prototype",
+    "content": "a mental image or best example of a category. Matching new items to a prototype provides a quick and easy method for sorting items into categories (as when comparing feathered creatures to a prototypical bird, such as a crow).",
+    "de_title": "Prototyp",
+    "de_content": "ein mentales Bild oder bestes Beispiel einer Kategorie. Das Zuordnen neuer Gegenstände zu einem Prototyp bietet eine schnelle und einfache Methode zum Sortieren von Gegenständen in Kategorien (z. B. beim Vergleich gefiederter Kreaturen mit einem prototypischen Vogel, beispielsweise einer Krähe)."
+  },
+  { 
+    "id": 461,
+    "title": "algorithm",
+    "content": "a methodical, logical rule or procedure that guarantees solving a particular problem. Contrasts with the usually speedier — but also more error-prone —use of heuristics.",
+    "de_title": "Algorithmus",
+    "de_content": "eine methodische, logische Regel oder Vorgehensweise, die die Lösung eines bestimmten Problems gewährleistet. Im Gegensatz zum normalerweise schnelleren – aber auch fehleranfälligeren – Einsatz von Heuristiken."
+  },
+  { 
+    "id": 462,
+    "title": "heuristic",
+    "content": "a simple thinking strategy—a mental shortcut—that often allows us to make judgments and solve problems efficiently; usually speedier but also more error-prone than an algorithm.",
+    "de_title": "heuristisch",
+    "de_content": "eine einfache Denkstrategie – eine mentale Abkürzung – die es uns oft ermöglicht, Urteile zu fällen und Probleme effizient zu lösen; normalerweise schneller, aber auch fehleranfälliger als ein Algorithmus."
+  },
+  { 
+    "id": 463,
+    "title": "insight",
+    "content": "a sudden realization of a problem’s solution; contrasts with strategy-based solutions.",
+    "de_title": "Einblick",
+    "de_content": "eine plötzliche Erkenntnis der Lösung eines Problems; steht im Gegensatz zu strategiebasierten Lösungen."
+  },
+  { 
+    "id": 464,
+    "title": "confirmation bias",
+    "content": "a tendency to search for information that supports our preconceptions and to ignore or distort contradictory evidence.",
+    "de_title": "Bestätigungsfehler",
+    "de_content": "eine Tendenz, nach Informationen zu suchen, die unsere Vorurteile stützen, und widersprüchliche Beweise zu ignorieren oder zu verzerren."
+  },
+  { 
+    "id": 465,
+    "title": "fixation",
+    "content": "in cognition, the inability to see a problem from a new perspective; an obstacle to problem solving.",
+    "de_title": "Fixierung",
+    "de_content": "in der Kognition die Unfähigkeit, ein Problem aus einer neuen Perspektive zu sehen; ein Hindernis für die Problemlösung."
+  },
+  { 
+    "id": 466,
+    "title": "mental set",
+    "content": "a tendency to approach a problem in one particular way, often a way that has been successful in the past.",
+    "de_title": "mentale Einstellung",
+    "de_content": "eine Tendenz, ein Problem auf eine bestimmte Art und Weise anzugehen, oft auf eine Weise, die in der Vergangenheit erfolgreich war."
+  },
+  { 
+    "id": 467,
+    "title": "intuition",
+    "content": "an effortless, immediate, automatic feeling or thought, as contrasted with explicit, conscious reasoning.",
+    "de_title": "Intuition",
+    "de_content": "ein müheloses, unmittelbares, automatisches Gefühl oder Gedanke im Gegensatz zu explizitem, bewusstem Denken."
+  },
+  { 
+    "id": 468,
+    "title": "representativeness heuristic",
+    "content": "judging the likelihood of events in terms of how well they seem to represent, or match, particular prototypes; may lead us to ignore other relevant information.",
+    "de_title": "Repräsentativitätsheuristik",
+    "de_content": "Beurteilung der Wahrscheinlichkeit von Ereignissen danach, wie gut sie bestimmte Prototypen zu repräsentieren oder mit ihnen übereinzustimmen scheinen; kann dazu führen, dass wir andere relevante Informationen ignorieren."
+  },
+  { 
+    "id": 469,
+    "title": "availability heuristic",
+    "content": "judging the likelihood of events based on their availability in memory; if instances come readily to mind (perhaps because of their vividness), we presume such events are common.",
+    "de_title": "Verfügbarkeitsheuristik",
+    "de_content": "Beurteilung der Wahrscheinlichkeit von Ereignissen anhand ihrer Verfügbarkeit im Gedächtnis; Wenn uns Vorfälle schnell in den Sinn kommen (vielleicht wegen ihrer Lebendigkeit), gehen wir davon aus, dass solche Ereignisse häufig vorkommen."
+  },
+  { 
+    "id": 470,
+    "title": "overconfidence",
+    "content": "the tendency to be more confident than correct—to overestimate the accuracy of our beliefs and judgments.",
+    "de_title": "Selbstüberschätzung",
+    "de_content": "die Tendenz, eher zuversichtlich als korrekt zu sein – die Genauigkeit unserer Überzeugungen und Urteile zu überschätzen."
+  },
+  { 
+    "id": 471,
+    "title": "belief perseverance",
+    "content": "clinging to one’s initial conceptions after the basis on which they were formed has been discredited.",
+    "de_title": "Glaube Ausdauer",
+    "de_content": "an den ursprünglichen Vorstellungen festzuhalten, nachdem die Grundlage, auf der sie entstanden sind, in Misskredit geraten ist."
+  },
+  { 
+    "id": 472,
+    "title": "framing",
+    "content": "the way an issue is posed; how an issue is framed can significantly affect decisions and judgments.",
+    "de_title": "Rahmen",
+    "de_content": "die Art und Weise, wie ein Problem gestellt wird; Die Art und Weise, wie ein Thema formuliert wird, kann Entscheidungen und Urteile erheblich beeinflussen."
+  },
+  { 
+    "id": 473,
+    "title": "nudge",
+    "content": "framing choices in a way that encourages people to make beneficial decisions.",
+    "de_title": "Schubs",
+    "de_content": "Entscheidungen so zu gestalten, dass Menschen dazu ermutigt werden, vorteilhafte Entscheidungen zu treffen."
+  },
+  { 
+    "id": 474,
+    "title": "creativity",
+    "content": "the ability to produce new and valuable ideas.",
+    "de_title": "Kreativität",
+    "de_content": "die Fähigkeit, neue und wertvolle Ideen hervorzubringen."
+  },
+  { 
+    "id": 475,
+    "title": "convergent thinking",
+    "content": "narrowing the available problem solutions to determine the single best solution.",
+    "de_title": "konvergentes Denken",
+    "de_content": "Eingrenzen der verfügbaren Problemlösungen, um die beste Einzellösung zu ermitteln."
+  },
+  { 
+    "id": 476,
+    "title": "divergent thinking",
+    "content": "expanding the number of possible problem solutions; creative thinking that diverges in different directions.",
+    "de_title": "divergentes Denken",
+    "de_content": "Erweiterung der Anzahl möglicher Problemlösungen; kreatives Denken, das in verschiedene Richtungen divergiert."
+  },
+  { 
+    "id": 477,
+    "title": "Chapter - ",
+    "content": "Language and Thought",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 478,
+    "title": "language",
+    "content": "our spoken, written, or signed words and the ways we combine them to communicate meaning.",
+    "de_title": "Sprache",
+    "de_content": "unsere gesprochenen, geschriebenen oder unterschriebenen Wörter und die Art und Weise, wie wir sie kombinieren, um Bedeutung zu vermitteln."
+  },
+  { 
+    "id": 479,
+    "title": "phoneme",
+    "content": "in a language, the smallest distinctive sound unit.",
+    "de_title": "Phonem",
+    "de_content": "in einer Sprache die kleinste charakteristische Lauteinheit."
+  },
+  { 
+    "id": 480,
+    "title": "morpheme",
+    "content": "in a language, the smallest unit that carries meaning; may be a word or a part of a word (such as a prefix).",
+    "de_title": "morpheme",
+    "de_content": "in einer Sprache die kleinste Einheit, die Bedeutung trägt; kann ein Wort oder ein Teil eines Wortes (z. B. ein Präfix) sein."
+  },
+  { 
+    "id": 481,
+    "title": "grammar",
+    "content": "in a language, a system of rules that enables us to communicate with and understand others. Semantics is the language’s set of rules for deriving meaning from sounds, and syntax is its set of rules for combining words into grammatically sensible sentences.",
+    "de_title": "Grammatik",
+    "de_content": "in einer Sprache ein System von Regeln, das es uns ermöglicht, mit anderen zu kommunizieren und sie zu verstehen. Semantik ist das Regelwerk der Sprache zum Ableiten von Bedeutungen aus Lauten, und Syntax ist das Regelwerk zum Kombinieren von Wörtern zu grammatikalisch sinnvollen Sätzen."
+  },
+  { 
+    "id": 483,
+    "title": "babbling stage",
+    "content": "the stage in speech development, beginning around 4 months, during which an infant spontaneously utters various sounds that are not all related to the household language.",
+    "de_title": "plappernde Bühne",
+    "de_content": "die Phase der Sprachentwicklung, die etwa im vierten Monat beginnt und in der ein Säugling spontan verschiedene Laute von sich gibt, die nicht alle mit der Haushaltssprache zu tun haben."
+  },
+  { 
+    "id": 484,
+    "title": "one-word stage",
+    "content": "the stage in speech development, from about age 1 to 2, during which a child speaks mostly in single words.",
+    "de_title": "Ein-Wort-Stadium",
+    "de_content": "die Phase der Sprachentwicklung, etwa im Alter von 1 bis 2 Jahren, in der ein Kind hauptsächlich in einzelnen Wörtern spricht."
+  },
+  { 
+    "id": 485,
+    "title": "two-word stage",
+    "content": "the stage in speech development, beginning about age 2, during which a child speaks mostly in two-word sentences.",
+    "de_title": "Zwei-Wort-Stufe",
+    "de_content": "die Phase der Sprachentwicklung, die etwa im Alter von 2 Jahren beginnt und in der ein Kind hauptsächlich in Zwei-Wort-Sätzen spricht."
+  },
+  { 
+    "id": 486,
+    "title": "telegraphic speech",
+    "content": "the early speech stage in which a child speaks like a telegram—“go car”—using mostly nouns and verbs.",
+    "de_title": "telegrafische Rede",
+    "de_content": "das frühe Sprachstadium, in dem ein Kind wie ein Telegramm spricht – „Auto fahren“ – und dabei hauptsächlich Substantive und Verben verwendet."
+  },
+  { 
+    "id": 487,
+    "title": "aphasia",
+    "content": "impairment of language, usually caused by left hemisphere damage either to Broca’s area (impairing speaking) or to Wernicke’s area (impairing understanding).",
+    "de_title": "Aphasie",
+    "de_content": "Beeinträchtigung der Sprache, die normalerweise durch eine Schädigung der linken Hemisphäre entweder im Broca-Bereich (Beeinträchtigung des Sprechens) oder im Wernicke-Bereich (Beeinträchtigung des Verständnisses) verursacht wird."
+  },
+  { 
+    "id": 488,
+    "title": "Broca’s area",
+    "content": "a frontal lobe brain area, usually in the left hemisphere, that helps control language expression by directing the muscle movements involved in speech.",
+    "de_title": "Brocas Platz",
+    "de_content": "Ein Gehirnbereich im Frontallappen, normalerweise in der linken Hemisphäre, der bei der Steuerung des Sprachausdrucks hilft, indem er die beim Sprechen beteiligten Muskelbewegungen steuert."
+  },
+  { 
+    "id": 489,
+    "title": "Wernicke’s area",
+    "content": "a brain area, usually in the left temporal lobe, involved in language comprehension and expression.",
+    "de_title": "Wernickes Gegend",
+    "de_content": "ein Gehirnbereich, normalerweise im linken Schläfenlappen, der am Sprachverständnis und -ausdruck beteiligt ist."
+  },
+  { 
+    "id": 490,
+    "title": "linguistic determinism",
+    "content": "Whorf’s hypothesis that language determines the way we think.",
+    "de_title": "sprachlicher Determinismus",
+    "de_content": "Whorfs Hypothese, dass die Sprache die Art und Weise bestimmt, wie wir denken."
+  },
+  { 
+    "id": 491,
+    "title": "linguistic relativism",
+    "content": "the idea that language influences the way we think.",
+    "de_title": "sprachlicher Relativismus",
+    "de_content": "die Idee, dass Sprache die Art und Weise beeinflusst, wie wir denken."
+  },
+  { 
+    "id": 492,
+    "title": "CHAPTER 10: Intelligence",
+    "content": "What Is Intelligence?",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 493,
+    "title": "intelligence",
+    "content": "the ability to learn from experience, solve problems, and use knowledge to adapt to new situations.",
+    "de_title": "Intelligenz",
+    "de_content": "die Fähigkeit, aus Erfahrungen zu lernen, Probleme zu lösen und Wissen zu nutzen, um sich an neue Situationen anzupassen."
+  },
+  { 
+    "id": 494,
+    "title": "general intelligence (g)",
+    "content": "according to Spearman and others, underlies all mental abilities and is therefore measured by every task on an intelligence test.",
+    "de_title": "allgemeine Intelligenz (g)",
+    "de_content": "Laut Spearman und anderen liegt es allen geistigen Fähigkeiten zugrunde und wird daher bei jeder Aufgabe eines Intelligenztests gemessen."
+  },
+  { 
+    "id": 495,
+    "title": "fluid intelligence (Gf)",
+    "content": "our ability to reason speedily and abstractly; tends to decrease with age, especially during late adulthood.",
+    "de_title": "Fluide Intelligenz (Gf)",
+    "de_content": "unsere Fähigkeit, schnell und abstrakt zu denken; Mit zunehmendem Alter nimmt die Tendenz ab, insbesondere im späten Erwachsenenalter."
+  },
+  { 
+    "id": 496,
+    "title": "crystallized intelligence (Gc)",
+    "content": "our accumulated knowledge and verbal skills; tends to increase with age.",
+    "de_title": "kristallisierte Intelligenz (Gc)",
+    "de_content": "unser angesammeltes Wissen und unsere verbalen Fähigkeiten; nimmt tendenziell mit zunehmendem Alter zu."
+  },
+  { 
+    "id": 497,
+    "title": "Cattell-Horn-Carroll (CHC) theory",
+    "content": "the theory that our intelligence is based on g as well as specific abilities, bridged by Gf and Gc.",
+    "de_title": "Cattell-Horn-Carroll (CHC)-Theorie",
+    "de_content": "die Theorie, dass unsere Intelligenz sowohl auf g als auch auf spezifischen Fähigkeiten basiert, verbunden durch Gf und Gc."
+  },
+  { 
+    "id": 498,
+    "title": "savant syndrome",
+    "content": "a condition in which a person otherwise limited in mental ability has an exceptional specific skill, such as in computation or drawing.",
+    "de_title": "Savant-Syndrom",
+    "de_content": "ein Zustand, in dem eine Person, die ansonsten in ihren geistigen Fähigkeiten eingeschränkt wäre, über eine außergewöhnliche spezifische Fähigkeit verfügt, beispielsweise im Rechnen oder Zeichnen."
+  },
+  { 
+    "id": 499,
+    "title": "emotional intelligence",
+    "content": "the ability to perceive, understand, manage, and use emotions.",
+    "de_title": "emotionale Intelligenz",
+    "de_content": "die Fähigkeit, Emotionen wahrzunehmen, zu verstehen, zu verwalten und zu nutzen."
+  },
+  { 
+    "id": 515,
+    "title": "Chapter - ",
+    "content": "Intelligence Assessment and Dynamics",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 500,
+    "title": "intelligence test",
+    "content": "a method for assessing an individual’s mental aptitudes and comparing them with those of others, using numerical scores.",
+    "de_title": "Intelligenztest",
+    "de_content": "eine Methode zur Beurteilung der geistigen Fähigkeiten einer Person und zum Vergleich mit denen anderer mithilfe numerischer Werte."
+  },
+  { 
+    "id": 501,
+    "title": "achievement test",
+    "content": "a test designed to assess what a person has learned.",
+    "de_title": "Leistungstest",
+    "de_content": "ein Test, mit dem beurteilt werden soll, was eine Person gelernt hat."
+  },
+  { 
+    "id": 502,
+    "title": "aptitude test",
+    "content": "a test designed to predict a person’s future performance; aptitude is the capacity to learn.",
+    "de_title": "Eignungsprüfung",
+    "de_content": "ein Test, der die zukünftige Leistung einer Person vorhersagen soll; Eignung ist die Fähigkeit zu lernen."
+  },
+  { 
+    "id": 503,
+    "title": "mental age",
+    "content": "a measure of intelligence test performance devised by Binet; the level of performance typically associated with children of a certain chronological age. Thus, a child who does as well as an average 8-year-old is said to have a mental age of 8.",
+    "de_title": "geistiges Alter",
+    "de_content": "ein von Binet entwickeltes Maß für die Leistung von Intelligenztests; das Leistungsniveau, das typischerweise mit Kindern eines bestimmten chronologischen Alters verbunden ist. Daher sagt man, dass ein Kind, dem es genauso gut geht wie ein durchschnittlicher 8-Jähriger, ein geistiges Alter von 8 Jahren hat."
+  },
+  { 
+    "id": 504,
+    "title": "Stanford-Binet",
+    "content": "the widely used American revision (by Terman at Stanford University) of Binet’s original intelligence test.",
+    "de_title": "Stanford-Binet",
+    "de_content": "die weit verbreitete amerikanische Überarbeitung (von Terman an der Stanford University) von Binets ursprünglichem Intelligenztest."
+  },
+  { 
+    "id": 505,
+    "title": "intelligence quotient (IQ)",
+    "content": "defined originally as the ratio of mental age (ma) to chronological age (ca) multiplied by 100 (thus, On contemporary intelligence tests, the average performance for a given age is assigned a score of 100",
+    "de_title": "Intelligenzquotient (IQ)",
+    "de_content": "Ursprünglich definiert als das Verhältnis des geistigen Alters (ma) zum chronologischen Alter (ca), multipliziert mit 100 (somit wird bei modernen Intelligenztests der durchschnittlichen Leistung für ein bestimmtes Alter ein Wert von 100 zugewiesen"
+  },
+  { 
+    "id": 506,
+    "title": "Wechsler Adult Intelligence Scale (WAIS)",
+    "content": "the WAIS and its companion versions for children are the most widely used intelligence tests; they contain verbal and performance (nonverbal) subtests.",
+    "de_title": "Wechsler Adult Intelligence Scale (WAIS)",
+    "de_content": "Der WAIS und seine Begleitversionen für Kinder sind die am häufigsten verwendeten Intelligenztests. Sie enthalten verbale und leistungsbezogene (nonverbale) Untertests."
+  },
+  { 
+    "id": 507,
+    "title": "standardization",
+    "content": "defining uniform testing procedures and meaningful scores by comparison with the performance of a pretested group.",
+    "de_title": "Standardisierung",
+    "de_content": "Definition einheitlicher Testverfahren und aussagekräftiger Ergebnisse durch Vergleich mit der Leistung einer vorab getesteten Gruppe."
+  },
+  { 
+    "id": 508,
+    "title": "normal curve",
+    "content": "the bell-shaped curve that describes the distribution of many physical and psychological attributes. Most scores fall near the average, and fewer and fewer scores lie near the extremes.",
+    "de_title": "Normalkurve",
+    "de_content": "die glockenförmige Kurve, die die Verteilung vieler physischer und psychischer Eigenschaften beschreibt. Die meisten Werte liegen in der Nähe des Durchschnitts, und immer weniger Werte liegen im Extrembereich."
+  },
+  { 
+    "id": 509,
+    "title": "reliability",
+    "content": "the extent to which a test yields consistent results, as assessed by the consistency of scores on two halves of the test, on alternative forms of the test, or on retesting.",
+    "de_title": "Zuverlässigkeit",
+    "de_content": "das Ausmaß, in dem ein Test konsistente Ergebnisse liefert, gemessen an der Konsistenz der Ergebnisse in zwei Testhälften, bei alternativen Testformen oder bei Wiederholungstests."
+  },
+  { 
+    "id": 510,
+    "title": "validity",
+    "content": "the extent to which a test measures or predicts what it is supposed to. (See also predictive validity.)",
+    "de_title": "Gültigkeit",
+    "de_content": "das Ausmaß, in dem ein Test misst oder vorhersagt, was er soll. (Siehe auch Vorhersagevalidität.)"
+  },
+  { 
+    "id": 511,
+    "title": "predictive validity",
+    "content": "the success with which a test predicts the behavior it is designed to predict; it is assessed by computing the correlation between test scores and the criterion behavior. (Also called criterion-related validity.)",
+    "de_title": "prognostische Validität",
+    "de_content": "der Erfolg, mit dem ein Test das Verhalten vorhersagt, das er vorhersagen soll; Die Bewertung erfolgt durch Berechnung der Korrelation zwischen Testergebnissen und dem Kriteriumverhalten. (Auch kriterienbezogene Validität genannt.)"
+  },
+  { 
+    "id": 512,
+    "title": "cross-sectional study",
+    "content": "research that compares people of different ages at the same point in time.",
+    "de_title": "Querschnittsstudie",
+    "de_content": "Forschung, die Menschen unterschiedlichen Alters zum gleichen Zeitpunkt vergleicht."
+  },
+  { 
+    "id": 513,
+    "title": "longitudinal study",
+    "content": "research that follows and retests the same people over time.",
+    "de_title": "Längsschnittstudie",
+    "de_content": "Forschung, die dieselben Personen im Laufe der Zeit verfolgt und erneut testet."
+  },
+  { 
+    "id": 514,
+    "title": "cohort",
+    "content": "a group of people sharing a common characteristic, such as being from a given time period.",
+    "de_title": "Kohorte",
+    "de_content": "eine Gruppe von Menschen, die ein gemeinsames Merkmal haben, beispielsweise aus einem bestimmten Zeitraum stammen."
+  },
+  { 
+    "id": 516,
+    "title": "Chapter - ",
+    "content": "Genetic and Environmental Influences on Intelligence",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 517,
+    "title": "heritability",
+    "content": "the proportion of variation among individuals in a group that we can attribute to genes. The heritability of a trait may vary, depending on the range of populations and environments studied.",
+    "de_title": "Erblichkeit",
+    "de_content": "der Anteil der Variation zwischen Individuen in einer Gruppe, den wir den Genen zuschreiben können. Die Vererbbarkeit eines Merkmals kann je nach untersuchtem Populations- und Umgebungsbereich variieren."
+  },
+  { 
+    "id": 518,
+    "title": "growth mindset",
+    "content": "a focus on learning and growing rather than viewing abilities as fixed.",
+    "de_title": "Wachstumsmentalität",
+    "de_content": "ein Fokus auf Lernen und Wachstum, anstatt Fähigkeiten als festgelegt anzusehen."
+  },
+  { 
+    "id": 519,
+    "title": "stereotype threat",
+    "content": "a self-confirming concern that one will be evaluated based on a negative stereotype.",
+    "de_title": "stereotype Bedrohung",
+    "de_content": "eine sich selbst bestätigende Sorge, dass man aufgrund eines negativen Stereotyps bewertet wird."
+  },
+  { 
+    "id": 520,
+    "title": "CHAPTER 11: What Drives Us: Hunger, Sex Belonging, and Achievement",
+    "content": "Basic Motivational Concepts",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 521,
+    "title": "motivation",
+    "content": "a need or desire that energizes and directs behavior.",
+    "de_title": "Motivation",
+    "de_content": "ein Bedürfnis oder Wunsch, der das Verhalten antreibt und steuert."
+  },
+  { 
+    "id": 522,
+    "title": "instinct",
+    "content": "a complex behavior that is rigidly patterned throughout a species and is unlearned.",
+    "de_title": "Instinkt",
+    "de_content": "ein komplexes Verhalten, das einer Art starr nachempfunden und nicht erlernt ist."
+  },
+  { 
+    "id": 523,
+    "title": "physiological need",
+    "content": "a basic bodily requirement.",
+    "de_title": "physiologisches Bedürfnis",
+    "de_content": "ein Grundbedürfnis des Körpers."
+  },
+  { 
+    "id": 524,
+    "title": "drive-reduction theory",
+    "content": "the idea that a physiological need creates an aroused state (a drive) that motivates an organism to satisfy the need.",
+    "de_title": "Antriebsreduktionstheorie",
+    "de_content": "die Vorstellung, dass ein physiologisches Bedürfnis einen Erregungszustand (einen Trieb) erzeugt, der einen Organismus dazu motiviert, das Bedürfnis zu befriedigen."
+  },
+  { 
+    "id": 525,
+    "title": "homeostasis",
+    "content": "a tendency to maintain a balanced or constant internal state; the regulation of any aspect of body chemistry, such as blood glucose, around a particular level.",
+    "de_title": "Homöostase",
+    "de_content": "eine Tendenz, einen ausgeglichenen oder konstanten inneren Zustand aufrechtzuerhalten; die Regulierung aller Aspekte der Körperchemie, wie z. B. des Blutzuckers, um einen bestimmten Wert."
+  },
+  { 
+    "id": 526,
+    "title": "incentive",
+    "content": "a positive or negative environmental stimulus that motivates behavior.",
+    "de_title": "Anreiz",
+    "de_content": "ein positiver oder negativer Umweltreiz, der Verhalten motiviert."
+  },
+  { 
+    "id": 527,
+    "title": "Yerkes-Dodson law",
+    "content": "the principle that performance increases with arousal only up to a point, beyond which performance decreases.",
+    "de_title": "Yerkes-Dodson-Gesetz",
+    "de_content": "Das Prinzip, dass die Leistung mit der Erregung nur bis zu einem gewissen Punkt zunimmt, jenseits dessen die Leistung abnimmt."
+  },
+  { 
+    "id": 528,
+    "title": "hierarchy of needs",
+    "content": "Maslow’s pyramid of human needs, beginning at the base with physiological needs that must first be satisfied before people can fulfill their higher-level safety needs and then psychological needs.",
+    "de_title": "Hierarchie der Bedürfnisse",
+    "de_content": "Maslows Pyramide menschlicher Bedürfnisse beginnt an der Basis mit physiologischen Bedürfnissen, die zuerst befriedigt werden müssen, bevor Menschen ihre höheren Sicherheitsbedürfnisse erfüllen können, und dann mit psychologischen Bedürfnissen."
+  },
+  { 
+    "id": 529,
+    "title": "Chapter - ",
+    "content": "Hunger",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 530,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
-  {
-    "id": 390,
+  { 
+    "id": 531,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 532,
     "title": "",
     "content": "",
     "de_title": "",
