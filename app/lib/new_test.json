@@ -3467,20 +3467,1000 @@
   },
   { 
     "id": 530,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "glucose",
+    "content": "the form of sugar that circulates in the blood and provides the major source of energy for body tissues. When its level is low, we feel hunger.",
+    "de_title": "Glucose",
+    "de_content": "die Form von Zucker, die im Blut zirkuliert und die Hauptenergiequelle für das Körpergewebe darstellt. Wenn sein Wert niedrig ist, verspüren wir Hunger."
   },
   { 
     "id": 531,
+    "title": "set point",
+    "content": "the point at which the “weight thermostat” may be set. When the body falls below this weight, increased hunger and a lowered metabolic rate may combine to restore lost weight.",
+    "de_title": "Sollwert",
+    "de_content": "der Punkt, auf den der „Gewichtsthermostat“ eingestellt werden kann. Wenn der Körper dieses Gewicht unterschreitet, können verstärkter Hunger und eine verringerte Stoffwechselrate zusammen dazu führen, dass das verlorene Gewicht wiederhergestellt wird."
+  },
+  { 
+    "id": 532,
+    "title": "basal metabolic rate",
+    "content": "the body’s resting rate of energy output.",
+    "de_title": "Grundumsatz",
+    "de_content": "die Energieabgaberate des Körpers im Ruhezustand."
+  },
+  { 
+    "id": 534,
+    "title": "obesity",
+    "content": "defined as a body mass index (BMI) measurement of 30 or higher, which is calculated from our weight-to-height ratio. (Individuals who are overweight have a BMI of 25 or higher.)",
+    "de_title": "Fettleibigkeit",
+    "de_content": "definiert als ein Body-Mass-Index (BMI) von 30 oder höher, der aus unserem Gewicht-zu-Größe-Verhältnis berechnet wird. (Übergewichtige Personen haben einen BMI von 25 oder höher.)"
+  },
+  { 
+    "id": 535,
+    "title": "CHAPTER - ",
+    "content": "Sexual Motivation",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 536,
+    "title": "asexual",
+    "content": "having no sexual attraction toward others.",
+    "de_title": "asexuell",
+    "de_content": "keine sexuelle Anziehung zu anderen haben."
+  },
+  { 
+    "id": 537,
+    "title": "testosterone",
+    "content": "the most important male sex hormone. Males and females have it, but the additional testosterone in males stimulates the growth of the male sex organs during the fetal period, and the development of the male sex characteristics during puberty.",
+    "de_title": "Testosteron",
+    "de_content": "das wichtigste männliche Sexualhormon. Männer und Frauen haben es, aber das zusätzliche Testosteron bei Männern stimuliert das Wachstum der männlichen Geschlechtsorgane während der Fötalperiode und die Entwicklung der männlichen Geschlechtsmerkmale während der Pubertät."
+  },
+  { 
+    "id": 538,
+    "title": "estrogens",
+    "content": "sex hormones, such as estradiol, that contribute to female sex characteristics and are secreted in greater amounts by females than by males. Estrogen levels peak during ovulation. In nonhuman mammals, this promotes sexual receptivity.",
+    "de_title": "Östrogene",
+    "de_content": "Sexualhormone wie Östradiol, die zu den weiblichen Geschlechtsmerkmalen beitragen und von Frauen in größeren Mengen ausgeschüttet werden als von Männern. Der Östrogenspiegel erreicht während des Eisprungs seinen Höhepunkt. Bei nichtmenschlichen Säugetieren fördert dies die sexuelle Empfänglichkeit."
+  },
+  { 
+    "id": 539,
+    "title": "sexual response cycle",
+    "content": "the four stages of sexual responding described by Masters and Johnson—excitement, plateau, orgasm, and resolution.",
+    "de_title": "sexueller Reaktionszyklus",
+    "de_content": "die vier von Masters und Johnson beschriebenen Phasen der sexuellen Reaktion – Erregung, Plateau, Orgasmus und Auflösung."
+  },
+  { 
+    "id": 540,
+    "title": "refractory period",
+    "content": "in human sexuality, a resting period that occurs after orgasm, during which a person cannot achieve another orgasm.",
+    "de_title": "Refraktärzeit",
+    "de_content": "In der menschlichen Sexualität eine Ruhephase nach dem Orgasmus, in der eine Person keinen weiteren Orgasmus erreichen kann."
+  },
+  { 
+    "id": 541,
+    "title": "sexual dysfunction",
+    "content": "a problem that consistently impairs sexual arousal or functioning at any point in the sexual response cycle.",
+    "de_title": "sexuelle Dysfunktion",
+    "de_content": "ein Problem, das die sexuelle Erregung oder Funktion zu jedem Zeitpunkt des sexuellen Reaktionszyklus dauerhaft beeinträchtigt."
+  },
+  { 
+    "id": 542,
+    "title": "erectile disorder",
+    "content": "inability to develop or maintain an erection due to insufficient blood flow to the penis.",
+    "de_title": "Erektionsstörung",
+    "de_content": "Unfähigkeit, eine Erektion zu entwickeln oder aufrechtzuerhalten, da der Blutfluss zum Penis unzureichend ist."
+  },
+  { 
+    "id": 543,
+    "title": "female orgasmic disorder",
+    "content": "distress due to infrequently or never experiencing orgasm.",
+    "de_title": "weibliche Orgasmusstörung",
+    "de_content": "Stress aufgrund seltener oder nie erlebter Orgasmen."
+  },
+  { 
+    "id": 544,
+    "title": "paraphilias",
+    "content": "sexual arousal from fantasies, behaviors, or urges involving nonhuman objects, the suffering of self or others, and/or nonconsenting persons.",
+    "de_title": "Paraphilien",
+    "de_content": "sexuelle Erregung durch Fantasien, Verhaltensweisen oder Triebe, die nichtmenschliche Objekte, das Leiden von sich selbst oder anderen und/oder nicht einwilligende Personen betreffen."
+  },
+  { 
+    "id": 545,
+    "title": "AIDS (acquired immune deficiency syndrome)",
+    "content": "a life-threatening condition caused by the human immunodeficiency virus (HIV), a sexually transmitted infection. AIDS depletes the immune system, leaving the person vulnerable to infections.",
+    "de_title": "AIDS (erworbenes Immunschwächesyndrom)",
+    "de_content": "eine lebensbedrohliche Erkrankung, die durch das Humane Immundefizienzvirus (HIV), eine sexuell übertragbare Infektion, verursacht wird. AIDS schwächt das Immunsystem und macht die Person anfällig für Infektionen."
+  },
+  { 
+    "id": 546,
+    "title": "sexual orientation",
+    "content": "the direction of our sexual attractions, as reflected in our longings and fantasies.",
+    "de_title": "sexuelle Orientierung",
+    "de_content": "die Richtung unserer sexuellen Anziehungskraft, wie sie sich in unseren Sehnsüchten und Fantasien widerspiegelt."
+  },
+  { 
+    "id": 547,
+    "title": "CHAPTER - ",
+    "content": "Affiliation and Achievement",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 548,
+    "title": "affiliation need",
+    "content": "the need to build and maintain relationships and to feel part of a group.",
+    "de_title": "Zugehörigkeitsbedürfnis",
+    "de_content": "das Bedürfnis, Beziehungen aufzubauen und aufrechtzuerhalten und sich als Teil einer Gruppe zu fühlen."
+  },
+  { 
+    "id": 549,
+    "title": "self-determination theory",
+    "content": "the theory that we feel motivated to satisfy our needs for competence, autonomy, and relatedness.",
+    "de_title": "Selbstbestimmungstheorie",
+    "de_content": "die Theorie, dass wir uns motiviert fühlen, unsere Bedürfnisse nach Kompetenz, Autonomie und Verbundenheit zu befriedigen."
+  },
+  { 
+    "id": 550,
+    "title": "ostracism",
+    "content": "deliberate social exclusion of individuals or groups.",
+    "de_title": "Ächtung",
+    "de_content": "bewusste soziale Ausgrenzung von Einzelpersonen oder Gruppen."
+  },
+  { 
+    "id": 551,
+    "title": "narcissism",
+    "content": "excessive self-love and self-absorption.",
+    "de_title": "Narzissmus",
+    "de_content": "übermäßige Selbstliebe und Selbstbezogenheit."
+  },
+  { 
+    "id": 552,
+    "title": "achievement motivation",
+    "content": "a desire for significant accomplishment, for mastery of skills or ideas, for control, and for attaining a high standard.",
+    "de_title": "Leistungsmotivation",
+    "de_content": "der Wunsch nach bedeutender Leistung, nach der Beherrschung von Fähigkeiten oder Ideen, nach Kontrolle und nach dem Erreichen eines hohen Standards."
+  },
+  { 
+    "id": 553,
+    "title": "grit",
+    "content": "in psychology, passion and perseverance in the pursuit of long-term goals.",
+    "de_title": "Streugut",
+    "de_content": "in Psychologie, Leidenschaft und Ausdauer bei der Verfolgung langfristiger Ziele."
+  },
+  { 
+    "id": 554,
+    "title": "intrinsic motivation",
+    "content": "a desire to perform a behavior effectively for its own sake.",
+    "de_title": "intrinsische Motivation",
+    "de_content": "der Wunsch, ein Verhalten um seiner selbst willen effektiv auszuführen."
+  },
+  { 
+    "id": 555,
+    "title": "extrinsic motivation",
+    "content": "the desire to perform a behavior to receive promised rewards or avoid threatened punishment.",
+    "de_title": "extrinsische Motivation",
+    "de_content": "der Wunsch, ein Verhalten auszuführen, um versprochene Belohnungen zu erhalten oder einer drohenden Strafe zu entgehen."
+  },
+  { 
+    "id": 556,
+    "title": "CHAPTER 12: Emotions, Stress, and Health",
+    "content": "Introduction to Emotion",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 557,
+    "title": "emotion",
+    "content": "a response of the whole organism, involving (1) physiological arousal, (2) expressive behaviors, and, most importantly, (3) conscious experience resulting from one’s interpretations.",
+    "de_title": "Emotion",
+    "de_content": "eine Reaktion des gesamten Organismus, die (1) physiologische Erregung, (2) Ausdrucksverhalten und, was am wichtigsten ist, (3) bewusste Erfahrung, die aus den eigenen Interpretationen resultiert, umfasst."
+  },
+  { 
+    "id": 558,
+    "title": "James-Lange theory",
+    "content": "the theory that our experience of emotion occurs when we become aware of our physiological responses to an emotion arousing stimulus.",
+    "de_title": "James-Lange-Theorie",
+    "de_content": "Die Theorie, dass unsere Emotionserfahrung dann auftritt, wenn wir uns unserer physiologischen Reaktionen auf einen emotionsauslösenden Reiz bewusst werden."
+  },
+  { 
+    "id": 559,
+    "title": "Cannon-Bard theory",
+    "content": "the theory that an emotion-arousing stimulus simultaneously triggers (1) physiological responses and (2) the subjective experience of emotion.",
+    "de_title": "Cannon-Bard-Theorie",
+    "de_content": "die Theorie, dass ein emotionserregender Reiz gleichzeitig (1) physiologische Reaktionen und (2) das subjektive Erleben von Emotionen auslöst."
+  },
+  { 
+    "id": 560,
+    "title": "two-factor theory",
+    "content": "the Schachter-Singer theory that to experience emotion one must (1) be physically aroused and (2) cognitively label the arousal.",
+    "de_title": "Zwei-Faktoren-Theorie",
+    "de_content": "die Schachter-Singer-Theorie, dass man, um Emotionen zu erleben, (1) körperlich erregt sein und (2) die Erregung kognitiv kennzeichnen muss."
+  },
+  { 
+    "id": 561,
+    "title": "polygraph",
+    "content": "a machine used in attempts to detect lies; measures emotion-linked changes in perspiration, heart rate, and breathing.",
+    "de_title": "Lügendetektor",
+    "de_content": "eine Maschine, mit der versucht wird, Lügen aufzudecken; misst emotionsbedingte Veränderungen in Schweiß, Herzfrequenz und Atmung."
+  },
+  { 
+    "id": 562,
+    "title": "CHAPTER - ",
+    "content": "Expressing Emotion",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 563,
+    "title": "behavior feedback effect",
+    "content": "the tendency of behavior to influence our own and others’ thoughts, feelings, and actions.",
+    "de_title": "Verhaltens-Feedback-Effekt",
+    "de_content": "die Tendenz des Verhaltens, unsere eigenen und die Gedanken, Gefühle und Handlungen anderer zu beeinflussen."
+  },
+  { 
+    "id": 564,
+    "title": "facial feedback effect",
+    "content": "the tendency of facial muscle states to trigger corresponding feelings, such as fear, anger, or happiness.",
+    "de_title": "Gesichts-Feedback-Effekt",
+    "de_content": "die Tendenz von Gesichtsmuskelzuständen, entsprechende Gefühle wie Angst, Wut oder Glück auszulösen."
+  },
+  { 
+    "id": 565,
+    "title": "behavior feedback effect",
+    "content": "the tendency of behavior to influence our own and others’ thoughts, feelings, and actions.",
+    "de_title": "Verhaltens-Feedback-Effekt",
+    "de_content": "die Tendenz des Verhaltens, unsere eigenen und die Gedanken, Gefühle und Handlungen anderer zu beeinflussen."
+  },
+  { 
+    "id": 566,
+    "title": "CHAPTER - ",
+    "content": "Experiencing Emotion",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 567,
+    "title": "catharsis",
+    "content": "in psychology, the idea that “releasing” aggressive energy (through action or fantasy) relieves aggressive urges.",
+    "de_title": "Katharsis",
+    "de_content": "In der Psychologie die Idee, dass das „Freisetzen“ aggressiver Energie (durch Handlung oder Fantasie) aggressive Triebe lindert."
+  },
+  { 
+    "id": 568,
+    "title": "feel-good, do-good phenomenon",
+    "content": "people’s tendency to be helpful when in a good mood.",
+    "de_title": "Wohlfühl- und Wohlfühlphänomen",
+    "de_content": "die Tendenz von Menschen, hilfsbereit zu sein, wenn sie gute Laune haben."
+  },
+  { 
+    "id": 569,
+    "title": "positive psychology",
+    "content": "the scientific study of human flourishing, with the goals of discovering and promoting strengths and virtues that help individuals and communities to thrive.",
+    "de_title": "Positive Psychologie",
+    "de_content": "die wissenschaftliche Untersuchung des menschlichen Gedeihens mit dem Ziel, Stärken und Tugenden zu entdecken und zu fördern, die Einzelpersonen und Gemeinschaften zum Gedeihen verhelfen."
+  },
+  { 
+    "id": 570,
+    "title": "subjective well-being",
+    "content": "self-perceived happiness or satisfaction with life. Used along with measures of objective well-being (for example, physical and economic indicators) to evaluate people’s quality of life.",
+    "de_title": "Subjektives Wohlsein",
+    "de_content": "selbst wahrgenommenes Glück oder Zufriedenheit mit dem Leben. Wird zusammen mit Maßen für das objektive Wohlbefinden (z. B. physische und wirtschaftliche Indikatoren) verwendet, um die Lebensqualität von Menschen zu bewerten."
+  },
+  { 
+    "id": 571,
+    "title": "adaptation-level phenomenon",
+    "content": "our tendency to form judgments (of sounds, of lights, of income) relative to a neutral level defined by our prior experience.",
+    "de_title": "Phänomen auf der Anpassungsebene",
+    "de_content": "unsere Tendenz, Urteile (über Geräusche, Lichter, Einkommen) relativ zu einem neutralen Niveau zu bilden, das durch unsere früheren Erfahrungen definiert wird."
+  },
+  { 
+    "id": 572,
+    "title": "relative deprivation",
+    "content": "the perception that we are worse off relative to those with whom we compare ourselves.",
+    "de_title": "relative Deprivation",
+    "de_content": "die Wahrnehmung, dass es uns im Vergleich zu denen, mit denen wir uns vergleichen, schlechter geht."
+  },
+  { 
+    "id": 573,
+    "title": "CHAPTER - ",
+    "content": "Stress and Illness",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 574,
+    "title": "stress",
+    "content": "the process by which we perceive and respond to certain events, called stressors, that we appraise as threatening or challenging.",
+    "de_title": "Stress",
+    "de_content": "der Prozess, durch den wir bestimmte Ereignisse, sogenannte Stressfaktoren, die wir als bedrohlich oder herausfordernd einschätzen, wahrnehmen und darauf reagieren."
+  },
+  { 
+    "id": 575,
+    "title": "approach and avoidance motives",
+    "content": "the drive to move toward (approach) or away from (avoid) a stimulus.",
+    "de_title": "Annäherungs- und Vermeidungsmotive",
+    "de_content": "der Drang, sich auf einen Reiz zuzubewegen (sich ihm zu nähern) oder sich von ihm zu entfernen (aus ihm auszuweichen)."
+  },
+  { 
+    "id": 576,
+    "title": "general adaptation syndrome (GAS)",
+    "content": "Selye’s concept of the body’s adaptive response to stress in three phases—alarm, resistance, exhaustion.",
+    "de_title": "Allgemeines Anpassungssyndrom (GAS)",
+    "de_content": "Selyes Konzept der adaptiven Reaktion des Körpers auf Stress in drei Phasen – Alarm, Widerstand, Erschöpfung."
+  },
+  { 
+    "id": 577,
+    "title": "tend-and-befriend response",
+    "content": "under stress, people (especially women) often provide support to others (tend) and bond with and seek support from others (befriend).",
+    "de_title": "„Neige-und-sich-anfreunden“-Antwort",
+    "de_content": "Unter Stress unterstützen Menschen (vor allem Frauen) oft andere (sich um sie kümmern) und knüpfen Kontakte zu anderen und suchen Unterstützung bei ihnen (sich mit ihnen anfreunden)."
+  },
+  { 
+    "id": 578,
+    "title": "health psychology",
+    "content": "a subfield of psychology that provides psychology’s contribution to behavioral medicine.",
+    "de_title": "Gesundheitspsychologie",
+    "de_content": "ein Teilgebiet der Psychologie, das den Beitrag der Psychologie zur Verhaltensmedizin liefert."
+  },
+  { 
+    "id": 579,
+    "title": "psychoneuroimmunology",
+    "content": "the study of how psychological, neural, and endocrine processes together affect our immune system and resulting health.",
+    "de_title": "Psychoneuroimmunologie",
+    "de_content": "die Untersuchung, wie psychologische, neuronale und endokrine Prozesse zusammen unser Immunsystem und die daraus resultierende Gesundheit beeinflussen."
+  },
+  { 
+    "id": 580,
+    "title": "coronary heart disease",
+    "content": "the clogging of the vessels that nourish the heart muscle; a leading cause of death in many developed countries.",
+    "de_title": "koronare Herzerkrankung",
+    "de_content": "die Verstopfung der Gefäße, die den Herzmuskel versorgen; eine der häufigsten Todesursachen in vielen entwickelten Ländern."
+  },
+  { 
+    "id": 581,
+    "title": "Type A",
+    "content": "Friedman and Rosenman’s term for competitive, hard-driving, impatient, verbally aggressive, and anger-prone people.",
+    "de_title": "Tippe A",
+    "de_content": "Friedmans und Rosenmans Begriff für wettbewerbsorientierte, ehrgeizige, ungeduldige, verbal aggressive und zu Wut neigende Menschen."
+  },
+  { 
+    "id": 582,
+    "title": "Type B",
+    "content": "Friedman and Rosenman’s term for easygoing, relaxed people.",
+    "de_title": "Typ B",
+    "de_content": "Friedmans und Rosenmans Begriff für lockere, entspannte Menschen."
+  },
+  { 
+    "id": 583,
+    "title": "CHAPTER - ",
+    "content": "Health and Coping",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 584,
+    "title": "coping",
+    "content": "alleviating stress using emotional, cognitive, or behavioral methods.",
+    "de_title": "Bewältigung",
+    "de_content": "Linderung von Stress durch emotionale, kognitive oder verhaltensbezogene Methoden."
+  },
+  { 
+    "id": 585,
+    "title": "problem-focused coping",
+    "content": "attempting to alleviate stress directly—by changing the stressor or the way we interact with that stressor.",
+    "de_title": "problemorientierte Bewältigung",
+    "de_content": "Der Versuch, Stress direkt zu lindern – indem wir den Stressor oder die Art und Weise, wie wir mit diesem Stressor interagieren, ändern."
+  },
+  { 
+    "id": 586,
+    "title": "emotion-focused coping",
+    "content": "attempting to alleviate stress by avoiding or ignoring a stressor and attending to emotional needs related to our stress reaction.",
+    "de_title": "emotionsfokussierte Bewältigung",
+    "de_content": "Der Versuch, Stress zu lindern, indem man einen Stressor vermeidet oder ignoriert und auf emotionale Bedürfnisse im Zusammenhang mit unserer Stressreaktion eingeht."
+  },
+  { 
+    "id": 587,
+    "title": "personal control",
+    "content": "our sense of controlling our environment rather than feeling helpless.",
+    "de_title": "persönliche Kontrolle",
+    "de_content": "unser Gefühl, unsere Umwelt zu kontrollieren, anstatt uns hilflos zu fühlen."
+  },
+  { 
+    "id": 588,
+    "title": "learned helplessness",
+    "content": "the hopelessness and passive resignation humans and other animals learn when unable to avoid repeated aversive events.",
+    "de_title": "erlernte Hilflosigkeit",
+    "de_content": "die Hoffnungslosigkeit und passive Resignation, die Menschen und andere Tiere lernen, wenn sie wiederholten aversiven Ereignissen nicht aus dem Weg gehen können."
+  },
+  { 
+    "id": 589,
+    "title": "external locus of control",
+    "content": "the perception that outside forces beyond our personal control determine our fate.",
+    "de_title": "externen Ort der Kontrolle",
+    "de_content": "die Wahrnehmung, dass äußere Kräfte außerhalb unserer persönlichen Kontrolle unser Schicksal bestimmen."
+  },
+  { 
+    "id": 590,
+    "title": "internal locus of control",
+    "content": "the perception that we control our own fate.",
+    "de_title": "interner Kontrollort",
+    "de_content": "die Wahrnehmung, dass wir unser eigenes Schicksal kontrollieren."
+  },
+  { 
+    "id": 591,
+    "title": "self-control",
+    "content": "the ability to control impulses and delay short-term gratification for greater long-term rewards.",
+    "de_title": "Selbstkontrolle",
+    "de_content": "die Fähigkeit, Impulse zu kontrollieren und kurzfristige Befriedigungen hinauszuzögern, um langfristig größere Belohnungen zu erhalten."
+  },
+  { 
+    "id": 592,
+    "title": "aerobic exercise",
+    "content": "sustained exercise that increases heart and lung fitness; also helps alleviate depression and anxiety.",
+    "de_title": "Aerobic Übung",
+    "de_content": "anhaltendes Training, das die Herz- und Lungenfitness steigert; Hilft auch bei der Linderung von Depressionen und Angstzuständen."
+  },
+  { 
+    "id": 593,
+    "title": "mindfulness meditation",
+    "content": "a reflective practice in which people attend to current experiences in a nonjudgmental and accepting manner.",
+    "de_title": "Achtsamkeitsmeditation",
+    "de_content": "eine reflexive Praxis, bei der Menschen auf unvoreingenommene und akzeptierende Weise mit aktuellen Erfahrungen umgehen."
+  },
+  { 
+    "id": 594,
+    "title": "CHAPTER 13: Social Psychology",
+    "content": "Social Thinking",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 595,
+    "title": "social psychology",
+    "content": "the scientific study of how we think about, influence, and relate to one another.",
+    "de_title": "Sozialpsychologie",
+    "de_content": "die wissenschaftliche Untersuchung darüber, wie wir über einander denken, wie wir ihn beeinflussen und wie wir miteinander umgehen."
+  },
+  { 
+    "id": 596,
+    "title": "attribution theory",
+    "content": "the theory that we explain someone’s behavior by crediting either the situation or the person’s disposition.",
+    "de_title": "Attributionstheorie",
+    "de_content": "die Theorie, dass wir das Verhalten einer Person dadurch erklären, dass wir entweder die Situation oder die Veranlagung der Person anführen."
+  },
+  { 
+    "id": 597,
+    "title": "fundamental attribution error",
+    "content": "the tendency, when analyzing others’ behavior, to underestimate the impact of the situation and to overestimate the impact of personal disposition.",
+    "de_title": "grundlegender Zuordnungsfehler",
+    "de_content": "die Tendenz, bei der Analyse des Verhaltens anderer die Auswirkungen der Situation zu unterschätzen und die Auswirkungen der persönlichen Disposition zu überschätzen."
+  },
+  { 
+    "id": 598,
+    "title": "attitude",
+    "content": "feelings, often influenced by our beliefs, that predispose us to respond in a particular way to objects, people, and events.",
+    "de_title": "Attitüde",
+    "de_content": "Gefühle, die oft von unseren Überzeugungen beeinflusst werden und uns dazu veranlassen, auf bestimmte Weise auf Objekte, Menschen und Ereignisse zu reagieren."
+  },
+  { 
+    "id": 599,
+    "title": "foot-in-the-door phenomenon",
+    "content": "the tendency for people who have first agreed to a small request to comply later with a larger request.",
+    "de_title": "Fuß-in-der-Tür-Phänomen",
+    "de_content": "die Tendenz von Personen, die zunächst einer kleinen Bitte zugestimmt haben, später einer größeren Bitte nachzukommen."
+  },
+  { 
+    "id": 600,
+    "title": "role",
+    "content": "a set of expectations (norms) about a social position, defining how those in the position ought to behave.",
+    "de_title": "Rolle",
+    "de_content": "eine Reihe von Erwartungen (Normen) an eine soziale Position, die definieren, wie sich die Personen in dieser Position verhalten sollten."
+  },
+  { 
+    "id": 601,
+    "title": "cognitive dissonance theory",
+    "content": "the theory that we act to reduce the discomfort (dissonance) we feel when two of our thoughts (cognitions) are inconsistent. For example, when we become aware that our attitudes and our actions clash, we can reduce the resulting dissonance by changing our attitudes.",
+    "de_title": "Kognitive Dissonanz Theorie",
+    "de_content": "Die Theorie, dass wir handeln, um das Unbehagen (Dissonanz) zu reduzieren, das wir empfinden, wenn zwei unserer Gedanken (Erkenntnisse) inkonsistent sind. Wenn wir uns zum Beispiel bewusst werden, dass unsere Einstellungen und unser Handeln im Widerspruch stehen, können wir die daraus resultierende Dissonanz reduzieren, indem wir unsere Einstellungen ändern."
+  },
+  { 
+    "id": 602,
+    "title": "peripheral route persuasion",
+    "content": "occurs when people are influenced by incidental cues, such as a speaker’s attractiveness.",
+    "de_title": "Überzeugung der peripheren Route",
+    "de_content": "tritt auf, wenn Menschen durch zufällige Hinweise beeinflusst werden, beispielsweise durch die Attraktivität eines Sprechers."
+  },
+  { 
+    "id": 603,
+    "title": "central route persuasion",
+    "content": "occurs when interested people’s thinking is influenced by considering evidence and arguments.",
+    "de_title": "zentrale Route Überzeugung",
+    "de_content": "tritt auf, wenn das Denken interessierter Menschen durch die Berücksichtigung von Beweisen und Argumenten beeinflusst wird."
+  },
+  { 
+    "id": 604,
+    "title": "Chapter - ",
+    "content": "Social Influence",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 605,
+    "title": "norms",
+    "content": "understood rules for accepted and expected behavior. Norms prescribe “proper” behavior.",
+    "de_title": "Normen",
+    "de_content": "verstandene Regeln für akzeptiertes und erwartetes Verhalten. Normen schreiben „richtiges“ Verhalten vor."
+  },
+  { 
+    "id": 606,
+    "title": "conformity",
+    "content": "adjusting our behavior or thinking to coincide with a group standard.",
+    "de_title": "Konformität",
+    "de_content": "Wir passen unser Verhalten oder Denken so an, dass es mit einem Gruppenstandard übereinstimmt."
+  },
+  { 
+    "id": 607,
+    "title": "normative social influence",
+    "content": "influence resulting from a person’s desire to gain approval or avoid disapproval.",
+    "de_title": "normativer sozialer Einfluss",
+    "de_content": "Einfluss, der aus dem Wunsch einer Person resultiert, Zustimmung zu erlangen oder Missbilligung zu vermeiden."
+  },
+  { 
+    "id": 608,
+    "title": "informational social influence",
+    "content": "influence resulting from a person’s willingness to accept others’ opinions about reality.",
+    "de_title": "informativer sozialer Einfluss",
+    "de_content": "Einfluss, der aus der Bereitschaft einer Person resultiert, die Meinungen anderer über die Realität zu akzeptieren."
+  },
+  { 
+    "id": 609,
+    "title": "social facilitation",
+    "content": "in the presence of others, improved performance on simple or well-learned tasks, and worsened performance on difficult tasks.",
+    "de_title": "soziale Erleichterung",
+    "de_content": "in Anwesenheit anderer verbesserte Leistung bei einfachen oder gut erlernten Aufgaben und schlechtere Leistung bei schwierigen Aufgaben."
+  },
+  { 
+    "id": 610,
+    "title": "social loafing",
+    "content": "the tendency for people in a group to exert less effort when pooling their efforts toward attaining a common goal than when individually accountable.",
+    "de_title": "Bummeln",
+    "de_content": "Die Tendenz, dass Menschen in einer Gruppe weniger Anstrengungen unternehmen, wenn sie ihre Anstrengungen bündeln, um ein gemeinsames Ziel zu erreichen, als wenn sie einzeln verantwortlich sind."
+  },
+  { 
+    "id": 611,
+    "title": "deindividuation",
+    "content": "the loss of self-awareness and self-restraint occurring in group situations that foster arousal and anonymity.",
+    "de_title": "Deindividualisierung",
+    "de_content": "der Verlust des Selbstbewusstseins und der Selbstbeherrschung, der in Gruppensituationen auftritt, die Erregung und Anonymität fördern."
+  },
+  { 
+    "id": 612,
+    "title": "group polarization",
+    "content": "the enhancement of a group’s prevailing inclinations through discussion within the group.",
+    "de_title": "Gruppenpolarisierung",
+    "de_content": "die Stärkung der vorherrschenden Neigungen einer Gruppe durch Diskussion innerhalb der Gruppe."
+  },
+  { 
+    "id": 613,
+    "title": "groupthink",
+    "content": "the mode of thinking that occurs when the desire for harmony in a decision-making group overrides a realistic appraisal of alternatives.",
+    "de_title": "Gruppendenken",
+    "de_content": "die Denkweise, die auftritt, wenn der Wunsch nach Harmonie in einer Entscheidungsgruppe eine realistische Einschätzung von Alternativen außer Kraft setzt."
+  },
+  { 
+    "id": 614,
+    "title": "Chapter - ",
+    "content": "Antisocial Relations",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 615,
+    "title": "prejudice",
+    "content": "an unjustifiable and usually negative attitude toward a group and its members. Prejudice generally involves stereotyped beliefs, negative feelings, and a predisposition to discriminatory action.",
+    "de_title": "Vorurteil",
+    "de_content": "eine ungerechtfertigte und meist negative Einstellung gegenüber einer Gruppe und ihren Mitgliedern. Vorurteile beinhalten im Allgemeinen stereotype Überzeugungen, negative Gefühle und eine Veranlagung zu diskriminierendem Handeln."
+  },
+  { 
+    "id": 616,
+    "title": "stereotype",
+    "content": "a generalized (sometimes accurate but often overgeneralized) belief about a group of people.",
+    "de_title": "Stereotyp",
+    "de_content": "a generalized (sometimes accurate but often overgeneralized) belief about a group of people."
+  },
+  { 
+    "id": 617,
+    "title": "discrimination",
+    "content": "unjustifiable negative behavior toward a group or its members.",
+    "de_title": "Diskriminierung",
+    "de_content": "ungerechtfertigtes negatives Verhalten gegenüber einer Gruppe oder ihren Mitgliedern."
+  },
+  { 
+    "id": 618,
+    "title": "just-world phenomenon",
+    "content": "the tendency for people to believe that the world is just and people therefore get what they deserve and deserve what they get.",
+    "de_title": "Phänomen der gerechten Welt",
+    "de_content": "die Tendenz der Menschen zu glauben, dass die Welt gerecht ist und dass die Menschen deshalb bekommen, was sie verdienen, und dass sie verdienen, was sie bekommen."
+  },
+  { 
+    "id": 619,
+    "title": "ingroup",
+    "content": "“us”—people with whom we share a common identity.",
+    "de_title": "in einer Gruppe",
+    "de_content": "„wir“ – Menschen, mit denen wir eine gemeinsame Identität teilen."
+  },
+  { 
+    "id": 620,
+    "title": "outgroup",
+    "content": "“them”—those perceived as different or apart from our ingroup.",
+    "de_title": "Fremdgruppe",
+    "de_content": "„sie“ – diejenigen, die als anders oder als von unserer Eigengruppe getrennt wahrgenommen werden."
+  },
+  { 
+    "id": 621,
+    "title": "ingroup bias",
+    "content": "the tendency to favor our own group.",
+    "de_title": "Ingroup-Voreingenommenheit",
+    "de_content": "die Tendenz, die eigene Gruppe zu bevorzugen."
+  },
+  { 
+    "id": 622,
+    "title": "scapegoat theory",
+    "content": "the theory that prejudice offers an outlet for anger by providing someone to blame.",
+    "de_title": "Sündenbock-Theorie",
+    "de_content": "die Theorie, dass Vorurteile ein Ventil für Wut bieten, indem sie jemandem die Schuld geben."
+  },
+  { 
+    "id": 623,
+    "title": "other-race effect",
+    "content": "the tendency to recall faces of one’s own race more accurately than faces of other races. Also called the cross-race effect and the own-race bias.",
+    "de_title": "Andere-Rassen-Effekt",
+    "de_content": "die Tendenz, sich an Gesichter der eigenen Rasse genauer zu erinnern als an Gesichter anderer Rassen. Wird auch Cross-Race-Effekt und Own-Race-Bias genannt."
+  },
+  { 
+    "id": 625,
+    "title": "aggression",
+    "content": "any physical or verbal behavior intended to harm someone physically or emotionally.",
+    "de_title": "Aggression",
+    "de_content": "jedes körperliche oder verbale Verhalten, das darauf abzielt, jemandem körperlich oder emotional zu schaden."
+  },
+  { 
+    "id": 626,
+    "title": "frustration-aggression principle",
+    "content": "the principle that frustration—the blocking of an attempt to achieve some goal—creates anger, which can generate aggression.",
+    "de_title": "Frustrations-Aggressions-Prinzip",
+    "de_content": "das Prinzip, dass Frustration – das Blockieren eines Versuchs, ein Ziel zu erreichen – Wut erzeugt, die Aggression hervorrufen kann."
+  },
+  { 
+    "id": 627,
+    "title": "social script",
+    "content": "a culturally modeled guide for how to act in various situations.",
+    "de_title": "soziales Drehbuch",
+    "de_content": "ein kulturell modellierter Leitfaden für das Verhalten in verschiedenen Situationen."
+  },
+  { 
+    "id": 628,
+    "title": "CHAPTER - ",
+    "content": "Prosocial Relations",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 629,
+    "title": "mere exposure effect",
+    "content": "the tendency for repeated exposure to novel stimuli to increase our liking of them.",
+    "de_title": "bloßer Belichtungseffekt",
+    "de_content": "the tendency for repeated exposure to novel stimuli to increase our liking of them."
+  },
+  { 
+    "id": 630,
+    "title": "companionate love",
+    "content": "the deep affectionate attachment we feel for those with whom our lives are intertwined.",
+    "de_title": "Kameradschaftliche Liebe",
+    "de_content": "die tiefe, liebevolle Verbundenheit, die wir für diejenigen empfinden, mit denen unser Leben verbunden ist."
+  },
+  { 
+    "id": 631,
+    "title": "equity",
+    "content": "a condition in which people receive from a relationship in proportion to what they give to it.",
+    "de_title": "Eigenkapital",
+    "de_content": "ein Zustand, in dem Menschen von einer Beziehung im Verhältnis zu dem erhalten, was sie ihr geben."
+  },
+  { 
+    "id": 632,
+    "title": "self-disclosure",
+    "content": "the act of revealing intimate aspects of ourselves to others.",
+    "de_title": "Selbstauskunft",
+    "de_content": "der Akt, anderen intime Aspekte von uns selbst zu offenbaren."
+  },
+  { 
+    "id": 633,
+    "title": "altruism",
+    "content": "unselfish regard for the welfare of others.",
+    "de_title": "Altruismus",
+    "de_content": "selbstlose Rücksichtnahme auf das Wohlergehen anderer."
+  },
+  { 
+    "id": 634,
+    "title": "bystander effect",
+    "content": "the tendency for any given bystander to be less likely to give aid if other bystanders are present.",
+    "de_title": "Nebeneffekt",
+    "de_content": "die Tendenz, dass ein bestimmter Umstehender weniger wahrscheinlich Hilfe leistet, wenn andere Umstehende anwesend sind."
+  },
+  { 
+    "id": 635,
+    "title": "social exchange theory",
+    "content": "the theory that our social behavior is an exchange process, the aim of which is to maximize benefits and minimize costs.",
+    "de_title": "Theorie des sozialen Austauschs",
+    "de_content": "die Theorie, dass unser soziales Verhalten ein Austauschprozess ist, dessen Ziel es ist, den Nutzen zu maximieren und die Kosten zu minimieren."
+  },
+  { 
+    "id": 636,
+    "title": "reciprocity norm",
+    "content": "an expectation that people will help, not hurt, those who have helped them.",
+    "de_title": "Reziprozitätsnorm",
+    "de_content": "eine Erwartung, dass die Menschen denjenigen helfen, die ihnen geholfen haben, und sie nicht verletzen."
+  },
+  { 
+    "id": 637,
+    "title": "social-responsibility norm",
+    "content": "an expectation that people will help those needing their help.",
+    "de_title": "soziale Verantwortungsnorm",
+    "de_content": "eine Erwartung, dass Menschen denjenigen helfen, die ihre Hilfe benötigen."
+  },
+  { 
+    "id": 638,
+    "title": "conflict",
+    "content": "a perceived incompatibility of actions, goals, or ideas.",
+    "de_title": "Konflikt",
+    "de_content": "eine wahrgenommene Unvereinbarkeit von Handlungen, Zielen oder Ideen."
+  },
+  { 
+    "id": 639,
+    "title": "social trap",
+    "content": "a situation in which two parties, by each pursuing their self-interest rather than the good of the group, become caught in mutually destructive behavior.",
+    "de_title": "soziale Falle",
+    "de_content": "eine Situation, in der zwei Parteien, indem sie jeweils ihr Eigeninteresse und nicht das Wohl der Gruppe verfolgen, in ein für beide Seiten destruktives Verhalten verwickelt werden."
+  },
+  { 
+    "id": 640,
+    "title": "mirror-image perceptions",
+    "content": "mutual views often held by conflicting parties, as when each side sees itself as ethical and peaceful and views the other side as evil and aggressive.",
+    "de_title": "Spiegelbildwahrnehmungen",
+    "de_content": "gegenseitige Ansichten, die häufig von Konfliktparteien vertreten werden, beispielsweise wenn sich jede Seite als ethisch und friedlich und die andere Seite als böse und aggressiv betrachtet."
+  },
+  { 
+    "id": 641,
+    "title": "self-fulfilling prophecy",
+    "content": "a belief that leads to its own fulfillment.",
+    "de_title": "sich selbst erfüllende Prophezeiung",
+    "de_content": "ein Glaube, der zu seiner eigenen Erfüllung führt."
+  },
+  { 
+    "id": 642,
+    "title": "superordinate goals",
+    "content": "shared goals that override differences among people and require their cooperation.",
+    "de_title": "übergeordnete Ziele",
+    "de_content": "gemeinsame Ziele, die die Unterschiede zwischen Menschen außer Kraft setzen und ihre Zusammenarbeit erfordern."
+  },
+  { 
+    "id": 643,
+    "title": "GRIT",
+    "content": "Graduated and Reciprocated Initiatives in Tension-Reduction—a strategy designed to decrease international tensions.",
+    "de_title": "STREUGUT",
+    "de_content": "Abgestufte und reziproke Initiativen zur Spannungsreduzierung – eine Strategie zur Verringerung internationaler Spannungen."
+  },
+  { 
+    "id": 644,
+    "title": "passionate love",
+    "content": "an aroused state of intense positive absorption in another, usually present at the beginning of a romantic relationship.",
+    "de_title": "leidenschaftliche Liebe",
+    "de_content": "ein erregter Zustand intensiver positiver Versenkung in einen anderen, der normalerweise zu Beginn einer romantischen Beziehung auftritt."
+  },
+  { 
+    "id": 645,
+    "title": "CHAPTER 14: Personality",
+    "content": "Introduction to Personality and Psychodynamic Theories",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 646,
     "title": "",
     "content": "",
     "de_title": "",
     "de_content": ""
   },
   { 
-    "id": 532,
+    "id": 647,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 648,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 649,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 650,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 651,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 652,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 653,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 654,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 655,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 656,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 657,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 658,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 659,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 660,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 661,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 662,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 663,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 664,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 665,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 666,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 667,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 668,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 669,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 670,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 671,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 672,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 673,
+    "title": "",
+    "content": "",
+    "de_title": "",
+    "de_content": ""
+  },
+  { 
+    "id": 674,
     "title": "",
     "content": "",
     "de_title": "",

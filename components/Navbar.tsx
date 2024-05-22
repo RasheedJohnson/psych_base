@@ -24,7 +24,11 @@ const Navbar = () => {
     "CHAPTER 7: Learning",
     "CHAPTER 8: Memory",
     "CHAPTER 9: Thinking and Language",
-    "CHAPTER 10: Intelligence"
+    "CHAPTER 10: Intelligence",
+    "CHAPTER 11: What Drives Us: Hunger, Sex Belonging, and Achievement",
+    "CHAPTER 12: Emotions, Stress, and Health",
+    "CHAPTER 13: Social Psychology",
+    "CHAPTER 14: Personality",
   ]
 
   return (
@@ -60,7 +64,7 @@ const Navbar = () => {
                       key={index}
                       className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
                       href={`#${item}`}>
-                        {`${item.slice(0, 9).toLowerCase()}`}</Link>
+                        {`${item.slice(0, 10).toLowerCase()}`}</Link>
                   ))
                 }
               </div>
@@ -75,7 +79,7 @@ const Navbar = () => {
               key={index}
               className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
               href={`#${item}`}>
-                {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 9)}`}</Link>
+                {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}</Link>
           ))
         }
       </div>
