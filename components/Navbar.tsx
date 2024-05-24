@@ -1,10 +1,18 @@
 "use client";
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import React, { useState } from 'react';
 
 
-const Navbar = () => {
+
+const Navbar = ({ params }) => {
+  console.log(params)
   const [open, setOpen] = useState(false);
+  const router = useRouter();
+  // const navigate = (page: string) => {
+  //   router.push(path)
+  // }
+  
 
 
   const handleClick = () => {
@@ -14,6 +22,13 @@ const Navbar = () => {
       setOpen(true);
     }
   }
+
+  const navItemsQuestions = [
+    "Learning Objective Questions – Kapitel 1",
+    "Learning Objective Questions – Kapitel 2",
+    "Learning Objective Questions – Kapitel 3",
+    "Learning Objective Questions – Kapitel 4"
+  ]
 
   const navItems = [
     "CHAPTER 0: Prologue",

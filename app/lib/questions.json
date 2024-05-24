@@ -703,698 +703,698 @@
   },
   { 
     "id": 124,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 7",
     "question": "",
     "answer": ""
   },
   { 
     "id": 125,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-1 Wie definieren wir Lernen und welche grundlegenden Formen des Lernens gibt es?",
+    "answer": "Lernen ist der Prozess des Erwerbs neuer Informationen oder Verhaltensweisen durch Erfahrung. Beim assoziativen Lernen lernen wir, dass bestimmte Ereignisse zusammen auftreten. Bei der klassischen Konditionierung lernen wir, zwei oder mehr Reize zu assoziieren. Das automatische Reagieren auf Reize, die wir nicht kontrollieren, wird als Befragtenverhalten bezeichnet. Bei der operanten Konditionierung lernen wir, eine Reaktion und ihre Konsequenz zu assoziieren. Diese Assoziationen erzeugen operantes Verhalten. Durch kognitives Lernen erwerben wir mentale Informationen, die unser Verhalten leiten. Beim beobachtenden Lernen lernen wir beispielsweise neue Verhaltensweisen, indem wir Ereignisse beobachten und andere beobachten."
   },
   { 
     "id": 126,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-2 Welche Sichtweise hat der Behaviorismus auf das Lernen?",
+    "answer": "Ivan Pavlovs Arbeit zur klassischen Konditionierung legte den Grundstein für den Behaviorismus, die Ansicht, dass Psychologie eine objektive Wissenschaft sein sollte, die Verhalten ohne Bezug auf mentale Prozesse untersucht. Die Verhaltensforscher glaubten, dass die Grundgesetze des Lernens für alle Arten, auch für den Menschen, gleich seien."
   },
   { 
     "id": 127,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-3 Wer war Pawlow und was sind die Grundbestandteile der klassischen Konditionierung?",
+    "answer": "Ivan Pavlov, ein russischer Physiologe, entwickelte neuartige Experimente zum Lernen. Seine Forschungen zu Beginn des 20. Jahrhunderts in den letzten drei Jahrzehnten seines Lebens zeigten, dass klassische Konditionierung eine grundlegende Form des Lernens ist. Klassische Konditionierung ist eine Form des Lernens, bei der ein Organismus dazu kommt, Reize zu assoziieren und Ereignisse zu antizipieren. Eine UR (unbedingte Reaktion) ist ein Ereignis, das auf natürliche Weise (z. B. Speichelfluss) als Reaktion auf einen Reiz auftritt. Ein US (unkonditionierter Reiz) ist etwas, das auf natürliche und automatische Weise (ohne Lernen) die ungelernte Reaktion auslöst (so wie Nahrung im Mund Speichelfluss auslöst). Ein CS (konditionierter Reiz) ist ursprünglich ein NS (neutraler Reiz, z. B. ein Ton), der nach der Assoziation mit einem US (z. B. Essen) einen CR auslöst. Eine CR (konditionierte Reaktion) ist die erlernte Reaktion (Speichelfluss) auf den ursprünglich neutralen (aber jetzt konditionierten) Reiz."
   },
   { 
     "id": 128,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-4 Was sind bei der klassischen Konditionierung die Prozesse des Erwerbs, des Aussterbens, der spontanen Wiederherstellung, der Generalisierung und der Diskriminierung?",
+    "answer": "Bei der klassischen Konditionierung ist die erste Stufe die Akquisition, bei der ein NS mit den US verknüpft wird, sodass der NS beginnt, die CR auszulösen. Die Akquisition erfolgt am einfachsten, wenn das NS kurz vor (idealerweise etwa eine halbe Sekunde vor) einem US präsentiert wird, wodurch der Organismus auf das bevorstehende Ereignis vorbereitet wird. Dieser Befund stützt die Ansicht, dass die klassische Konditionierung biologisch adaptiv ist. Das Aussterben ist eine verringerte Reaktion, die auftritt, wenn die CS ohne die USA wiederholt alleine auftritt. Unter spontaner Erholung versteht man das Wiederauftreten einer abgeschwächten konditionierten Reaktion nach einer Ruhephase. Unter Generalisierung versteht man die Tendenz, auf Reize zu reagieren, die einem CS ähneln. Unter Diskriminierung versteht man die erlernte Fähigkeit, zwischen einem CS und anderen irrelevanten Reizen zu unterscheiden."
   },
   { 
     "id": 129,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-5 Warum bleibt Pawlows Werk so wichtig?",
+    "answer": "Pawlow lehrte uns, dass bedeutende psychologische Phänomene objektiv untersucht werden können und dass die klassische Konditionierung eine grundlegende Form des Lernens ist, die für alle Arten gilt."
   },
   { 
     "id": 130,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-6 Welche Anwendungen hat Pawlows Arbeit für die Gesundheit und das Wohlbefinden des Menschen? Wie wandte Watson Pawlows Prinzipien auf erlernte Ängste an?",
+    "answer": "Klassische Konditionierungstechniken werden in vielen Bereichen zur Verbesserung der menschlichen Gesundheit und des Wohlbefindens eingesetzt, einschließlich der Verhaltenstherapie bei einigen Arten psychischer Störungen. Das körpereigene Immunsystem kann auch auf klassische Konditionierung reagieren. Pawlows Arbeit lieferte auch eine Grundlage für Watsons Idee, dass menschliche Emotionen und Verhaltensweisen, obwohl biologisch beeinflusst, hauptsächlich ein Bündel konditionierter Reaktionen sind. Watson wandte in seinen Studien über „Little Albert“ klassische Konditionierungsprinzipien an, um zu zeigen, wie bestimmte Ängste konditioniert werden könnten."
   },
   { 
     "id": 131,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-7 Was ist operante Konditionierung?",
+    "answer": "Operante Konditionierung ist eine Form des Lernens, bei der die Wahrscheinlichkeit einer Wiederholung eines Verhaltens größer wird, wenn ihm ein Verstärker folgt, bzw. eine geringere Wahrscheinlichkeit, dass es wiederkehrt, wenn ihm ein Bestrafer folgt."
   },
   { 
     "id": 132,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-8 Wer war Skinner und wie wird operantes Verhalten verstärkt und geformt?",
+    "answer": "B. F. Skinner war ein Englischstudent am College und aufstrebender Schriftsteller, der später ein Psychologiestudium aufnahm. Er wurde zur einflussreichsten und umstrittensten Persönlichkeit unserer Zeit. Skinner und andere erweiterten das Wirkungsgesetz von Edward Thorndike und fanden heraus, dass das Verhalten von Ratten oder Tauben, die in einer operativen Kammer (Skinner-Box) platziert werden, durch den Einsatz von Verstärkern geformt werden kann, die sukzessive Annäherungen an das gewünschte Verhalten steuern."
   },
   { 
     "id": 133,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-9 Wie unterscheiden sich positive und negative Verstärkung und welche grundlegenden Arten von Verstärkern gibt es?",
+    "answer": "Verstärkung ist jedes Ereignis, das das darauf folgende Verhalten verstärkt. Positive Verstärkung fügt einen wünschenswerten Anreiz hinzu, um die Häufigkeit eines Verhaltens zu erhöhen. Negative Verstärkung reduziert oder entfernt einen aversiven Reiz, um die Häufigkeit eines Verhaltens zu erhöhen. Primäre Verstärker (z. B. Essen bei Hunger oder Übelkeit während einer Krankheit) sind von Natur aus befriedigend – es ist kein Lernen erforderlich. Konditionierte (oder sekundäre) Verstärker (z. B. Bargeld) sind befriedigend, weil wir gelernt haben, sie mit grundlegenden Belohnungen (z. B. den Lebensmitteln oder Medikamenten, die wir damit kaufen) zu verknüpfen. Unmittelbare Verstärker (z. B. eine Futterbelohnung direkt nach einem gewünschten Verhalten) sorgen für eine sofortige Amortisation; verzögerte Verstärker (z. B. ein Gehaltsscheck) erfordern die Fähigkeit, die Befriedigung hinauszuzögern."
   },
   { 
     "id": 134,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-10 Wie wirken sich unterschiedliche Verstärkungspläne auf das Verhalten aus?",
+    "answer": "Ein Verstärkungsplan legt fest, wie oft eine Reaktion verstärkt wird. Bei der kontinuierlichen Verstärkung (die Verstärkung gewünschter Reaktionen jedes Mal, wenn sie auftreten) erfolgt das Lernen schnell, aber auch das Aussterben, wenn die Belohnungen aufhören. Bei teilweiser (intermittierender) Verstärkung (nur manchmal werden verstärkende Reaktionen durchgeführt) ist das anfängliche Lernen langsamer, aber das Verhalten ist viel resistenter gegen Aussterben. Zeitpläne mit festem Verhältnis verstärken das Verhalten nach einer festgelegten Anzahl von Antworten; Zeitpläne mit variablem Verhältnis nach einer unvorhersehbaren Anzahl. Zeitpläne mit festen Intervallen verstärken Verhaltensweisen nach festgelegten Zeiträumen; Zeitpläne mit variablen Intervallen nach unvorhersehbaren Zeiträumen"
   },
   { 
     "id": 135,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-11 Wie unterscheidet sich Bestrafung von negativer Verstärkung und wie wirkt sich Bestrafung auf das Verhalten aus?",
+    "answer": "Durch die Bestrafung wird eine unerwünschte Konsequenz (z. B. eine Auszeit) ausgeübt oder etwas Wünschenswertes entzogen (z. B. das Wegnehmen eines Lieblingsspielzeugs), um die Häufigkeit eines Verhaltens (den Ungehorsam eines Kindes) zu verringern. Eine negative Verstärkung (Einnahme eines Aspirins) beseitigt einen aversiven Reiz (Kopfschmerzen). Diese gewünschte Konsequenz (Schmerzfreiheit) erhöht die Wahrscheinlichkeit, dass das Verhalten (Aspirin nehmen, um den Schmerz zu beenden) wiederholt wird. Körperliche Bestrafung kann unerwünschte Nebenwirkungen haben, wie z. B. die Unterdrückung statt Veränderung unerwünschter Verhaltensweisen, das Fehlen einer Richtung für angemessenes Verhalten, die Förderung von Diskriminierung (so dass das unerwünschte Verhalten auftritt, wenn der Bestrafer nicht anwesend ist), das Erzeugen von Angst und das Erlernen von Aggressivität."
   },
   { 
     "id": 136,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-12 Warum lösten Skinners Ideen Kontroversen aus und wie ließen sich seine Prinzipien der operanten Konditionierung anwenden?",
+    "answer": "Kritiker von Skinners Prinzipien glaubten, dass dieser Ansatz die Menschen entmenschlichte, indem er ihre persönliche Freiheit vernachlässigte und versuchte, ihre Handlungen zu kontrollieren. Skinner antwortete, dass die Handlungen der Menschen bereits durch äußere Konsequenzen kontrolliert werden und dass Verstärkung als Mittel zur Verhaltenskontrolle humaner sei als Bestrafung. Lehrkräfte können Gestaltungstechniken nutzen, um das Verhalten der Schüler zu steuern, und interaktive Medien wie adaptive Online-Quizzing nutzen, um sofortiges Feedback zu geben. (Die mit diesem Text verfügbaren Systeme „LearningCurve“ und „Achieve Read & Practice“ bieten ein solches Feedback und ermöglichen den Schülern, das Tempo ihres eigenen Lernens zu steuern.) Trainer können die Fähigkeiten und das Selbstvertrauen der Spieler stärken, indem sie kleine Verbesserungen belohnen. Programme der künstlichen Intelligenz (KI), die mithilfe von Verstärkungsprinzipien entwickelt wurden, lehren uns über die Grenzen des menschlichen Lernens. Manager können Produktivität und Arbeitsmoral steigern, indem sie klar definierte und erreichbare Verhaltensweisen belohnen. Eltern können gewünschte Verhaltensweisen belohnen, unerwünschte jedoch nicht. Wir können unser eigenes Verhalten formen, indem wir realistische Ziele festlegen, planen, wie wir auf diese Ziele hinarbeiten, die Häufigkeit gewünschter Verhaltensweisen überwachen, gewünschte Verhaltensweisen verstärken und Belohnungen schrittweise reduzieren, wenn Verhaltensweisen zur Gewohnheit werden."
   },
   { 
     "id": 137,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-13 Wie unterscheidet sich die operante Konditionierung von der klassischen Konditionierung?",
+    "answer": "Bei der operanten Konditionierung lernt ein Organismus Zusammenhänge zwischen seinem eigenen Verhalten und daraus resultierenden Ereignissen; Diese Form der Konditionierung beinhaltet operantes Verhalten (Verhalten, das auf die Umwelt einwirkt und belohnende oder bestrafende Konsequenzen hervorruft). Bei der klassischen Konditionierung stellt der Organismus Assoziationen zwischen Reizereignissen her, die er nicht kontrolliert; Diese Form der Konditionierung beinhaltet das Verhalten des Befragten (automatische Reaktionen auf einen Reiz)."
   },
   { 
     "id": 138,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-14 Wie wirken sich biologische Einschränkungen auf die klassische und operante Konditionierung aus?",
+    "answer": "Die Konditionierungsfähigkeit eines Tieres ist durch biologische Zwänge begrenzt, sodass einige Assoziationen leichter zu erlernen sind. Jede Art erlernt Verhaltensweisen, die ihr Überleben erleichtern – ein Phänomen, das als Bereitschaft bezeichnet wird. Diejenigen, die bereitwillig Geschmacksabneigungen erlernten, aßen wahrscheinlich nicht noch einmal dasselbe giftige Lebensmittel und überlebten eher und hinterließen Nachkommen. Die Natur schränkt die Fähigkeit jeder Art sowohl zur klassischen Konditionierung als auch zur operanten Konditionierung ein. Unsere Bereitschaft, einen CS mit einem US zu assoziieren, der vorhersehbar und sofort folgt, ist oft (aber nicht immer) anpassungsfähig. Während des operanten Trainings können Tiere eine instinktive Drift zeigen, indem sie zu biologisch prädisponierten Mustern zurückkehren."
   },
   { 
     "id": 139,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-15 Wie wirken sich kognitive Prozesse auf die klassische und operante Konditionierung aus?",
+    "answer": "Bei der klassischen Konditionierung können Tiere lernen, wann sie mit einem US zu rechnen haben, und sich des Zusammenhangs zwischen Reizen und Reaktionen bewusst sein. In der operanten Konditionierung zeigen kognitive Mapping- und Latent-Learning-Forschung die Bedeutung kognitiver Prozesse beim Lernen."
   },
   { 
     "id": 140,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-16 Was ist beobachtendes Lernen?",
+    "answer": "Beobachtungslernen (auch soziales Lernen genannt) beinhaltet Lernen durch Beobachten und Nachahmen und nicht durch direkte Erfahrung."
   },
   { 
     "id": 141,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-17 How may observational learning be enabled by neural mirroring?",
+    "answer": "Die Frontallappen unseres Gehirns haben nachweislich die Fähigkeit, die Aktivität des Gehirns eines anderen zu spiegeln, was Nachahmung und beobachtendes Lernen ermöglichen kann. Einige Wissenschaftler argumentieren, dass Spiegelneuronen für diese Fähigkeit verantwortlich sind, andere führen sie auf verteilte Gehirnnetzwerke zurück."
   },
   { 
     "id": 142,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-18 Welche Auswirkungen hat prosoziales Modellieren und antisoziales Modellieren?",
+    "answer": "Kinder neigen dazu, das zu imitieren, was ein Modell tut und sagt, unabhängig davon, ob das modellierte Verhalten prosozial (positiv, konstruktiv und hilfreich) oder asozial ist. Wenn die Handlungen und Worte eines Modells inkonsistent sind, ahmen Kinder möglicherweise die Heuchelei nach, die sie beobachten."
   },
   { 
     "id": 143,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "7-19 Was ist der Gewaltbetrachtungseffekt?",
+    "answer": "Mediengewalt kann zu Aggression beitragen. Dieser Gewaltbetrachtungseffekt kann durch Nachahmung und Desensibilisierung hervorgerufen werden. Korrelation ist nicht gleichbedeutend mit Kausalität, aber Studienteilnehmer reagierten grausamer auf Provokationen, wenn sie Gewalt sahen (anstatt Gewaltlosigkeit zu hegen)."
   },
   { 
     "id": 144,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 8",
     "question": "",
     "answer": ""
   },
   { 
     "id": 145,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-1 Was ist Gedächtnis und wie wird es gemessen?",
+    "answer": "Das Gedächtnis ist ein Lernprozess, der durch das Kodieren, Speichern und Abrufen von Informationen über einen längeren Zeitraum erhalten bleibt. Ein Beweis für das Gedächtnis kann in der Fähigkeit gesehen werden, Informationen abzurufen, sie wiederzuerkennen oder sie bei einem späteren Versuch leichter wieder zu lernen. Psychologen können diese verschiedenen Formen des Gedächtnisses separat messen."
   },
   { 
     "id": 146,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-2 Wie helfen uns Gedächtnismodelle bei der Untersuchung des Gedächtnisses, und wie hat die neuere Forschung das dreistufige Informationsverarbeitungsmodell aktualisiert?",
+    "answer": "Psychologen verwenden Gedächtnismodelle, um darüber nachzudenken und zu erklären, wie unser Gehirn Erinnerungen bildet und abruft. Informationsverarbeitungsmodelle umfassen drei Prozesse: Kodierung, Speicherung und Abruf. Unser agiles Gehirn verarbeitet viele Dinge gleichzeitig, indem es sie parallel verarbeitet. Das konnektionistische Informationsverarbeitungsmodell konzentriert sich auf diese mehrspurige Verarbeitung und betrachtet Erinnerungen als Produkte miteinander verbundener neuronaler Netzwerke. Die drei Verarbeitungsstufen im Atkinson-Shiffrin-Modell sind das sensorische Gedächtnis, das Kurzzeitgedächtnis und das Langzeitgedächtnis. Dieses Modell wurde inzwischen aktualisiert und um zwei wichtige Konzepte erweitert: (1) die automatische Verarbeitung, die im Hintergrund abläuft und es ermöglicht, dass Informationen in das Langzeitgedächtnis gelangen, ohne dass sie bewusst wahrgenommen werden müssen, und (2) das Arbeitsgedächtnis, die aktive 'Notizblock'-Verarbeitung, die in der Phase des Kurzzeitgedächtnisses stattfindet."
   },
   { 
     "id": 147,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-3 Wie unterscheiden sich explizite und implizite Erinnerungen?",
+    "answer": "Das menschliche Gehirn verarbeitet Informationen zweigleisig, bewusst und unbewusst. Viele explizite (deklarative) Erinnerungen - unsere bewussten Erinnerungen an Fakten und Erfahrungen - bilden sich durch bewusste Verarbeitung, die bewusste Anstrengung und Aufmerksamkeit erfordert. Implizite (nicht deklarative) Erinnerungen - erlernte Fähigkeiten und klassisch konditionierte Assoziationen - entstehen ohne unser Bewusstsein, durch automatische Verarbeitung."
   },
   { 
     "id": 148,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-4 Welche Daten verarbeiten wir automatisch?",
+    "answer": "Zusätzlich zu Fähigkeiten und klassisch konditionierten Assoziationen verarbeiten wir automatisch zufällige Informationen über Raum, Zeit und Frequenz."
   },
   { 
     "id": 149,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-5 Wie arbeitet das sensorische Gedächtnis?",
+    "answer": "Das sensorische Gedächtnis speist einige Informationen in das Arbeitsgedächtnis ein und verarbeitet sie dort aktiv. Ein ikonisches Gedächtnis ist ein sehr kurzes (einige Zehntelsekunden) sensorisches Gedächtnis für visuelle Reize; ein echoisches Gedächtnis ist ein drei- oder viersekündiges sensorisches Gedächtnis für auditive Reize."
   },
   { 
     "id": 150,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-6 Wie groß ist unser Kurzzeitgedächtnis?",
+    "answer": "Die Kapazität des Kurzzeitgedächtnisses beträgt etwa sieben Bits, plus oder minus zwei, aber diese Informationen verschwinden ohne Wiederholung schnell aus dem Gedächtnis. Die Kapazität unseres Arbeitsgedächtnisses für die aktive Verarbeitung variiert je nach Alter und anderen Faktoren, aber jeder arbeitet besser und effizienter, wenn er den Wechsel zwischen verschiedenen Aufgaben vermeidet."
   },
   { 
     "id": 151,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-7  Welche Strategien können uns helfen, uns neue Informationen zu merken?",
+    "answer": "Zu den wirksamen Strategien für die mühevolle Verarbeitung gehören Chunking, Mnemotechniken und Hierarchien. Jede davon fördert unsere Fähigkeit, neue Erinnerungen zu bilden."
   },
   { 
     "id": 152,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-8 Wie helfen verteiltes Üben, vertieftes Verarbeiten und die persönliche Bedeutung von neuem Material dem Gedächtnis?",
+    "answer": "Verteilte Übungseinheiten (der Abstands-Effekt) führen zu einer besseren langfristigen Erinnerung. Der Testeffekt ist die Erkenntnis, dass das bewusste Abrufen von Informationen das Gedächtnis verbessert, anstatt sie einfach nur zu lesen. Auch die Tiefe der Verarbeitung wirkt sich auf das Langzeitgedächtnis aus. Bei einer oberflächlichen Verarbeitung kodieren wir Wörter auf der Grundlage ihrer Struktur oder ihres Aussehens. Die Behaltensleistung ist am besten, wenn wir eine tiefe Verarbeitung verwenden und Wörter auf der Grundlage ihrer Bedeutung kodieren. Wir können uns auch leichter an Material erinnern, wenn wir es lernen und in persönlich bedeutsame Begriffe umformulieren - der Selbstreferenz-Effekt."
   },
   { 
     "id": 153,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-9 Was ist die Kapazität des Langzeitgedächtnisses? Wird unser Langzeitgedächtnis an bestimmten Orten verarbeitet und gespeichert?",
+    "answer": "Die Kapazität unseres Langzeitgedächtnisses ist im Wesentlichen unbegrenzt. Erinnerungen werden im Gehirn nicht an einzelnen Stellen gespeichert. Viele Teile des Gehirns arbeiten zusammen, wenn wir Erinnerungen kodieren, speichern und abrufen."
   },
   { 
     "id": 154,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-10 Welche Rolle spielen die Frontallappen und der Hippocampus bei der Gedächtnisverarbeitung?",
+    "answer": "Die Frontallappen und der Hippocampus sind Teile des Gehirnnetzwerks, das für die explizite Gedächtnisbildung zuständig ist. Viele Hirnregionen senden Informationen zur Verarbeitung an die Frontallappen. Der Hippocampus nimmt mit Hilfe benachbarter Hirnnetzwerke Elemente expliziter Erinnerungen (semantischer oder episodischer Art) auf und speichert sie vorübergehend, bevor er sie zur Langzeitspeicherung an andere Hirnregionen weiterleitet. Die neuronale Speicherung von Langzeiterinnerungen, die durch den Schlaf unterstützt wird, wird als Gedächtniskonsolidierung bezeichnet."
   },
   { 
     "id": 155,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-11 Welche Rolle spielen das Kleinhirn und die Basalganglien bei der Gedächtnisverarbeitung?",
+    "answer": "Das Kleinhirn und die Basalganglien sind Teile des Gehirnnetzwerks, die für die Bildung des impliziten Gedächtnisses zuständig sind. Das Kleinhirn ist wichtig für die Speicherung klassisch konditionierter Erinnerungen. Die Basalganglien sind an der Motorik beteiligt und helfen bei der Bildung von prozeduralen Erinnerungen für Fähigkeiten. Viele der in den ersten vier Lebensjahren erlernten Reaktionen und Fähigkeiten bleiben bis ins Erwachsenenalter erhalten, auch wenn wir uns nicht bewusst an das Erlernen dieser Assoziationen und Fähigkeiten erinnern können (infantile Amnesie)."
   },
   { 
     "id": 156,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-12 Wie beeinflussen Emotionen unsere Erinnerungsverarbeitung?",
+    "answer": "Emotionale Erregung führt zu einer Ausschüttung von Stresshormonen, was die Amygdala veranlasst, die Aktivität in den gedächtnisbildenden Bereichen des Gehirns zu erhöhen. Erheblich belastende Ereignisse können sehr deutliche Flashbulb-Erinnerungen auslösen. Durch Wiederholung bleibt die Erinnerung an persönlich wichtige Erlebnisse weitgehend erhalten."
   },
   { 
     "id": 157,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-13 Wie wirken sich Veränderungen auf der Ebene der Synapsen auf unsere Gedächtnisverarbeitung aus?",
+    "answer": "Die Langzeitpotenzierung (LTP) ist die neuronale Grundlage für Lernen und Gedächtnis. Bei der LTP werden die Neuronen effizienter bei der Freisetzung und Wahrnehmung von Neurotransmittern, und es entstehen mehr Verbindungen zwischen den Neuronen."
   },
   { 
     "id": 158,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-14 Wie beeinflussen äußere Anhaltspunkte, innere Emotionen und die Reihenfolge des Auftretens den Abruf von Erinnerungen?",
+    "answer": "Externe Hinweise aktivieren Assoziationen, die uns helfen, Erinnerungen abzurufen; dieser Prozess kann ohne unser Bewusstsein ablaufen, wie es beim Priming der Fall ist. Das Prinzip der Kodierungsspezifität besagt, dass für eine bestimmte Erinnerung spezifische Hinweise und Kontexte uns am effektivsten dabei helfen, sie abzurufen. Die Rückkehr zum gleichen physischen Kontext oder emotionalen Zustand (Stimmungskongruenz), in dem wir eine Erinnerung gebildet haben, kann uns helfen, sie abzurufen. Der serielle Positionseffekt ist unsere Tendenz, die letzten Elemente einer Liste (die sich noch im Arbeitsgedächtnis befinden können) und die ersten Elemente (die wir länger einstudiert haben) am besten abzurufen."
   },
   { 
     "id": 159,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-15 Warum vergessen wir?",
+    "answer": "Manche Menschen leiden unter anterograder Amnesie, einer Unfähigkeit, neue Erinnerungen zu bilden, oder retrograde Amnesie, eine Unfähigkeit, alte Erinnerungen abzurufen. Normales Vergessen kann auftreten, weil wir Informationen nie kodiert haben (Kodierungsfehler), weil die physische Gedächtnisspur zerfallen ist (Speicherzerfall) oder weil wir nicht abrufen können, was wir kodiert und gespeichert haben (Abruffehler). Abrufprobleme können durch proaktive (vorwärtsgerichtete) Interferenz entstehen, wenn früheres Lernen den Abruf neuer Informationen beeinträchtigt, oder durch retroaktive (rückwärtsgerichtete) Interferenz, wenn neues Lernen den Abruf alter Informationen stört. Motiviertes Vergessen kommt vor, aber Forscher haben kaum Hinweise auf Unterdrückung gefunden."
   },
   { 
     "id": 160,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-16 Wie beeinflussen Fehlinformationen, Einbildung und Quellenamnesie unsere Gedächtniskonstruktion? Wie entscheiden wir, ob eine Erinnerung echt oder falsch ist?",
+    "answer": "Erinnerungen können nach dem Abruf ständig überarbeitet werden, ein Prozess, den Gedächtnisforscher als Rekonsolidierung bezeichnen. Fehlinformationen (irreführende Informationen) und Vorstellungseffekte verfälschen unsere gespeicherten Erinnerungen an das, was tatsächlich geschehen ist. Wenn wir eine Erinnerung während des Abrufs wieder zusammensetzen, schreiben wir sie möglicherweise der falschen Quelle zu (Quellenamnesie). Quellenamnesie kann helfen, das Déjà-vu zu erklären. Falsche Erinnerungen fühlen sich wie echte Erinnerungen an und können hartnäckig sein, beschränken sich aber in der Regel auf den Kern des Ereignisses."
   },
   { 
     "id": 161,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-17 Warum sind die Berichte über verdrängte und wiedergewonnene Erinnerungen so heiß diskutiert worden?",
+    "answer": "Im Mittelpunkt der Debatte steht die Frage, ob Erinnerungen an frühkindlichen Missbrauch verdrängt werden und in einer Therapie wiedererlangt werden können. Sofern das Opfer nicht ein zu junges Kind war, um sich daran zu erinnern, werden solche Traumata in der Regel nicht verdrängt, sondern lebhaft erinnert. Psychologen sind sich einig, dass sexueller Missbrauch in der Kindheit vorkommt, dass Ungerechtigkeit vorkommt, dass Vergessen vorkommt, dass wiedererlangte Erinnerungen häufig sind, dass Erinnerungen an Ereignisse, die vor dem vierten Lebensjahr passiert sind, unzuverlässig sind, dass Erinnerungen, die unter Hypnose 'wiedererlangt' wurden, besonders unzuverlässig sind, und dass Erinnerungen, ob echt oder falsch, emotional aufwühlend sein können."
   },
   { 
     "id": 162,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-18 Wie zuverlässig sind die Beschreibungen von Augenzeugen durch kleine Kinder?",
+    "answer": "Die Beschreibungen von Kindern als Augenzeugen unterliegen denselben Gedächtniseinflüssen, die auch die Berichte von Erwachsenen verzerren. Wenn sie kurz nach einem Ereignis mit neutralen Worten, die sie verstehen, befragt werden, können sich Kinder genau an die Ereignisse und die daran beteiligten Personen erinnern"
   },
   { 
     "id": 163,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "8-19 Wie können Sie die Ergebnisse der Gedächtnisforschung nutzen, um in diesem und anderen Kursen besser abzuschneiden?",
+    "answer": "Die Ergebnisse der Gedächtnisforschung legen die folgenden Strategien zur Verbesserung des Gedächtnisses nahe: Wiederholtes Üben, den Stoff sinnvoll gestalten, Abrufhinweise aktivieren, Gedächtnisstützen verwenden, proaktive und retroaktive Interferenzen minimieren, mehr schlafen und sich selbst testen, um sicher zu sein, dass man den Stoff abrufen und auch wiedererkennen kann."
   },
   { 
     "id": 164,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 9",
     "question": "",
     "answer": ""
   },
   { 
     "id": 165,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-1 Was sind Kognition und Metakognition, und welche Funktionen haben Konzepte?",
+    "answer": "Kognition bezieht sich auf alle geistigen Aktivitäten, die mit Denken, Wissen, Erinnern und Kommunizieren verbunden sind. Metakognition ist die Kognition über unsere Kognition oder das Verfolgen und Bewerten unserer mentalen Prozesse. Wir verwenden Konzepte, mentale Gruppierungen ähnlicher Objekte, Ereignisse, Ideen oder Menschen, um die Welt um uns herum zu vereinfachen und zu ordnen. Die meisten Konzepte bilden wir um Prototypen oder die besten Beispiele einer Kategorie herum."
   },
   { 
     "id": 166,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-2 Welche kognitiven Strategien helfen uns bei der Problemlösung, und welche Hindernisse behindern sie?",
+    "answer": "Ein Algorithmus ist eine methodische, logische Regel oder Prozedur (z. B. eine Schritt-für-Schritt-Beschreibung für die Evakuierung eines Gebäudes während eines Brandes), die eine Lösung für ein Problem garantiert. Eine Heuristik ist eine einfachere Strategie (z. B. zum Ausgang rennen, wenn man Rauch riecht), die in der Regel schneller ist als ein Algorithmus, aber auch fehleranfälliger ist. Einsicht ist keine strategiebasierte Lösung, sondern eher ein plötzlicher Geistesblitz, der ein Problem löst. Zu den Hindernissen bei der Problemlösung gehören der Confirmation Bias, der uns dazu veranlasst, unsere Hypothesen eher zu bestätigen als zu hinterfragen, und Fixierungen, wie z. B. mentale Festlegungen, die uns daran hindern können, die neue Perspektive einzunehmen, die zu einer Lösung führen würde."
   },
   { 
     "id": 167,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-3 Was ist Intuition, und wie können die Repräsentativitäts- und Verfügbarkeitsheuristiken unsere Entscheidungen und Urteile beeinflussen?",
+    "answer": "Intuition ist das mühelose, unmittelbare, automatische Gefühl oder Denken, das wir oft anstelle von systematischen Überlegungen einsetzen. Heuristiken ermöglichen schnelle Urteile. Mit der Repräsentativitätsheuristik beurteilen wir die Wahrscheinlichkeit von Ereignissen danach, wie gut sie bestimmte Prototypen zu repräsentieren scheinen. Mit der Verfügbarkeitsheuristik beurteilen wir die Wahrscheinlichkeit von Dingen danach, wie leicht sie uns in den Sinn kommen"
   },
   { 
     "id": 168,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-4 Welche Faktoren verstärken unsere Angst vor unwahrscheinlichen Ereignissen?",
+    "answer": "Wir neigen dazu, uns vor dem zu fürchten, worauf uns unsere Vorfahren vorbereitet haben, vor dem, was wir nicht kontrollieren können, was unmittelbar ist und was am leichtesten verfügbar ist. Wir fürchten zu wenig die ständigen Bedrohungen, die ein Leben nach dem anderen fordern, wie Verkehrsunfälle und Krankheiten."
   },
   { 
     "id": 169,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-5 Wie werden unsere Entscheidungen und Urteile durch Selbstüberschätzung, Beharrlichkeit im Glauben und Rahmung beeinflusst?",
+    "answer": "Selbstüberschätzung kann dazu führen, dass wir die Richtigkeit unserer Überzeugungen überschätzen. Wenn eine Überzeugung, die wir gebildet und erklärt haben, in Misskredit geraten ist, kann uns das Beharren auf einer Überzeugung dazu veranlassen, an dieser Überzeugung festzuhalten. Ein Mittel gegen das Beharren auf einer Überzeugung besteht darin, zu überlegen, wie wir ein gegenteiliges Ergebnis hätten erklären können. Framing ist die Art und Weise, wie ein Thema formuliert wird. Subtile Unterschiede in der Darstellung können unsere Reaktionen dramatisch verändern und uns zu vorteilhaften Entscheidungen veranlassen."
   },
   { 
     "id": 170,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-6 Wie nutzen kluge Denker Intuition?",
+    "answer": "Kluge Denker begrüßen ihre Intuitionen (die in der Regel lernfähig sind), wissen aber auch, wann sie diese außer Kraft setzen sollten. Bei komplexen Entscheidungen kann es von Vorteil sein, so viele Informationen wie möglich zu sammeln und sich dann Zeit zu nehmen, um sie mit unserem zweigleisigen Verstand zu verarbeiten."
   },
   { 
     "id": 171,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-7 Was ist Kreativität und wie wird sie gefördert?",
+    "answer": "Kreativität, die Fähigkeit, neue und wertvolle Ideen zu entwickeln, korreliert in gewissem Maße mit der Begabung, ist aber mehr als Schulwissen. Eignungstests erfordern konvergentes Denken, aber Kreativität erfordert divergentes Denken. Robert Sternberg hat vorgeschlagen, dass zur Kreativität Fachwissen, phantasievolle Denkfähigkeiten, eine unternehmungslustige Persönlichkeit, intrinsische Motivation und ein kreatives Umfeld gehören, das kreative Ideen anregt, unterstützt und weiterentwickelt."
   },
   { 
     "id": 172,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-8 Was wissen wir über das Denken anderer Arten?",
+    "answer": "Forscher ziehen aus dem Verhalten und der neuronalen Aktivität Rückschlüsse auf das Bewusstsein und die Intelligenz anderer Arten. Studien an verschiedenen Arten zeigen, dass viele andere Tiere Konzepte, Zahlen und Werkzeuge verwenden und dass sie das Gelernte von einer Generation zur nächsten weitergeben (kulturelle Übertragung). Und wie der Mensch zeigen auch einige andere Arten Einsicht, Selbstbewusstsein, Altruismus, Kooperation und Trauer."
   },
   { 
     "id": 173,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-9 Was sind die strukturellen Bestandteile einer Sprache?",
+    "answer": "Phoneme sind die grundlegenden Lauteinheiten einer Sprache. Morpheme sind die elementaren Einheiten der Bedeutung. Die Grammatik - das Regelsystem, das uns die Kommunikation ermöglicht - umfasst die Semantik (Regeln für die Ableitung der Bedeutung) und die Syntax (Regeln für die Anordnung der Wörter in Sätzen)."
   },
   { 
     "id": 174,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-10 Wie erwerben wir Sprache, und was ist eine universelle Grammatik?",
+    "answer": "Durch das Zusammenspiel von Biologie und Erfahrung lernen wir die spezifische Grammatik und den Wortschatz der Sprache, die wir als Kinder erleben. Der Sprachwissenschaftler Noam Chomsky hat vorgeschlagen, dass der Mensch mit einer eingebauten Prädisposition zum Erlernen von Grammatikregeln geboren wird, die er als universelle Grammatik bezeichnet. Die menschlichen Sprachen haben zwar einige Gemeinsamkeiten, aber andere Forscher stellen fest, dass Kinder die Grammatik lernen, wenn sie Sprachmuster erkennen."
   },
   { 
     "id": 175,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-11 Welches sind die Meilensteine in der Sprachentwicklung, und wann ist der kritische Zeitraum für den Erwerb von Sprache?",
+    "answer": "Der Zeitplan für die Sprachentwicklung ist unterschiedlich, aber alle Kinder folgen der gleichen Reihenfolge. Die rezeptive Sprache (die Fähigkeit zu verstehen, was zu einem oder über einen gesagt wird) entwickelt sich vor der produktiven Sprache (die Fähigkeit, Wörter zu produzieren). Im Alter von etwa 4 Monaten brabbeln Säuglinge und geben Laute von sich, die in Sprachen aus aller Welt vorkommen. Mit etwa 10 Monaten sind es nur noch die Laute der eigenen Muttersprache. Im Alter von etwa 12 Monaten beginnen Kinder, in einzelnen Wörtern zu sprechen. Diese Ein-Wort-Phase entwickelt sich bis zum zweiten Geburtstag zu Zwei-Wort-(Telegrafie-)Äußerungen, und danach beginnen sie, in ganzen Sätzen zu sprechen. Die Kindheit ist ein kritischer Zeitraum für den Spracherwerb. Kinder, die erst spät mit dem Spracherwerb beginnen, folgen der üblichen Entwicklungssequenz, wenn auch in einem schnelleren Tempo. Kinder, die bis zum Alter von 7 Jahren weder mit einer gesprochenen noch mit einer gebärdeten Sprache in Berührung kommen, werden jedoch nie eine Sprache beherrschen. Wie wichtig frühe Spracherfahrungen sind, zeigt sich oft bei gehörlosen Kindern, deren Eltern nicht gebärden können."
   },
   { 
     "id": 176,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-12  Welche Gehirnbereiche sind an der Sprachverarbeitung und am Sprechen beteiligt?",
+    "answer": "Aphasie ist eine Beeinträchtigung der Sprache, die in der Regel durch eine Schädigung der linken Hemisphäre verursacht wird. Zwei wichtige Sprach- und Sprachverarbeitungsbereiche sind das Broca-Areal, eine Region im linken Frontallappen, die den Sprachausdruck steuert, und das Wernicke-Areal, eine Region im linken Temporallappen, die die Sprachaufnahme steuert. Die Sprachverarbeitung ist auch auf andere Hirnareale verteilt, wobei verschiedene neuronale Netze für spezifische sprachliche Teilaufgaben zuständig sind."
   },
   { 
     "id": 177,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-13 Was wissen wir über die Sprachfähigkeit anderer Arten?",
+    "answer": "Schimpansen und Bonobos haben gelernt, mit Menschen durch Gebärden oder das Drücken von Tasten zu kommunizieren. Einige haben einen Wortschatz von fast 400 Wörtern entwickelt, kommunizieren durch Aneinanderreihung dieser Wörter und haben ein gewisses Verständnis der Syntax gezeigt. Während nur Menschen in komplexen Sätzen kommunizieren, fordern die beeindruckenden Fähigkeiten anderer Tiere zu denken und zu kommunizieren die Menschen heraus, darüber nachzudenken, was dies für die moralischen Rechte anderer Arten bedeutet."
   },
   { 
     "id": 178,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "9-14 Welches Verhältnis besteht zwischen Denken und Sprache, und welchen Wert hat das Denken in Bildern?",
+    "answer": "Obwohl Benjamin Lee Whorfs Hypothese des linguistischen Determinismus besagt, dass die Sprache das Denken bestimmt, ist es genauer zu sagen, dass die Sprache das Denken beeinflusst (linguistischer Relativismus). Verschiedene Sprachen verkörpern unterschiedliche Denkweisen, und das Eintauchen in eine zweisprachige Erziehung kann das Denken verbessern. Wir denken oft in Bildern, wenn wir das implizite (nicht deklarative, prozedurale) Gedächtnis nutzen - unser automatisches Gedächtnissystem für erlernte Fähigkeiten und klassisch konditionierte Assoziationen. Das Denken in Bildern kann unsere Fähigkeiten verbessern, wenn wir kommende Ereignisse mental üben. Prozesssimulation (Konzentration auf die Schritte, die zum Erreichen eines Ziels erforderlich sind) ist effektiv, aber Ergebnissimulation (Fantasie über das Erreichen des Ziels) bringt wenig."
   },
   { 
     "id": 179,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 10",
     "question": "",
     "answer": ""
   },
   { 
     "id": 180,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-1 Wie definieren die Psychologen Intelligenz?",
+    "answer": "Intelligenz ist die Fähigkeit, aus Erfahrungen zu lernen, Probleme zu lösen und Wissen zu nutzen, um sich an neue Situationen anzupassen."
   },
   { 
     "id": 181,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-2 Was sind die Argumente für g?",
+    "answer": "Charles Spearman schlug vor, dass wir eine allgemeine Intelligenz (g) haben, die allen geistigen Fähigkeiten zugrunde liegt. Durch seine Arbeit mit der Faktorenanalyse, einem statistischen Verfahren zur Identifizierung von Clustern verwandter Fähigkeiten, stellte er fest, dass Personen, die in einem Bereich hohe Werte erzielen, in der Regel auch in anderen Bereichen überdurchschnittlich gut abschneiden. L. L. Thurstone war anderer Meinung und identifizierte sieben verschiedene Cluster geistiger Fähigkeiten. Dennoch blieb die Tendenz bestehen, dass Personen mit hohen Werten in einem Cluster auch in anderen Clustern hohe Werte erzielten, was ein weiterer Beweis für einen g-Faktor ist."
   },
   { 
     "id": 182,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-3 Wie haben sich die Konzepte von Gf und Gc sowie die CHC-Theorie auf unser Verständnis von Intelligenz ausgewirkt?",
+    "answer": "Raymond Cattell und John Horn vereinfachten die primären geistigen Fähigkeiten von Thurstone in fluide Intelligenz (Gf) und kristallisierte Intelligenz (Gc). Die Cattell-Horn-Carroll-Theorie (CHC) bestätigt einen allgemeinen Faktor der intellektuellen Fähigkeiten, nennt aber auch spezifischere Fähigkeiten (wie Lese- und Schreibfähigkeit, Gedächtniskapazität und Verarbeitungsgeschwindigkeit)."
   },
   { 
     "id": 183,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-4 Wie unterscheiden sich die Theorien der multiplen Intelligenzen von Gardner und Sternberg, und welche Kritik wurde an ihnen geübt?",
+    "answer": "Howard Gardner schlug acht relativ unabhängige Intelligenzen vor (sprachliche, logisch-mathematische, musikalische, räumliche, körperlich-kinästhetische, intrapersonale, interpersonale und naturalistische Intelligenz) sowie eine mögliche neunte (existenzielle Intelligenz). Die unterschiedlichen Intelligenzen von Menschen mit Savant-Syndrom, Autismus-Spektrum-Störung (ASD) und bestimmten Arten von Hirnschäden scheinen diese Ansicht zu unterstützen. Robert Sternbergs triarchische Theorie schlägt drei Intelligenzbereiche vor, die die Fähigkeiten in der realen Welt vorhersagen: analytisch (Straßengeschick). Kritiker weisen darauf hin, dass die Forschung einen allgemeinen Intelligenzfaktor bestätigt hat, der die Leistung weitgehend vorhersagt. Sehr erfolgreiche Menschen neigen auch dazu, gewissenhaft, gut vernetzt und hartnäckig energisch zu sein; ihre Leistungen beruhen sowohl auf Fähigkeiten als auch auf bewusster Übung. Wichtig sind auch ein begünstigtes Elternhaus und eine begünstigte Schule sowie die Tatsache, dass man in einer Zeit und an einem Ort lebt, in der die eigenen Talente von Bedeutung sind."
   },
   { 
     "id": 184,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-5 Was sind die vier Komponenten der emotionalen Intelligenz?",
+    "answer": "Emotionale Intelligenz, ein Aspekt der sozialen Intelligenz, umfasst die Fähigkeit, Emotionen wahrzunehmen, zu verstehen, zu steuern und zu nutzen. Emotional intelligente Menschen sind in der Regel glücklich, gesund und persönlich und beruflich erfolgreicher. Einige Kritiker bezweifeln, dass die Bezeichnung dieser Fähigkeiten als 'Intelligenz' den Begriff zu weit ausdehnt."
   },
   { 
     "id": 185,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-6 Was ist ein Intelligenztest, und wie unterscheiden sich Leistungs- und Eignungstests?",
+    "answer": "Ein Intelligenztest bewertet die geistigen Fähigkeiten einer Person und vergleicht sie mit denen anderer, indem er numerische Werte verwendet. Eignungstests messen die Fähigkeit zu lernen, während Leistungstests messen, was wir bereits gelernt haben."
   },
   { 
     "id": 186,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-7 Wann und warum wurden Intelligenztests entwickelt, und wie unterscheiden sich die heutigen Tests von den frühen Intelligenztests?",
+    "answer": "Francis Galton, der fasziniert war von der Messung dessen, was er für vererbbare Genialität hielt (damit diejenigen mit außergewöhnlichen Fähigkeiten zur Fortpflanzung ermutigt werden konnten), versuchte Ende des 19. Alfred Binet, der zu einer umweltbedingten Erklärung der Intelligenzunterschiede neigte, löste Anfang des 20. Jahrhunderts in Frankreich die moderne Bewegung der Intelligenztests aus, als er Fragen entwickelte, die helfen sollten, den zukünftigen Fortschritt der Kinder im Pariser Schulsystem vorherzusagen. Binet hoffte, dass sein Test, mit dem das geistige Alter der Kinder gemessen wurde, ihre Ausbildung verbessern würde, befürchtete jedoch, dass er auch dazu verwendet werden könnte, Kinder zu etikettieren. Zu Beginn des zwanzigsten Jahrhunderts überarbeitete Lewis Terman von der Stanford University die Arbeit von Binet für den Einsatz in den Vereinigten Staaten. Terman war der Meinung, dass sein Stanford-Binet-Test dazu beitragen könnte, Menschen die richtigen Chancen zu eröffnen, aber sein Glaube an eine Intelligenz, die von Geburt an festgelegt ist und sich je nach ethnischer Gruppe unterscheidet, machte Binets Befürchtung wahr, dass Intelligenztests dazu benutzt werden könnten, die Chancen von Kindern zu beschränken. William Stern steuerte das Konzept des IQ (Intelligenzquotient) bei. Die heute am weitesten verbreiteten Intelligenztests sind die Wechsler Adult Intelligence Scale (WAIS) und die Wechsler-Tests für Kinder. Diese Tests unterscheiden sich von ihren Vorgängern dadurch, dass sie einen Gesamtintelligenzwert sowie Werte für das sprachliche Verständnis, das logische Denken, das Arbeitsgedächtnis und die Verarbeitungsgeschwindigkeit liefern."
   },
   { 
     "id": 187,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-8  Was ist eine Normalkurve, und was bedeutet es, wenn man sagt, dass ein Test standardisiert wurde und zuverlässig und gültig ist?",
+    "answer": "Die Verteilung der Testergebnisse bildet oft eine normale (glockenförmige) Kurve um den zentralen Durchschnittswert, mit immer weniger Ergebnissen an den Extremen. Die Standardisierung schafft eine Grundlage für aussagekräftige Leistungsvergleiche, indem ein Test an eine repräsentative Stichprobe künftiger Testteilnehmer vergeben wird. Zuverlässigkeit ist das Ausmaß, in dem ein Test konsistente Ergebnisse liefert (bei zwei Testhälften, bei alternativen Formen des Tests oder bei Wiederholungstests). Validität ist das Ausmaß, in dem ein Test misst oder vorhersagt, was er soll. Ein Test hat prädiktive Validität, wenn er ein Verhalten vorhersagt, das er vorhersagen soll. (Eignungstests haben eine prädiktive Validität, wenn sie zukünftige Leistungen vorhersagen können; ihre Vorhersagekraft ist am besten für die ersten Schuljahre)."
   },
   { 
     "id": 188,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-9 Was sind die Merkmale derjenigen, die am unteren und am oberen Ende der Intelligenzskala stehen?",
+    "answer": "Menschen, deren Werte an den beiden Extremen der Normalkurve liegen, sollten sich deutlich unterscheiden, und das tun sie auch. Ein Intelligenztestergebnis von 70 oder weniger ist ein diagnostisches Kriterium für die Diagnose einer geistigen Behinderung. Menschen, die am oberen Ende der Intelligenzkurve liegen - wie z. B. die von Terman untersuchten Personen mit einem IQ von über 135 - sind in der Regel gesund und ausgeglichen und in der Regel auch außergewöhnlich erfolgreich in der Schule. 'Begabten- und Förderprogramme können zu selbsterfüllenden Prophezeiungen führen, können aber wirksam sein, wenn die Schüler angemessen gefördert werden."
   },
   { 
     "id": 189,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-10 Was sind Querschnitts- und Längsschnittstudien, und warum ist es wichtig zu wissen, welche Methode verwendet wurde?",
+    "answer": "In Querschnittsstudien werden Menschen aus verschiedenen Epochen und Lebensumständen verglichen. Dies kann eine hervorragende Momentaufnahme eines bestimmten Zeitpunkts liefern, aber Längsschnittstudien sind besser geeignet, um die Entwicklung von Merkmalen über einen längeren Zeitraum zu verfolgen. Psychologen, die die Querschnittsmethode verwendeten, kamen zu dem Schluss, dass die geistigen Fähigkeiten mit dem Alter abnehmen, während diejenigen, die die Längsschnittmethode verwendeten, feststellen, dass sie stabil bleiben (oder sogar zunehmen)."
   },
   { 
     "id": 190,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-11 Wie stabil sind die Ergebnisse von Intelligenztests über die Lebensspanne hinweg?",
+    "answer": "Die Stabilität der Ergebnisse von Intelligenztests nimmt mit dem Alter zu. Im Alter von 4 Jahren beginnen die Ergebnisse, die Ergebnisse von Jugendlichen und Erwachsenen vorherzusagen. Im Alter von 11 Jahren sind die Ergebnisse sehr stabil und aussagekräftig."
   },
   { 
     "id": 191,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-12 Wie wirkt sich das Altern auf die kristalline Intelligenz (Gc) und die fluide Intelligenz (Gf) aus?",
+    "answer": "Die Antworten auf die Frage nach Alter und Intelligenz hängen davon ab, was wir bewerten und wie wir es bewerten. Die fluide Intelligenz (Gf) nimmt bei älteren Erwachsenen ab, zum Teil weil sich die neuronale Verarbeitung verlangsamt. Die kristalline Intelligenz (Gc) nimmt jedoch mit dem Alter tendenziell zu."
   },
   { 
     "id": 192,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-13 Was ist Vererbbarkeit, und was sagen Zwillings- und Adoptionsstudien über die Natur und die Veranlagung von Intelligenz aus?",
+    "answer": "Die Erblichkeit ist der Anteil der Variation zwischen den Individuen einer Gruppe, der auf die Gene zurückgeführt werden kann. Studien an Zwillingen, Familienmitgliedern und Adoptiveltern und -geschwistern deuten auf einen signifikanten erblichen Beitrag zum Intelligenzquotienten hin. Intelligenz ist polygenetisch."
   },
   { 
     "id": 193,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-14 Wie können Umwelteinflüsse die kognitive Entwicklung beeinflussen?",
+    "answer": "Studien über Kinder, die in ärmlichen Verhältnissen mit minimaler sozialer Interaktion aufwachsen, zeigen, dass Lebenserfahrungen die kognitive Entwicklung erheblich beeinflussen. Es gibt keine Belege für die Annahme, dass normale, gesunde Kinder zu Genies geformt werden können, wenn sie in einem außergewöhnlich bereicherten Umfeld aufwachsen. Ein Umfeld, das eine wachstumsorientierte Denkweise fördert, verändert die Intelligenz nicht, kann sich aber positiv auf die Leistung auswirken."
   },
   { 
     "id": 194,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-15 Wie und warum unterscheiden sich die geistigen Fähigkeiten der Geschlechter?",
+    "answer": "Jungen und Mädchen haben im Durchschnitt die gleichen Intelligenztestergebnisse, aber sie unterscheiden sich in einigen spezifischen Fähigkeiten. Mädchen können im Durchschnitt besser buchstabieren, sich flüssiger ausdrücken, besser lesen und Objekte lokalisieren, Gefühle besser erkennen und sind empfindlicher für Berührung, Geschmack und Farben. Jungen übertreffen Mädchen bei räumlichen Fähigkeiten und komplexer Mathematik, obwohl sich Jungen und Mädchen bei mathematischen Berechnungen und allgemeinen mathematischen Leistungen kaum unterscheiden. Auch bei den unteren und oberen Extremen der geistigen Fähigkeiten sind Jungen den Mädchen überlegen. Für diese geschlechtsspezifischen Unterschiede wurden evolutionäre und kulturelle Erklärungen vorgeschlagen."
   },
   { 
     "id": 195,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-16 Wie und warum unterscheiden sich rassische und ethnische Gruppen in Bezug auf ihre geistigen Fähigkeiten?",
+    "answer": "Rassen und ethnische Gruppen unterscheiden sich in ihren durchschnittlichen Intelligenztestergebnissen. Es gibt Hinweise darauf, dass Umweltunterschiede für diese Gruppenunterschiede verantwortlich sind."
   },
   { 
     "id": 196,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "10-17 Sind Intelligenztests voreingenommen oder ungerecht? Was ist eine stereotype Bedrohung und wie wirkt sie sich auf die Leistung der Testteilnehmer aus?",
+    "answer": "Die wissenschaftliche Bedeutung der Verzerrung hängt von der Fähigkeit eines Tests ab, zukünftiges Verhalten für alle Testteilnehmer vorherzusagen, nicht nur für einige. In diesem Sinne halten die meisten Experten die wichtigsten Eignungstests für unvoreingenommen. Wenn wir jedoch unter Voreingenommenheit verstehen, dass ein Test durch die kulturellen Erfahrungen des Testteilnehmers beeinflusst werden kann, dann können Intelligenztests nach dieser Definition als unfair angesehen werden. Die Stereotypenbedrohung, d. h. die Befürchtung, aufgrund eines negativen Stereotyps bewertet zu werden, beeinträchtigt die Leistung bei allen Arten von Tests; einige Forschungsergebnisse deuten auf wirksame Strategien zur Reduzierung hin."
   },
   { 
     "id": 197,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 11",
     "question": "",
     "answer": ""
   },
   { 
     "id": 198,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-1 Wie definieren Psychologen Motivation? Was sind die vier wichtigsten Motivationstheorien?",
+    "answer": "Motivation ist ein Bedürfnis oder ein Wunsch, der das Verhalten anregt und steuert. Die Instinkt-/Evolutionsperspektive untersucht die genetischen Einflüsse auf komplexe Verhaltensweisen. Die Theorie der Triebreduzierung untersucht, wie physiologische Bedürfnisse erregte Spannungszustände (Triebe) erzeugen, die uns dazu bringen, diese Bedürfnisse zu befriedigen. Umweltanreize können die Triebe verstärken. Das Ziel der Triebreduktion ist die Homöostase, die Aufrechterhaltung eines stabilen inneren Zustands. Die Erregungstheorie geht davon aus, dass einige Verhaltensweisen (z. B. solche, die durch Neugierde ausgelöst werden) nicht die physiologischen Bedürfnisse reduzieren, sondern vielmehr durch die Suche nach einem optimalen Erregungsniveau ausgelöst werden. Das Yerkes-Dodson-Gesetz beschreibt die Beziehung zwischen Erregung und Leistung. Abraham Maslows Hierarchie der Bedürfnisse stellt eine Pyramide menschlicher Bedürfnisse dar, die von den Grundbedürfnissen bis zu den übergeordneten Bedürfnissen reicht."
   },
   { 
     "id": 199,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-2 Welche physiologischen Faktoren erzeugen Hunger?",
+    "answer": "Hungersnöte entsprechen den Kontraktionen des Magens, aber Hunger hat auch andere Ursachen. Neuralbereiche im Gehirn, einige davon im Hypothalamus, überwachen die Blutchemie (einschließlich des Glukosespiegels) und die eingehenden Informationen über den Zustand des Körpers. Zu den Appetithormonen gehören Ghrelin (wird bei leerem Magen ausgeschüttet), Orexin (wird vom Hypothalamus ausgeschüttet), Leptin (wird von Fettzellen ausgeschüttet) und PYY (wird vom Verdauungstrakt ausgeschüttet). Der Grundumsatz ist der Ruheumsatz des Körpers beim Energieverbrauch. Der Körper kann einen Sollwert haben (eine biologisch festgelegte Tendenz, ein optimales Gewicht zu halten) oder einen lockeren Einpendelungswert (der auch von der Umwelt beeinflusst wird)."
   },
   { 
     "id": 200,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-3 Welche kulturellen und situativen Faktoren beeinflussen den Hunger?",
+    "answer": "Hunger spiegelt unsere Erinnerung daran wider, wann wir das letzte Mal gegessen haben, und unsere Erwartung, wann wir wieder essen sollten. Der Mensch als Spezies bevorzugt bestimmte Geschmacksrichtungen (z. B. süß und salzig), aber unsere individuellen Vorlieben werden auch durch Konditionierung, Kultur und Situation beeinflusst. Manche Geschmackspräferenzen haben Überlebenswert. Zu den situativen Einflüssen gehören die Anwesenheit anderer, die Portionsgröße und die Vielfalt der angebotenen Speisen."
   },
   { 
     "id": 201,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-4 Wie wirkt sich Fettleibigkeit auf die körperliche und psychische Gesundheit aus? Welche Faktoren spielen beim Gewichtsmanagement eine Rolle?",
+    "answer": "Fettleibigkeit, definiert durch einen Body-Mass-Index (BMI) von 30 oder mehr, ist mit einer Zunahme von Depressionen (insbesondere bei Frauen) und Mobbing sowie mit vielen Risiken für die körperliche Gesundheit verbunden. Gene und Umwelt interagieren, um Fettleibigkeit zu erzeugen. Die Speicherung von Fett war an unsere Vorfahren angepasst, und für die Aufrechterhaltung von Fett ist weniger Nahrungsaufnahme erforderlich als für die Fettzunahme. Sollwert und Stoffwechsel sind wichtig. Zwillings- und Adoptionsstudien deuten darauf hin, dass das Körpergewicht auch genetisch beeinflusst wird. Zu den Umwelteinflüssen zählen Schlafverlust, sozialer Einfluss sowie Ernährungs- und Aktivitätsniveau. Wer abnehmen möchte, dem sei eine lebenslange Umstellung seiner Gewohnheiten empfohlen: Beginnen Sie nur, wenn Sie sich motiviert und selbstdiszipliniert fühlen; Sport treiben und ausreichend schlafen; Minimieren Sie den Kontakt mit verlockenden Nahrungsmitteln; Beschränken Sie die Vielfalt und essen Sie gesunde Lebensmittel. Portionsgrößen reduzieren; Teile neu etikettieren; Zeitliche Einnahme, um nächtliches Essen zu vermeiden und früher am Tag schwerere Mahlzeiten zu sich zu nehmen; hüte dich vor dem Rausch; planen Sie im Voraus, um das Essen bei gesellschaftlichen Veranstaltungen zu kontrollieren; verzeihen Sie den gelegentlichen Fehler; Zeichnen Sie Ihre Fortschritte öffentlich auf; und verbinden Sie sich mit einer Selbsthilfegruppe."
   },
   { 
     "id": 202,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-5 Wie beeinflussen Hormone die sexuelle Motivation des Menschen?",
+    "answer": "Für alle außer den wenigen von uns, die als asexuell gelten, haben Dating und Paarung ab der Pubertät hohe Priorität. Die weiblichen Hormone Östrogen und männliche Testosteron beeinflussen das Sexualverhalten des Menschen weniger direkt als das Sexualverhalten anderer Arten. Die Sexualität von Frauen hängt stärker vom Testosteronspiegel als vom Östrogenspiegel ab. Kurzfristige Veränderungen des Testosteronspiegels sind bei Männern normal, teilweise als Reaktion auf die Stimulation."
   },
   { 
     "id": 203,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-6 Was ist der sexuelle Reaktionszyklus des Menschen und wie unterscheiden sich sexuelle Dysfunktionen und Paraphilien?",
+    "answer": "William Masters und Virginia Johnson beschrieben vier Phasen im menschlichen sexuellen Reaktionszyklus: Erregung, Plateau, Orgasmus und Auflösung. Während der Auflösung gibt es eine Refraktärzeit, in der eine erneute Erregung und ein erneuter Orgasmus unmöglich sind. Sexuelle Funktionsstörungen sind Probleme, die die sexuelle Erregung oder Funktion dauerhaft beeinträchtigen. Dazu gehören die Erektionsstörung und die weibliche Orgasmusstörung, die häufig durch eine verhaltensorientierte Therapie oder eine medikamentöse Therapie erfolgreich behandelt werden können. Paraphilien gelten als gestört, wenn eine Person aufgrund eines ungewöhnlichen sexuellen Interesses unter Stress leidet oder wenn dadurch andere geschädigt werden oder das Risiko einer Schädigung besteht."
   },
   { 
     "id": 204,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-7 Wie können sexuell übertragbare Infektionen verhindert werden?",
+    "answer": "Safer-Sex-Praktiken tragen dazu bei, sexuell übertragbare Infektionen (STIs) zu verhindern. Kondome verhindern besonders wirksam die Übertragung von HIV, dem Virus, der AIDS verursacht. Den eigenen STI-Status zu kennen und ihn dem Sexualpartner mitzuteilen, ist ein wichtiger erster Schritt in der STI-Prävention."
   },
   { 
     "id": 205,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-8 Wie tragen äußere und imaginäre Reize zur sexuellen Erregung bei?",
+    "answer": "Äußere Reize können sexuelle Erregung auslösen. Sexuell eindeutiges Material kann dazu führen, dass Menschen ihre Partner als vergleichsweise weniger attraktiv empfinden und ihre Beziehungen abwerten. Das Anschauen von sexuell erzwingendem Material kann zu einer erhöhten Akzeptanz von Gewalt gegenüber Frauen führen. Umfangreiche Präsenz von Online-Pornografie kann junge Erwachsene für die Sexualität im wirklichen Leben desensibilisieren, was zu vermindertem sexuellem Verlangen und sexueller Befriedigung sowie zu Erektionsproblemen bei Männern führt. Auch eingebildete Reize (Träume und Fantasien) beeinflussen die sexuelle Erregung."
   },
   { 
     "id": 206,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-9 Welche Faktoren beeinflussen das Sexualverhalten und die Verwendung von Verhütungsmitteln bei Teenagern?",
+    "answer": "Die Sexualität von Teenagern variiert von Kultur zu Kultur und von Epoche zu Epoche. Zu den Faktoren, die zu diesen Abweichungen beitragen, gehören die Kommunikation über Empfängnisverhütung, Impulsivität, Alkoholkonsum und Massenmedien. Hohe Intelligenz, religiöses Engagement, die Anwesenheit des Vaters und die Teilnahme am Service-Learning sind Vorzeichen für sexuelle Zurückhaltung bei Teenagern."
   },
   { 
     "id": 207,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-10 Was wissen wir über sexuelle Orientierung?",
+    "answer": "Sexuelle Orientierung ist die Richtung unserer sexuellen Anziehungskraft, die sich in unseren Sehnsüchten und Fantasien widerspiegelt. Möglicherweise haben wir eine sexuelle Anziehungskraft auf Angehörige des anderen Geschlechts (heterosexuelle Orientierung), auf unser eigenes Geschlecht (gleichgeschlechtliche Orientierung), auf männliche und weibliche Geschlechter (bisexuelle Orientierung) oder auf überhaupt niemanden (asexuelle Orientierung). Manche Menschen berichten, dass sie sexuelle Anziehung unabhängig von Geschlecht oder Geschlechtsidentität verspüren (pansexuelle Orientierung). Etwa drei bis vier Prozent der Männer und zwei Prozent der Frauen in Europa und den Vereinigten Staaten haben ausschließlich gleichgeschlechtliche Neigungen. Wissenschaftler konnten keine spezifischen Umwelteinflüsse finden, die zur sexuellen Orientierung beitragen. Hinweise auf biologische Einflüsse umfassen die gleichgeschlechtliche Anziehung bei anderen Arten; schwul-heterosexuelle Merkmale und Unterschiede im Gehirn; genetische Einflüsse; und vorgeburtliche Einflüsse."
   },
   { 
     "id": 208,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-11 Welche Rolle spielen soziale Faktoren in unserer Sexualität?",
+    "answer": "Die wissenschaftliche Forschung zur sexuellen Motivation versucht nicht, die persönliche Bedeutung von Sex in unserem Leben zu definieren, das von vielen sozialen Faktoren beeinflusst wird. Sex ist ein gesellschaftlich bedeutsamer Akt. Sexuelles Verlangen motiviert Menschen dazu, innige, engagierte Beziehungen einzugehen, die wiederum befriedigenden Sex ermöglichen. Sex in seiner menschlichsten Form verbindet das Leben und erneuert die Liebe."
   },
   { 
     "id": 209,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-12 Welche Beweise deuten auf unser Bedürfnis nach menschlicher Zugehörigkeit hin – unser Bedürfnis nach Zugehörigkeit?",
+    "answer": "Unser Bedürfnis nach Zugehörigkeit – sich mit anderen verbunden und identifiziert zu fühlen – hatte für unsere Vorfahren einen überlebenswichtigen Wert, was erklären könnte, warum Menschen in jeder Gesellschaft in Gruppen leben. Gemäß der Selbstbestimmungstheorie streben wir danach, unsere Bedürfnisse nach Kompetenz, Autonomie und Verbundenheit zu befriedigen. Soziale Bindungen helfen uns, gesünder und glücklicher zu sein, und das Gefühl, geliebt zu werden, aktiviert Gehirnregionen, die mit Belohnungs- und Sicherheitssystemen verbunden sind. Unter Ausgrenzung versteht man die bewusste soziale Ausgrenzung von Einzelpersonen oder Gruppen. Soziale Isolation kann uns geistig und körperlich gefährden."
   },
   { 
     "id": 210,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-13 Welchen Einfluss haben soziale Netzwerke auf uns?",
+    "answer": "Wir verbinden uns mit anderen über soziale Netzwerke, stärken unsere Beziehungen, treffen neue Freunde oder romantische Partner und finden Unterstützung in schwierigen Zeiten. Aber die zunehmende Online-Zeit verdrängt andere Aktivitäten und die Nutzung sozialer Medien führt dazu, dass Menschen ihr Leben mit anderen vergleichen. Forscher untersuchen mögliche Zusammenhänge zwischen der zunehmenden Bildschirmzeit und einem Anstieg psychischer Probleme bei Teenagern. Beim Networking tendieren Menschen zu mehr Selbstoffenlegung. Menschen mit ausgeprägten Narzissmus sind in sozialen Netzwerken besonders aktiv. Das Erarbeiten von Strategien zur Selbstkontrolle und disziplinierten Nutzung kann Menschen dabei helfen, ein gesundes Gleichgewicht zwischen ihrer realen Welt und ihrer Online-Zeit aufrechtzuerhalten."
   },
   { 
     "id": 211,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "11-14 Was ist Leistungsmotivation und welche Möglichkeiten gibt es, Leistung zu fördern?",
+    "answer": "Leistungsmotivation ist der Wunsch nach bedeutender Leistung, nach der Beherrschung von Fähigkeiten oder Ideen, nach Kontrolle und nach dem Erreichen eines hohen Standards. Eine hohe Leistungsmotivation führt zu mehr Erfolg, insbesondere in Kombination mit zielstrebigem, beharrlichem Mut. Untersuchungen zeigen, dass übermäßige Belohnungen (die extrinsische Motivation fördern) die intrinsische Motivation untergraben können. Um unsere eigenen Ziele zu erreichen, können wir einen Vorsatz fassen; das Ziel bekannt geben; einen Umsetzungsplan entwickeln; kurzfristige Belohnungen schaffen; Fortschritte überwachen und aufzeichnen; ein unterstützendes Umfeld schaffen; und das Verhalten in eine Gewohnheit umwandeln."
   },
   { 
     "id": 212,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 12",
     "question": "",
     "answer": ""
   },
   { 
     "id": 213,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-1 Wie interagieren Erregung, Ausdrucksverhalten und Kognition bei Emotionen?",
+    "answer": "Emotionen sind Reaktionen des gesamten Organismus, zu denen physiologische Erregung, Ausdrucksverhalten und vor allem bewusste Erfahrungen gehören, die sich aus den eigenen Interpretationen ergeben. Emotionstheorien befassen sich im Allgemeinen mit zwei Hauptfragen: (1) Tritt physiologische Erregung vor oder nach emotionalen Gefühlen auf? und (2) Wie interagieren Gefühl und Erkenntnis? Die James-Lange-Theorie besagt, dass Emotionen entstehen, wenn wir uns der Reaktion unseres Körpers auf emotionsauslösende Reize bewusst werden (wir beobachten, wie unser Herz klopft und Angst empfindet). Die Cannon-Bard-Theorie geht davon aus, dass unsere physiologische Reaktion auf einen emotionsauslösenden Reiz gleichzeitig mit unserem subjektiven Gefühl der Emotion erfolgt (das eine verursacht nicht das andere)."
   },
   { 
     "id": 214,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-2 Müssen wir Emotionen bewusst interpretieren und benennen, um sie zu erleben?",
+    "answer": "Die Zwei-Faktoren-Theorie von Schachter-Singer besagt, dass unsere Emotionen zwei Bestandteile haben: körperliche Erregung und eine kognitive Bezeichnung; Die kognitiven Etiketten, die wir unseren Erregungszuständen geben, sind ein wesentlicher Bestandteil von Emotionen. Lazarus stimmte zu, dass viele wichtige Emotionen aus unseren Interpretationen oder Schlussfolgerungen entstehen. Zajonc und LeDoux haben jedoch behauptet, dass einige einfache emotionale Reaktionen sofort erfolgen, nicht nur außerhalb unseres bewussten Bewusstseins, sondern bevor irgendeine kognitive Verarbeitung stattfindet. Dieses Zusammenspiel von Emotion und Erkenntnis verdeutlicht unseren zweigleisigen Geist."
   },
   { 
     "id": 215,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-3 Welcher Zusammenhang besteht zwischen emotionaler Erregung und dem autonomen Nervensystem?",
+    "answer": "Die Erregungskomponente von Emotionen wird durch den Sympathikus (erregend) und den Parasympathikus (beruhigend) des autonomen Nervensystems reguliert. In einer Krise mobilisiert die Fighter-Flight-Reaktion Ihren Körper automatisch zum Handeln."
   },
   { 
     "id": 216,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-4 Wie lösen Emotionen unterschiedliche physiologische und Gehirnmusterreaktionen aus?",
+    "answer": "Die großflächigen Körperveränderungen, die mit Angst, Wut und sexueller Erregung einhergehen, sind sehr ähnlich (erhöhte Schweißbildung, Atmung und Herzfrequenz), fühlen sich jedoch unterschiedlich an. Emotionen können ähnlich erregend sein, aber einige subtile physiologische Reaktionen (wie Bewegungen der Gesichtsmuskeln) zeichnen sie aus. Bedeutsamere Unterschiede wurden in der Aktivität einiger Hirnbahnen und kortikaler Bereiche festgestellt."
   },
   { 
     "id": 217,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-5 Wie effektiv sind Polygraphen bei der Nutzung von Körperzuständen zur Lügenerkennung?",
+    "answer": "Polygraphen (Lügendetektoren) versuchen, Lügen zu erkennen, indem sie mehrere emotionsbedingte physiologische Veränderungen messen. Sie sind jedoch nicht genau genug, um einen weit verbreiteten Einsatz in der Wirtschaft und bei der Strafverfolgung zu rechtfertigen. Der Concealed Information Test liefert bessere Hinweise auf Lügen."
   },
   { 
     "id": 218,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-6 Wie kommunizieren wir nonverbal?",
+    "answer": "Ein Großteil unserer Kommunikation erfolgt über Körperbewegungen, Gesichtsausdrücke und Stimmtöne. Selbst sekundenlange gefilmte Verhaltensausschnitte können Gefühle offenbaren."
   },
   { 
     "id": 219,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-7 Wie unterscheiden sich Männer und Frauen in der nonverbalen Kommunikation?",
+    "answer": "Frauen neigen dazu, emotionale Hinweise leichter zu erkennen und einfühlsamer zu sein. Ihre Gesichter drücken auch mehr Emotionen aus."
   },
   { 
     "id": 220,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-8 Wie werden Gesten und Mimik innerlich und quer verstanden? Kulturen?",
+    "answer": "Die Bedeutung von Gesten variiert je nach Kultur, aber Mimikausdrücke, wie zum Beispiel der Ausdruck von Glück und Traurigkeit, sind auf der ganzen Welt im Großen und Ganzen ähnlich. Kontext und Kultur können die Interpretation von Gesichtsausdrücken beeinflussen; Kulturelle Darstellungsregeln beeinflussen auch die Menge der ausgedrückten Emotionen."
   },
   { 
     "id": 221,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-9 Wie beeinflusst unser Gesichtsausdruck unsere Gefühle?",
+    "answer": "Untersuchungen zum Gesichts-Feedback-Effekt zeigen, dass unsere Mimik emotionale Gefühle auslösen und unserem Körper signalisieren kann, entsprechend zu reagieren. Wir ahmen auch die Gesichtsausdrücke anderer nach, was uns hilft, uns einzufühlen. Ein ähnlicher Verhaltens-Feedback-Effekt ist die Tendenz des Verhaltens, unsere eigenen und die Gedanken, Gefühle und Handlungen anderer zu beeinflussen."
   },
   { 
     "id": 222,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-10 Was sind einige der Grundemotionen?",
+    "answer": "Die meisten Emotionswissenschaftler sind sich einig, dass Wut, Angst, Ekel, Traurigkeit und Glück grundlegende menschliche Emotionen sind. Carroll Izards 10 Grundemotionen sind Freude, Interesse/Aufregung, Überraschung, Traurigkeit, Wut, Ekel, Verachtung, Angst, Scham und Schuldgefühle."
   },
   { 
     "id": 223,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-11 Was sind die Ursachen und Folgen von Wut?",
+    "answer": "Wut wird oft durch Missetaten hervorgerufen, die wir als vorsätzlich, ungerechtfertigt und vermeidbar interpretieren. Aber auch kleinere Frustrationen und unbegründete Ärgernisse können Wut auslösen, und unsere Kultur kann Einfluss darauf haben, wie wir diese Wut ausdrücken. Wut erhöht unsere Herzfrequenz und verstärkt Entzündungen. Emotionale Katharsis kann vorübergehend beruhigend sein, aber sie verringert nicht die Wut; Wut auszudrücken kann uns wütender machen. Experten schlagen vor, das Ausmaß der physiologischen Wuterregung zu reduzieren, indem man abwartet, eine gesunde Ablenkung oder Unterstützung findet und versucht, sich mental von der Situation zu lösen. Kontrollierte Gefühlsäußerungen können Konflikte lösen und Vergebung kann uns von wütenden Gefühlen befreien."
   },
   { 
     "id": 224,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-12 Was ist das Wohlfühl- und Gute-Gut-Phänomen und worauf konzentriert sich die Forschung der Positiven Psychologie?",
+    "answer": "Glückliche Menschen neigen dazu, gesund, energiegeladen und zufrieden mit dem Leben zu sein, wodurch sie eher bereit sind, anderen zu helfen (das Wohlfühl- und Gute-Gut-Phänomen). Positive Psychologen nutzen wissenschaftliche Methoden, um das menschliche Gedeihen zu untersuchen, mit dem Ziel, Stärken und Tugenden zu entdecken und zu fördern, die Einzelpersonen und Gemeinschaften zum Gedeihen verhelfen."
   },
   { 
     "id": 225,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-13 Wie wirken sich Zeit, Reichtum, Anpassung und Vergleich auf unser Glücksniveau aus?",
+    "answer": "Die Stimmungen, die durch gute oder schlechte Ereignisse ausgelöst werden, halten selten über diesen Tag hinaus an. Selbst bedeutende gute Ereignisse steigern das Glück selten lange. Genug Geld zu haben, um Komfort, Sicherheit und ein Gefühl der Kontrolle zu gewährleisten, ist ein Zeichen für Glück; mehr als genug zu haben, erhöht es nicht. Das Wirtschaftswachstum hat in vielen Ländern zu einer zunehmenden Ungleichheit geführt, was Unzufriedenheit vorhersagt; In Ländern und Staaten mit größerer Ungleichheit leiden Menschen mit geringerem Einkommen häufiger unter gesundheitlichen Problemen, sozialen Problemen und psychischen Störungen. Glück ist relativ zu unseren eigenen Erfahrungen (das Phänomen der Anpassungsebene) und zum Erfolg anderer (das Prinzip der relativen Deprivation)."
   },
   { 
     "id": 226,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-14 Was sagt Glück voraus und wie können wir glücklicher sein?",
+    "answer": "Manche Menschen sind aufgrund ihrer genetischen Veranlagung und persönlicher Geschichte glücklicher als andere. Kulturen, die sich von den von ihnen geschätzten Eigenschaften und den Verhaltensweisen, die sie erwarten und belohnen, unterscheiden, beeinflussen auch das persönliche Glücksniveau. Tipps zur Steigerung des Glücksniveaus: Übernehmen Sie die Kontrolle über Ihren Zeitplan, verhalten Sie sich glücklich, suchen Sie sinnvolle Arbeit und Freizeit, kaufen Sie Erlebnisse statt Dinge, trainieren Sie, schlafen Sie ausreichend, pflegen Sie Freundschaften, konzentrieren Sie sich und finden Sie einen Sinn über das Selbst hinaus, fordern Sie negatives Denken heraus und fördern Sie Dankbarkeit und Spiritualität."
   },
   { 
     "id": 227,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-15 Wie wirkt sich unsere Einschätzung eines Ereignisses auf unsere Stressreaktion aus und welche drei Haupttypen von Stressfaktoren gibt es?",
+    "answer": "Stress ist der Prozess, durch den wir Stressoren, die uns herausfordern oder bedrohen, einschätzen und darauf reagieren. Wenn wir ein Ereignis als herausfordernd einschätzen, werden wir motiviert und konzentriert sein und uns auf den Erfolg vorbereiten; Wenn wir es als Bedrohung einschätzen, werden wir eine Stressreaktion erleben und unsere Gesundheit kann darunter leiden. Die drei Haupttypen von Stressfaktoren sind Katastrophen, bedeutende Veränderungen im Leben sowie alltägliche Probleme und sozialer Stress. Zu den täglichen Problemen und sozialem Stress können Ungleichheit und Vorurteile, chronischer Stress am Arbeitsplatz (der zum „Burnout“ der Arbeitnehmer führen kann) und die Konflikte gehören, mit denen wir zwischen unserer unterschiedlichen Herangehensweise und unseren Vermeidungsmotiven konfrontiert sind."
   },
   { 
     "id": 228,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-16 Wie reagieren und passen wir uns an Stress an?",
+    "answer": "Walter Cannon betrachtete die Stressreaktion als ein Kampf-oder-Flucht-System. Hans Selye schlug ein dreiphasiges (Alarm, Widerstand, Erschöpfung) allgemeines Anpassungssyndrom (GAS) vor. Menschen können auf Stress mit Rückzug reagieren. Sie können auch eine Tendenz-und-sich-anfreunden-Reaktion zeigen (häufiger bei Frauen)."
   },
   { 
     "id": 229,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-17 Wie macht uns Stress anfälliger für Krankheiten?",
+    "answer": "Unter Psychoneuroimmunologie versteht man die Untersuchung, wie psychologische, neuronale und endokrine Prozesse zusammen unser Immunsystem und die daraus resultierende Gesundheit beeinflussen. Stress entzieht dem Immunsystem Energie und hemmt die Aktivitäten seiner B- und T-Lymphozyten, Makrophagen und NK-Zellen. Stress verursacht keine Krankheiten, aber durch die Veränderung unserer Immunfunktion kann er uns anfälliger für Krankheiten machen und deren Fortschreiten beeinflussen."
   },
   { 
     "id": 230,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-18 Warum sind einige von uns anfälliger für eine koronare Herzkrankheit als andere?",
+    "answer": "Koronare Herzerkrankungen werden mit der reaktiven, zu Wut neigenden Typ-A-Persönlichkeit in Verbindung gebracht. Im Vergleich zu entspannten, lockeren Typ-B-Persönlichkeiten, die seltener an Herzerkrankungen leiden, kann das aktivere sympathische Nervensystem von Typ-A-Menschen den Blutfluss von der Leber zu den Muskeln umleiten, sodass überschüssiges Cholesterin und Fett im Blutkreislauf zirkulieren. Chronischer Stress trägt auch zu anhaltenden Entzündungen bei, die mit Herz- und anderen Gesundheitsproblemen, einschließlich Depressionen, verbunden sind."
   },
   { 
     "id": 231,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-19 Verursacht Stress also Krankheiten?",
+    "answer": "Stress verursacht möglicherweise nicht direkt Krankheiten, macht uns jedoch anfälliger, indem er unsere Physiologie und unser Verhalten beeinflusst."
   },
   { 
     "id": 232,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-20 Auf welche zwei Arten versuchen Menschen, Stress abzubauen?",
+    "answer": "Wir nutzen problemorientiertes Coping, um den Stressor oder die Art und Weise, wie wir mit ihm interagieren, zu verändern. Wir nutzen emotionsfokussiertes Coping, um Stressoren zu vermeiden oder zu ignorieren und auf emotionale Bedürfnisse im Zusammenhang mit Stressreaktionen einzugehen."
   },
   { 
     "id": 233,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-21 Wie wirkt sich ein wahrgenommener Mangel an Kontrolle auf die Gesundheit aus?",
+    "answer": "Ein vermeintlicher Mangel an persönlicher Kontrolle führt zu einer Ausschüttung von Hormonen, die die Gesundheit der Menschen gefährden. Die Unfähigkeit, wiederholten aversiven Ereignissen aus dem Weg zu gehen, kann zu erlernter Hilflosigkeit führen. Menschen, die eine interne Kontrollüberzeugung wahrnehmen, erreichen mehr, erfreuen sich einer besseren Gesundheit und sind glücklicher als diejenigen, die eine externe Kontrollüberzeugung wahrnehmen. Der Glaube an den freien Willen ist mit hilfsbereiterem Verhalten, besserem Lernen sowie größerer Ausdauer, Leistung und Zufriedenheit bei der Arbeit verbunden."
   },
   { 
     "id": 234,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-22 Warum ist Selbstbeherrschung wichtig und kann unsere Selbstbeherrschung nachlassen?",
+    "answer": "Selbstkontrolle erfordert Aufmerksamkeit und Energie, verspricht aber eine gute Gesundheit, ein höheres Einkommen und bessere schulische Leistungen; Es ist besser als das Ergebnis eines Intelligenztests, wenn es darum geht, den zukünftigen akademischen Erfolg und den Lebenserfolg vorherzusagen. Die Selbstkontrolle variiert im Laufe der Zeit. Über die Faktoren, die die Selbstkontrolle beeinflussen, sind sich Forscher nicht einig, doch ihre Stärkung kann zu einem gesünderen, glücklicheren und erfolgreicheren Leben führen."
   },
   { 
     "id": 235,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-23 Wie wirkt sich eine optimistische Einstellung auf Gesundheit und Langlebigkeit aus?",
+    "answer": "Studien an Menschen mit einer optimistischen Einstellung zeigen, dass sie mit größerer Wahrscheinlichkeit als Pessimisten eine optimale Gesundheit haben, erfolgreich sind und eine längere Lebenserwartung haben."
   },
   { 
     "id": 236,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-24 Wie fördert soziale Unterstützung die Gesundheit?",
+    "answer": "Soziale Unterstützung fördert die Gesundheit, indem sie uns beruhigt, unseren Schlaf verbessert, den Blutdruck senkt und eine stärkere Immunfunktion fördert. Wir können unseren Stress erheblich reduzieren und unsere Gesundheit verbessern, indem wir Beziehungen aufbauen und pflegen und indem wir schmerzhafte Gefühle anvertrauen, anstatt sie zu unterdrücken."
   },
   { 
     "id": 237,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-25 Wie effektiv ist Aerobic-Übungen als Mittel zur Stressbewältigung und zur Verbesserung des Wohlbefindens?",
+    "answer": "Aerobic-Übungen steigern die Erregung, führen zu Muskelentspannung und besserem Schlaf, regen die Produktion von Neurotransmittern an, fördern die Neurogenese und verbessern das Selbstbild. Es kann Depressionen und Angstzustände reduzieren oder verhindern. Im späteren Leben ist regelmäßige Bewegung mit einer besseren kognitiven Funktion und einem längeren Leben verbunden."
   },
   { 
     "id": 238,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "12-26 Auf welche Weise könnten Entspannung und Meditation Stress und Gesundheit beeinflussen?",
+    "answer": "Entspannung und Meditation reduzieren nachweislich Stress, senken den Blutdruck, verbessern die Immunfunktion und lindern Angstzustände und Depressionen. Achtsamkeitsmeditation ist eine reflektierende Praxis, bei der man sich auf nicht wertende und akzeptierende Weise mit aktuellen Erfahrungen auseinandersetzt. Massagetherapie fördert auch die Entspannung und reduziert Depressionen."
   },
   { 
     "id": 239,
     "title": "",
-    "question": "",
+    "question": "12-27 Was ist der Glaubensfaktor und welche möglichen Erklärungen gibt es für den Zusammenhang zwischen Glaube und Gesundheit?",
     "answer": ""
   },
   { 
