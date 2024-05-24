@@ -29,14 +29,16 @@ const Navbar = () => {
     "CHAPTER 12: Emotions, Stress, and Health",
     "CHAPTER 13: Social Psychology",
     "CHAPTER 14: Personality",
+    "CHAPTER 15: Psychological Disorders",
+    "CHAPTER 16: Therapy"
   ]
 
   return (
     <nav className='max-w-screen top-0 sticky border-b-[1px] border-slate-300/40 p-6 backdrop-blur-sm z-20 flex flex-row justify-between shadow-2xl shadow-black'>
       <div className=''>
-        <h2 className='font-bold'>
+        <Link href="/" className='font-bold'>
           V&apos;s PsychDB
-        </h2>
+        </Link>
       </div>
 
       {
@@ -67,7 +69,12 @@ const Navbar = () => {
                         {`${item.slice(0, 10).toLowerCase()}`}</Link>
                   ))
                 }
+                <Link
+                  href="/questions"
+                >
+                  Questions</Link>
               </div>
+              
             </div>
         )
       }
