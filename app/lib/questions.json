@@ -85,96 +85,1470 @@
   },
   { 
     "id": 15,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 2",
     "question": "",
     "answer": ""
   },
   { 
     "id": 16,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-1 Warum beschäftigen sich Psychologen mit der Biologie des Menschen?",
+    "answer": "Psychologen, die aus einer biologischen Perspektive arbeiten, untersuchen die Zusammenhänge zwischen biologischen und psychologischen Prozessen. Wir sind biopsychosoziale Systeme, in denen biologische, psychologische und sozial-kulturelle Faktoren interagieren und das Verhalten beeinflussen"
   },
   { 
     "id": 17,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-2 Wie ermöglichen Biologie und Erfahrung die Neuroplastizität?",
+    "answer": "Die Neuroplastizität ermöglicht es unserem Gehirn, neue neuronale Bahnen zu bilden, wenn wir uns an neue Erfahrungen gewöhnen. Dabei wird es sowohl von den Genen als auch vom Leben geformt. Dies ist zwar eine lebenslange Fähigkeit, doch ist die Neuroplastizität in der Kindheit am größten. Mit etwas Übung entwickelt unser Gehirn einzigartige Muster, die unsere Lebenserfahrungen widerspiegeln."
   },
   { 
     "id": 18,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-3 Was sind Neuronen, und wie übertragen sie Informationen?",
+    "answer": "Neuronen sind die elementaren Bestandteile des Nervensystems, des schnellen elektrochemischen Informationssystems des Körpers. Ein Neuron (ein Zellkörper und seine verzweigten Fasern) empfängt Signale über seine oft buschigen, verzweigten Dendriten und sendet Signale über seine Axone. Einige Axone sind von einer Myelinscheide umhüllt, die eine schnellere    Übertragung ermöglicht. Gliazellen unterstützen, ernähren und schützen die Neuronen und spielen auch eine Rolle beim Lernen, Denken und Gedächtnis. Wenn die kombinierten Signale, die ein Neuron empfängt, einen Mindestschwelle überschreiten, feuert das Neuron und sendet einen elektrischen Impuls (das Aktionspotenzial) durch einen chemischen Prozess entlang seines Axons. Neuronen brauchen eine kurze Pause, die sogenannte Refraktärzeit, nach der sie wieder feuern können. Die Reaktion des Neurons ist eine Alles-oder-Nichts-Antwort."
   },
   { 
     "id": 19,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-4 Wie kommunizieren Nervenzellen untereinander?",
+    "answer": "Wenn Aktionspotenziale das Ende eines Axons (die knopfartigen Axonendigungen) erreichen, stimulieren sie die Freisetzung von Neurotransmittern. Diese chemischen Botenstoffe übermitteln eine Nachricht vom sendenden Neuron über eine Synapse zu Rezeptorstellen auf einem empfangenden Neuron. Das sendende Neuron nimmt dann normalerweise die überschüssigen Neurotransmitter Moleküle in der Synapse wieder auf. Wenn die eingehenden Signale stark genug sind, erzeugt das empfangende Neuron sein eigenes Aktionspotenzial und leitet die Nachricht an andere Zellen weiter."
   },
   { 
     "id": 20,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-5 Wie beeinflussen Neurotransmitter das Verhalten, und wie beeinflussen Drogen und andere Chemikalien die Neurotransmission?",
+    "answer": "Neurotransmitter durchlaufen bestimmte Bahnen im Gehirn und beeinflussen bestimmte Verhaltensweisen und Gefühle. Acetylcholin (ACh) ermöglicht Muskelbewegungen, Lernen und das Gedächtnis. Endorphine sind natürliche Opiate, die als Reaktion auf Schmerz und Bewegung ausgeschüttet werden. Drogen und andere Chemikalien beeinflussen die Gehirnchemie an den Synapsen. Agonisten verstärken die Wirkung eines Neurotransmitters und können dies auf verschiedene Weise tun. Antagonisten verringern die Wirkung  eines Neurotransmitters, indem sie die Produktion oder Freisetzung blockieren."
   },
   { 
     "id": 21,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-6 Welche Funktionen haben die Hauptabteilungen des Nervensystems, und welches sind die drei Haupttypen von Neuronen?",
+    "answer": "Das zentrale Nervensystem (ZNS) - das Gehirn und das Rückenmark - ist der Entscheidungsträger des Nervensystems. Das periphere Nervensystem (PNS) verbindet das ZNS mit dem Rest des Körpers, sammelt Informationen und überträgt die Entscheidungen des ZNS an den Rest des Körpers. Die beiden Hauptbereiche des PNS sind das somatische Nervensystem (das die willentliche Steuerung der Skelettmuskulatur ermöglicht) und das autonome Nervensystem (das die unwillkürlichen Muskeln und Drüsen mit Hilfe seiner sympathischen und parasympathischen Abteilungen). Die drei Arten von Neuronen gruppieren sich in Arbeits Netzwerken: (1) Sensorische (af erente) Neuronen leiten die von den Geweben und Rezeptoren des Körpers eingehenden Informationen Sinnesrezeptoren an das Gehirn und das Rückenmark weiter. (2) Motorische (ef erent) Neuronen leiten ausgehende Informationen von Gehirn und Rückenmark zu den Muskeln und Drüsen. (3) Interneuronen kommunizieren innerhalb des Gehirns und des Rückenmarks und verarbeiten Informationen zwischen den sensorischen Eingängen und den motorischen Ausgängen."
   },
   { 
     "id": 22,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-7 Wie übermittelt das endokrine System Informationen und interagiert mit dem Nervensystem?",
+    "answer": "Das endokrine System schüttet Hormone in den Blutkreislauf aus, von wo aus sie durch den Körper wandern und andere Gewebe, einschließlich des Gehirns, beeinflussen. Die Hauptdrüse des endokrinen Systems, die Hypophyse, beeinflusst die Hormonausschüttung anderer Drüsen, einschließlich der Nebennieren. In einem komplizierten Rückkopplungssystem beeinflusst der Hypothalamus des Gehirns die Hypophyse, die wiederum andere Drüsen beeinflusst, die wiederum Hormone freisetzen, die wiederum das Gehirn beeinflussen."
   },
   { 
     "id": 23,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-8 Wie erforschen Neurowissenschaftler die Verbindungen des Gehirns zu Verhalten und Geist?",
+    "answer": "Klinische Beobachtungen und Läsionen geben Aufschluss über die allgemeinen Auswirkungen von Hirnschäden. Elektrische, chemische oder magnetische Stimulationen können auch Aspekte der Informationsverarbeitung im Gehirn aufzeigen. MRT-Scans zeigen die Anatomie. EEG-, MEG-, PET- und fMRI-Aufzeichnungen (funktionelle MRT) geben Aufschluss über die Gehirnfunktion. Weitere aufschlussreiche Techniken sind die Optogenetik und fNIRS."
   },
   { 
     "id": 24,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-9 Aus welchen Strukturen besteht der Hirnstamm, und welche Funktionen haben Hirnstamm, Thalamus, Retikularformation und Kleinhirn?",
+    "answer": "Der Hirnstamm, der älteste Teil des Gehirns, ist für die automatischen Überlebensfunktionen zuständig. Er umfasst das Mark (das den Herzschlag und die Atmung steuert), die Pons (die hilft, Bewegungen zu koordinieren und den Schlaf zu kontrollieren) und die Retikularformation (die eingehende Reize filtert, Informationen an andere Gehirnbereiche weiterleitet und die Erregung beeinflusst). Der Thalamus, der oberhalb des Hirnstamms sitzt, fungiert als sensorisches Kontrollzentrum des Gehirns. Das Kleinhirn, das an der Rückseite des Hirnstamms sitzt, koordiniert Muskelbewegungen und Gleichgewicht und ermöglicht nonverbales Lernen und Gedächtnis."
   },
   { 
     "id": 25,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-10 Was sind die Strukturen und Funktionen des limbischen Systems?",
+    "answer": "Das limbische System ist mit Emotionen, Gedächtnis und Trieben verbunden. Zu seinen neuronalen Zentren gehören die Amygdala (beteiligt an Verhaltens- und Gefühlsreaktionen, wie Aggression und Angst); der Hypothalamus (steuert verschiedene Körperfunktionen, hilft bei der Steuerung des endokrinen Systems und ist mit Emotionen und Belohnungen verbunden); und der Hippocampus (hilft bei der Verarbeitung expliziter, bewusster Erinnerungen). Der Hypothalamus kontrolliert die Hypophyse (die 'Hauptdrüse'), indem er sie anregt, Hormone auszuschütten."
   },
   { 
     "id": 26,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-11 Aus welchen vier Lappen besteht die Großhirnrinde, und welche Funktionen haben der motorischen Kortex, der somatosensorische Kortex und die Assoziationsbereiche?",
+    "answer": "Die Großhirnrinde hat zwei Hemisphären, und jede Hemisphäre hat vier Lappen: den Frontal-, Parietal-, Okzipital- und Temporallappen. Jeder Lappen erfüllt viele Funktionen und interagiert mit anderen Bereichen des Kortex.  Der motorische Kortex, der sich im hinteren Teil der Frontallappen befindet steuert willkürliche Bewegungen. Der somatosensorische Kortex, auf der Vorderseite der Scheitellappen, registriert und verarbeitet Berührungs- und Bewegungsempfindungen. Körperteile, die eine präzise Steuerung erfordern (im motorischen Kortex) oder die  eine präzise Steuerung erfordern (im motorischen Kortex) oder die besonders empfindlich sind (im somatosensorischen Kortex), nehmen den größten Raum ein. Der größte Teil des Gehirnkortex ist der ungebundene Assoziationsbereich, welches Informationen integriert, die an höheren geistigen Funktionen wie Lernen, Erinnern, Denken und Sprechen beteiligt sind. Unsere geistigen Erfahrungen entstehen durch koordinierte Gehirnaktivität."
   },
   { 
     "id": 27,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "2-12 Stimmt es, dass 90 Prozent unseres Gehirns nicht wirklich genutzt werden?",
+    "answer": "Die Unempfänglichkeit unserer Assoziationsbereiche für elektrische Untersuchungen führte zu der falschen Behauptung, dass wir nur 10 Prozent unseres Gehirns nutzen. Diese riesigen Bereiche des Gehirns sind jedoch für die Interpretation, Integration und Verarbeitung von sensorischen Informationen und deren Verknüpfung mit gespeicherten Erinnerungen verantwortlich. Hirnschädigungen zeigen, dass die Neuronen in den Assoziationsbereichen mit höheren geistigen Funktionen beschäftigt sind; eine Kugel würde nicht in einem 'ungenutzten' Bereich landen."
   },
   { 
     "id": 28,
     "title": "",
+    "question": "2-13 Inwieweit kann sich ein geschädigtes Gehirn selbst reorganisieren, und was ist Neurogenese?",
+    "answer": "Während sich die Neuronen des Gehirns und des Rückenmarks in der Regel nicht regenerieren, kann sich ein Teil des neuronalen Gewebes als Reaktion auf eine Schädigung reorganisieren. Das geschädigte Gehirn kann Neuroplastizität zeigen, insbesondere bei kleinen indern, wenn neue Bahnen gebildet werden und Funktionen in andere Hirnregionen abwandern. Auch bei Blindheit und Taubheit kann es zu einer Neuzuweisung von Funktionen im Gehirn kommen.  Einige Forschungsergebnisse deuten darauf hin, dass sich das Gehirn manchmal selbst reparieren kann, indem es neue Neuronen bildet, ein Prozess, der als Neurogenese bekannt ist."
+  },
+  { 
+    "id": 29,
+    "title": "",
+    "question": "2-14 Was verraten gespaltene Gehirne über die Funktionen unserer beiden Gehirnhälften?",
+    "answer": "Die Split-Brain-Forschung (Experimente an Menschen mit einem durchtrenntem Corpus Callosum) hat bestätigt, dass bei den meisten Menschen die linke Hemisphäre die verbalere ist. Die rechte Hemisphäre zeichnet sich durch visuelle Wahrnehmung und das Ziehen von Schlüssen aus und hilft uns, unsere Sprache zu modulieren und unsere Selbstwahrnehmung zu orchestrieren. Untersuchungen des intakten Gehirns bei gesunden Menschen bestätigen, dass jede Hemisphäre einen einzigartigen Beitrag zur integrierten Funktion des gesamten Gehirns leistet."
+  },
+  { 
+    "id": 30,
+    "title": "Learning Objective Questions – Kapitel 3",
     "question": "",
     "answer": ""
   },
   { 
-    "id": 29,
+    "id": 36,
+    "title": "",
+    "question": "3-1 Welchen Platz nimmt das Bewusstsein in der Geschichte der Psychologie ein?",
+    "answer": "Nachdem die Psychologen im neunzehnten Jahrhundert zunächst das Bewusstsein zu ihrem Forschungsgebiet erklärt hatten, gaben sie es in der ersten Hälfte des zwanzigsten Jahrhunderts auf und wandten sich stattdessen der Erforschung des beobachtbaren Verhaltens zu, weil sie glaubten, das Bewusstsein sei wissenschaftlich zu schwierig zu untersuchen. Seit 1960, unter dem Einfluss der kognitiven Psychologie, der Neurowissenschaften und der kognitiven Neurowissenschaften, hat unser Bewusstsein von uns selbst und unserer Umwelt - unser Bewusstsein - seinen Platz als wichtiges Forschungsgebiet zurückerobert."
+  },
+  { 
+    "id": 37,
+    "title": "",
+    "question": "3-2 Wie steuert die selektive Aufmerksamkeit unsere Wahrnehmung?",
+    "answer": "Wir nehmen selektiv einen sehr begrenzten Teil der eingehenden Informationen wahr und verarbeiten sie, blenden vieles aus und verschieben oft den Schwerpunkt unserer Aufmerksamkeit von einer Sache zur anderen. Da wir uns intensiv auf eine Aufgabe konzentrieren, sind wir oft unaufmerksam gegenüber anderen Ereignissen, einschließlich  für Veränderungen um uns herum."
+  },
+  { 
+    "id": 38,
+    "title": "",
+    "question": "3-3 Was ist die doppelte Verarbeitung, die die heutige kognitive Neurowissenschaft offenbart?",
+    "answer": "Wissenschaftler, die sich mit den Mechanismen des Gehirns befassen, die dem Bewusstsein und der Wahrnehmung zugrunde liegen, haben herausgefunden, dass der Verstand Informationen auf zwei getrennten Bahnen verarbeitet, wobei die eine auf bewusster Ebene (sequenzielle Verarbeitung) und die andere auf unbewusster Ebene (parallele Verarbeitung) arbeitet. Die parallele Verarbeitung kümmert sich um Routineaufgaben, während die sequentielle Verarbeitung am besten geeignet ist, um neue Probleme zu lösen, die unsere Aufmerksamkeit erfordern. Diese doppelte Verarbeitung - bewusst und unbewusst - wirkt sich auf unsere Wahrnehmung, unser Gedächtnis, unsere Einstellungen und andere Kognitionen aus."
+  },
+  { 
+    "id": 39,
+    "title": "",
+    "question": "3-4 Was ist Schlaf?",
+    "answer": "Schlaf ist der periodische, natürliche Verlust des normalen Bewusstseins - im Unterschied zur Bewusstlosigkeit, die aus einem Koma, einer Vollnarkose oder einem Winterschlaf resultiert."
+  },
+  { 
+    "id": 40,
+    "title": "",
+    "question": "3-5 Wie beeinflussen unsere biologischen Rhythmen unser tägliches Funktionieren?",
+    "answer": "Unser Körper verfügt über eine innere biologische Uhr, die mit dem 24-Stunden-Zyklus von Tag und Nacht synchronisiert ist. Dieser zirkadiane Rhythmus zeigt sich in unseren täglichen Mustern von Körpertemperatur, Erregung, Schlaf und Wachsein. Alter und Erfahrung können diese Muster verändern und unsere biologische Uhr zurücksetzen."
+  },
+  { 
+    "id": 41,
+    "title": "",
+    "question": "3-6 Was ist der biologische Rhythmus unserer Schlaf- und Traumphasen?",
+    "answer": "Jüngere Erwachsene durchlaufen etwa alle 90 Minuten vier verschiedene Schlafstadien. (Bei älteren Erwachsenen wiederholt sich der Schlafzyklus häufiger.) Von den Alphawellen des wachen, entspannten Schlafstadiums tauchen wir in die unregelmäßigen Gehirnwellen des Non-REM-Stadiums 1 (N1)-Schlafs, der oft mit Halluzinationen einhergeht. Der N2-Schlaf (in dem wir etwa die Hälfte unserer Schlafzeit verbringen) folgt mit einer Dauer von etwa 20 Minuten und seinen charakteristischen Schlafspindeln. Danach treten wir in den N3-Schlaf ein, der etwa 30 Minuten dauert und große, langsame Delta-Wellen aufweist. Etwa eine Stunde nach dem Einschlafen tauchen wir aus unserem anfänglichen Schlaf-Tauchgang auf und beginnen Phasen des REM (Rapid Eye Movement oder R) Schlaf. Der REM-Schlaf, zu dem die meisten Träume gehören, wird als paradoxes Schlafstadium beschrieben, weil er eine innere Erregung, aber äußere Ruhe (fast Lähmung) aufzeigt. Während einer normalen Nachtruhe verkürzt sich der N3-Schlaf und der REM- und N2-Schlaf verlängert sich."
+  },
+  { 
+    "id": 42,
+    "title": "",
+    "question": "3-7 Wie wirken sich Biologie und Umwelt auf unser Schlafverhalten aus?",
+    "answer": "Unsere Biologie - unser zirkadianer Rhythmus sowie unser Alter und die körpereigene Melatoninproduktion (die vom suprachiasmatischen Kern des Gehirns beeinflusst wird) - steht in Wechselwirkung mit sozialen, kulturellen und wirtschaftlichen Einflüssen und individuellen Verhaltensweisen, die unseren Schlaf- und Wachrhythmus bestimmen. Lichtüberflutung (oder Lichtentzug) stört unsere biologische 24-Stunden-Uhr. Bei Menschen, die chronisch ohne natürliches Sonnenlicht auskommen müssen, wie z. B. bei Nachtschichtarbeitern, kann es zu einer Desynchronisation kommen."
+  },
+  { 
+    "id": 43,
+    "title": "",
+    "question": "3-8 Welche Funktionen hat Schlaf?",
+    "answer": "Der Schlaf könnte in der menschlichen Evolution eine schützende Rolle gespielt haben, indem er die Menschen in potenziell gefährlichen Zeiten in Sicherheit hielt. Schlaf hilft auch bei der Wiederherstellung und Reparatur beschädigter Neuronen. Schlaf festigt unsere Erinnerungen, indem er das kürzlich Gelernte wiederholt und die neuronalen Verbindungen stärkt. Schlaf fördert das kreative Lösen von Problemen am nächsten Tag. Während des Slow-Wave-Schlafs schüttet die Hypophyse ein Wachstumshormon aus, das für den Muskelaufbau notwendig ist. Aufgrund dieser Vorteile kann ein regelmäßiger, vollständiger Nachtschlaf die sportliche Leistung erheblich steigern."
+  },
+  { 
+    "id": 44,
+    "title": "",
+    "question": "3-9 How does sleep loss affect us, and what are the major sleep disorders?",
+    "answer": "Schlafentzug führt zu Müdigkeit und Reizbarkeit und beeinträchtigt die Konzentration und Gedächtniskonsolidierung. Er kann auch zu Depressionen, Fettleibigkeit, Gelenkentzündungen, einem geschwächten Immunsystem und verminderter Leistungsfähigkeit (mit erhöhter Unfall Anfälligkeit) führen. Zu den Schlafstörungen gehören Schlaflosigkeit (wiederkehrende Probleme beim Einschlafen oder Durchschlafen), Narkolepsie (plötzliche, unkontrollierbare Schläfrigkeit, die manchmal direkt in den REM-Schlaf übergeht), Schlafapnoe (wiederholte Atemstillstände im Schlaf, die vor allem bei Männern mit Fettleibigkeit einhergehen), Nachtangst (hohe Erregung und der Anschein von Angst; N3-Störung, die vor allem bei Kindern auftritt) und Schlafwandeln."
+  },
+  { 
+    "id": 45,
+    "title": "",
+    "question": "3-10 Was träumen wir, und welche Funktionen haben die Theoretiker für Träume vorgeschlagen?",
+    "answer": "Normalerweise träumen wir von gewöhnlichen Ereignissen und Alltagserfahrungen, die meist mit einer gewissen Angst oder Unglück geprägt sind. Weniger als 10 Prozent der Träume von Männern (und noch weniger bei Frauen) haben einen sexuellen Inhalt. Die meisten Träume treten während des REM-Schlafs auf. Es gibt fünf Haupt-Auffassungen über die Funktion von Träumen. (1) Freuds Wunscherfüllung: Träume bieten ein psychisches 'Sicherheitsventil', wobei der manifeste Inhalt (die Handlung) als zensierte Version des latenten Inhalts (unterschwellige Bedeutung, die unsere unbewussten Wünsche befriedigt). (2) Verarbeitung von Informationen: Träume helfen uns, die Ereignisse des Tages zu sortieren und als Erinnerungen im Gedächtnis zu speichern. (3) Physiologische Funktion: Regelmäßige Hirnstimulation kann zur Entwicklung neuronalen Bahnen im Gehirn beitragen. (4) Neuronale Aktivierung: Das Gehirn versucht der neuralen Statik einen Sinn zu geben, indem es sie zu einer Geschichte verwebt. (5) Kognitive Entwicklung: Träume spiegeln den Entwicklungsstand des Träumers wider - sein Wissen und sein Verständnis. Die meisten Schlaf Theoretiker sind sich einig, dass der REM-Schlaf und die damit verbundenen Träumeeine wichtige Funktion haben, wie der REM-Rebound zeigt, der nach REM-Entzug bei Menschen und anderen Spezies auftritt."
+  },
+  { 
+    "id": 47,
+    "title": "",
+    "question": "3-11 Was sind Substanzkonsumstörungen?",
+    "answer": "Menschen mit einer Substanzkonsumstörung haben ein anhaltendes Verlangen nach Substanzen und konsumieren diese trotz erheblicher Lebensunterbrechungen und/oder körperlicher Risiken. Psychoaktive Drogen verändern Wahrnehmungen und Stimmungen."
+  },
+  { 
+    "id": 48,
+    "title": "",
+    "question": "3-12 Welche Rolle spielen Toleranz und Sucht bei Substanzkonsumstörungen, und wie hat sich der Begriff der Sucht verändert?",
+    "answer": "Psychoaktive Drogen können zu einer Toleranz führen, d. h. es werden höhere Dosen benötigt, um die gewünschte Wirkung zu erzielen, und es kann zu Entzugserscheinungen kommen, d. h. zu erheblichen Unannehmlichkeiten, die auf ein starkes Suchtverhalten zurückzuführen sind und mit dem Versuch einhergehen, die Droge aufzugeben. Die Sucht führt dazu, dass die Konsumenten sich nach der Droge sehnen und den Konsum trotz bekannter negativer Folgen fortsetzen. Eine Therapie oder Gruppenunterstützung kann helfen; es hilft zu glauben, dass Süchte kontrollierbar sind und dass Menschen sich ändern können. Obwohl Psychologen versuchen, die übermäßige Verwendung des Begriffs Sucht für etikettierte, exzessive Verhaltensweisen zu vermeiden, gibt es einige Verhaltenssüchte (z. B. Spielsucht und Internetspielsucht), bei denen das Verhalten zwanghaft und dysfunktional wird."
+  },
+  { 
+    "id": 49,
+    "title": "",
+    "question": "3-13 Was sind Depressiva und wie wirken sie?",
+    "answer": "Depressiva wie Alkohol, Barbiturate und Opiate verringern die neuronale Aktivität und verlangsamen die Körperfunktionen. Alkohol enthemmt und erhöht die Wahrscheinlichkeit, dass wir unseren Impulsen folgen, ob sie nun schädlich oder hilfreich sind. Er beeinträchtigt auch das Urteilsvermögen, indem er die neuronale Verarbeitung verlangsamt, Gedächtnisprozesse durch Unterdrückung des REM-Schlafs stört und das Selbstbewusstsein und die Selbstkontrolle verringert. Die Erwartungen der Konsumenten haben einen starken Einfluss auf die Verhaltenseffekte von Alkohol. Bei Menschen mit Alkoholmissbrauchsstörung kann Alkohol das Gehirn schrumpfen lassen (gekennzeichnet durch Toleranz, Entzugserscheinungen, wenn der Konsum eingestellt wird, und den Drang, den problematischen Konsum fortzusetzen)."
+  },
+  { 
+    "id": 50,
+    "title": "",
+    "question": "3-14 Was sind Stimulanzien und wie wirken sie?",
+    "answer": "Stimulanzien - darunter Koffein, Nikotin, Kokain, die Amphetamine, Methamphetamin und Ecstasy - regen die neuronale Aktivität an und beschleunigen die Körperfunktionen, was zu Energie- und Stimmungsschwankungen führt. Alle haben ein hohes Suchtpotenzial. Die Wirkung von Nikotin macht es schwierig, vom Tabakkonsum loszukommen, doch wiederholte Versuche, damit aufzuhören, scheinen sich auszuzahlen. Kokain verschafft den Konsumenten einen schnellen Rausch, auf den kurz darauf ein Absturz folgt. Zu den Risiken gehören Herzstillstand, Atemstillstand, Krampfanfälle und emotionale Störungen. Amphetamine stimulieren die neuronale Aktivität, was zu erhöhter Energie und Stimmung führt. Methamphetaminkonsum kann die Dopaminproduktion dauerhaft reduzieren. Ecstasy (MDMA) ist ein kombiniertes Stimulans und mildes Halluzinogen, das Euphorie und Gefühle von Intimität hervorruft. Seine Konsumenten riskieren eine Unterdrückung des Immunsystems, dauerhafte Beeinträchtigungen der Stimmung und des Gedächtnisses sowie (bei Einnahme während körperlicher Aktivität) Dehydrierung und steigende Körpertemperaturen."
+  },
+  { 
+    "id": 51,
+    "title": "",
+    "question": "3-15 Was sind Halluzinogene, und wie wirken sie?",
+    "answer": "Halluzinogene, wie LSD und Marihuana, verzerren die Wahrnehmung und rufen Halluzinationen. Die Stimmung und die Erwartungen der Konsumenten beeinflussen die Wirkung von LSD, aber es sind Halluzinationen und Gefühle, die von Euphorie bis Panik reichen, weit verbreitet. Der Hauptinhaltsstoff von Marihuana, THC, kann Gefühle der Enthemmung, Euphorie, Entspannung, Schmerzlinderung und intensive Empfindlichkeit gegenüber sensorischen Reizen auslösen, kann aber das Risiko psychischer Störungen erhöhen und zu Lern- und Gedächtnisstörungen führen."
+  },
+  { 
+    "id": 52,
+    "title": "",
+    "question": "3-16 Warum nehmen manche Menschen regelmäßig bewusstseinsverändernde Drogen?",
+    "answer": "Manche Menschen können biologisch anfällig für bestimmte Drogen sein. Psychologische Faktoren (wie Stress, Depressionen und Hoffnungslosigkeit) und soziale Faktoren (wie Gruppendruck und kulturelle Einflüsse) führen dazu, dass viele Menschen mit Drogen experimentieren - und manchmal auch drogenabhängig werden. Kulturelle und ethnische Gruppen weisen unterschiedliche Raten des Drogenkonsums auf. Jede Art von Einfluss - biologische, psychologische und soziokulturelle - bietet einen möglichen Weg für Präventions- und Behandlungsprogramme zum Drogenmissbrauch."
+  },
+  { 
+    "id": 53,
+    "title": "Learning Objective Questions – Kapitel 4",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 54,
+    "title": "",
+    "question": "4-1 Was sind Chromosomen, DNA, Gene und das menschliche Genom? Wie erklären Verhaltens Verhaltensgenetiker unsere individuellen Unterschiede erklären?",
+    "answer": "Gene sind die biochemischen Einheiten der Vererbung, die die Chromosomen, die fadenförmigen Windungen der DNA, bilden. Wenn Gene ausgedrückt werden, liefern sie den Code für die Bildung der Proteine, die die Bausteine unseres Körpers bilden. Das menschliche Genom ist das gemeinsame genetische Profil, das den Menschen von anderen Spezies unterscheidet, und besteht auf individueller Ebene aus dem gesamten genetischen Material in den Chromosomen eines Organismus. Verhaltensgenetiker untersuchen die relative Stärke und die Grenzen der genetischen und umweltbedingten Einflüsse auf das Verhalten. Die meisten unserer unterschiedlichen Merkmale sind polygenetisch und werden durch die Interaktion unserer individuellen Umwelt mit diesen genetischen Prädispositionen beeinflusst."
+  },
+  { 
+    "id": 55,
+    "title": "",
+    "question": "4-2 Wie helfen uns Zwillings- und Adoptionsstudien, die Auswirkungen und Wechselwirkungen von Natur und Erziehung zu verstehen?",
+    "answer": "Studien mit eineiigen (monozygoten) Zwillingen gegenüber zweieiigen (dizygoten) Zwillingen, getrennten Zwillingen und biologischen bzw. adoptierten Verwandten ermöglichen es den Forschern, die Auswirkungen der gemeinsamen Umwelt und der gemeinsamen Gene zu untersuchen, was Aufschluss darüber gibt, wie Natur und Erziehung unsere Charaktereigenschaften beeinflussen. Das gemeinsame familiäre Umfeld hat erstaunlich wenig Einfluss auf die Persönlichkeit, obwohl die Elternschaft andere Faktoren beeinflusst."
+  },
+  { 
+    "id": 56,
+    "title": "",
+    "question": "4-3 Was haben die Psychologen über das Temperament gelernt?",
+    "answer": "Die Stabilität des Temperaments, d. h. der charakteristischen emotionalen Reaktionsfähigkeit und Intensität eines Menschen, von den ersten Lebenswochen an lässt auf eine genetische Veranlagung schließen. Der genetische Effekt zeigt sich in physiologischen Unterschieden wie der Herzfrequenz und der Reaktionsfähigkeit des Nervensystems."
+  },
+  { 
+    "id": 57,
+    "title": "",
+    "question": "4-4 Was ist Vererbbarkeit, und wie verhält sie sich bei Einzelpersonen und Gruppen?",
+    "answer": "Die Erblichkeit beschreibt das Ausmaß, in dem die Unterschiede zwischen den Mitgliedern einer Gruppe auf die Gene zurückgeführt werden können. Vererbbare individuelle Unterschiede (bei Merkmalen wie Größe oder Intelligenz) müssen nicht unbedingt vererbbare Gruppenunterschiede bedeuten. Gene erklären meist, warum manche Menschen größer sind als andere, aber nicht, warum Menschen heute größer sind als vor einem Jahrhundert."
+  },
+  { 
+    "id": 58,
+    "title": "",
+    "question": "4-5 Wie verändert die molekulargenetische Forschung unser Verständnis der Auswirkungen von Natur und Veranlagung?",
+    "answer": "Unsere genetischen Veranlagungen und unser spezifisches Umfeld wirken zusammen. Die Umwelt kann genetische Ausprägung auslösen, und genetisch beeinflusste Merkmale können die Erfahrungen, die wir suchen, und die Reaktionen, die wir bei anderen hervorrufen, beeinflussen. Molekulargenetiker untersuchen die molekulare Struktur und Funktion von Genen, einschließlich derjenigen, die das Verhalten beeinflussen. Ein Ziel der molekularen Verhaltensgenetik ist die Identifizierung bestimmter Gene - oder, häufiger, die zusammen komplexe Merkmale (wie Körpergewicht, sexuelle Orientierung und Impulsivität) oder die Menschen einem Risiko für Störungen aussetzen. Das Gebiet der Epigenetik untersucht die molekularen Mechanismen, durch die die Umwelt die genetische Expression auslöst oder die genetische Ausprägung blockiert."
+  },
+  { 
+    "id": 59,
+    "title": "",
+    "question": "4-6 Wie nutzen Evolutionspsychologen die natürliche Selektion, um Verhaltenstendenzen zu erklären?",
+    "answer": "Evolutionspsychologen versuchen zu verstehen, wie die natürliche Selektion Eigenschaften und Verhaltenstendenzen geformt hat, die bei allen Menschen zu finden sind. Genetische Variationen, die die Chancen der Fortpflanzung und des Überlebens in einer bestimmten Umgebung erhöhen, werden am ehesten an künftige Generationen weitergegeben. Einige Variationen entstehen durch Mutationen, andere durch neue Genkombinationen bei der Empfängnis. Die Menschen teilen ein genetisches Erbe und sind für Verhaltensweisen prädisponiert, die das Überleben und die Fortpflanzung unserer Vorfahren gefördert haben. Die Evolutionstheorie von Charles Darwin ist eines der grundlegenden Organisationsprinzipien der Biologie. Er nahm die heutige Anwendung der Evolutionsprinzipien in der Psychologie vorweg."
+  },
+  { 
+    "id": 60,
+    "title": "",
+    "question": "4-7 Wie könnte ein Evolutionspsychologe die Unterschiede zwischen Männern und Frauen in Bezug auf Sexualität und Paarungspräferenzen erklären?",
+    "answer": "Frauen neigen dazu, bei der Wahl ihrer Sexualpartner wählerischer zu sein als Männer. Evolutionspsychologen begründen dies damit, dass die Anziehungskraft der Männer auf mehrere fruchtbar erscheinende Partnerinnen ihre Chancen erhöht, ihre Gene weit zu verbreiten. Da Frauen Babys ausbrüten und stillen, erhöhen sie ihre eigenen Überlebenschancen und die ihrer Kinder, indem sie nach Partnern suchen, die das Potenzial für langfristige Investitionen in den gemeinsamen Nachwuchs haben."
+  },
+  { 
+    "id": 61,
+    "title": "",
+    "question": "4-8 Was sind die Hauptkritikpunkte an den evolutionären Erklärungen der menschlichen Sexualität, und wie reagieren die Evolutionspsychologen darauf?",
+    "answer": "Kritiker argumentieren, dass Evolutionspsychologen von einer Wirkung ausgehen und von da aus eine Erklärung suchen. Somit minimieren sie zeitgenössische soziale und kulturelle Einflüsse (einschließlich erlernte soziale Skripte) und entbinden die Menschen von der Verantwortung für ihr sexuelles Verhalten, einschließlich der sexuellen Aggression von Männern. Die Evolutionspsychologen antworten, dass sie die Bedeutung sozialer und kultureller Einflüsse anerkennen, aber auf den Wert vonüberprüfbare Vorhersagen, die auf evolutionären Prinzipien beruhen: Das Verstehen unserer Prädispositionen zu verstehen, kann uns helfen, sie zu überwinden."
+  },
+  { 
+    "id": 62,
+    "title": "",
+    "question": "4-9 Wie verändern frühe Erfahrungen unser Gehirn?",
+    "answer": "Während sich das Gehirn eines Kindes entwickelt, werden die neuronalen Verbindungen zahlreicher und komplexer. Erfahrungen führen dann zu einem Abbauprozess, bei dem ungenutzte Verbindungen schwächer und und stark genutzte Verbindungen verstärkt werden. Die frühe Kindheit ist ein wichtiger Zeitraum für die Formung des Gehirns, aber dank der Neuroplastizität verändert sich das Gehirn im Laufe unseres Lebens als Reaktion auf unser Lernen."
+  },
+  { 
+    "id": 63,
+    "title": "",
+    "question": "4-10 Auf welche Weise prägen Eltern und Gleichaltrige die Entwicklung von Kindern?",
+    "answer": "Das familiäre Umfeld und die Erwartungen der Eltern können die Motivation der Kinder und zukünftigen Erfolg beeinflussen. Die Persönlichkeit lässt sich jedoch meist nicht auf die Auswirkungen der Erziehung zurückführen. Da Kinder versuchen, sich an Gleichaltrige anzupassen, neigen sie dazu, ihre Kultur zu übernehmen -Stil, Akzent, Slang. Durch die Wahl der Wohngegend und der Schule ihrer Kinder üben die Eltern einen gewissen Einfluss auf die Kultur der Gleichaltrigengruppe aus."
+  },
+  { 
+    "id": 64,
+    "title": "",
+    "question": "4-11 Wie beeinflusst die Kultur unser Verhalten?",
+    "answer": "Eine Kultur ist eine dauerhafte Reihe von Verhaltensweisen, Ideen, Einstellungen, Werten und Traditionen, die von einer Gruppe geteilt und von einer Generation an die nächste weitergegeben werden. Kulturelle Normen sind verständliche Regeln, die die Mitglieder einer Kultur über akzeptierte und erwartete Verhaltensweisen informieren. Kulturen unterscheiden sich über Zeit und Raum hinweg."
+  },
+  { 
+    "id": 65,
+    "title": "",
+    "question": "4-12 Wie unterscheiden sich individualistische und kollektivistische Kulturen in ihren Werten und Zielen?",
+    "answer": "Auch wenn die Menschen unterschiedlich sind, neigen verschiedene Kulturen dazu, entweder den Individualismus oder den Kollektivismus zu betonen. Kulturen, die auf einem selbständigen Individualismus basieren, legen Wert auf persönliche Unabhängigkeit und individuelle Leistung. Sie definieren Identität über Selbstwertgefühl, persönliche Ziele und Eigenschaften sowie persönliche Rechte und Freiheiten. Kulturen, die auf sozialem Kollektivismus basieren, legen Wert auf Gruppenziele, soziale Identität und Verpflichtungen. Sie definieren Identität durch Interdependenz, Tradition und Harmonie."
+  },
+  { 
+    "id": 66,
+    "title": "",
+    "question": "4-13 Wie unterscheidet sich die Bedeutung von Geschlecht von der Bedeutung von Sex?",
+    "answer": "In der Psychologie bezieht sich der Begriff Geschlecht auf die Verhaltensmerkmale, die Menschen mit Jungen, Mädchen, Mann und Frau assoziieren. Sex bezieht sich auf die biologisch bedingten Merkmale, nach denen die Menschen als männlich, weiblich und intersexuell definieren. Unser Verständnis von Geschlecht ergibt sich aus dem Zusammenspiel zwischen unserer Biologie und unseren Erfahrungen."
+  },
+  { 
+    "id": 67,
+    "title": "",
+    "question": "4-14 Worin ähneln sich Männer und Frauen und worin unterscheiden sie sich?",
+    "answer": "Ob männlich, weiblich oder intersexuell, die meisten von uns erhalten 23 Chromosomen von ihrer Mutter und 23 von ihrem Vater, von denen 45 ungeschlechtlich sind - für alle gleich. Männer und Frauen sind sich dank ihrer ähnlichen genetischen Ausstattung mehr ähnlich als verschieden - sie sehen, lernen und erinnern sich ähnlich und verfügen über vergleichbare Kreativität, Intelligenz und Emotionen. Zu den Unterschieden zwischen Männern und Frauen gehören das Alter des Pubertätsbeginns, die Lebenserwartung, die emotionale Ausdrucksfähigkeit und die Anfälligkeit für bestimmte Störungen. Männer geben mehr Aggressionen zu als Frauen, und sie sind eher körperlich (als beziehungsmäßig) aggressiv. In den meisten Gesellschaften haben Männer mehr soziale Macht. Männer sind in der Regel unabhängiger, während Frauen eher voneinander abhängig sind. Frauen legen oft mehr Wert auf soziale Bindungen als Männer, und sie neigen dazu, Freundschaften zu schließen."
+  },
+  { 
+    "id": 68,
+    "title": "",
+    "question": "4-15 Welche Faktoren tragen zu geschlechtsspezifischen Vorurteilen am Arbeitsplatz bei?",
+    "answer": "Geschlechtsspezifische Vorurteile am Arbeitsplatz zeigen sich in Unterschieden wie Wahrnehmung, Vergütung und Verantwortung für die Kinderbetreuung. Soziale Normen, Interaktionsstile und alltägliche Verhaltensweisen tragen ebenfalls dazu bei. Der Führungsstil von Männern ist eher direktiv, während der von Frauen eher demokratisch ist. In ihrem alltäglichen Verhalten und ihren Interaktionen neigen Männer dazu, durchsetzungsfähiger und rechthaberischer zu sein, während Frauen eher unterstützend und entschuldigend wirken."
+  },
+  { 
+    "id": 69,
+    "title": "",
+    "question": "4-16 Wie beeinflussen Sexualhormone die pränatale und jugendliche Sexualentwicklung?",
+    "answer": "Sowohl die Geschlechtschromosomen als auch die Geschlechtshormone beeinflussen die Entwicklung. Etwa sieben Wochen nach der Empfängnis löst ein Gen auf dem Y-Chromosom des Vaters - der entweder dieses oder ein X-Chromosom beisteuern kann (die Mutter steuert immer das letztere bei) - die Produktion von Testosteron aus. Dies fördert die Entwicklung der männlichen Geschlechtsorgane. Östrogene tragen zu den weiblichen Geschlechtsmerkmalen bei und werden von Frauen in größeren Mengen ausgeschüttet als von Männern. Im vierten und fünften pränatalen Monat wird das Gehirn des Fötus von Sexualhormonen durchflutet, wobei sich aufgrund des höheren Testosteronanteils des Mannes und der Östrogene der Frau unterschiedliche Muster entwickeln. Wenn Frauen vorgeburtlich ungewöhnlich hohen Mengen an männlichen Hormonen ausgesetzt sind, können sie später zu eher männlich geprägten Interessen veranlagt sein. Eine weitere Hormonflut tritt in der Pubertät auf und löst einen Wachstumsschub, die Entwicklung der primären und sekundären Geschlechtsmerkmale sowie die markanten Ereignisse der Menarche und Spermarche aus. Variationen in der sexuellen Entwicklung können durch ungewöhnliche Kombinationen von männlichen und weiblichen Chromosomen, Hormonen und Anatomie entstehen."
+  },
+  { 
+    "id": 70,
+    "title": "",
+    "question": "4-17 Welche kulturellen Einflüsse gibt es auf Geschlechterrollen?",
+    "answer": "Geschlechterrollen, die erwarteten Verhaltensweisen, Einstellungen und Eigenschaften, die eine Kultur von ihren Männern und Frauen erwartet, variieren je nach Ort und Zeit. Die Geschlechterrollen haben sich in vielen Teilen der Welt im letzten Jahrhundert dramatisch verändert. Die Erwartungen an die Geschlechterrollen beeinflussen auch die kulturelle Einstellung zu sexueller Aggression."
+  },
+  { 
+    "id": 71,
+    "title": "",
+    "question": "4-18 Was sind die Auswirkungen sexueller Aggression? Wie haben sich die kulturellen Ansichten verändert? Wie können wir sexuelle Aggression abbauen?",
+    "answer": "Sexuelle Aggression, zu der sexuelle Belästigung und sexuelle Übergriffe gehören, kann den Schlaf stören, der Gesundheit schaden und das Vertrauen in neue Beziehungspartner erschweren. Die kulturellen Ansichten über sexuelle Aggression unterscheiden sich von Zeit zu Zeit und von Ort zu Ort, wobei in einigen Kulturen wird den Opfern nach wie vor die Schuld zugeschoben, aber die Veränderungen in den Vereinigten Staaten und anderswo im letzten halben Jahrhundert haben dazu geführt, dass die Beschuldigung der Opfer weniger akzeptabel ist. Eine Therapie für sexuelle Aggressoren hat sich nicht als wirksam erwiesen, aber wir können sexuelle Aggression verringern, indem wir Menschen ermutigen, ihre Erfahrungen bei sexuellen Übergriffen zu melden und mitzuteilen. Indem wir die Opfer stärken und wir die Menschen über präventive Strategien zur Intervention durch Unbeteiligte sensibilisieren."
+  },
+  { 
+    "id": 72,
+    "title": "",
+    "question": "4-19 Wie formen wir unsere Geschlechtsidentität?",
+    "answer": "Die Theorie des sozialen Lernens besagt, dass wir unsere Geschlechtsidentität - unser Gefühl, männlich und weiblich oder eine Kombination aus männlich und weiblich, wir Dinge anders lernen:  durch Verstärkung, Bestrafung und Beobachtung. Kritiker argumentieren jedoch, dass auch die Kognition eine Rolle spielt, denn Modellierung und Belohnung können die Unterschiede in der Geschlechtertypisierung erklären können. Manche Kinder organisieren sich in 'Jungenwelten' und 'Mädchenwelten'; andere bevorzugen Androgynität. Für Menschen, die sich als gleichgeschlechtlich identifizieren, entspricht die Geschlechtsidentität mit dem bei der Geburt zugewiesenen Geschlecht überein. Für Menschen, die sich als transgender identifizieren, weicht die Geschlechtsidentität von dem, was typisch für das Geschlecht ist, das der Person bei der Geburt zugewiesen wurde. Transgender Menschen können sich sexuell zu Menschen des anderen Geschlechts, des gleichen Geschlechts, aller allen Geschlechtern oder zu gar keinem Geschlecht hingezogen fühlen."
+  },
+  { 
+    "id": 73,
+    "title": "",
+    "question": "4-20 Wie beeinflussen die Natur, die Erziehung und unsere eigenen Entscheidungen die Geschlechterrollen und andere Aspekte unseres Lebens?",
+    "answer": "Die individuelle Entwicklung ergibt sich aus dem Zusammenspiel biologischer, psychologischer und soziokultureller Einflüsse. Zu den biologischen Einflüssen gehört unser gemeinsames menschliches Genom; individuelle Variationen; pränatale Umgebung; und geschlechtsbezogene Gene, Hormone und Physiologie. Zu den psychologischen Einflüssen gehören Gen-Umwelt-Interaktionen; Die Wirkung früher Erfahrungen auf neuronale Netze; Reaktionen, die wir selbst hervorgerufen haben wie Merkmale Geschlecht und Temperament; und persönliche Überzeugungen, Gefühle und Erwartungen. Zu den soziokulturellen Einflüssen gehören Einflüsse von Eltern und Gleichaltrigen; kulturell Traditionen und Werte; und kulturelle Geschlechternormen. Und unsere individuellen Entscheidungen beeinflussen, wie all diese Einflüsse zusammenwirken."
+  },
+  { 
+    "id": 74,
+    "title": "Learning Objective Questions – Kapitel 5",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 75,
+    "title": "",
+    "question": "5-1 Welche drei Probleme beschäftigen Entwicklungspsychologen?",
+    "answer": "Entwicklungspsychologen untersuchen körperliche, kognitive und soziale Veränderungen im Laufe des Lebens. Sie verwenden häufig Querschnittsstudien (Vergleich von Menschen unterschiedlichen Alters zu einem bestimmten Zeitpunkt) und Längsschnittstudien (Erneute Tests derselben Personen über einen Zeitraum von Jahren), um drei Themen zu untersuchen: Natur und Erziehung (die Wechselwirkung zwischen unserem genetischen Erbe und unseren Erfahrungen). Kontinuität und Phasen (welche Aspekte der Entwicklung schrittweise und kontinuierlich sind und welche sich relativ abrupt ändern); und Stabilität und Veränderung (ob unsere Eigenschaften mit zunehmendem Alter bestehen bleiben oder sich ändern)."
+  },
+  { 
+    "id": 76,
+    "title": "",
+    "question": "5-2 Wie verläuft die pränatale Entwicklung und wie beeinflussen Teratogene diese Entwicklung?",
+    "answer": "Der Lebenszyklus beginnt mit der Empfängnis, wenn sich eine Samenzelle mit einer Eizelle zu einer Zygote verbindet. Die inneren Zellen der Zygote werden zum Embryo und die äußeren Zellen werden zur Plazenta. In den nächsten 6 Wochen beginnen sich die Körperorgane zu bilden und zu funktionieren, und nach 9 Wochen ist der Fötus erkennbar menschlich. Teratogene sind potenziell schädliche Stoffe, die die Plazenta passieren und dem sich entwickelnden Embryo oder Fötus schaden können, wie es beim fetalen Alkoholsyndrom der Fall ist."
+  },
+  { 
+    "id": 77,
+    "title": "",
+    "question": "5-3 Welche Fähigkeiten gibt es bei Neugeborenen und wie erforschen Forscher die geistigen Fähigkeiten von Säuglingen?",
+    "answer": "Babys werden mit sensorischen Geräten und Reflexen geboren, die ihr Überleben und ihre sozialen Interaktionen mit Erwachsenen erleichtern. Sie lernen zum Beispiel schnell, den Geruch ihrer Mutter zu erkennen und bevorzugen den Klang menschlicher Stimmen. Forscher verwenden Techniken, die die Gewöhnung testen, um die Fähigkeiten von Säuglingen zu erkunden."
+  },
+  { 
+    "id": 78,
+    "title": "",
+    "question": "5-4 Wie entwickeln sich im Säuglings- und Kindesalter das Gehirn und die motorischen Fähigkeiten?",
+    "answer": "Die Nervenzellen des Gehirns werden durch Vererbung und Erfahrung geformt. Mit der Entwicklung des Gehirns eines Kindes werden die neuronalen Verbindungen zahlreicher und komplexer. Erfahrungen lösen dann einen Beschneidungsprozess aus, bei dem ungenutzte Verbindungen schwächer und stark genutzte Verbindungen gestärkt werden. In der Kindheit entwickeln sich komplexe motorische Fähigkeiten – Sitzen, Stehen, Gehen – in einer vorhersehbaren Abfolge, wobei der Zeitpunkt dieser Abfolge von der individuellen Reifung und Kultur abhängt. Wir haben nur wenige oder gar keine bewussten Erinnerungen an Ereignisse, die vor dem 4. Lebensjahr stattgefunden haben. Diese infantile Amnesie tritt teilweise auf, weil große Gehirnbereiche noch nicht ausgereift sind."
+  },
+  { 
+    "id": 79,
+    "title": "",
+    "question": "5-5 Wie hat Piaget unser Verständnis darüber erweitert, wie sich der Geist eines Kindes entwickelt, und wie haben heutige Forscher auf seiner Arbeit aufgebaut?",
+    "answer": "Als er die kognitive Entwicklung von Kindern untersuchte, schlug Jean Piaget vor, dass sie ihr Verständnis der Welt durch die Prozesse der Assimilation und Akkommodation aktiv aufbauen und verändern. Sie bilden Schemata, die ihnen helfen, ihre Erfahrungen zu organisieren. Ausgehend von der Einfachheit der sensomotorischen Phase der ersten beiden Jahre, in der sie Objektbeständigkeit entwickeln, gelangen Kinder zu komplexeren Denkweisen. Im präoperativen Stadium (etwa im Alter von 2 bis etwa 6 oder 7 Jahren) entwickeln sie eine Theorie des Geistes. Im präoperationalen Stadium sind Kinder egozentrisch und nicht in der Lage, einfache logische Operationen durchzuführen. Mit etwa 7 Jahren treten sie in die konkrete Betriebsphase ein und sind in der Lage, das Prinzip des Naturschutzes zu verstehen. Mit 12 Jahren treten Kinder in die formelle operative Phase ein und können systematisch argumentieren. Die Forschung unterstützt die von Piaget vorgeschlagene Reihenfolge, zeigt aber auch, dass kleine Kinder leistungsfähiger sind und sich kontinuierlicher entwickeln, als er glaubte."
+  },
+  { 
+    "id": 80,
+    "title": "",
+    "question": "5-6 Wie sah Wygotski die kognitive Entwicklung von Kindern?",
+    "answer": "Lev Vygotskys Studien zur kindlichen Entwicklung konzentrierten sich auf die Art und Weise, wie der Geist eines Kindes durch die Interaktion mit der sozialen Umgebung wächst. Seiner Ansicht nach stellen Eltern, Lehrer und andere Kinder vorübergehende Gerüste dar, die es den Kindern ermöglichen, auf höhere Ebenen des Denkens aufzusteigen."
+  },
+  { 
+    "id": 81,
+    "title": "",
+    "question": "5-7 Was bedeutet es, eine Theorie des Geistes zu entwickeln, und wie wird diese bei Menschen mit einer Autismus-Spektrum-Störung beeinträchtigt?",
+    "answer": "Unsere Theorie des Geistes – unsere Vorstellungen über unseren eigenen Geisteszustand und den anderen – entwickelt sich in der frühen Kindheit. Kinder mit Autismus-Spektrum-Störung (ASD) haben eine eingeschränkte Theorie des Geistes: Sie haben Schwierigkeiten, den Geisteszustand anderer zu verstehen und über sich selbst nachzudenken."
+  },
+  { 
+    "id": 82,
+    "title": "",
+    "question": "5-8 Wie entstehen Bindungen zwischen Bezugsperson und Kind?",
+    "answer": "Ungefähr im Alter von acht Monaten, kurz nachdem sich die Objektpermanenz entwickelt hat, zeigen Kinder, die von ihren Betreuern getrennt wurden, Angst vor Fremden. Säuglinge bauen Bindungen zu Bezugspersonen auf, die ihre biologischen Bedürfnisse befriedigen, sich aber, was noch wichtiger ist, wohlfühlen, vertraut und ansprechbar sind. Viele Vögel und andere Tiere haben einen starreren Bindungsprozess, der als Prägung bezeichnet wird und in einer kritischen Phase stattfindet."
+  },
+  { 
+    "id": 83,
+    "title": "",
+    "question": "5-9 Wie haben Psychologen Bindungsunterschiede untersucht und was haben sie daraus gelernt?",
+    "answer": "Bindung wurde in Experimenten mit seltsamen Situationen untersucht, die zeigen, dass einige Kinder eine sichere Bindung haben und andere eine unsichere (ängstliche oder vermeidende) Bindung. Die unterschiedlichen Bindungsstile von Säuglingen spiegeln sowohl ihr individuelles Temperament als auch die Reaktionsfähigkeit ihrer Eltern und Kinderbetreuer wider. Beziehungen zwischen Erwachsenen scheinen die Bindungsstile der frühen Kindheit widerzuspiegeln und stützen Erik Eriksons Idee, dass Urvertrauen im Säuglingsalter durch unsere Erfahrungen mit aufmerksamen Bezugspersonen entsteht."
+  },
+  { 
+    "id": 84,
+    "title": "",
+    "question": "5-10 Wie wirken sich Vernachlässigung oder Missbrauch in der Kindheit auf die Bindungen von Kindern aus?",
+    "answer": "Die meisten Kinder sind belastbar, aber diejenigen, die von ihren Betreuern misshandelt oder stark vernachlässigt werden oder auf andere Weise daran gehindert werden, in jungen Jahren Bindungen aufzubauen, können einem Risiko für Bindungsprobleme ausgesetzt sein. Extreme Traumata in der Kindheit können das Gehirn verändern, unsere Stressreaktionen beeinflussen oder epigenetische Spuren hinterlassen."
+  },
+  { 
+    "id": 85,
+    "title": "",
+    "question": "5-11 Wie entwickeln sich die Selbstkonzepte von Kindern?",
+    "answer": "Das Selbstkonzept, ein Verständnis und eine Einschätzung dessen, wer wir sind, entsteht nach und nach. Mit 15 bis 18 Monaten erkennen Kinder sich selbst im Spiegel. Im Schulalter können sie viele ihrer eigenen Eigenschaften beschreiben und im Alter von 8 oder 10 Jahren ist ihr Selbstbild stabil."
+  },
+  { 
+    "id": 86,
+    "title": "",
+    "question": "5-12 Was sind die vier wichtigsten Erziehungsstile?",
+    "answer": "Die wichtigsten Erziehungsstile sind autoritär (zwanghaft), freizügig (hemmungslos), nachlässig (unbeteiligt) und autoritär (konfrontativ)."
+  },
+  { 
+    "id": 87,
+    "title": "",
+    "question": "5-13 Welche Ergebnisse sind mit jedem Erziehungsstil verbunden?",
+    "answer": "Eine autoritäre Erziehung ist mit größerem Selbstwertgefühl, Selbstvertrauen, Selbstregulierung und sozialer Kompetenz verbunden; autoritäre Erziehung mit geringerem Selbstwertgefühl, geringeren sozialen Fähigkeiten und einem Gehirn, das auf Fehler überreagiert; freizügige Erziehung mit größerer Aggression und Unreife; und nachlässige Erziehung mit schlechten akademischen und sozialen Ergebnissen. Korrelation ist jedoch nicht gleichbedeutend mit Kausalität (es ist möglich, dass Kinder mit positiven Merkmalen eher positive Erziehungsmethoden entwickeln)."
+  },
+  { 
+    "id": 88,
+    "title": "",
+    "question": "5-14 Wie wird die Adoleszenz definiert und welche Auswirkungen haben körperliche Veränderungen auf die Entwicklung von Teenagern?",
+    "answer": "Die Adoleszenz ist die Übergangszeit von der Kindheit zum Erwachsenenalter und reicht von der Pubertät bis zur sozialen Unabhängigkeit. Die frühe Reifung kann für heranwachsende Jugendliche eine Herausforderung sein. Im Jugendalter und in den frühen Zwanzigern reifen die Frontallappen des Gehirns heran und das Myelinwachstum nimmt zu, was ein besseres Urteilsvermögen, eine bessere Impulskontrolle und eine langfristige Planung ermöglicht."
+  },
+  { 
+    "id": 89,
+    "title": "",
+    "question": "5-15 Wie beschrieben Piaget, Kohlberg und spätere Forscher die kognitive und moralische Entwicklung von Jugendlichen?",
+    "answer": "Piaget stellte die Theorie auf, dass Heranwachsende die Fähigkeit zu formalen Handlungen entwickeln und dass diese Entwicklung die Grundlage für moralisches Urteilsvermögen darstellt. Lawrence Kohlberg schlug eine Stufentheorie des moralischen Denkens vor, von einer präkonventionellen Moral des Eigeninteresses über eine konventionelle Moral, die sich mit der Einhaltung von Gesetzen und gesellschaftlichen Regeln befasst, bis hin (in manchen Fällen) zu einer postkonventionellen Moral der Grundrechte und selbst definierten ethischen Prinzipien. Andere Forscher glauben, dass Moral in moralischer Intuition und moralischem Handeln sowie im Denken liegt. Kohlbergs Kritiker weisen darauf hin, dass die postkonventionelle Ebene kulturell begrenzt ist (die Moral nur aus der Perspektive einer individualistischen Gesellschaft darstellt) und auf Männer ausgerichtet ist (da Frauen häufiger Wert auf die Fürsorge für Bedürftige legen als auf das, was „fair“ ist). Lebenserfolg kann aus der Fähigkeit erwachsen, Befriedigung hinauszuzögern."
+  },
+  { 
+    "id": 90,
+    "title": "",
+    "question": "5-16 Was sind die sozialen Aufgaben und Herausforderungen der Adoleszenz?",
+    "answer": "Erik Erikson schlug acht Phasen der psychosozialen Entwicklung über die gesamte Lebensspanne vor. Er glaubte, dass wir Vertrauen, Autonomie, Initiative, Kompetenz, Identität (im Jugendalter), Intimität (im jungen Erwachsenenalter), Generativität und Integrität erreichen müssen. Jeder Lebensabschnitt hat seine eigene psychosoziale Aufgabe. Um das eigene Selbstbewusstsein im Jugendalter zu festigen, muss man verschiedene Rollen ausprobieren. Soziale Identität ist der Teil des Selbstverständnisses, der sich aus der Gruppenzugehörigkeit einer Person ergibt."
+  },
+  { 
+    "id": 91,
+    "title": "",
+    "question": "5-17 Wie beeinflussen Eltern und Gleichaltrige Jugendliche?",
+    "answer": "Während der Pubertät nimmt der Einfluss der Eltern ab und der Einfluss von Gleichaltrigen zu. Jugendliche übernehmen die Kleidungs-, Verhaltens- und Kommunikationsweisen ihrer Altersgenossen. Positive Eltern-Teenager-Beziehungen korrelieren jedoch mit positiven Beziehungen zu Gleichaltrigen. Persönlichkeiten und Temperamente werden sowohl durch die Natur als auch durch die Erziehung, einschließlich der Einflüsse von Eltern und Gleichaltrigen, geprägt."
+  },
+  { 
+    "id": 92,
+    "title": "",
+    "question": "5-18 Was ist das aufstrebende Erwachsenenalter?",
+    "answer": "Aufgrund der früheren Geschlechtsreife und späteren Unabhängigkeit dauert der Übergang vom Jugend- zum Erwachsenenalter länger als früher. Das aufstrebende Erwachsenenalter ist der Zeitraum vom 18. Lebensjahr bis zur Mitte Zwanzig, in dem viele junge Menschen noch nicht vollständig unabhängig sind. Dieses Stadium findet man vor allem in den heutigen westlichen Kulturen."
+  },
+  { 
+    "id": 93,
+    "title": "",
+    "question": "5-19 Welche körperlichen Veränderungen treten im mittleren und späten Erwachsenenalter auf?",
+    "answer": "Ab Mitte Zwanzig beginnen Muskelkraft, Reaktionszeit, sensorische Fähigkeiten und Herzleistung fast unmerklich nachzulassen; Dieser Abwärtstrend beschleunigt sich im mittleren und späten Erwachsenenalter und variiert erheblich je nach persönlicher Gesundheit und Training Gewohnheiten. Die Fruchtbarkeitsphase der Frau endet mit der Menopause etwa im Alter von 50 Jahren; Männer erleben einen allmählichen Rückgang. Im späten Erwachsenenalter wird das Immunsystem geschwächt, was die Anfälligkeit für lebensbedrohliche Krankheiten erhöht. Aber Langlebigkeit fördernde Gene, geringer Stress und gesunde Gewohnheiten können auch im späteren Leben eine gute Gesundheit ermöglichen."
+  },
+  { 
+    "id": 94,
+    "title": "",
+    "question": "5-20 Wie verändert sich das Gedächtnis mit dem Alter?",
+    "answer": "Das Erinnerungsvermögen nimmt ab, insbesondere bei bedeutungslosen Informationen, aber das Wiedererkennungsgedächtnis bleibt stark. Entwicklungsforscher untersuchen altersbedingte Veränderungen, etwa im Gedächtnis mit Querschnittstudien und Längsschnittstudien. „Terminaler Verfall“ beschreibt den kognitiven Verfall in den letzten Lebensjahren."
+  },
+  { 
+    "id": 95,
+    "title": "",
+    "question": "5-21 Wie wirken sich neurokognitive Störungen und die Alzheimer-Krankheit auf die kognitiven Fähigkeiten aus?",
+    "answer": "Neurokognitive Störungen (NCDs) sind erworbene (nicht lebenslange) Störungen, die durch kognitive Defizite gekennzeichnet sind und häufig mit der Alzheimer-Krankheit, einer Hirnverletzung oder -erkrankung oder Drogenmissbrauch zusammenhängen. Diese Schädigung der Gehirnzellen führt zu einer Erosion der geistigen Fähigkeiten, die für ein normales Altern nicht typisch ist. Die Alzheimer-Krankheit führt zu einer Verschlechterung des Gedächtnisses und des logischen Denkens. Nach 5 bis 20 Jahren wird die Person emotional platt, desorientiert, enthemmt, inkontinent und schließlich geistig leer."
+  },
+  { 
+    "id": 96,
+    "title": "",
+    "question": "5-22 Welche Themen und Einflüsse prägen unseren sozialen Weg vom frühen Erwachsenenalter bis zum Tod?",
+    "answer": "Erwachsene durchlaufen keine geordnete Abfolge altersbedingter sozialer Phasen. Zufällige Ereignisse können Lebensentscheidungen beeinflussen. Die soziale Uhr ist der bevorzugte Zeitpunkt einer Kultur für Ereignisse wie Heirat, Elternschaft und Ruhestand. Viele Menschen in westlichen Kulturen fühlen sich heute freier bei der Festlegung ihres eigenen Zeitplans. Die vorherrschenden Themen des Erwachsenenalters sind Liebe und Arbeit (Eriksons Intimität und Generativität)."
+  },
+  { 
+    "id": 97,
+    "title": "",
+    "question": "5-23 Wie verändert sich unser Wohlbefinden im Laufe des Lebens?",
+    "answer": "Umfragen zeigen, dass die Lebenszufriedenheit bis zur letzten Phase des Verfalls nicht vom Alter abhängt. Positive Emotionen nehmen nach der Lebensmitte zu und negative nehmen ab; Mit zunehmendem Alter treten weniger extreme Gefühle und Stimmungen auf."
+  },
+  { 
+    "id": 98,
+    "title": "",
+    "question": "5-24 Welche Reaktionen löst der Tod eines geliebten Menschen aus?",
+    "answer": "Menschen trauern nicht in vorhersehbaren Phasen, wie früher angenommen wurde, und Trauertherapie ist nicht wesentlich wirksamer als Trauer ohne solche Hilfe. Das Leben kann sogar im Tod bestätigt werden, insbesondere für diejenigen, die das erleben, was Erikson ein Gefühl der Integrität nannte – ein Gefühl, dass das eigene Leben einen Sinn hatte."
+  },
+  { 
+    "id": 99,
+    "title": "Learning Objective Questions – Kapitel 6",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 100,
+    "title": "",
+    "question": "6-1 Was sind Empfindung und Wahrnehmung? Was verstehen wir unter Bottom-Up-Verarbeitung und Top-Down-Verarbeitung?",
+    "answer": "Empfindung ist der Prozess, durch den unsere Sinnesrezeptoren und unser Nervensystem Reiz Energien aus unserer Umgebung empfangen und darstellen. Wahrnehmung ist der Prozess der Organisation und Interpretation dieser Informationen, der das Erkennen von wichtigen Objekte und Ereignissen ermöglicht. Empfindung und Wahrnehmung sind ein kontinuierlicher Prozess. Bottom-up-Verarbeitung ist eine sensorische Analyse, die auf der Eingangsebene beginnt, wobei Informationen von den sensorischen Rezeptoren zum Gehirn fließen. Bei der Verarbeitung von oben nach unten handelt es sich um eine Informationsverarbeitung, die von mentalen Prozessen auf hoher Ebene gesteuert wird, beispielsweise wenn wir Wahrnehmungen konstruieren, indem wir Informationen anhand unserer Erfahrungen und Erwartungen filtern."
+  },
+  { 
+    "id": 101,
+    "title": "",
+    "question": "6-2 Welche drei Schritte sind für alle unsere Sinnessysteme grundlegend?",
+    "answer": "Unsere Sinne (1) werden sensorisch stimuliert, oft mithilfe spezialisierter Rezeptorzellen; (2) diese Stimulation in neuronale Impulse umwandeln; und (3) die neuronalen Informationen an das Gehirn weiterleiten. Transduktion ist der Prozess der Umwandlung einer Energieform in eine andere. Forscher der Psychophysik untersuchen die Beziehungen zwischen den physischen Eigenschaften von Reizen und unserer psychologischen Erfahrung mit ihnen."
+  },
+  { 
+    "id": 102,
+    "title": "",
+    "question": "6-3 Wie unterscheiden sich absolute Schwellenwerte und Differenzschwellenwerte?",
+    "answer": "Unsere absolute Schwelle für jeden Reiz ist der minimale Reiz, der nötig ist, damit wir ihn in 50 Prozent der Fälle bewusst wahrnehmen. Die Signalerkennungstheorie sagt voraus, wie und wann wir einen schwachen Reiz inmitten von Hintergrundgeräuschen erkennen. Die individuellen absoluten Schwellenwerte variieren je nach Stärke des Signals sowie unserer Erfahrung, Erwartungen, Motivation und Wachsamkeit. Unsere Differenzschwelle (auch gerade wahrnehmbarer Unterschied oder jnd genannt) ist der minimale Unterschied, den wir in 50 Prozent der Fälle zwischen zwei Reizen erkennen können. Das Webersche Gesetz besagt, dass sich zwei Reize um einen konstanten Mindestprozentsatz (nicht um einen konstanten Betrag) unterscheiden müssen, um als unterschiedlich wahrgenommen zu werden."
+  },
+  { 
+    "id": 103,
+    "title": "",
+    "question": "6-4 Wie wirken unterschwellige Reize auf uns?",
+    "answer": "Wir nehmen einige Reize unterschwellig wahr – in weniger als 50 Prozent der Fälle – und können von diesen Empfindungen beeinflusst werden. Aber obwohl wir vorbereitet werden können, haben unterschwellige Empfindungen keinen starken, dauerhaften Einfluss."
+  },
+  { 
+    "id": 104,
+    "title": "",
+    "question": "6-5 Welche Funktion hat die sensorische Anpassung?",
+    "answer": "Die sensorische Anpassung (unsere verminderte Empfindlichkeit gegenüber ständigen oder routinemäßigen Gerüchen, Geräuschen und Berührungen) lenkt unsere Aufmerksamkeit auf informative Veränderungen in unserer Umgebung."
+  },
+  { 
+    "id": 105,
+    "title": "",
+    "question": "6-6 Wie beeinflussen unsere Erwartungen, Kontexte, Motivation und Emotionen unsere Wahrnehmungen?",
+    "answer": "Der Wahrnehmungssatz ist eine mentale Veranlagung, die als Linse fungiert, durch die wir die Welt wahrnehmen. Unsere erlernten Konzepte (Schemata) bereiten uns darauf vor, mehrdeutige Reize auf bestimmte Weise zu organisieren und zu interpretieren. Unsere Erwartungen, Kontexte, Motivation und Emotionen können unsere Interpretation von Ereignissen und Verhaltensweisen beeinflussen."
+  },
+  { 
+    "id": 106,
+    "title": "",
+    "question": "6-7 Welche Eigenschaften hat die Energie, die wir als sichtbares Licht sehen? Welche Strukturen im Auge helfen dabei, diese Energie zu bündeln?",
+    "answer": "Was wir als Licht sehen, ist nur ein dünner Ausschnitt des breiten Spektrums elektromagnetischer Energie. Der für den Menschen sichtbare Anteil reicht von den kürzeren blauvioletten Wellenlängen bis zu den längeren roten Lichtwellenlängen. Nachdem Lichtenergieteilchen durch die Hornhaut in das Auge eingedrungen sind, die Pupille und die Iris passiert und von einer Linse gebündelt worden sind, treffen sie auf die innere Oberfläche des Auges, die Netzhaut. Der Farbton, den wir in einem Licht wahrnehmen, hängt von seiner Wellenlänge ab und seine Helligkeit hängt von seiner Intensität ab."
+  },
+  { 
+    "id": 107,
+    "title": "",
+    "question": "6-8 Wie verarbeiten die Stäbchen und Zapfen Informationen und auf welchem Weg gelangen die Informationen vom Auge zum Gehirn?",
+    "answer": "Licht, das in das Auge eindringt, löst chemische Veränderungen aus, die Lichtenergie in neuronale Impulse umwandeln. Als Zapfen und Stäbchen bezeichnete Fotorezeptoren auf der Rückseite der Netzhaut weisen jeweils eine besondere Empfindlichkeit auf – Zapfen für Details und Farben, Stäbchen für schwaches Licht und periphere Bewegungen. Nach der Verarbeitung durch Bipolar- und Ganglienzellen wandern Nervenimpulse von der Netzhaut über den Sehnerv zum Thalamus und weiter zum visuellen Kortex."
+  },
+  { 
+    "id": 108,
+    "title": "",
+    "question": "6-9 Wie nehmen wir Farben in der Welt um uns herum wahr?",
+    "answer": "Nach der trichromatischen (Drei Farben-)Theorie von Young-Helmholtz enthält die Netzhaut drei Arten von Farbrezeptoren. Zeitgenössische Forschungen haben drei Arten von Zapfen gefunden, die jeweils am empfindlichsten auf die Wellenlängen einer der drei Grundfarben des Lichts (Rot, Grün oder Blau) reagieren. Nach Herings Opponent-Prozess-Theorie gibt es drei zusätzliche Sätze gegensätzlicher Netzhautprozesse (Rot-Grün, Blau-Gelb, Schwarz-Weiß). Untersuchungen haben bestätigt, dass Neuronen in der Netzhaut und im Thalamus auf dem Weg zum Gehirn die farbbezogenen Informationen der Zapfen in Paare von Gegenfarben kodieren. Diese beiden Theorien und die sie unterstützende Forschung zeigen, dass die Farbverarbeitung in zwei Phasen erfolgt."
+  },
+  { 
+    "id": 109,
+    "title": "",
+    "question": "6-10 Wo befinden sich Merkmalsdetektoren und welche Funktion haben sie?",
+    "answer": "Merkmalsdetektoren, spezialisierte Nervenzellen im visuellen Kortex, reagieren auf bestimmte Merkmale des visuellen Reizes, wie etwa Form, Winkel oder Bewegung. Merkmalsdetektoren leiten Informationen an andere kortikale Bereiche weiter, wo Superzellcluster auf komplexere Muster reagieren."
+  },
+  { 
+    "id": 110,
+    "title": "",
+    "question": "6-11 Wie nutzt das Gehirn Parallelverarbeitung, um visuelle Wahrnehmungen zu konstruieren?",
+    "answer": "Durch parallele Verarbeitung verarbeitet das Gehirn viele Aspekte des Sehens (Farbe, Bewegung, Form und Tiefe) gleichzeitig. Andere neuronale Teams integrieren die Ergebnisse, vergleichen sie mit gespeicherten Informationen und ermöglichen Wahrnehmungen."
+  },
+  { 
+    "id": 111,
+    "title": "",
+    "question": "6-12 Wie haben die Gestaltpsychologen die Wahrnehmungsorganisation verstanden und wie tragen Figurgrund- und Gruppierungsprinzipien zu unserer Wahrnehmung bei?",
+    "answer": "Gestaltpsychologen suchten nach Regeln, nach denen das Gehirn Fragmente sensorischer Daten in Gestalten oder bedeutungsvolle Formen organisiert. Sie wiesen darauf hin, dass das Ganze die Summe seiner Teile überschreiten kann, und stellten fest, dass wir Sinnesinformationen filtern und unsere Wahrnehmungen konstruieren. Um ein Objekt zu erkennen, müssen wir es zunächst als von seiner Umgebung (dem Boden) unterschieden wahrnehmen (als Figur betrachten). Wir bringen Ordnung und Form in Reize, indem wir sie in sinnvolle Gruppen einordnen und dabei Regeln wie Nähe, Kontinuität und Geschlossenheit befolgen."
+  },
+  { 
+    "id": 112,
+    "title": "",
+    "question": "6-13 Wie nutzen wir binokulare und monokulare Hinweise, um die Welt dreidimensional zu sehen, und wie nehmen wir Bewegung wahr?",
+    "answer": "Die Tiefenwahrnehmung ist unsere Fähigkeit, Objekte dreidimensional zu sehen und Entfernungen einzuschätzen. Das visuelle Klif und andere Untersuchungen zeigen, dass viele Arten die Welt bei oder sehr bald nach der Geburt dreidimensional wahrnehmen. Binokulare Hinweise, wie z. B. die Netzhautdisparität, sind Tiefenhinweise, die auf Informationen beider Augen beruhen. Mithilfe monokularer Hinweise (z. B. relative Höhe, relative Größe, relative Bewegung, lineare Perspektive und Interposition) können wir die Tiefe anhand der Informationen beurteilen, die nur von einem Auge übermittelt werden. Wenn sich Objekte bewegen, gehen wir davon aus, dass sich schrumpfende Objekte zurückziehen und sich vergrößernde Objekte nähern. Das Gehirn berechnet Bewegungen nur unzureichend, wobei bei Kleinkindern besonders die Gefahr besteht, dass sie sich nähernde Gefahren wie Fahrzeuge falsch wahrnehmen. Eine schnelle Abfolge von Bildern auf der Netzhaut kann eine Bewegungsillusion erzeugen, wie bei der Stroboskopbewegung oder dem Phi-Phänomen."
+  },
+  { 
+    "id": 113,
+    "title": "",
+    "question": "6-14 Wie helfen uns Wahrnehmungskonstanzen, sinnvolle Wahrnehmungen zu konstruieren?",
+    "answer": "Wahrnehmungskonstanzen, etwa in Farbe, Helligkeit, Form oder Größe, ermöglichen es uns, Objekte trotz des sich verändernden Bildes, das sie auf unsere Netzhaut werfen, als stabil wahrzunehmen. Unser Gehirn baut unsere Wahrnehmung der Farbe oder Helligkeit eines Objekts durch Vergleiche mit anderen umgebenden Objekten auf. Die Kenntnis der Größe eines Objekts gibt uns Hinweise auf seine Entfernung; Die Kenntnis seiner Entfernung gibt Hinweise auf seine Größe, aber manchmal interpretieren wir monokulare Entfernungshinweise falsch und kommen zu falschen Schlussfolgerungen, wie bei der Mondillusion."
+  },
+  { 
+    "id": 114,
+    "title": "",
+    "question": "6-15 Was verrät die Forschung zu wiederhergestelltem Sehvermögen, sensorischen Einschränkungen und Wahrnehmungsanpassungen über die Auswirkungen von Erfahrungen auf die Wahrnehmung?",
+    "answer": "Erfahrung leitet unsere Wahrnehmungsinterpretationen. Menschen, die von Geburt an blind sind und nach einer Operation wieder sehen, verfügen nicht über die Erfahrung, Formen und Gestalten visuell zu erkennen. Untersuchungen zur sensorischen Einschränkung weisen darauf hin, dass es für einige Aspekte der sensorischen und wahrnehmungsbezogenen Entwicklung eine kritische Phase gibt. Ohne frühzeitige Stimulation entwickelt sich die neuronale Organisation des Gehirns nicht normal. Menschen, denen eine Brille gegeben wird, die die Welt leicht nach links oder rechts oder sogar auf den Kopf verschiebt, erfahren eine Wahrnehmungsanpassung. Sie sind zunächst desorientiert, aber es gelingt ihnen, sich an ihren neuen Kontext anzupassen."
+  },
+  { 
+    "id": 115,
+    "title": "",
+    "question": "6-16 Welche Eigenschaften haben die Luftdruckwellen, die wir als Schall hören?",
+    "answer": "Schallwellen sind Bänder komprimierter und expandierter Luft. Unsere Ohren nehmen diese Luftdruckveränderungen wahr und wandeln sie in Nervenimpulse um, die das Gehirn als Schall entschlüsselt. Schallwellen variieren in der Amplitude, die wir als unterschiedliche Lautstärke wahrnehmen (wobei die Schallintensität in Dezibel gemessen wird), und in der Frequenz (gemessen in Hertz), die wir als unterschiedliche Tonhöhe wahrnehmen."
+  },
+  { 
+    "id": 116,
+    "title": "",
+    "question": "6-17 Wie wandelt das Ohr Schallenergie in neuronale Botschaften um?",
+    "answer": "Das Mittelohr ist die Kammer zwischen Trommelfell und Hörschnecke, das Innenohr besteht aus der Hörschnecke, den Bogengängen und den Vestibularsäcken. Schallwellen, die durch den Gehörgang wandern, verursachen winzige Vibrationen im Trommelfell. Die Knochen des Mittelohrs verstärken die Schwingungen und leiten sie an die mit Flüssigkeit gefüllte Cochlea weiter. Die durch Druckänderungen in der Cochleaflüssigkeit verursachte Welligkeit der Basilarmembran führt zu einer Bewegung der winzigen Haarzellen und löst so die Übermittlung neuronaler Nachrichten (über den Thalamus) an die Hörrinde im Gehirn aus. Schallempfindungsschwerhörigkeit (oder Nervenschwerhörigkeit) resultiert aus einer Schädigung der Haarzellen der Cochlea oder der damit verbundenen Nerven. Schallleitungsschwerhörigkeit entsteht durch eine Schädigung des mechanischen Systems, das Schallwellen an die Cochlea überträgt. Cochlea-Implantate können bei manchen Menschen das Hörvermögen wiederherstellen."
+  },
+  { 
+    "id": 117,
+    "title": "",
+    "question": "6-18 Wie erkennen wir Lautstärke, unterscheiden Tonhöhen und lokalisieren Geräusche?",
+    "answer": "Die Lautstärke hängt nicht von der Intensität der Reaktion einer Haarzelle ab, sondern von der Anzahl der aktivierten Haarzellen. Die Ortstheorie (Ortskodierung) erklärt, wie wir hohe Töne hören, und die um das Volley-Prinzip erweiterte Frequenztheorie (Zeitkodierung) erklärt, wie wir tiefe Töne hören. Eine Kombination der beiden Theorien erklärt, wie wir Tonhöhen im mittleren Bereich hören. Schallwellen treffen ein Ohr früher und intensiver als das andere. Um Geräusche zu lokalisieren, analysiert das Gehirn die winzigen Unterschiede in den von den beiden Ohren empfangenen Geräuschen und berechnet die Geräuschquelle."
+  },
+  { 
+    "id": 118,
+    "title": "",
+    "question": "6-19 Was sind die vier grundlegenden Berührungsempfindungen und wie nehmen wir Berührungen wahr?",
+    "answer": "Unser Tastsinn besteht aus vier Grundempfindungen – Druck, Wärme, Kälte und Schmerz –, die in Kombination andere Empfindungen wie „Juckreiz“ oder „Nass“ hervorrufen."
+  },
+  { 
+    "id": 119,
+    "title": "",
+    "question": "6-20 Welche biologischen, psychologischen und soziokulturellen Einflüsse beeinflussen unser Schmerzempfinden? Wie helfen Placebos, Ablenkung und Hypnose, Schmerzen zu kontrollieren?",
+    "answer": "Die biopsychosoziale Perspektive betrachtet unsere Schmerzwahrnehmung als die Summe biologischer, psychologischer und soziokultureller Einflüsse. Schmerz spiegelt Empfindungen von unten nach oben und Prozesse von oben nach unten wider. Eine Schmerztheorie besagt, dass sich ein Tor im Rückenmark entweder öffnet, damit Schmerzsignale über kleine Nervenfasern zum Gehirn gelangen können, oder sich schließt, um ihren Durchgang zu verhindern. Schmerzbehandlungen kombinieren oft physische und psychische Elemente. Die Kombination eines Placebos mit Ablenkung und die Verstärkung der Wirkung durch Hypnose (die unsere Reaktion auf Suggestionen verstärkt) kann zur Schmerzlinderung beitragen. Einige Ärzte nutzen die posthypnotische Suggestion, um unerwünschte Symptome und Verhaltensweisen zu kontrollieren."
+  },
+  { 
+    "id": 120,
+    "title": "",
+    "question": "6-21 Inwiefern ähneln sich unsere Geschmacks- und Geruchssinne und worin unterscheiden sie sich?",
+    "answer": "Geschmack und Geruch sind beides chemische Sinne. Der Geschmack (Geschmack) setzt sich aus fünf Grundempfindungen – süß, sauer, salzig, bitter und Umami – und den Aromen zusammen, die mit Informationen der Geschmacksrezeptorzellen der Geschmacksknospen interagieren. Es gibt keine grundlegenden Geruchsempfindungen (Olfaktion). Von der Oberseite jeder Nasenhöhle aus senden etwa 20 Millionen olfaktorische Rezeptorzellen für Gerüche Nachrichten an den Riechkolben des Gehirns und dann weiter an den primären Geruchskortex des Schläfenlappens und an die Teile des limbischen Systems, die an Gedächtnis und Emotionen beteiligt sind."
+  },
+  { 
+    "id": 121,
+    "title": "",
+    "question": "6-22 Wie nehmen wir die Position und Bewegung unseres Körpers wahr?",
+    "answer": "Positions- und Bewegungssensoren in Muskeln, Sehnen und Gelenken, sogenannte Propriozeptoren, ermöglichen die Kinästhesie, unser Gefühl für die Position und Bewegung unserer Körperteile. Wir überwachen die Position und Bewegung unseres Kopfes (und damit unseres Körpers) und halten unser Gleichgewicht mit unserem Vestibularsinn aufrecht, der auf die Bogengänge und Vestibularsäcke angewiesen ist, um die Neigung oder Drehung unseres Kopfes zu spüren."
+  },
+  { 
+    "id": 122,
+    "title": "",
+    "question": "6-23 Wie beeinflusst die sensorische Interaktion unsere Wahrnehmung und was ist verkörperte Kognition?",
+    "answer": "Unsere Sinne beeinflussen sich gegenseitig. Zu dieser sensorischen Interaktion kommt es beispielsweise dann, wenn der Geruch eines Lieblingsessens dessen Geschmack verstärkt. Unter verkörperter Kognition versteht man den Einfluss körperlicher Empfindungen, Gesten und anderer Zustände auf kognitive Präferenzen und Urteile."
+  },
+  { 
+    "id": 123,
+    "title": "",
+    "question": "6-24 Was sind die Behauptungen der ESP und zu welchem Schluss kommen die meisten Forschungspsychologen, nachdem sie diese Behauptungen auf die Probe gestellt haben?",
+    "answer": "Parapsychologie ist die Untersuchung paranormaler Phänomene, einschließlich außersinnlicher Wahrnehmung (ESP) und Psychokinese. Die drei am besten überprüfbaren Formen der außersinnlichen Wahrnehmung sind Telepathie (Geist-zu-Geist-Kommunikation), Hellsehen (Wahrnehmung entfernter Ereignisse) und Präkognition (Wahrnehmung zukünftiger Ereignisse). Um diejenigen zu widerlegen, die sagen, dass es kein ESP gibt, muss man nur eine einzige Person hervorbringen, die ein einziges, reproduzierbares ESP-Ereignis nachweisen kann. Obwohl die Studie noch andauert, ist es den Forschern nicht gelungen, ESP-Phänomene unter kontrollierten Bedingungen zu reproduzieren."
+  },
+  { 
+    "id": 124,
     "title": "",
     "question": "",
     "answer": ""
   },
   { 
-    "id": 30,
+    "id": 125,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 126,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 127,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 128,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 129,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 130,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 131,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 132,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 133,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 134,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 135,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 136,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 137,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 138,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 139,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 140,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 141,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 142,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 143,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 144,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 145,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 146,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 147,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 148,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 149,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 150,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 151,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 152,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 153,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 154,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 155,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 156,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 157,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 158,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 159,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 160,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 161,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 162,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 163,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 164,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 165,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 166,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 167,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 168,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 169,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 170,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 171,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 172,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 173,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 174,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 175,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 176,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 177,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 178,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 179,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 180,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 181,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 182,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 183,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 184,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 185,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 186,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 187,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 188,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 189,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 190,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 191,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 192,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 193,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 194,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 195,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 196,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 197,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 198,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 199,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 200,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 201,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 202,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 203,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 204,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 205,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 206,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 207,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 208,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 209,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 210,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 211,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 212,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 213,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 214,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 215,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 216,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 217,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 218,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 219,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 220,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 221,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 222,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 223,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 224,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 225,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 226,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 227,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 228,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 229,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 230,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 231,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 232,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 233,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 234,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 235,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 236,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 237,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 238,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 239,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 240,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 241,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 242,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 243,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 244,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 245,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 246,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 247,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 248,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 249,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 250,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 251,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 252,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 253,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 254,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 255,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 256,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 257,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 258,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 259,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 260,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 261,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 262,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 263,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 264,
+    "title": "",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 265,
     "title": "",
     "question": "",
     "answer": ""

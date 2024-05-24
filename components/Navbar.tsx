@@ -2,8 +2,10 @@
 import Link from 'next/link';
 import React, { useState } from 'react';
 
+
 const Navbar = () => {
   const [open, setOpen] = useState(false);
+
 
   const handleClick = () => {
     if (open) {
