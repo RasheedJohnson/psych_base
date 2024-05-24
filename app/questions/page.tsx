@@ -35,7 +35,8 @@ export default function Questions() {
             // CHAPTER QUESTIONS TITLE
             <div
               key={item.id}
-              id={item.title}>
+              id={item.title}
+              className="mb-8 flex flex-col justify-center items-center">
               <p className="chapter-name">
                 {item.title}
               </p>
@@ -53,22 +54,12 @@ export default function Questions() {
                     <p className="question">
                         {item.question}</p>
                       {
-                        ( open[item.id] ? (
+                      (open[item.id] ? (
+                        <div>
+                          <HorizontalRule />
                           <p className="answer">
                             {item.answer}</p>
-                        ) : (
-                          ""
-                        ))
-                      }
-                  </div>
-              
-                  <div className="">
-                    <p className="">
-                      {item.question}</p>
-                      {
-                        ( open[item.id] ? (
-                          <p className="">
-                            {item.answer}</p>
+                        </div>
                         ) : (
                           ""
                         ))
