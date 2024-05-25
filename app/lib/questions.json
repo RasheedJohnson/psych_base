@@ -1395,160 +1395,544 @@
     "id": 239,
     "title": "",
     "question": "12-27 Was ist der Glaubensfaktor und welche möglichen Erklärungen gibt es für den Zusammenhang zwischen Glaube und Gesundheit?",
-    "answer": ""
+    "answer": "Der Glaubensfaktor ist die Erkenntnis, dass religiös aktive Menschen tendenziell länger leben als diejenigen, die nicht religiös aktiv sind. Mögliche Erklärungen können intervenierende Variablen wie gesundes Verhalten, soziale Unterstützung oder positive Emotionen sein, die häufig bei Menschen zu finden sind, die regelmäßig an Gottesdiensten teilnehmen."
   },
   { 
     "id": 240,
-    "title": "",
-    "question": "",
-    "answer": ""
+    "title": "Learning Objective Questions – Kapitel 13",
+    "question": "13-1 Was studieren Sozialpsychologen? Wie neigen wir dazu, das Verhalten anderer und unser eigenes zu erklären?",
+    "answer": "Sozialpsychologen verwenden wissenschaftliche Methoden, um zu untersuchen, wie Menschen übereinander denken, wie sie sich gegenseitig beeinflussen und wie sie miteinander umgehen. Sie untersuchen die sozialen Einflüsse, die erklären, warum sich dieselbe Person in verschiedenen Situationen unterschiedlich verhält. Wenn wir das Verhalten anderer erklären, begehen wir – insbesondere wenn wir aus einer individualistischen westlichen Kultur stammen – möglicherweise den grundlegenden Zuschreibungsfehler, indem wir den Einfluss der Situation unterschätzen und die Auswirkungen stabiler, dauerhafter Merkmale überschätzen. Wenn wir unser eigenes Verhalten erklären, führen wir es eher auf den Einfluss der Situation zurück."
   },
   { 
     "id": 241,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-2 Wie interagieren Einstellungen und Handlungen?",
+    "answer": "Unsere Einstellungen und unser Handeln beeinflussen sich gegenseitig. Wenn andere Einflüsse minimal sind, können stabile, spezifische und leicht zu merkende Einstellungen unser Handeln beeinflussen. Handlungen können Einstellungen verändern, wie beim „Foot-in-the-Door“-Phänomen und beim Rollenspiel. Wenn unsere Einstellungen nicht zu unseren Handlungen passen, legt die Theorie der kognitiven Dissonanz nahe, dass wir Spannungen abbauen, indem wir unsere Einstellungen ändern, um sie an unsere Handlungen anzupassen."
   },
   { 
     "id": 242,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-3 Wie unterscheiden sich die Überzeugung der peripheren Route und die Überzeugung der zentralen Route?",
+    "answer": "Bei der peripheren Routenüberredung werden aufmerksamkeitserregende Hinweise (z. B. die Unterstützung von Prominenten) genutzt, um schnelle, aber relativ unbedachte Urteile auszulösen. Zentrale Überzeugungswege bieten Beweise und Argumente, um nachdenkliche Reaktionen auszulösen."
   },
   { 
     "id": 243,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-4 Wie können wir unsere Ansichten effektiver teilen?",
+    "answer": "Um Menschen mit anderen Ansichten als Ihrer eigenen zu überzeugen, vermeiden Sie es, sie mit komplizierten oder vergessenen Informationen anzuschreien, zu demütigen oder zu langweilen. Identifizieren Sie stattdessen gemeinsame Ziele und verknüpfen Sie Ihr Ziel mit ihren Motiven. Es hilft auch, Ihre Botschaft lebendig zu machen, sie zu wiederholen und andere dazu zu bewegen, sie noch einmal zu formulieren."
   },
   { 
     "id": 244,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-5 Inwiefern ist soziale Ansteckung eine Form der Konformität und wie offenbaren Konformitätsexperimente die Macht des sozialen Einflusses?",
+    "answer": "Soziale Ansteckung (der Chamäleoneffekt) – unsere Tendenz, das Verhalten, die Mimik, die Körperhaltung, den Tonfall und die Stimmungen anderer unbewusst nachzuahmen – ist eine Form der Konformität. Soziale Netzwerke dienen als ansteckende Übertragungswege für gute und schlechte Stimmungen. Solomon Asch und andere fanden heraus, dass wir unser Verhalten oder Denken am ehesten an einen Gruppenstandard anpassen, wenn wir uns inkompetent oder unsicher fühlen, unsere Gruppe aus mindestens drei Personen besteht, alle anderen zustimmen, wir den Status und die Attraktivität der Gruppe bewundern, wir haben uns noch nicht zu einer anderen Reaktion verpflichtet, wissen, dass wir beobachtet werden, und unsere Kultur fördert die Achtung sozialer Standards. Wir können uns anpassen, um Anerkennung zu erlangen (normativer sozialer Einfluss) oder weil wir bereit sind, die Meinungen anderer als neue Informationen zu akzeptieren (informativer sozialer Einfluss)."
   },
   { 
     "id": 245,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-6 Was lehrten uns Milgrams Gehorsamsexperimente über die Macht des sozialen Einflusses?",
+    "answer": "Stanley Milgrams Experimente – bei denen Menschen Befehlen gehorchten, selbst wenn sie dachten, sie würden einer anderen Person schaden – zeigten, dass starke soziale Einflüsse dazu führen können, dass sich normale Menschen Unwahrheiten anpassen oder vor Grausamkeit kapitulieren. Der Gehorsam war am höchsten, wenn die befehlende Person in der Nähe war und als legitime Autoritätsperson wahrgenommen wurde, die Forschung von einer renommierten Institution unterstützt wurde, das Opfer entpersonalisiert war oder sich auf Distanz befand und es keine Vorbilder für den Widerstand gab."
   },
   { 
     "id": 246,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-7 Was lehren uns die Studien zum sozialen Einfluss über uns selbst? Wie viel Macht haben wir als Individuen?",
+    "answer": "Diese Experimente haben gezeigt, dass starke soziale Einflüsse das Verhalten beeinflussen können. Die Macht des Einzelnen (persönliche Kontrolle) und die Macht der Situation (soziale Kontrolle) interagieren. Eine kleine Minderheit, die ihre Ansichten konsequent zum Ausdruck bringt, kann die Mehrheit beeinflussen, ebenso wie ein einzelner engagierter Mensch."
   },
   { 
     "id": 247,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-8 Wie beeinflusst die Anwesenheit anderer unser Handeln durch soziale Erleichterung, soziales Faulenzen und Deindividualisierung?",
+    "answer": "Bei der sozialen Erleichterung erregt uns die bloße Anwesenheit anderer, was unsere Leistung bei einfachen oder gut erlernten Aufgaben verbessert, bei schwierigen jedoch abnimmt. Beim geselligen Herumlungern fühlen wir uns durch die Gruppenarbeit weniger verantwortlich und können die Bemühungen anderer als Trittbrettfahrer nutzen. Wenn die Anwesenheit anderer uns sowohl erregt als auch uns das Gefühl gibt, anonym zu sein, kann es zu einer Deindividualisierung kommen – einem Verlust des Selbstbewusstseins und der Selbstbeherrschung."
   },
   { 
     "id": 248,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-9 Wie kann Gruppeninteraktion eine Gruppenpolarisierung ermöglichen?",
+    "answer": "Bei der Gruppenpolarisierung stärken Gruppendiskussionen mit Gleichgesinnten die vorherrschenden Überzeugungen und Einstellungen der Mitglieder."
   },
   { 
     "id": 249,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-10 Welche Rolle spielt das Internet bei der Gruppenpolarisierung?",
+    "answer": "Die Kommunikation über das Internet verstärkt den Effekt, Gleichgesinnte miteinander zu verbinden, im Guten wie im Schlechten. Menschen finden Halt, der ihre Ideen stärkt, aber auch oft Isolation von Andersdenkenden. Trennung und Konversation können daher zu Gruppenpolarisierung führen."
   },
   { 
     "id": 250,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-11 Wie kann Gruppeninteraktion Gruppendenken ermöglichen?",
+    "answer": "Groupthink wird von dem Wunsch nach Harmonie innerhalb einer Entscheidungsgruppe angetrieben und hat Vorrang vor einer realistischen Bewertung von Alternativen. Gruppenleiter können die Vorteile der Gruppeninteraktion nutzen, indem sie Personen mit der Identifizierung möglicher Probleme beauftragen und unterschiedliche Meinungen und Expertenkritik willkommen heißen."
   },
   { 
     "id": 251,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-12 Was sind Vorurteile? Wie unterscheiden sich explizite und implizite Vorurteile?",
+    "answer": "Vorurteile sind eine ungerechtfertigte, meist negative Einstellung gegenüber einer Gruppe und ihren Mitgliedern. Die drei Komponenten von Vorurteilen sind Überzeugungen (häufig Stereotypen), Emotionen und Handlungsveranlagungen (Diskriminierung). Vorurteile können explizit (offen) oder implizit sein – eine gedankenlose, reflexartige Reaktion, die außerhalb des bewussten Bewusstseins abläuft. Implizite Vorurteile können zu Diskriminierung führen, selbst wenn Menschen nicht bewusst diskriminieren wollen."
   },
   { 
     "id": 252,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-13 Welche Gruppen sind häufig Ziel von Vorurteilen?",
+    "answer": "Vorurteile beinhalten explizite und implizite negative Einstellungen gegenüber Menschen einer bestimmten Rasse oder ethnischen Gruppe, eines bestimmten Geschlechts oder einer bestimmten sexuellen Orientierung. In den Vereinigten Staaten gehören zu den häufigen Zielgruppen schwarze Amerikaner, Frauen und LGBTQ-Personen."
   },
   { 
     "id": 253,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-14 Was sind einige soziale, emotionale und kognitive Wurzeln von Vorurteilen und welche Möglichkeiten gibt es, Vorurteile abzubauen?",
+    "answer": "Zu den sozialen Wurzeln von Vorurteilen gehören soziale Ungleichheiten und Spaltungen. Gruppen mit höherem Status rechtfertigen ihre privilegierte Stellung oft mit dem Phänomen der gerechten Welt. Wir neigen dazu, unsere eigene Gruppe zu bevorzugen (Ingroup Bias), da wir uns in „uns“ (die Ingroup) und „sie“ (die Outgroup) aufteilen. Vorurteile können auch ein Instrument zum Schutz unseres emotionalen Wohlbefindens sein, wenn wir beispielsweise unsere Wut darauf konzentrieren, einem Sündenbock die Schuld für Ereignisse zu geben. Die kognitiven Wurzeln von Vorurteilen erwachsen aus unserer natürlichen Art und Weise, Informationen zu verarbeiten: Kategorien bilden, sich an anschauliche Fälle erinnern und glauben, dass die Welt gerecht ist (und dass unsere eigene Art und Weise und die unserer Gruppe die richtigen sind). Die Beobachtung unserer Gefühle und Handlungen sowie der Aufbau neuer Freundschaften können uns helfen, uns von Vorurteilen zu befreien."
   },
   { 
     "id": 254,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-15 Wie unterscheidet sich die psychologische Definition von Aggression vom alltäglichen Gebrauch? Welche biologischen Faktoren machen uns anfälliger dafür, einander zu verletzen?",
+    "answer": "In der spezifischen Bedeutung der Psychologie ist Aggression jedes körperliche oder verbale Verhalten, das darauf abzielt, jemandem körperlich oder emotional zu schaden. Die Biologie beeinflusst unsere Schwelle für aggressives Verhalten auf drei Ebenen: genetisch (erbliche Merkmale), neuronal (Aktivität in wichtigen Gehirnbereichen) und biochemisch (wie Alkohol oder überschüssiges Testosteron im Blutkreislauf). Aggression ist ein komplexes Verhalten, das aus dem Zusammenspiel von Biologie und Erfahrung resultiert."
   },
   { 
     "id": 255,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-16 Welche psychologischen und soziokulturellen Faktoren können aggressives Verhalten auslösen?",
+    "answer": "Frustration (das Frustrations-Aggressions-Prinzip), vorherige Verstärkung aggressiven Verhaltens und die Beobachtung aggressiver Vorbilder tragen allesamt zur Aggression bei. Mediengewalt liefert soziale Skripte, denen Kinder folgen lernen. Der Anblick sexueller Gewalt trägt zu größerer Aggression gegenüber Frauen bei. Das Spielen gewalthaltiger Videospiele kann aggressive Gedanken, Emotionen und Verhaltensweisen verstärken."
   },
   { 
     "id": 256,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-17 Warum freunden wir uns mit einigen Menschen an oder verlieben uns in sie, mit anderen jedoch nicht?",
+    "answer": "Nähe (geografische Nähe) erhöht die Sympathie, teilweise aufgrund des bloßen Expositionseffekts – die Exposition gegenüber neuen Reizen erhöht die Sympathie für diese Reize. Körperliche Attraktivität erhöht die sozialen Chancen und verbessert die Art und Weise, wie wir wahrgenommen werden. Die Ähnlichkeit von Einstellungen und Interessen erhöht die Sympathie erheblich, insbesondere wenn sich Beziehungen entwickeln. Wir mögen auch diejenigen, die uns mögen."
   },
   { 
     "id": 257,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-18 Wie verändert sich romantische Liebe normalerweise im Laufe der Zeit?",
+    "answer": "Intime Liebesbeziehungen beginnen mit leidenschaftlicher Liebe – einem Zustand intensiver Erregung. Im Laufe der Zeit kann sich die starke Zuneigung der Kameradschaft Liebe entwickeln, insbesondere wenn sie durch eine gleichberechtigte Beziehung, innige Selbstoffenbarung und positive Unterstützung verstärkt wird."
   },
   { 
     "id": 258,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-19 Was ist Altruismus? Wann helfen Menschen am meisten – und wann am wenigsten?",
+    "answer": "Altruismus ist die selbstlose Rücksichtnahme auf das Wohlergehen anderer. Wir helfen am ehesten, wenn wir einen Vorfall bemerken, ihn als Notfall interpretieren und die Verantwortung für die Hilfe übernehmen. Auch andere Faktoren, darunter unsere Stimmung und unsere Ähnlichkeit mit dem Opfer, beeinflussen unsere Hilfsbereitschaft. Wir helfen am wenigsten, wenn andere Umstehende anwesend sind (der Bystander-Effekt)."
   },
   { 
     "id": 259,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-20 Wie erklären die Theorie des sozialen Austauschs und sozialen Normen Hilfeverhalten?",
+    "answer": "Die Theorie des sozialen Austauschs ist die Ansicht, dass wir anderen helfen, weil es in unserem eigenen Interesse liegt; Ziel des Sozialverhaltens ist aus dieser Sicht die Maximierung des persönlichen Nutzens und die Minimierung der Kosten. Andere glauben, dass Hilfe ein Ergebnis der Sozialisierung ist, in der uns Richtlinien für erwartetes Verhalten in sozialen Situationen beigebracht werden, beispielsweise die Reziprozitätsnorm und die Norm der sozialen Verantwortung."
   },
   { 
     "id": 260,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-21 Wie schüren soziale Fallen und spiegelbildliche Wahrnehmungen soziale Konflikte?",
+    "answer": "Soziale Fallen sind Situationen, in denen Menschen in Konflikten ihre eigenen individuellen Interessen verfolgen und so dem kollektiven Wohlergehen schaden. Einzelpersonen und Kulturen in Konflikten neigen auch dazu, spiegelbildliche Wahrnehmungen zu entwickeln. Jede Partei betrachtet den Gegner als nicht vertrauenswürdig und böse Absichten und sich selbst als ethnisches, friedliches Opfer. Wahrnehmungen können zu sich selbst erfüllenden Prophezeiungen werden."
   },
   { 
     "id": 261,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "13-22 Was können wir tun, um den Frieden zu fördern?",
+    "answer": "Frieden kann entstehen, wenn Einzelpersonen oder Gruppen zusammenarbeiten, um übergeordnete (gemeinsame) Ziele zu erreichen. Untersuchungen zeigen, dass Kontakt, Zusammenarbeit, Kommunikation und Versöhnung – wie die Strategie „Graduated and Reciprocated Initiatives in Tension-Reduction“ (GRIT) – zur Friedensförderung beitragen."
   },
   { 
     "id": 262,
-    "title": "",
+    "title": "Learning Objective Questions – Kapitel 1",
     "question": "",
     "answer": ""
   },
   { 
     "id": 263,
     "title": "",
-    "question": "",
-    "answer": ""
+    "question": "14-1 Was ist Persönlichkeit und welche Theorien prägen unser Verständnis der Persönlichkeit?",
+    "answer": "Persönlichkeit ist das charakteristische Muster des Denkens, Fühlens und Handelns eines Individuums. Die psychoanalytische (und später psychodynamische) Theorie und die humanistische Theorie sind Teil der westlichen Kultur geworden. Sie legten auch den Grundstein für spätere Theorien, wie z. B. Persönlichkeitstheorien und sozialkognitive Theorien."
   },
   { 
     "id": 264,
     "title": "",
+    "question": "14-2 Wie führte Sigmund Freuds Behandlung psychischer Störungen zu seiner Sicht auf das Unbewusste?",
+    "answer": "Psychodynamische Persönlichkeitstheorien betrachten Verhalten als eine dynamische Interaktion zwischen dem Bewusstsein und dem Unbewussten. Diese Theorien gehen auf Sigmund Freuds Theorie der Psychoanalyse zurück. Bei der Behandlung von Patienten, deren Störungen keine klare körperliche Erklärung hatten, kam Freud zu dem Schluss, dass diese Probleme inakzeptable Gedanken und Gefühle widerspiegelten, die im Unbewussten verborgen waren. Um diesen verborgenen Teil des Geistes eines Patienten zu erforschen, nutzte Freud freie Assoziation und Traumanalyse."
+  },
+  { 
+    "id": 265,
+    "title": "",
+    "question": "14-3 Welche Sichtweise hatte Freud auf die Persönlichkeit?",
+    "answer": "Freud glaubte, dass Persönlichkeit aus Konflikten resultiert, die aus der Interaktion zwischen den drei Systemen des Geistes entstehen: dem Es (vergnügungssuchende Impulse), dem Ego (wirklichkeitsorientierte Führungskraft) und dem Über-Ich (verinnerlichte Reihe von Idealen oder Gewissen)."
+  },
+  { 
+    "id": 267,
+    "title": "",
+    "question": "14-4 Welche Entwicklungsstadien schlug Freud vor?",
+    "answer": "Er glaubte, dass Kinder fünf psychosexuelle Stadien durchlaufen (oral, anal, phallisch, Latenz und genital). Dieser Ansicht zufolge können ungelöste Konflikte in jedem Stadium dazu führen, dass die vergnügungssüchtigen Impulse einer Person in diesem Stadium fixiert (ins Stocken geraten) werden."
+  },
+  { 
+    "id": 268,
+    "title": "",
+    "question": "14-5 Wie verteidigten sich Menschen nach Freud gegen Angst?",
+    "answer": "Für Freud war Angst das Produkt der Spannungen zwischen den Anforderungen des Es und des Über-Ichs. Das Ego kommt damit zurecht, indem es unbewusste Abwehrmechanismen nutzt, etwa die Unterdrückung, die er als den grundlegenden Mechanismus ansah, der allen anderen zugrunde liegt und sie ermöglicht."
+  },
+  { 
+    "id": 269,
+    "title": "",
+    "question": "14-6 Welche Ideen Freuds akzeptierten oder lehnten seine Anhänger ab?",
+    "answer": "Freuds frühe Anhänger, die Neofreudianer, akzeptierten viele seiner Ideen. Sie unterschieden sich dadurch, dass sie mehr Wert auf das Bewusstsein legten und soziale Motive stärker betonten als Sex oder Aggression. Die meisten zeitgenössischen psychodynamischen Theoretiker und Therapeuten lehnen Freuds Betonung der sexuellen Motivation ab. Sie betonen mit Unterstützung moderner Forschungsergebnisse, dass ein Großteil unseres Geisteslebens unbewusst abläuft, und sie glauben, dass unsere Kindheitserfahrungen unsere erwachsene Persönlichkeit und unsere Bindungsmuster beeinflussen. Viele glauben auch, dass die gemeinsame Evolutionsgeschichte unserer Spezies einige universelle Veranlagungen geprägt hat."
+  },
+  { 
+    "id": 270,
+    "title": "",
+    "question": "14-7 Wie sehen zeitgenössische Psychologen Freuds Psychoanalyse?",
+    "answer": "Freud wird zugeschrieben, dass er die Aufmerksamkeit auf das weite Unbewusste und unsere Irrationalität gelenkt hat, auf die Bedeutung der menschlichen Sexualität und auf den Konflikt zwischen biologischen Impulsen und sozialen Zwängen und dass er einige wissenschaftlich fundierte Abwehrmechanismen formuliert hat. Aber sein Konzept der Unterdrückung und seine Sicht des Unbewussten als eine Ansammlung unterdrückter und inakzeptabler Gedanken, Wünsche, Gefühle und Erinnerungen können einer wissenschaftlichen Prüfung nicht standhalten. Freud lieferte nachträgliche Erklärungen, die wissenschaftlich schwer zu überprüfen sind. Die Forschung unterstützt viele spezifische Ideen Freuds nicht, etwa die Ansicht, dass die Entwicklung in der Kindheit festgelegt ist. (Wir wissen jetzt, dass es lebenslang ist.)"
+  },
+  { 
+    "id": 271,
+    "title": "",
+    "question": "14-8 Wie hat die moderne Forschung unser Verständnis des Unbewussten entwickelt?",
+    "answer": "Die Forschung bestätigt, dass wir keinen vollständigen Zugriff auf alles haben, was in unserem Kopf vorgeht, obwohl die heutige Wissenschaft das Unbewusste als einen separaten und parallelen Prozess der Informationsverarbeitung betrachtet, der außerhalb unseres Bewusstseins stattfindet. Zu dieser Verarbeitung gehören Schemata, die unsere Wahrnehmung, unser Priming, implizite Erinnerungen an erlernte Fähigkeiten, sofort aktivierte Emotionen sowie implizite Vorurteile und Stereotypen steuern, die unsere Informationsverarbeitung über die Merkmale und Eigenschaften anderer filtern. Die Forschung unterstützt auch die Bildung und Projektion von Reaktionen (den falschen Konsenseffekt) und die Idee, dass wir uns unbewusst gegen Angst verteidigen (wie in Experimenten zur Überprüfung der Terrormanagement-Theorie gesehen)."
+  },
+  { 
+    "id": 272,
+    "title": "",
+    "question": "14-9 Was sind projektive Tests, wie werden sie eingesetzt und welche Kritikpunkte gibt es an ihnen?",
+    "answer": "Projektive Tests zeigen Menschen Reize auf, die für viele mögliche Interpretationen offen sind, und behandeln ihre Antworten als Offenbarungen innerer Dynamik. Der Thematic Apperception Test (TAT) und der Rorschach Inkblot-Test sind zwei solcher Tests. Der TAT liefert eine gültige und zuverlässige Karte der impliziten Motive von Menschen, die über die Zeit hinweg konsistent ist. Die Zuverlässigkeit und Validität des Rorschach-Tests ist gering, aber einige Kliniker schätzen ihn als Quelle suggestiver Hinweise, als Eisbrecher oder als aufschlussreiche Interviewtechnik."
+  },
+  { 
+    "id": 273,
+    "title": "",
+    "question": "14-10 Wie sahen humanistische Psychologen die Persönlichkeit und was war ihr Ziel bei der Untersuchung der Persönlichkeit?",
+    "answer": "Die Sicht der humanistischen Psychologen auf die Persönlichkeit konzentrierte sich auf das Potenzial für gesundes persönliches Wachstum und das Streben des Menschen nach Selbstbestimmung und Selbstverwirklichung. Abraham Maslow schlug vor, dass menschliche Motivationen eine Hierarchie von Bedürfnissen bilden. Wenn die Grundbedürfnisse erfüllt sind, streben die Menschen nach Selbstverwirklichung und Selbsttranszendenz. Carl Rogers glaubte, dass die Bestandteile eines wachstumsfördernden Umfelds Akzeptanz (einschließlich bedingungsloser positiver Wertschätzung), Echtheit und Empathie sind. Das Selbstverständnis war sowohl für Maslow als auch für Rogers ein zentrales Merkmal der Persönlichkeit."
+  },
+  { 
+    "id": 274,
+    "title": "",
+    "question": "14-11 Wie beurteilten humanistische Psychologen das Selbstbewusstsein eines Menschen?",
+    "answer": "Einige lehnten standardisierte Beurteilungen ab und verließen sich auf Interviews und Gespräche. Andere, wie Rogers, verwendeten manchmal Fragebögen, in denen Menschen ihr ideales und tatsächliches Selbst beschreiben; diese wurden später zur Beurteilung des Therapie Fortschritts herangezogen. Einige nutzen mittlerweile den Life-Story-Ansatz, der eine ausführliche Erzählung ermöglicht, die die einzigartige Lebensgeschichte jeder Person detailliert beschreibt."
+  },
+  { 
+    "id": 275,
+    "title": "",
+    "question": "14-12 Wie haben humanistische Theorien die Psychologie beeinflusst? Mit welcher Kritik wurden sie konfrontiert?",
+    "answer": "Die humanistische Psychologie hatte weitreichende kulturelle Auswirkungen und trug dazu bei, das Interesse am Konzept des Selbst zu erneuern. Es legte auch den Grundstein für das heutige wissenschaftliche Teilgebiet der Positiven Psychologie. Kritiker haben gesagt, dass die Konzepte der humanistischen Psychologie vage und subjektiv, ihre Werte egozentrisch und ihre Annahmen naiv optimistisch seien."
+  },
+  { 
+    "id": 276,
+    "title": "",
+    "question": "14-13 Wie beschreiben Psychologen Persönlichkeitsmerkmale anhand von Merkmalen?",
+    "answer": "Merkmalstheoretiker betrachten Persönlichkeit als ein stabiles und dauerhaftes Verhaltensmuster. Sie waren mehr daran interessiert, unsere Unterschiede zu beschreiben, als sie zu erklären. Mithilfe der Faktorenanalyse identifizieren sie Cluster von Verhaltenstendenzen, die gemeinsam auftreten. Genetische Veranlagungen beeinflussen viele Merkmale."
+  },
+  { 
+    "id": 277,
+    "title": "",
+    "question": "14-14 Was sind einige häufige Missverständnisse über Introversion?",
+    "answer": "Westliche Kulturen legen Wert auf Extraversion, aber Introvertierte verfügen über andere, gleichermaßen wichtige Fähigkeiten. Introversion ist nicht gleichbedeutend mit Schüchternheit, und Extravertierte übertreffen Introvertierte nicht immer als Führungspersönlichkeiten. Introvertierte gehen gut mit Konflikten um und suchen eher Einsamkeit als Rache."
+  },
+  { 
+    "id": 278,
+    "title": "",
+    "question": "14-15 Was sind Persönlichkeitsinventare und was sind ihre Stärken und Schwächen als Instrumente zur Merkmalsbewertung?",
+    "answer": "Persönlichkeitsinventare (wie der MMPI) sind Fragebögen, in denen Menschen auf Items antworten, mit denen ein breites Spektrum an Gefühlen und Verhaltensweisen erfasst werden soll. Testaufgaben werden empirisch abgeleitet und die Tests werden objektiv bewertet. Objektivität garantiert keine Gültigkeit; Menschen können ihre Antworten fälschen, um einen guten Eindruck zu hinterlassen (aber sie können dann auf einer Lügenskala, die die Fälschung bewertet, eine hohe Punktzahl erzielen)."
+  },
+  { 
+    "id": 279,
+    "title": "",
+    "question": "14-15 Was sind Persönlichkeitsinventare und was sind ihre Stärken und Schwächen als Instrumente zur Merkmalsbewertung?",
+    "answer": "Persönlichkeitsinventare (wie der MMPI) sind Fragebögen, in denen Menschen auf Items antworten, mit denen ein breites Spektrum an Gefühlen und Verhaltensweisen erfasst werden soll. Testaufgaben werden empirisch abgeleitet und die Tests werden objektiv bewertet. Objektivität garantiert keine Gültigkeit; Menschen können ihre Antworten fälschen, um einen guten Eindruck zu hinterlassen (aber sie können dann auf einer Lügenskala, die die Fälschung bewertet, eine hohe Punktzahl erzielen)."
+  },
+  { 
+    "id": 280,
+    "title": "",
+    "question": "14-16 Welche Merkmale scheinen die nützlichsten Informationen über Persönlichkeitsvariationen zu liefern?",
+    "answer": "Die Big Five Persönlichkeitsfaktoren – Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit und Neurotizismus (OCEAN) – bieten derzeit unsere beste Annäherung an die grundlegenden Merkmalsdimensionen. Diese Faktoren sind im Allgemeinen stabil und beschreiben Menschen in verschiedenen Kulturen einigermaßen gut. Viele Gene, von denen jedes kleine Auswirkungen hat, wirken sich zusammen auf unsere Eigenschaften aus."
+  },
+  { 
+    "id": 281,
+    "title": "",
+    "question": "14-17 Unterstützt die Forschung die Konsistenz von Persönlichkeitsmerkmalen über die Zeit und in allen Situationen?",
+    "answer": "Die durchschnittlichen Merkmale einer Person bleiben über die Zeit bestehen und sind in vielen verschiedenen Situationen vorhersehbar. Aber Merkmale können das Verhalten in einer bestimmten Situation nicht vorhersagen."
+  },
+  { 
+    "id": 282,
+    "title": "",
+    "question": "14-18 Wie betrachten sozialkognitive Theoretiker die Persönlichkeitsentwicklung und wie erforschen sie Verhalten?",
+    "answer": "Albert Banduras sozial-kognitive Perspektive betont die Interaktion unserer Eigenschaften mit unseren Situationen. Sozialkognitive Forscher wenden Prinzipien des Lernens, der Kognition und des sozialen Verhaltens auf die Persönlichkeit an. Reziproker Determinismus beschreibt die Interaktion und gegenseitige Beeinflussung von Verhalten, innerer Kognition und Umwelt. Beurteilungssituationen mit simulierten Bedingungen nutzen den Grundsatz, dass die Handlungen einer Person in ähnlichen Situationen der beste Prädiktor für zukünftiges Verhalten sind."
+  },
+  { 
+    "id": 283,
+    "title": "",
+    "question": "14-19 Mit welcher Kritik sind sozial-kognitive Theorien konfrontiert?",
+    "answer": "Das Selbst als Zentrum der Persönlichkeit, das unsere Gedanken, Gefühle und Handlungen organisiert, wird intensiv erforscht. Die Betrachtung möglicher Selbsts hilft uns, uns zu einer positiven Entwicklung zu motivieren, aber eine zu intensive Konzentration auf uns selbst kann zu einem Rampenlichteffekt führen. Ein hohes Selbstwertgefühl und eine hohe Selbstwirksamkeit korrelieren mit Vorteilen wie höheren Schulleistungen und der Fähigkeit, Herausforderungen zu meistern. Die Richtung des Zusammenhangs ist jedoch unklar. Anstatt den Selbstwert unrealistisch zu fördern, ist es besser, Erfolge zu belohnen und so das Gefühl von Kompetenz zu fördern."
+  },
+  { 
+    "id": 284,
+    "title": "",
+    "question": "14-20 Warum hat die Psychologie so viel Forschung über das Selbst hervorgebracht? Wie wichtig ist das Selbstwertgefühl für unser Wohlbefinden?",
+    "answer": "Das Selbst als Zentrum der Persönlichkeit, das unsere Gedanken, Gefühle und Handlungen organisiert, wird intensiv erforscht. Die Betrachtung möglicher Selbsts hilft uns, uns zu einer positiven Entwicklung zu motivieren, aber eine zu intensive Konzentration auf uns selbst kann zu einem Rampenlichteffekt führen. Ein hohes Selbstwertgefühl und eine hohe Selbstwirksamkeit korrelieren mit Vorteilen wie höheren Schulleistungen und der Fähigkeit, Herausforderungen zu meistern. Die Richtung des Zusammenhangs ist jedoch unklar. Anstatt den Selbstwert unrealistisch zu fördern, ist es besser, Erfolge zu belohnen und so das Gefühl von Kompetenz zu fördern."
+  },
+  { 
+    "id": 285,
+    "title": "",
+    "question": "14-21 Wie offenbaren übermäßiger Optimismus, Blindheit gegenüber der eigenen Inkompetenz und eigennützige Voreingenommenheit die Kosten des Selbstwertgefühls, und wie unterscheiden sich defensives und sicheres Selbstwertgefühl?",
+    "answer": "Übermäßiger Optimismus kann zu Selbstgefälligkeit führen und uns daran hindern, echte Risiken zu erkennen, während die Blindheit gegenüber der eigenen Inkompetenz dazu führen kann, dass wir immer wieder dieselben Fehler machen. Unter eigennütziger Voreingenommenheit verstehen wir die Tendenz, uns selbst positiv zu sehen, indem wir uns selbst als besser als der Durchschnitt betrachten oder Anerkennung für unsere Erfolge akzeptieren, aber nicht die Schuld für unsere Misserfolge. Das defensive Selbstwertgefühl ist fragil, konzentriert sich auf den Selbsterhalt und betrachtet Misserfolge oder Kritik als Bedrohung. Ein sicheres Selbstwertgefühl ermöglicht es uns, uns so akzeptiert zu fühlen, wie wir sind."
+  },
+  { 
+    "id": 286,
+    "title": "Learning Objective Questions – Kapitel 15",
     "question": "",
     "answer": ""
   },
   { 
-    "id": 265,
+    "id": 287,
+    "title": "",
+    "question": "15-1 Wie sollen wir die Grenze zwischen Normalität und Unordnung ziehen?",
+    "answer": "Laut Psychologen und Psychiatern sind psychische Störungen durch eine klinisch signifikante Störung der kognitiven Fähigkeiten, der Emotionsregulation oder des Verhaltens einer Person gekennzeichnet. Solche dysfunktionalen oder schlecht angepassten Gedanken, Emotionen oder Verhaltensweisen beeinträchtigen das tägliche Leben und sind daher gestört."
+  },
+  { 
+    "id": 288,
+    "title": "",
+    "question": "15-2 Wie beeinflussen das medizinische Modell und der biopsychosoziale Ansatz unser Verständnis psychischer Störungen?",
+    "answer": "Das medizinische Modell geht davon aus, dass psychische Störungen körperliche Ursachen haben, die diagnostiziert, behandelt und oft durch eine Therapie, manchmal auch im Krankenhaus, geheilt werden können. Die biopsychosoziale Perspektive geht davon aus, dass gestörtes Verhalten aus dem Zusammenspiel biologischer Merkmale, psychologischer Dynamik und soziokultureller Umstände entsteht. Aus diesem Ansatz ist das Vulnerabilitäts-Stress-Modell entstanden, bei dem individuelle Merkmale und Umweltstressoren zusammenwirken, um die Wahrscheinlichkeit der Entwicklung einer psychischen Störung zu erhöhen oder zu verringern, ein Modell, das von der epigenetischen Forschung unterstützt wird."
+  },
+  { 
+    "id": 289,
+    "title": "",
+    "question": "15-3 Wie und warum klassifizieren Ärzte psychische Störungen und warum kritisieren einige Psychologen die diagnostische Bezeichnung?",
+    "answer": "Das DSM (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition) der American Psychiatric Association enthält diagnostische Bezeichnungen und Beschreibungen, die eine gemeinsame Sprache und gemeinsame Konzepte für Kommunikation und Forschung bieten. Kritiker des DSM sagen, es wirfe ein zu weites Netz und pathologisiere normales Verhalten. Ein ergänzender Ansatz zur Klassifizierung ist das Research Domain Criteria (RDoC)-Projekt des US-amerikanischen National Institute of Mental Health, ein Rahmenwerk, das Störungen nach Verhalten und Gehirnaktivität in mehreren Dimensionen organisiert. Jeder Klassifizierungsversuch erzeugt diagnostische Etiketten, die Vorurteile hervorrufen können, die die Wahrnehmung des früheren und gegenwärtigen Verhaltens der etikettierten Person verzerren."
+  },
+  { 
+    "id": 290,
+    "title": "",
+    "question": "15-4 Welche Faktoren erhöhen das Suizidrisiko und was wissen wir über nichtsuizidale Selbstverletzungen?",
+    "answer": "Die Selbstmordraten unterscheiden sich je nach Nation, Rasse, Geschlecht, Altersgruppe, Einkommen, Religionszugehörigkeit, Familienstand und anderen Faktoren. In den meisten Ländern sind die Selbstmordraten gestiegen. Menschen, denen es an sozialer Unterstützung mangelt, wie viele schwule, Transgender- und geschlechtsunkonforme Jugendliche, sind einem erhöhten Risiko ausgesetzt, ebenso wie Menschen, die ängstlich oder depressiv waren. Auch Isolation und Arbeitslosigkeit können das Risiko erhöhen. Vorwarnungen vor einem Suizid können verbale Andeutungen, das Verschenken von Besitztümern, Rückzug und Beschäftigung mit dem Tod sein. Menschen, die über Selbstmord sprechen, sollten ernst genommen werden: Hören Sie zu und haben Sie Mitgefühl, verbinden Sie sie, um zu helfen, und schützen Sie diejenigen, die einem unmittelbaren Risiko ausgesetzt zu sein scheinen. Nicht-suizidale Selbstverletzung (NSSI) führt normalerweise nicht zum Selbstmord, kann aber unbehandelt zu Selbstmordgedanken und -handlungen eskalieren. Menschen, die NSSI betreiben, vertragen Stress nicht gut und neigen dazu, selbstkritisch und impulsiv zu sein."
+  },
+  { 
+    "id": 291,
+    "title": "",
+    "question": "15-5 Sind psychische Störungen ein Vorbote für gewalttätiges Verhalten?",
+    "answer": "Psychische Störungen führen selten zu Gewalt und Ärzte können nicht vorhersagen, wer anderen Schaden zufügen könnte. Die meisten Menschen mit Störungen sind gewaltlos und werden eher Opfer als Angreifer. Bessere Prädiktoren für Gewalt sind Alkohol- oder Drogenkonsum, frühere Gewalt, die Verfügbarkeit von Waffen und Hirnschäden."
+  },
+  { 
+    "id": 292,
+    "title": "",
+    "question": "15-6 Wie viele Menschen haben oder hatten eine psychische Störung? Was sind einige der Risikofaktoren?",
+    "answer": "Die Häufigkeit psychischer Störungen variiert je nach Zeitpunkt und Ort der Befragung. In einer multinationalen Umfrage wurde die niedrigste Rate an gemeldeten psychischen Störungen in Nigeria und die höchste Rate in den Vereinigten Staaten verzeichnet. Armut ist ein Risikofaktor. Aber auch einige Erkrankungen wie Schizophrenie können Menschen in die Armut treiben. Einwanderer in die Vereinigten Staaten haben möglicherweise im Durchschnitt eine bessere psychische Gesundheit als ihre US-Kollegen mit derselben ethnischen Herkunft (ein Phänomen, das als Einwandererparadoxon bekannt ist)."
+  },
+  { 
+    "id": 293,
+    "title": "",
+    "question": "15-7 Wie unterscheiden sich generalisierte Angststörung, Panikstörung und spezifische Phobien?",
+    "answer": "Angststörungen sind psychische Störungen, die durch belastende, anhaltende Angst oder unangepasstes Verhalten gekennzeichnet sind, das die Angst verringert. Menschen mit generalisierter Angststörung fühlen sich ohne ersichtlichen Grund dauerhaft und unkontrollierbar angespannt und ängstlich. Bei der extremeren Panikstörung eskaliert die Angst zu periodischen Episoden intensiver Angst. Menschen mit einer bestimmten Phobie haben möglicherweise irrationale Angst vor einem Objekt, einer Aktivität oder einer Situation."
+  },
+  { 
+    "id": 294,
+    "title": "",
+    "question": "15-8 Was ist Zwangsstörung?",
+    "answer": "Anhaltende und sich wiederholende Gedanken (Obsessionen), Handlungen (Zwänge) oder beides kennzeichnen eine Zwangsstörung (OCD)."
+  },
+  { 
+    "id": 295,
+    "title": "",
+    "question": "15-9 Was ist PTBS?",
+    "answer": "Zu den Symptomen einer posttraumatischen Belastungsstörung (PTBS) gehören vier oder mehr Wochen lang eindringliche Erinnerungen, Albträume, Hypervigilanz, Vermeidung traumabedingter Reize, sozialer Rückzug, nervöse Angstzustände, Taubheitsgefühle und/oder Schlafprobleme nach einem traumatischen Erlebnis."
+  },
+  { 
+    "id": 296,
+    "title": "",
+    "question": "15-10 Was sind somatische Symptome und damit verbundene Störungen?",
+    "answer": "Bei somatischen Symptomen und verwandten Störungen, einschließlich der Krankheit Angststörung, nehmen die Symptome eine somatische (körperliche) Form ohne erkennbare körperliche Ursache an."
+  },
+  { 
+    "id": 297,
+    "title": "",
+    "question": "15-11 Wie tragen Konditionierung, Kognition und Biologie zu den Gefühlen und Gedanken bei, die angstbedingte Störungen kennzeichnen?",
+    "answer": "Die Lernperspektive betrachtet angstbedingte Störungen als Produkte der Angstkonditionierung, der Reizverallgemeinerung, der Verstärkung ängstlichen Verhaltens und des beobachtenden Lernens der Ängste und Erkenntnisse anderer. Die biologische Perspektive berücksichtigt genetische Veranlagungen für ein hohes Maß an emotionaler Reaktivität und Neurotransmitterproduktion; abnormale Reaktionen in den Angstschaltkreisen des Gehirns; und die Rolle, die Ängste vor lebensbedrohlichen Gefahren bei der natürlichen Selektion und Evolution spielten."
+  },
+  { 
+    "id": 298,
+    "title": "",
+    "question": "15-12 Wie unterscheiden sich depressive Störungen und bipolare Störungen?",
+    "answer": "Eine Person mit einer schweren depressiven Störung leidet zwei oder mehr Wochen lang unter mindestens fünf Symptomen einer Depression (darunter entweder depressive Verstimmung oder Verlust von Interesse oder Freude). Eine anhaltende depressive Störung umfasst eine langanhaltende, leicht depressive Verstimmung. Eine Person mit einer bipolaren Störung erlebt nicht nur Depressionen, sondern auch Manie – Episoden von hyperaktivem und äußerst optimistischem, impulsivem Verhalten."
+  },
+  { 
+    "id": 299,
+    "title": "",
+    "question": "15-13 Wie können uns die biologischen und sozial-kognitiven Perspektiven helfen, depressive Störungen und bipolare Störungen zu verstehen?",
+    "answer": "Die biologische Perspektive auf depressive Störungen und bipolare Störungen konzentriert sich auf genetische Veranlagungen, Anomalien in Gehirnstrukturen und -funktionen (einschließlich derjenigen, die in Neurotransmittersystemen vorkommen) sowie Auswirkungen auf die Ernährung (und Medikamente). Die sozial-kognitive Perspektive betrachtet Depressionen als einen fortlaufenden Zyklus belastender Erfahrungen (interpretiert durch negative Überzeugungen, Zuschreibungen und Erinnerungen, oft mit unerbittlichem Grübeln), der zu negativen Stimmungen, Gedanken und Handlungen führt und dadurch neue belastende Erfahrungen befeuert."
+  },
+  { 
+    "id": 300,
+    "title": "",
+    "question": "15-14 Welche Wahrnehmungs-, Denk- und Gefühlsmuster kennzeichnen Schizophrenie?v",
+    "answer": "Schizophrenie ist eine psychotische Störung, die durch Wahnvorstellungen, Halluzinationen, unorganisierte Sprache und/oder verminderten, unangemessenen emotionalen Ausdruck gekennzeichnet ist. Halluzinationen sind Sinneserlebnisse ohne Sinnesstimulation; Wahnvorstellungen sind falsche Überzeugungen. Schizophrenie-Symptome können positiv (das Vorhandensein unangemessener Verhaltensweisen) oder negativ (das Fehlen angemessener Verhaltensweisen) sein."
+  },
+  { 
+    "id": 301,
+    "title": "",
+    "question": "15-15 Wie unterscheiden sich chronische Schizophrenie und akute Schizophrenie?",
+    "answer": "Schizophrenie tritt typischerweise im späten Jugendalter auf, betrifft etwas häufiger Männer und kommt in allen Kulturen vor. Bei chronischer (oder prozesshafter) Schizophrenie verläuft die Entwicklung schleichend und eine Genesung ist fraglich. Bei der akuten (oder reaktiven) Schizophrenie tritt die Erkrankung plötzlich auf – als Reaktion auf Stress – und die Aussichten auf eine Genesung sind besser."
+  },
+  { 
+    "id": 302,
+    "title": "",
+    "question": "15-16 Welche Gehirnanomalien sind mit Schizophrenie verbunden?",
+    "answer": "Menschen mit Schizophrenie verfügen über eine übermäßige Anzahl von Dopaminrezeptoren, die die Gehirnsignale verstärken und positive Symptome wie Halluzinationen und Paranoia hervorrufen können. Gehirnscans haben eine abnormale Aktivität in den Frontallappen, im Thalamus und in der Amygdala sowie einen Verlust neuronaler Verbindungen im gesamten Gehirnnetzwerk ergeben. Zu den mit Schizophrenie verbundenen Gehirnanomalien gehören vergrößerte, mit Flüssigkeit gefüllte Bereiche und eine entsprechende Schrumpfung und Ausdünnung des Gehirngewebes. Zu den kleineren Bereichen als normal können der Kortex, der Hippocampus, das Corpus callosum und der Thalamus gehören."
+  },
+  { 
+    "id": 303,
+    "title": "",
+    "question": "15-17 Welche pränatalen Ereignisse sind mit einem erhöhten Risiko für die Entwicklung einer Schizophrenie verbunden?",
+    "answer": "Zu den möglichen Faktoren gehören Diabetes bei der Mutter, höheres Alter des Vaters, Virusinfektionen oder Hungersnot während der Schwangerschaft der Mutter sowie geringes Gewicht oder Sauerstoffmangel bei der Geburt."
+  },
+  { 
+    "id": 304,
+    "title": "",
+    "question": "15-18 Wie beeinflussen Gene Schizophrenie? Welche Faktoren können Frühwarnzeichen einer Schizophrenie bei Kindern sein?",
+    "answer": "Zwillings- und Adoptionsstudien deuten darauf hin, dass die Veranlagung zur Schizophrenie vererbt wird. Mehrere Gene interagieren, um Schizophrenie hervorzurufen. Keine umweltbedingten Ursachen führen zwangsläufig zu Schizophrenie, aber Umweltereignisse (wie vorgeburtliche Viren oder mütterlicher Stress) können bei Personen, die für diese Störung prädisponiert sind, Gene „anschalten“. Mögliche Frühwarnzeichen sind sozialer Rückzug; eine Mutter mit schwerer und langanhaltender Schizophrenie; Geburtskomplikationen; Trennung von den Eltern; kurze Aufmerksamkeitsspanne; schlechte Muskelkoordination; emotionale Unvorhersehbarkeit; schlechte Beziehungen zu Gleichaltrigen und schlechtes Solospiel; Trennung von den Eltern; und Kindesmissbrauch."
+  },
+  { 
+    "id": 305,
+    "title": "",
+    "question": "15-19 Was sind dissoziative Störungen und warum sind sie umstritten?",
+    "answer": "Dissoziative Störungen sind umstrittene, seltene Erkrankungen, bei denen das Bewusstsein scheinbar von früheren Erinnerungen, Gedanken und Gefühlen getrennt wird. Skeptiker stellen fest, dass die dissoziative Identitätsstörung (DID) im späten 20. Jahrhundert dramatisch zugenommen hat; kommt außerhalb Nordamerikas selten vor; und kann das Rollenspiel von Menschen widerspiegeln, die anfällig für die Vorschläge von Therapeuten sind. Andere betrachten DID als eine Manifestation von Angstgefühlen oder als eine erlernte Reaktion, wenn Verhaltensweisen durch Angstreduzierung verstärkt werden."
+  },
+  { 
+    "id": 306,
+    "title": "",
+    "question": "15-20 Welche drei Gruppen von Persönlichkeitsstörungen gibt es? Welche Verhaltensweisen und Gehirnaktivitäten kennzeichnen eine antisoziale Persönlichkeitsstörung?",
+    "answer": "Persönlichkeitsstörungen sind unflexible und dauerhafte Verhaltensmuster, die das soziale Funktionieren beeinträchtigen. Die zehn DSM-5-Störungen neigen dazu, drei Cluster zu bilden, die durch (1) Angstzustände, (2) exzentrische oder seltsame Verhaltensweisen und (3) dramatische oder impulsive Verhaltensweisen gekennzeichnet sind. Die antisoziale Persönlichkeitsstörung (eine der dritten Gruppe) ist durch mangelndes Gewissen und manchmal durch aggressives und furchtloses Verhalten gekennzeichnet. Bei Menschen mit dieser Störung ist die Amygdala oft kleiner und die Frontallappen weniger aktiv, was zu einer Beeinträchtigung der kognitiven Funktionen des Frontallappens und einer verminderten Reaktionsfähigkeit auf die Belastungen anderer führt. Genetische Veranlagungen können mit der Umwelt interagieren, um diese Eigenschaften hervorzurufen."
+  },
+  { 
+    "id": 307,
+    "title": "",
+    "question": "15-21 Was sind die drei häufigsten Essstörungen und wie machen biologische, psychologische und soziokulturelle Einflüsse Menschen anfälliger für sie?",
+    "answer": "Bei Menschen mit Essstörungen (am häufigsten Frauen oder schwule Männer) überlagern psychologische Faktoren die Tendenz des Körpers, ein normales Gewicht zu halten. Trotz deutlichem Untergewicht halten Menschen mit Anorexia nervosa (in der Regel jugendliche Frauen) eine Hungerdiät ein, treiben manchmal übermäßig viel Sport und haben eine ungenaue Selbstwahrnehmung. Menschen mit Bulimia nervosa (in der Regel Frauen in ihren späten Teenager- und frühen Zwanzigern) leiden unter Essattacken und kompensieren dies dann durch Entleerung, Fasten oder übermäßigen Sport. Menschen mit einer Binge-Eating-Störung haben Essattacken, folgen aber nicht mit Entleerung, Fasten und Sport. Kultureller Druck, geringes Selbstwertgefühl und negative Emotionen interagieren mit stressigen Lebenserfahrungen und genetischer Veranlagung und führen zu Essstörungen."
+  },
+  { 
+    "id": 308,
+    "title": "",
+    "question": "NEUROENTWICKLUNGSSTÖRUNGEN",
+    "answer": "Bei neurologischen Entwicklungsstörungen handelt es sich um Anomalien des zentralen Nervensystems (normalerweise im Gehirn), die in der Kindheit beginnen und das Denken und Verhalten verändern (z. B. bei intellektuellen Einschränkungen oder einer psychischen Störung)."
+  },
+  { 
+    "id": 309,
+    "title": "",
+    "question": "15-22 Was ist eine geistige Behinderung?",
+    "answer": "Eine geistige Behinderung ist ein Zustand eingeschränkter geistiger Fähigkeiten, der durch ein Intelligenztestergebnis von 70 oder weniger und Schwierigkeiten bei der Anpassung an die Anforderungen des Lebens in drei Kompetenzbereichen (konzeptionelle, soziale und praktische) angezeigt wird."
+  },
+  { 
+    "id": 310,
+    "title": "",
+    "question": "15-23 Was ist eine Autismus-Spektrum-Störung?",
+    "answer": "Die Autismus-Spektrum-Störung tritt im Kindesalter auf und ist durch erhebliche Einschränkungen in der Kommunikation und sozialen Interaktion sowie durch starr fixierte Interessen und sich wiederholende Verhaltensweisen gekennzeichnet."
+  },
+  { 
+    "id": 311,
+    "title": "",
+    "question": "15-24 Warum gibt es Kontroversen über die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung?",
+    "answer": "Bei einem Kind (oder seltener einem Erwachsenen), das extreme Unaufmerksamkeit und/oder Hyperaktivität und Impulsivität zeigt, kann eine Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) diagnostiziert werden. Im Mittelpunkt der Kontroversen steht die Frage, ob die wachsende Zahl von ADHS-Fällen auf eine Überdiagnose oder ein erhöhtes Bewusstsein für die Störung zurückzuführen ist, sowie auf die langfristigen Auswirkungen der Behandlung mit Stimulanzien."
+  },
+  { 
+    "id": 312,
+    "title": "Learning Objective Questions – Kapitel 16",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 313,
+    "title": "",
+    "question": "16-1 Wie unterscheiden sich Psychotherapie und biomedizinische Therapien?",
+    "answer": "Psychotherapie ist eine Behandlung mit psychologischen Techniken, die aus Interaktionen zwischen einem ausgebildeten Therapeuten und einer Person besteht, die psychische Schwierigkeiten überwinden oder persönliches Wachstum erreichen möchte. Die wichtigsten Psychotherapien basieren auf psychodynamischen, humanistischen, verhaltensbezogenen und kognitiven Perspektiven der Psychologie. Die biomedizinische Therapie behandelt psychische Störungen mit Medikamenten oder Verfahren, die direkt auf die Physiologie eines Patienten einwirken. Ein vielseitiger Ansatz kombiniert Techniken aus verschiedenen Formen der Psychotherapie."
+  },
+  { 
+    "id": 314,
+    "title": "",
+    "question": "16-2 Was sind die Ziele und Techniken der Psychoanalyse und wie wurden sie in die psychodynamische Therapie übernommen?",
+    "answer": "Durch die Psychoanalyse versuchte Sigmund Freud, den Menschen Selbsterkenntnis und Linderung ihrer Störungen zu verschaffen, indem er angstbeladene Gefühle und Gedanken ins Bewusstsein brachte. Zu den psychoanalytischen Techniken gehörte die freie Assoziation und Interpretation von Widerstands- und Übertragungsfällen. Die psychodynamische Therapie wurde von der traditionellen Psychoanalyse beeinflusst, unterscheidet sich jedoch in vielerlei Hinsicht von ihr, einschließlich der geringen Beachtung der Konzepte von Es, Ego und Über-Ich. Diese moderne Therapie ist kürzer, kostengünstiger und konzentriert sich mehr darauf, dem Klienten zu helfen, seine aktuellen Symptome zu lindern. Psychodynamische Therapeuten helfen Klienten zu verstehen, wie aus vergangenen Beziehungen Themen entstehen, die in gegenwärtigen Beziehungen umgesetzt werden können."
+  },
+  { 
+    "id": 315,
+    "title": "",
+    "question": "16-3 Was sind die Grundthemen der humanistischen Therapie? Was sind die Ziele und Techniken des personenzentrierten Ansatzes von Rogers?",
+    "answer": "Sowohl psychodynamische als auch humanistische Therapien sind Einsichtstherapien, mit denen sie versuchen, die Funktionsweise zu verbessern, indem sie das Bewusstsein der Menschen für Motive und Abwehrkräfte schärfen. Zu den Zielen der humanistischen Therapie gehört es, Menschen dabei zu helfen, ihr Selbstbewusstsein und ihre Selbstakzeptanz zu stärken. Förderung des persönlichen Wachstums statt Heilung von Krankheiten; Menschen dabei helfen, Verantwortung für ihr eigenes Wachstum zu übernehmen; Konzentration auf bewusste Gedanken statt unbewusster Motivationen; und die Gegenwart und Zukunft als wichtiger anzusehen als die Vergangenheit. Die personenzentrierte Therapie von Carl Rogers ging davon aus, dass der wichtigste Beitrag von Therapeuten darin besteht, durch aktives Zuhören als psychologischer Spiegel zu fungieren und ein wachstumsförderndes Umfeld bedingungsloser positiver Wertschätzung zu schaffen."
+  },
+  { 
+    "id": 316,
+    "title": "",
+    "question": "16-4 Wie unterscheiden sich die Grundannahmen der Verhaltenstherapie von den Annahmen psychodynamischer und humanistischer Therapien?",
+    "answer": "Verhaltenstherapien sind keine Einsichtstherapien, sondern gehen vielmehr davon aus, dass Problemverhalten das Problem ist. Ihr Ziel ist es, Lernprinzipien anzuwenden, um diese Problemverhaltensweisen zu ändern. Klassische Konditionierungstechniken, einschließlich Expositionstherapien (wie systematische Desensibilisierung oder Virtual-Reality-Expositionstherapie) und aversive Konditionierung, versuchen, Verhaltensweisen durch Gegenkonditionierung zu ändern, indem sie neue Reaktionen auf alte Reize hervorrufen, die unerwünschte Verhaltensweisen auslösen."
+  },
+  { 
+    "id": 317,
+    "title": "",
+    "question": "16-5 Was ist die Hauptprämisse einer Therapie, die auf den Prinzipien der operanten Konditionierung basiert, und welche Ansichten vertreten ihre Befürworter und Kritiker?",
+    "answer": "Die operante Konditionierung geht davon aus, dass freiwilliges Verhalten stark von seinen Konsequenzen beeinflusst wird. Eine auf operanten Konditionierungsprinzipien basierende Therapie nutzt daher Verhaltensmodifikationstechniken, um unerwünschte Verhaltensweisen zu ändern, indem gewünschte Verhaltensweisen positiv verstärkt und unerwünschte Verhaltensweisen ignoriert oder bestraft werden. Kritiker behaupten, dass (1) Techniken, wie sie in Token-Ökonomien verwendet werden, zu Verhaltensänderungen führen können, die verschwinden, wenn die Belohnungen enden, und dass (2) die Entscheidung, welche Verhaltensweisen geändert werden sollen, autoritär und unethisch ist. Befürworter argumentieren, dass eine Behandlung mit positiven Belohnungen humaner sei, als Menschen für unerwünschtes Verhalten zu bestrafen oder in Institutionen einzuweisen."
+  },
+  { 
+    "id": 318,
+    "title": "",
+    "question": "16-6 Was sind die Ziele und Techniken der kognitiven Therapien und der kognitiven Verhaltenstherapie?",
+    "answer": "Die kognitiven Therapien, wie etwa Aaron Becks kognitive Therapie bei Depressionen, gehen davon aus, dass unser Denken unsere Gefühle prägt und dass die Rolle des Therapeuten darin besteht, das selbstzerstörerische Denken der Klienten zu ändern, indem er ihnen beibringt, Ereignisse auf konstruktivere Weise wahrzunehmen und zu interpretieren. Die vielfach erforschte und praktizierte kognitive Verhaltenstherapie (CBT) kombiniert kognitive Therapie und Verhaltenstherapie, indem sie Klienten dabei hilft, regelmäßig neue Denk- und Verhaltensweisen im Alltag auszuprobieren. Eine neuere Variante der kognitiven Verhaltenstherapie, die Dialektische Verhaltenstherapie (DBT), kombiniert kognitive Taktiken zur Stresstoleranz und zur Regulierung von Emotionen mit dem Training sozialer Fähigkeiten und Achtsamkeitsmeditation."
+  },
+  { 
+    "id": 319,
+    "title": "",
+    "question": "16-7 Was sind die Ziele und Vorteile von Gruppen- und Familientherapien?",
+    "answer": "Gruppentherapiesitzungen können mehr Menschen zu geringeren Kosten helfen als Einzeltherapien. Klienten können persönlich oder online davon profitieren, wenn sie in einer Gruppensituation Gefühle erforschen und soziale Fähigkeiten entwickeln, wenn sie erfahren, dass andere ähnliche Probleme haben, und wenn sie Feedback zu neuen Verhaltensweisen erhalten. Ziel der Familientherapie ist es, Familienangehörigen dabei zu helfen, ihre Rollen im interaktiven sozialen System der Familie zu entdecken, die Kommunikation zu verbessern und neue Wege zur Vermeidung oder Lösung von Konflikten zu erlernen."
+  },
+  { 
+    "id": 320,
+    "title": "",
+    "question": "16-8 Funktioniert Psychotherapie? Wie können wir das wissen?",
+    "answer": "Positive Erfahrungsberichte von Klienten und Therapeuten können nicht beweisen, dass eine Psychotherapie wirksam ist, und der Placebo Effekt und der Bestätigungsfehler machen es schwierig zu beurteilen, ob durch die Behandlung eine Besserung eingetreten ist. Mithilfe von Metaanalysen zur statistischen Kombination der Ergebnisse Hunderter randomisierter Psychotherapie-Outcome-Studien haben Forscher herausgefunden, dass es denen, die sich keiner Behandlung unterziehen, oft besser geht, denen, die sich einer Psychotherapie unterziehen, die Wahrscheinlichkeit jedoch höher ist – und zwar schneller und mit geringem Rückfallrisiko."
+  },
+  { 
+    "id": 321,
+    "title": "",
+    "question": "16-9 Sind einige Psychotherapien bei bestimmten Störungen wirksamer als andere?",
+    "answer": "Keine Psychotherapieform ist grundsätzlich allen anderen überlegen. Die Therapie ist am effektivsten für Menschen mit klar umrissenen, spezifischen Problemen. Einige Therapien – etwa die Verhaltenskonditionierung zur Behandlung spezifischer Phobien und Zwänge – sind bei bestimmten Störungen wirksamer. Kognitive und kognitive Verhaltenstherapien haben sich bei der Bewältigung von Angstzuständen, posttraumatischen Belastungsstörungen, Schlaflosigkeit und Depressionen als wirksam erwiesen. Verhaltenskonditionierung: Therapien bei spezifischen Verhaltensproblemen; psychodynamische Therapie bei Depressionen und Angstzuständen; und nicht direktive (klientenzentrierte) Beratung bei leichter bis mittelschwerer Depression. Abnormale Zustände normalisieren sich tendenziell von selbst, und der Placebo-Effekt kann den Eindruck erwecken, dass eine Behandlung wirksam war. Die evidenzbasierte Praxis integriert die beste verfügbare Forschung mit dem Fachwissen der Kliniker und der Kultur, den Werten, der Persönlichkeit Identität und den Umständen der Klienten."
+  },
+  { 
+    "id": 322,
+    "title": "",
+    "question": "16-10 Welche drei Elemente haben alle Formen der Psychotherapie gemeinsam?",
+    "answer": "Alle Psychotherapien bieten demoralisierten Menschen neue Hoffnung; eine neue Perspektive; und (wenn der Therapeut effektiv ist) eine empathische, vertrauensvolle und fürsorgliche Beziehung. Das emotionale Band des Vertrauens und des Verständnisses zwischen Therapeut und Klient – die therapeutische Allianz – ist ein wichtiges Element einer wirksamen Therapie."
+  },
+  { 
+    "id": 323,
+    "title": "",
+    "question": "16-11 Welche persönlichen Faktoren beeinflussen die Beziehung zwischen Klient und Therapeut?",
+    "answer": "Therapeuten unterscheiden sich in den Werten, die ihre Therapieziele beeinflussen, und in ihren Ansichten über den Fortschritt. Sie können sich auch von ihren Kunden unterscheiden. Diese Unterschiede können zu Problemen führen, wenn sich Therapeuten und Klienten in ihren kulturellen, religiösen oder persönlichen Werten und Perspektiven unterscheiden."
+  },
+  { 
+    "id": 324,
+    "title": "",
+    "question": "16-12 Wann sollte man eine Therapie in Anspruch nehmen und worauf sollte man bei der Auswahl eines Therapeuten achten?",
+    "answer": "Campus-Gesundheitszentren sind im Allgemeinen gute Ausgangspunkte für Beratungsmöglichkeiten und bieten möglicherweise einige kostenlose Dienste an. Eine Person, die eine Therapie sucht, möchte möglicherweise nach dem Behandlungsansatz, den Werten, den Qualifikationen und den Gebühren des Therapeuten fragen. Eine wichtige Überlegung ist, ob sich der Therapiesuchende wohl fühlt und in der Lage ist, eine Bindung zum Therapeuten aufzubauen. Die American Psychological Association erkennt die Bedeutung einer starken therapeutischen Allianz an und akkreditiert Programme, die Schulungen zu kultureller Sensibilität anbieten und unterrepräsentierte kulturelle Gruppen rekrutieren."
+  },
+  { 
+    "id": 325,
+    "title": "",
+    "question": "16-13 Welche ethischen Grundsätze leiten die Psychotherapie und die psychologische Forschung zu psychischen Erkrankungen?",
+    "answer": "Psychotherapeuten und psychologische Forscher im Bereich der psychischen Gesundheit müssen den ethischen Grundsätzen und Verhaltenskodizes ihres Landes folgen und darauf abzielen, anderen zu helfen, ehrlich und wahrheitsgemäß zu sein und Menschen niemals größeren Risiken auszusetzen, als sie im Alltag auftreten würden."
+  },
+  { 
+    "id": 326,
+    "title": "",
+    "question": "16-14 Warum gilt eine therapeutische Änderung des Lebensstils als wirksame biomedizinische Therapie und wie funktioniert sie?",
+    "answer": "Die therapeutische Änderung des Lebensstils gilt als biomedizinische Therapie, da sie die Reaktion des Gehirns beeinflusst. Geist und Körper sind eine Einheit; Beeinflusse das eine und du wirst das andere beeinflussen. Unsere Bewegung, Ernährung, Beziehungen, Erholung, Entspannung und unser religiöses oder spirituelles Engagement wirken sich auf unsere geistige Gesundheit aus. Menschen, die sich einem Programm mit Aerobic-Übungen, ausreichend Schlaf, Lichtexposition, sozialem Engagement, Reduzierung des Wiederkäuens und besserer Ernährung unterziehen, haben eine Linderung ihrer depressiven Symptome erfahren."
+  },
+  { 
+    "id": 327,
+    "title": "",
+    "question": "16-15 Welche medikamentösen Therapien gibt es? Wie helfen Doppelblindstudien den Forschern, die Wirksamkeit eines Medikaments zu bewerten?",
+    "answer": "Die Psychopharmakologie hat dazu beigetragen, die medikamentöse Therapie zur am weitesten verbreiteten biomedizinischen Therapie zu machen. Antipsychotika werden zur Behandlung von Schizophrenie eingesetzt; Einige blockieren die Dopaminaktivität. Zu den Nebenwirkungen können Spätdyskinesien (unwillkürliche Bewegungen der Gesichtsmuskeln, der Zunge und der Gliedmaßen) oder ein erhöhtes Risiko für Fettleibigkeit und Diabetes gehören. Antiangstmedikamente, die die Aktivität des Zentralnervensystems dämpfen, werden zur Behandlung von Angststörungen, Zwangsstörungen und posttraumatischen Belastungsstörungen eingesetzt und können süchtig machen. Antidepressiva, die häufig die Verfügbarkeit von Serotonin und Noradrenalin erhöhen, werden mit mäßiger Wirksamkeit zur Behandlung von Depressionen, Angststörungen, Zwangsstörungen und verwandten Störungen sowie posttraumatischen Belastungsstörungen eingesetzt. Aufgrund ihres Einsatzes bei der Behandlung anderer als depressiver Erkrankungen (von Angstzuständen bis hin zu Schlaganfällen) werden diese Medikamente häufiger als SSRIs (selektive Serotonin-Wiederaufnahmehemmer) statt als Antidepressiva bezeichnet. Zu den schneller wirkenden Antidepressiva können Ketamin und Mikrodosen psychedelischer Arzneimittel wie Psilocybin gehören. Lithium und Depakote sind Stimmungsstabilisatoren, die Menschen mit bipolarer Störung verschrieben werden. Studien können ein Doppelblindverfahren verwenden, um den Placeboeffekt und die Verzerrung der Forscher zu vermeiden."
+  },
+  { 
+    "id": 328,
+    "title": "",
+    "question": "16-16 Wie werden Hirnstimulation und Psychochirurgie bei der Behandlung spezifischer Erkrankungen eingesetzt?",
+    "answer": "Die Elektrokrampftherapie (ECT), bei der ein kurzer elektrischer Strom durch das Gehirn eines anästhesierten Patienten geschickt wird, ist eine wirksame Behandlung schwerer Depressionen bei Menschen, die auf andere Therapien nicht angesprochen haben. Zu den neueren alternativen Behandlungsmethoden für Depressionen gehören die transkranielle Gleichstromstimulation (tDCS), die transkranielle Magnetstimulation (TMS) und die Tiefenhirnstimulation (DBS; kann bei manchen Patienten eine überaktive Gehirnregion beruhigen, die mit negativen Emotionen verbunden ist). Bei der Psychochirurgie wird Gehirngewebe entfernt oder zerstört, in der Hoffnung, das Verhalten zu ändern. Radikale psychochirurgische Eingriffe wie die Lobotomie werden nicht mehr durchgeführt. Die heutige mikroskalige Psychochirurgie und die MRT-gesteuerte Präzisionshirnchirurgie sind seltene Behandlungsmethoden der letzten Wahl, da die Auswirkungen irreversibel sind."
+  },
+  { 
+    "id": 329,
+    "title": "",
+    "question": "16-17 Was kann helfen, psychischen Störungen vorzubeugen, und warum ist es wichtig, Resilienz zu entwickeln?",
+    "answer": "Präventive Programme zur psychischen Gesundheit basieren auf der Idee, dass viele psychische Störungen verhindert werden könnten, indem stressige und negative soziale Kontexte in wohlwollendere, nährendere Umgebungen umgewandelt werden, die Wachstum, Selbstvertrauen und Belastbarkeit fördern. Der Kampf mit Herausforderungen kann zu posttraumatischem Wachstum führen. Gemeinschaftspsychologen arbeiten daran, psychischen Störungen vorzubeugen, indem sie destruktive Umgebungen in nährendere Orte verwandeln, die Kompetenz, Gesundheit und Wohlbefinden fördern."
+  },
+  { 
+    "id": 330,
     "title": "",
     "question": "",
     "answer": ""

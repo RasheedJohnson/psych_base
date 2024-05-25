@@ -5,8 +5,8 @@ import React, { useState } from 'react';
 
 
 
-const Navbar = ({ params }) => {
-  console.log(params)
+const Navbar = ({  }) => {
+  // console.log(params)
   const [open, setOpen] = useState(false);
   const router = useRouter();
   // const navigate = (page: string) => {
