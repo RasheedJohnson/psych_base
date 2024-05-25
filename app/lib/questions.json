@@ -1,7 +1,67 @@
 [
   { 
+    "id": 330,
+    "title": "Prologue 00",
+    "question": "",
+    "answer": ""
+  },
+  { 
+    "id": 332,
+    "title": "",
+    "question": "P-1 Inwiefern ist Psychologie eine Wissenschaft?",
+    "answer": "Die auf einem empirischen Ansatz basierenden Erkenntnisse der Psychologie sind das Ergebnis sorgfältiger Beobachtung und Prüfung. Die Unterscheidung zwischen Sinn und Unsinn erfordert eine wissenschaftliche Einstellung, wie sie in einem der frühen Mottos der Psychologie zum Ausdruck kommt: „Die Ratte hat immer Recht.“"
+  },
+  { 
+    "id": 333,
+    "title": "",
+    "question": "P-2 Was sind die drei Schlüsselelemente der wissenschaftlichen Haltung und wie unterstützen sie die wissenschaftliche Forschung?",
+    "answer": "Die wissenschaftliche Einstellung versetzt uns in die Lage, neugierig, skeptisch und bescheiden zu sein, wenn es darum geht, konkurrierende Ideen oder unsere eigenen Beobachtungen zu hinterfragen. Neugier löst neue Ideen aus, Skepsis fördert die Aufmerksamkeit für die Fakten und Demut hilft uns, Vorhersagen zu verwerfen, die durch Forschung nicht bestätigt werden können. Zusammen machen diese drei Schlüsselelemente die moderne Wissenschaft möglich."
+  },
+  { 
+    "id": 334,
+    "title": "",
+    "question": "P-3 Wie fördert kritisches Denken eine wissenschaftliche Einstellung und intelligenteres Denken für den Alltag?",
+    "answer": "Kritisches Denken stellt Ideen auf die Probe, indem es Annahmen untersucht, die Quelle bewertet, versteckte Vorurteile erkennt, Beweise bewertet und Schlussfolgerungen bewertet."
+  },
+  { 
+    "id": 335,
+    "title": "",
+    "question": "P-4 Was waren einige wichtige Meilensteine in der frühen Geschichte der Psychologie?",
+    "answer": "Wilhelm Wundt gründete 1879 das erste psychologische Labor in Deutschland. Zwei frühe Denkschulen in der Psychologie waren der Strukturalismus und der Funktionalismus. Mary Whiton Calkins und Margaret Floy Washburn waren zwei der ersten Frauen auf dem Feld."
+  },
+  { 
+    "id": 336,
+    "title": "",
+    "question": "P-5 Wie haben Behaviorismus, Freudsche Psychologie und humanistische Psychologie die Entwicklung der psychologischen Wissenschaft vorangetrieben?",
+    "answer": "Frühe Forscher definierten Psychologie als „die Wissenschaft vom geistigen Leben“. In den 1920er Jahren verlagerte sich der Schwerpunkt des Fachgebiets unter dem Einfluss von John B. Watson und den Behavioristen auf die „wissenschaftliche Untersuchung beobachtbaren Verhaltens“. Bis weit in die 1960er Jahre hinein wurde der Behaviorismus zu einer der beiden Hauptströmungen der Psychologie. Allerdings belebte die zweite große Kraft der Freudschen (psychoanalytischen) Psychologie zusammen mit dem Einfluss der humanistischen Psychologie das Interesse an der Untersuchung mentaler Prozesse wieder."
+  },
+  { 
+    "id": 337,
+    "title": "",
+    "question": "P-6 Wie hat sich die zeitgenössische Psychologie auf Kognition, auf Biologie und Erfahrung, auf Kultur und Geschlecht und auf das Gedeihen des Menschen konzentriert?",
+    "answer": "Die kognitive Revolution in den 1960er Jahren führte die Psychologie zu ihrem frühen Interesse am Geist und zu ihrer heutigen Definition als Wissenschaft des Verhaltens und mentaler Prozesse zurück. Das Gebiet der kognitiven Neurowissenschaften untersucht nun die Gehirnaktivität, die der geistigen Aktivität zugrunde liegt. Unser wachsendes Verständnis von Biologie und Erfahrung hat die nachhaltigste Debatte der Psychologie angeheizt. Bei der Frage der Naturpflege geht es um die relativen Beiträge von Genen und Erfahrungen sowie deren Interaktion in bestimmten Umgebungen. Charles Darwins Ansicht, dass natürliche Selektion Verhaltensweisen und Körper prägt, führte dazu, dass die Evolutionspsychologie unsere Ähnlichkeiten aufgrund unserer gemeinsamen Biologie und Evolutionsgeschichte untersuchte und sich die Verhaltensgenetik auf die relative Stärke und Grenzen genetischer und umweltbedingter Einflüsse auf das Verhalten konzentrierte. Interkulturelle Studien und Geschlechterstudien haben die Annahmen der Psychologie diversifiziert und uns gleichzeitig an unsere Gemeinsamkeiten erinnert. Einstellungen und Verhaltensweisen können je nach Geschlecht oder Kultur etwas unterschiedlich sein, aber aufgrund unserer gemeinsamen menschlichen Verwandtschaft sind die zugrunde liegenden Prozesse und Prinzipien eher ähnlich als unterschiedlich. Der traditionelle Fokus der Psychologie auf das Verstehen und Behandeln von Problemen hat sich durch die Forderung der Positiven Psychologie nach mehr Forschung zum menschlichen Gedeihen und ihrem Versuch, Eigenschaften zu entdecken und zu fördern, die Menschen zum Gedeihen verhelfen, erweitert."
+  },
+  { 
+    "id": 338,
+    "title": "",
+    "question": "P-7 Wie nutzen Psychologen den biopsychosozialen Ansatz und wie kann er uns helfen, unsere vielfältige Welt zu verstehen?",
+    "answer": "Der biopsychosoziale Ansatz integriert Informationen aus drei unterschiedlichen, aber komplementären Analyseebenen: biologisch, psychologisch und soziokulturell. Dieser Ansatz bietet ein umfassenderes Verständnis, als es normalerweise möglich wäre, wenn man sich nur auf eine der aktuellen theoretischen Perspektiven der Psychologie stützt (Neurowissenschaften, Evolution, Verhaltensgenetik, Psychodynamik, Verhalten, Kognition und Sozialkultur)."
+  },
+  { 
+    "id": 339,
+    "title": "",
+    "question": "P-8 Was sind die wichtigsten Teilgebiete der Psychologie?",
+    "answer": "Innerhalb der Wissenschaft der Psychologie können Forscher Grundlagenforschung betreiben, um die Wissensbasis des Fachgebiets zu erweitern (häufig in den Bereichen biologische Psychologie, Entwicklungspsychologie, kognitive Psychologie, Persönlichkeitspsychologie und Sozialpsychologie), oder angewandte Forschung betreiben, um praktische Probleme zu lösen (in der industriellen Organisationspsychologie und anderen Bereichen). Diejenigen, die Psychologie als helfenden Beruf ausüben, können Menschen als beratende Psychologen unterstützen, indem sie Menschen bei Herausforderungen und Krisen (einschließlich akademischer, beruflicher und Beziehungsprobleme) helfen und ihre persönlichen und sozialen Fähigkeiten verbessern, oder als klinische Psychologen, die Menschen beurteilen und behandeln mit psychischen, emotionalen und Verhaltensstörungen. (Psychiater untersuchen und behandeln auch Menschen mit Störungen, aber als Ärzte können sie zusätzlich zur Psychotherapie Medikamente verschreiben.) Gemeindepsychologen arbeiten daran, ein gesundes soziales und physisches Umfeld zu schaffen (z. B. in Schulen und Nachbarschaften)."
+  },
+  { 
+    "id": 340,
+    "title": "",
+    "question": "P-9 Wie können psychologische Prinzipien Ihnen beim Lernen, Erinnern und Gedeihen helfen?",
+    "answer": "Der Testeffekt zeigt, dass Lernen und Gedächtnis durch aktives Abrufen und nicht nur durch einfaches erneutes Lesen von zuvor gelerntem Material verbessert werden. Die SQ R-Lernmethode – Umfrage, Fragen, Lesen, Abrufen und Überprüfen – wendet Prinzipien an, die aus der Gedächtnisforschung abgeleitet wurden, und kann Ihnen dabei helfen, Material zu lernen und sich daran zu erinnern. Vier weitere Tipps sind: (1) Verteilen Sie Ihre Lernzeit; (2) lernen, kritisch zu denken; (3) Klasseninformationen aktiv verarbeiten; und (4) überlernen. Psychologische Untersuchungen haben gezeigt, dass Menschen, die ein glückliches und erfolgreiches Leben führen, ihre Zeit einplanen, um eine volle Nachtruhe zu bekommen; Platz für Bewegung schaffen; langfristige Ziele mit täglichen Zielen setzen; eine Wachstumsmentalität haben; und Beziehungen priorisieren."
+  },
+  { 
     "id": 1,
-    "title": "Learning Objective Questions – Kapitel 1",
+    "title": "Learning Objective Questions – Kapitel 01",
     "question": "",
     "answer": ""
   },
@@ -85,7 +145,7 @@
   },
   { 
     "id": 15,
-    "title": "Learning Objective Questions – Kapitel 2",
+    "title": "Learning Objective Questions – Kapitel 02",
     "question": "",
     "answer": ""
   },
@@ -105,7 +165,7 @@
     "id": 18,
     "title": "",
     "question": "2-3 Was sind Neuronen, und wie übertragen sie Informationen?",
-    "answer": "Neuronen sind die elementaren Bestandteile des Nervensystems, des schnellen elektrochemischen Informationssystems des Körpers. Ein Neuron (ein Zellkörper und seine verzweigten Fasern) empfängt Signale über seine oft buschigen, verzweigten Dendriten und sendet Signale über seine Axone. Einige Axone sind von einer Myelinscheide umhüllt, die eine schnellere    Übertragung ermöglicht. Gliazellen unterstützen, ernähren und schützen die Neuronen und spielen auch eine Rolle beim Lernen, Denken und Gedächtnis. Wenn die kombinierten Signale, die ein Neuron empfängt, einen Mindestschwelle überschreiten, feuert das Neuron und sendet einen elektrischen Impuls (das Aktionspotenzial) durch einen chemischen Prozess entlang seines Axons. Neuronen brauchen eine kurze Pause, die sogenannte Refraktärzeit, nach der sie wieder feuern können. Die Reaktion des Neurons ist eine Alles-oder-Nichts-Antwort."
+    "answer": "Neuronen sind die elementaren Bestandteile des Nervensystems, des schnellen elektrochemischen Informationssystems des Körpers. Ein Neuron (ein Zellkörper und seine verzweigten Fasern) empfängt Signale über seine oft buschigen, verzweigten Dendriten und sendet Signale über seine Axone. Einige Axone sind von einer Myelinscheide umhüllt, die eine schnellere Übertragung ermöglicht. Gliazellen unterstützen, ernähren und schützen die Neuronen und spielen auch eine Rolle beim Lernen, Denken und Gedächtnis. Wenn die kombinierten Signale, die ein Neuron empfängt, einen Mindestschwelle überschreiten, feuert das Neuron und sendet einen elektrischen Impuls (das Aktionspotenzial) durch einen chemischen Prozess entlang seines Axons. Neuronen brauchen eine kurze Pause, die sogenannte Refraktärzeit, nach der sie wieder feuern können. Die Reaktion des Neurons ist eine Alles-oder-Nichts-Antwort."
   },
   { 
     "id": 19,
@@ -175,7 +235,7 @@
   },
   { 
     "id": 30,
-    "title": "Learning Objective Questions – Kapitel 3",
+    "title": "Learning Objective Questions – Kapitel 03",
     "question": "",
     "answer": ""
   },
@@ -277,7 +337,7 @@
   },
   { 
     "id": 53,
-    "title": "Learning Objective Questions – Kapitel 4",
+    "title": "Learning Objective Questions – Kapitel 04",
     "question": "",
     "answer": ""
   },
@@ -403,7 +463,7 @@
   },
   { 
     "id": 74,
-    "title": "Learning Objective Questions – Kapitel 5",
+    "title": "Learning Objective Questions – Kapitel 05",
     "question": "",
     "answer": ""
   },
@@ -553,7 +613,7 @@
   },
   { 
     "id": 99,
-    "title": "Learning Objective Questions – Kapitel 6",
+    "title": "Learning Objective Questions – Kapitel 06",
     "question": "",
     "answer": ""
   },
@@ -703,7 +763,7 @@
   },
   { 
     "id": 124,
-    "title": "Learning Objective Questions – Kapitel 7",
+    "title": "Learning Objective Questions – Kapitel 07",
     "question": "",
     "answer": ""
   },
@@ -823,7 +883,7 @@
   },
   { 
     "id": 144,
-    "title": "Learning Objective Questions – Kapitel 8",
+    "title": "Learning Objective Questions – Kapitel 08",
     "question": "",
     "answer": ""
   },
@@ -943,7 +1003,7 @@
   },
   { 
     "id": 164,
-    "title": "Learning Objective Questions – Kapitel 9",
+    "title": "Learning Objective Questions – Kapitel 09",
     "question": "",
     "answer": ""
   },
@@ -1531,7 +1591,7 @@
   },
   { 
     "id": 262,
-    "title": "Learning Objective Questions – Kapitel 1",
+    "title": "Learning Objective Questions – Kapitel 14",
     "question": "",
     "answer": ""
   },
@@ -1930,11 +1990,5 @@
     "title": "",
     "question": "16-17 Was kann helfen, psychischen Störungen vorzubeugen, und warum ist es wichtig, Resilienz zu entwickeln?",
     "answer": "Präventive Programme zur psychischen Gesundheit basieren auf der Idee, dass viele psychische Störungen verhindert werden könnten, indem stressige und negative soziale Kontexte in wohlwollendere, nährendere Umgebungen umgewandelt werden, die Wachstum, Selbstvertrauen und Belastbarkeit fördern. Der Kampf mit Herausforderungen kann zu posttraumatischem Wachstum führen. Gemeinschaftspsychologen arbeiten daran, psychischen Störungen vorzubeugen, indem sie destruktive Umgebungen in nährendere Orte verwandeln, die Kompetenz, Gesundheit und Wohlbefinden fördern."
-  },
-  { 
-    "id": 330,
-    "title": "",
-    "question": "",
-    "answer": ""
   }
 ]

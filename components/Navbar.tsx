@@ -1,19 +1,13 @@
 "use client";
 import Link from 'next/link';
-import { useRouter } from 'next/navigation';
+import { usePathname } from 'next/navigation';
 import React, { useState } from 'react';
 
 
 
-const Navbar = ({  }) => {
-  // console.log(params)
+const Navbar = (router: any ) => {
   const [open, setOpen] = useState(false);
-  const router = useRouter();
-  // const navigate = (page: string) => {
-  //   router.push(path)
-  // }
-  
-
+  const currentPage = usePathname();
 
   const handleClick = () => {
     if (open) {
@@ -24,10 +18,22 @@ const Navbar = ({  }) => {
   }
 
   const navItemsQuestions = [
-    "Learning Objective Questions – Kapitel 1",
-    "Learning Objective Questions – Kapitel 2",
-    "Learning Objective Questions – Kapitel 3",
-    "Learning Objective Questions – Kapitel 4"
+    "Learning Objective Questions – Kapitel 01",
+    "Learning Objective Questions – Kapitel 02",
+    "Learning Objective Questions – Kapitel 03",
+    "Learning Objective Questions – Kapitel 04",
+    "Learning Objective Questions – Kapitel 05",
+    "Learning Objective Questions – Kapitel 06",
+    "Learning Objective Questions – Kapitel 07",
+    "Learning Objective Questions – Kapitel 08",
+    "Learning Objective Questions – Kapitel 09",
+    "Learning Objective Questions – Kapitel 10",
+    "Learning Objective Questions – Kapitel 11",
+    "Learning Objective Questions – Kapitel 12",
+    "Learning Objective Questions – Kapitel 13",
+    "Learning Objective Questions – Kapitel 14",
+    "Learning Objective Questions – Kapitel 15",
+    "Learning Objective Questions – Kapitel 16"
   ]
 
   const navItems = [
@@ -78,33 +84,74 @@ const Navbar = ({  }) => {
               </div>
               <div className='flex flex-col gap-5 rounded-md border-[1px] border-slate-300/40 bg-black/75 p-6 backdrop:blur-sm font-light text-sm visible md:invisible absolute top-20 right-6 z-40'>
                 {
-                  navItems.map((item, index) => (
-                    <Link
-                      key={index}
-                      className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-                      href={`#${item}`}>
-                        {`${item.slice(0, 10).toLowerCase()}`}</Link>
-                  ))
+                  currentPage.toString().includes("question") ? (
+                      navItemsQuestions.map((item, index) => (
+                        
+                        <Link
+                          key={index}
+                          className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
+                          href={`#${item}`}>
+                          {`${item.slice(-2)}`}
+                        </Link>
+                      )
+                    )
+                  ) : (
+                    navItems.map((item, index) => (
+                        <Link
+                          key={index}
+                          className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
+                          href={`#${item}`}>
+                          {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}
+                        </Link>
+                      )
+                    )
+                  )
                 }
-                <Link
-                  href="/questions"
-                >
-                  Questions</Link>
-              </div>
-              
+                {
+                  currentPage.toString().includes("questions") ? (
+                    <Link
+                      href="/"
+                      >
+                      HOME
+                    </Link>
+                  ) : (
+                    <Link
+                      href="/questions"
+                      >
+                      QUESTIONS
+                    </Link>
+                  )
+                }
             </div>
+            
+          </div>
         )
       }
 
       <div className='flex flex-row gap-5 font-light text-sm invisible md:visible'>
         {
-          navItems.map((item, index) => (
-            <Link
-              key={index}
-              className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-              href={`#${item}`}>
-                {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}</Link>
-          ))
+          currentPage.toString().includes("question") ? (
+              navItemsQuestions.map((item, index) => (
+                
+                <Link
+                  key={index}
+                  className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
+                  href={`#${item}`}>
+                  {`${item.slice(-2)}`}
+                </Link>
+              )
+            )
+          ) : (
+            navItems.map((item, index) => (
+                <Link
+                  key={index}
+                  className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
+                  href={`#${item}`}>
+                  {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}
+                </Link>
+              )
+            )
+          )
         }
       </div>
     </nav>

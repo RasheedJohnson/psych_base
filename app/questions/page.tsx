@@ -32,16 +32,16 @@ export default function Questions() {
       {
         items.map((item) => (
           item.title !== "" ? (
-            // CHAPTER QUESTIONS TITLE
-            <div
-              key={item.id}
-              id={item.title}
-              className="mb-8 flex flex-col justify-center items-center">
-              <p className="chapter-name">
-                {item.title}
-              </p>
-              <HorizontalRule/>
-            </div>
+              // CHAPTER QUESTIONS TITLE
+              <div
+                key={item.id}
+                id={item.title}
+                className="mb-8 flex flex-col justify-center items-center">
+                <p className="chapter-name">
+                  {item.title}
+                </p>
+                <HorizontalRule/>
+              </div>
           ) : (
               // CHAPTER QUESTIONS
               <div
