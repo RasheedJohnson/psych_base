@@ -65,6 +65,16 @@ const Navbar = (router: any ) => {
       </div>
 
       {
+        currentPage.toString().includes("question") ? (
+          <Link className='semibold ml-10 py-2 px-6 border-gray-100/15 border-[1px] rounded-lg content-center' href="/">
+            DEFINITIONS</Link>
+        ): (
+        <Link className='semibold ml-10 py-2 px-6 border-gray-100/15 border-[1px] rounded-lg content-center' href="/questions">
+              QUESTIONS</Link>
+          )
+      }
+
+      {
         !open ? (
           <div
             onClick={handleClick}
@@ -109,17 +119,11 @@ const Navbar = (router: any ) => {
                 }
                 {
                   currentPage.toString().includes("questions") ? (
-                    <Link
-                      href="/"
-                      >
-                      HOME
-                    </Link>
+                    <Link href="/">
+                      HOME</Link>
                   ) : (
-                    <Link
-                      href="/questions"
-                      >
-                      QUESTIONS
-                    </Link>
+                    <Link href="/questions">
+                      QUESTIONS</Link>
                   )
                 }
             </div>
