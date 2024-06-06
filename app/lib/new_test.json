@@ -586,7 +586,7 @@
     "content": "the body’s speedy, electrochemical communication network, consisting of all the nerve cells of the peripheral and central nervous systems.",
     "de_title": "Nervensystem",
     "de_content": "das schnelle, elektrochemische Kommunikationsnetzwerk des Körpers, bestehend aus allen Nervenzellen des peripheren und zentralen Nervensystems."
-  },  
+  },
   {
     "id": 101,
     "title": "central nervous system (CNS)",
@@ -2716,2521 +2716,2465 @@
     "de_title": "Langzeitgedächtnis",
     "de_content": "das relativ permanente und unbegrenzte Archiv des Speichersystems. Beinhaltet Kenntnisse, Fähigkeiten und Erfahrungen."
   },
-  { 
+  {
     "id": 421,
     "title": "working memory",
     "content": "a newer understanding of short-term memory; conscious, active processing of both incoming sensory information, and information retrieved from long-term memory.",
     "de_title": "Arbeitsgedächtnis",
     "de_content": "ein neueres Verständnis des Kurzzeitgedächtnisses; bewusste, aktive Verarbeitung sowohl eingehender sensorischer Informationen als auch aus dem Langzeitgedächtnis abgerufener Informationen."
   },
-  { 
+  {
     "id": 422,
     "title": "explicit memory",
     "content": "retention of facts and experiences that we can consciously know and “declare.” (Also called declarative memory.)",
     "de_title": "explizites Gedächtnis",
     "de_content": "Speicherung von Fakten und Erfahrungen, die wir bewusst kennen und „deklarieren“ können. (Auch deklaratives Gedächtnis genannt.)"
   },
-  { 
+  {
     "id": 423,
     "title": "effortful processing",
     "content": "encoding that requires attention and conscious effort.",
     "de_title": "aufwändige Bearbeitung",
     "de_content": "Kodierung, die Aufmerksamkeit und bewusste Anstrengung erfordert."
   },
-  { 
+  {
     "id": 424,
     "title": "automatic processing",
     "content": "unconscious encoding of incidental information, such as space, time, and frequency, and of familiar or well-learned information, such as sounds, smells, and word meanings.",
     "de_title": "automatische Verarbeitung",
     "de_content": "unbewusste Kodierung zufälliger Informationen wie Raum, Zeit und Frequenz sowie vertrauter oder gut erlernter Informationen wie Geräusche, Gerüche und Wortbedeutungen."
   },
-  { 
+  {
     "id": 425,
     "title": "implicit memory",
     "content": "retention of learned skills or classically conditioned associations independent of conscious recollection. (Also called nondeclarative memory.)",
     "de_title": "implizites Gedächtnis",
     "de_content": "Beibehaltung erlernter Fähigkeiten oder klassisch bedingter Assoziationen unabhängig von bewusster Erinnerung. (Auch nichtdeklaratives Gedächtnis genannt.)"
   },
-  { 
+  {
     "id": 426,
     "title": "iconic memory",
     "content": "a momentary sensory memory of visual stimuli; a photographic or picture-image memory lasting no more than a few tenths of a second.",
     "de_title": "ikonische Erinnerung",
     "de_content": "eine momentane sensorische Erinnerung an visuelle Reize; ein fotografisches oder Bild-Bild-Gedächtnis, das nicht länger als einige Zehntelsekunden dauert."
   },
-  { 
+  {
     "id": 427,
     "title": "echoic memory",
     "content": "a momentary sensory memory of auditory stimuli; if attention is elsewhere, sounds and words can still be recalled within 3 or 4 seconds.",
     "de_title": "echoisches Gedächtnis",
     "de_content": "eine momentane sensorische Erinnerung an Hörreize; Wenn die Aufmerksamkeit woanders liegt, können Geräusche und Wörter immer noch innerhalb von 3 oder 4 Sekunden abgerufen werden."
   },
-  { 
+  {
     "id": 428,
     "title": "chunking",
     "content": "organizing items into familiar, manageable units; often occurs automatically.",
     "de_title": "Chunking",
     "de_content": "Organisieren von Gegenständen in vertrauten, überschaubaren Einheiten; passiert oft automatisch."
   },
-  { 
+  {
     "id": 429,
     "title": "mnemonics",
     "content": "[nih-MON-iks] memory aids, especially those techniques that use vivid imagery and organizational devices.",
     "de_title": "Mnemonik",
     "de_content": "Gedächtnishilfen, insbesondere solche Techniken, die lebendige Bilder und Organisationshilfen verwenden."
   },
-  { 
+  {
     "id": 430,
     "title": "spacing effect",
     "content": "the tendency for distributed study or practice to yield better long-term retention than is achieved through massed study or practice.",
     "de_title": "Abstandseffekt",
     "de_content": "Die Tendenz, dass verteiltes Lernen oder Üben zu einer besseren langfristigen Bindung führt, als dies durch massenhaftes Lernen oder Üben erreicht wird."
   },
-  { 
+  {
     "id": 431,
     "title": "testing effect",
     "content": "enhanced memory after retrieving, rather than simply rereading, information. Also sometimes referred to as a retrieval practice effect or test-enhanced learning.",
     "de_title": "Testwirkung",
     "de_content": "Verbessertes Gedächtnis nach dem Abrufen von Informationen, anstatt sie einfach erneut zu lesen. Wird manchmal auch als Abrufübungseffekt oder testgestütztes Lernen bezeichnet."
   },
-  { 
+  {
     "id": 432,
     "title": "shallow processing",
     "content": "encoding on a basic level, based on the structure or appearance of words.",
     "de_title": "flache Verarbeitung",
     "de_content": "Kodierung auf einer grundlegenden Ebene, basierend auf der Struktur oder dem Aussehen von Wörtern."
   },
-  { 
+  {
     "id": 433,
     "title": "deep processing",
     "content": "encoding semantically, based on the meaning of the words; tends to yield the best retention.",
     "de_title": "tiefe verarbeitung",
     "de_content": "semantische Kodierung, basierend auf der Bedeutung der Wörter; neigt dazu, die beste Retention zu erzielen."
   },
-  { 
+  {
     "id": 434,
     "title": "CHAPTER - ",
     "content": "Storing and Retrieving Memories",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 435,
     "title": "semantic memory",
     "content": "explicit memory of facts and general knowledge; one of our two conscious memory systems (the other is episodic memory).",
     "de_title": "semantisches Gedächtnis",
     "de_content": "explizite Erinnerung an Fakten und Allgemeinwissen; eines unserer beiden bewussten Gedächtnissysteme (das andere ist das episodische Gedächtnis)."
   },
-  { 
+  {
     "id": 436,
     "title": "episodic memory",
     "content": "explicit memory of personally experienced events; one of our two conscious memory systems (the other is semantic memory).",
     "de_title": "episodisches Gedächtnis",
     "de_content": "explizite Erinnerung an persönlich erlebte Ereignisse; eines unserer beiden bewussten Gedächtnissysteme (das andere ist das semantische Gedächtnis)."
   },
-  { 
+  {
     "id": 437,
     "title": "hippocampus",
     "content": "a neural center located in the limbic system; helps process explicit (conscious) memories—of facts and events—for storage.",
     "de_title": "Hippocampus",
     "de_content": "ein neuronales Zentrum im limbischen System; hilft dabei, explizite (bewusste) Erinnerungen – an Fakten und Ereignisse – zur Speicherung zu verarbeiten."
   },
-  { 
+  {
     "id": 438,
     "title": "memory consolidation",
     "content": "the neural storage of a long-term memory.",
     "de_title": "Gedächtniskonsolidierung",
     "de_content": "die neuronale Speicherung eines Langzeitgedächtnisses."
   },
-  { 
+  {
     "id": 439,
     "title": "flashbulb memory",
     "content": "a clear memory of an emotionally significant moment or event.",
     "de_title": "Flashbulb-Speicher",
     "de_content": "eine klare Erinnerung an einen emotional bedeutsamen Moment oder ein emotional bedeutsames Ereignis."
   },
-  { 
+  {
     "id": 440,
     "title": "long-term potentiation (LTP)",
     "content": "an increase in a nerve cell’s firing potential after brief, rapid stimulation; a neural basis for learning and memory.",
     "de_title": "Langzeitpotenzierung (LTP)",
     "de_content": "eine Erhöhung des Zündpotentials einer Nervenzelle nach kurzer, schneller Stimulation; eine neuronale Grundlage für Lernen und Gedächtnis."
   },
-  { 
+  {
     "id": 441,
     "title": "priming",
     "content": "the activation, often unconsciously, of particular associations in memory.",
     "de_title": "Grundierung",
     "de_content": "die oft unbewusste Aktivierung bestimmter Assoziationen im Gedächtnis."
   },
-  { 
+  {
     "id": 442,
     "title": "encoding specificity principle",
     "content": "the idea that cues and contexts specific to a particular memory will be most effective in helping us recall it.",
     "de_title": "Kodierungsspezifitätsprinzip",
     "de_content": "die Idee, dass Hinweise und Kontexte, die für eine bestimmte Erinnerung spezifisch sind, uns am effektivsten dabei helfen, sie abzurufen."
   },
-  { 
+  {
     "id": 443,
     "title": "mood-congruent memory",
     "content": "the tendency to recall experiences that are consistent with one’s current good or bad mood.",
     "de_title": "stimmungskongruentes Gedächtnis",
     "de_content": "die Tendenz, sich an Erfahrungen zu erinnern, die mit der aktuellen guten oder schlechten Stimmung eines Menschen übereinstimmen."
   },
-  { 
+  {
     "id": 444,
     "title": "serial position effect",
     "content": "our tendency to recall best the last (recency effect) and first (primacy effect) items in a list.",
     "de_title": "serieller Positionseffekt",
     "de_content": "unsere Tendenz, sich am besten an das letzte (Aktualitätseffekt) und das erste (Primatitätseffekt) Element in einer Liste zu erinnern."
   },
-  { 
+  {
     "id": 445,
     "title": "CHAPTER - ",
     "content": "Forgetting, Memory Construction, and Improving Memory",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 446,
     "title": "anterograde amnesia",
     "content": "an inability to form new memories.",
     "de_title": "anterograde Amnesie",
     "de_content": "eine Unfähigkeit, neue Erinnerungen zu bilden."
   },
-  { 
+  {
     "id": 447,
     "title": "retrograde amnesia",
     "content": "an inability to remember information from one’s past.",
     "de_title": "retrograde Amnesie",
     "de_content": "eine Unfähigkeit, sich an Informationen aus der Vergangenheit zu erinnern."
   },
-  { 
+  {
     "id": 448,
     "title": "proactive interference",
     "content": "the forward-acting disruptive effect of older learning on the recall of new information.",
     "de_title": "proaktives Eingreifen",
     "de_content": "die zukunftsgerichtete störende Wirkung älteren Lernens auf die Erinnerung an neue Informationen."
   },
-  { 
+  {
     "id": 449,
     "title": "retroactive interference",
     "content": "the backward-acting disruptive effect of newer learning on the recall of old information.",
     "de_title": "rückwirkender Eingriff",
     "de_content": "die rückwärts wirkende störende Wirkung neueren Lernens auf die Erinnerung an alte Informationen."
   },
-  { 
+  {
     "id": 450,
     "title": "repression",
     "content": "in psychoanalytic theory, the basic defense mechanism that banishes from consciousness anxiety-arousing thoughts, feelings, and memories.",
     "de_title": "Repression",
     "de_content": "In der psychoanalytischen Theorie der grundlegende Abwehrmechanismus, der angstauslösende Gedanken, Gefühle und Erinnerungen aus dem Bewusstsein verbannt."
   },
-  { 
+  {
     "id": 452,
     "title": "reconsolidation",
     "content": "a process in which previously stored memories, when retrieved, are potentially altered before being stored again.",
     "de_title": "Neukonsolidierung",
     "de_content": "ein Prozess, bei dem zuvor gespeicherte Erinnerungen beim Abrufen möglicherweise verändert werden, bevor sie erneut gespeichert werden."
   },
-  { 
+  {
     "id": 453,
     "title": "misinformation effect",
     "content": "occurs when a memory has been corrupted by misleading information.",
     "de_title": "Fehlinformationseffekt",
     "de_content": "tritt auf, wenn ein Speicher durch irreführende Informationen beschädigt wurde."
   },
-  { 
+  {
     "id": 454,
     "title": "source amnesia",
     "content": "faulty memory for how, when, or where information was learned or imagined. (Also called source misattribution.) Source amnesia, along with the misinformation effect, is at the heart of many false memories.",
     "de_title": "Quelle Amnesie",
     "de_content": "fehlerhaftes Gedächtnis dafür, wie, wann oder wo Informationen gelernt oder eingebildet wurden. (Auch Quellenverfälschung genannt.) Quellenamnesie ist zusammen mit dem Fehlinformationseffekt die Grundlage vieler falscher Erinnerungen."
   },
-  { 
+  {
     "id": 455,
     "title": "déjà vu",
     "content": "that eerie sense that “I’ve experienced this before.” Cues from the current situation may unconsciously trigger retrieval of an earlier experience.",
     "de_title": "Déjà-vu",
     "de_content": "dieses unheimliche Gefühl: „Das habe ich schon einmal erlebt.“ Hinweise aus der aktuellen Situation können unbewusst das Abrufen einer früheren Erfahrung auslösen."
   },
-  { 
+  {
     "id": 456,
     "title": "CHAPTER 9: Thinking and Language",
     "content": "Thinking",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 457,
     "title": "cognition",
     "content": "all the mental activities associated with thinking, knowing, remembering, and communicating.",
     "de_title": "Erkenntnis",
     "de_content": "alle mentalen Aktivitäten, die mit Denken, Wissen, Erinnern und Kommunizieren verbunden sind."
   },
-  { 
+  {
     "id": 458,
     "title": "metacognition",
     "content": "cognition about our cognition; keeping track of and evaluating our mental processes.",
     "de_title": "Metakognition",
     "de_content": "Erkenntnis über unsere Erkenntnis; Verfolgen und Auswerten unserer mentalen Prozesse."
   },
-  { 
+  {
     "id": 459,
     "title": "concept",
     "content": "a mental grouping of similar objects, events, ideas, or people.",
     "de_title": "Konzept",
     "de_content": "eine mentale Gruppierung ähnlicher Objekte, Ereignisse, Ideen oder Personen."
   },
-  { 
+  {
     "id": 460,
     "title": "prototype",
     "content": "a mental image or best example of a category. Matching new items to a prototype provides a quick and easy method for sorting items into categories (as when comparing feathered creatures to a prototypical bird, such as a crow).",
     "de_title": "Prototyp",
     "de_content": "ein mentales Bild oder bestes Beispiel einer Kategorie. Das Zuordnen neuer Gegenstände zu einem Prototyp bietet eine schnelle und einfache Methode zum Sortieren von Gegenständen in Kategorien (z. B. beim Vergleich gefiederter Kreaturen mit einem prototypischen Vogel, beispielsweise einer Krähe)."
   },
-  { 
+  {
     "id": 461,
     "title": "algorithm",
     "content": "a methodical, logical rule or procedure that guarantees solving a particular problem. Contrasts with the usually speedier — but also more error-prone —use of heuristics.",
     "de_title": "Algorithmus",
     "de_content": "eine methodische, logische Regel oder Vorgehensweise, die die Lösung eines bestimmten Problems gewährleistet. Im Gegensatz zum normalerweise schnelleren – aber auch fehleranfälligeren – Einsatz von Heuristiken."
   },
-  { 
+  {
     "id": 462,
     "title": "heuristic",
     "content": "a simple thinking strategy—a mental shortcut—that often allows us to make judgments and solve problems efficiently; usually speedier but also more error-prone than an algorithm.",
     "de_title": "heuristisch",
     "de_content": "eine einfache Denkstrategie – eine mentale Abkürzung – die es uns oft ermöglicht, Urteile zu fällen und Probleme effizient zu lösen; normalerweise schneller, aber auch fehleranfälliger als ein Algorithmus."
   },
-  { 
+  {
     "id": 463,
     "title": "insight",
     "content": "a sudden realization of a problem’s solution; contrasts with strategy-based solutions.",
     "de_title": "Einblick",
     "de_content": "eine plötzliche Erkenntnis der Lösung eines Problems; steht im Gegensatz zu strategiebasierten Lösungen."
   },
-  { 
+  {
     "id": 464,
     "title": "confirmation bias",
     "content": "a tendency to search for information that supports our preconceptions and to ignore or distort contradictory evidence.",
     "de_title": "Bestätigungsfehler",
     "de_content": "eine Tendenz, nach Informationen zu suchen, die unsere Vorurteile stützen, und widersprüchliche Beweise zu ignorieren oder zu verzerren."
   },
-  { 
+  {
     "id": 465,
     "title": "fixation",
     "content": "in cognition, the inability to see a problem from a new perspective; an obstacle to problem solving.",
     "de_title": "Fixierung",
     "de_content": "in der Kognition die Unfähigkeit, ein Problem aus einer neuen Perspektive zu sehen; ein Hindernis für die Problemlösung."
   },
-  { 
+  {
     "id": 466,
     "title": "mental set",
     "content": "a tendency to approach a problem in one particular way, often a way that has been successful in the past.",
     "de_title": "mentale Einstellung",
     "de_content": "eine Tendenz, ein Problem auf eine bestimmte Art und Weise anzugehen, oft auf eine Weise, die in der Vergangenheit erfolgreich war."
   },
-  { 
+  {
     "id": 467,
     "title": "intuition",
     "content": "an effortless, immediate, automatic feeling or thought, as contrasted with explicit, conscious reasoning.",
     "de_title": "Intuition",
     "de_content": "ein müheloses, unmittelbares, automatisches Gefühl oder Gedanke im Gegensatz zu explizitem, bewusstem Denken."
   },
-  { 
+  {
     "id": 468,
     "title": "representativeness heuristic",
     "content": "judging the likelihood of events in terms of how well they seem to represent, or match, particular prototypes; may lead us to ignore other relevant information.",
     "de_title": "Repräsentativitätsheuristik",
     "de_content": "Beurteilung der Wahrscheinlichkeit von Ereignissen danach, wie gut sie bestimmte Prototypen zu repräsentieren oder mit ihnen übereinzustimmen scheinen; kann dazu führen, dass wir andere relevante Informationen ignorieren."
   },
-  { 
+  {
     "id": 469,
     "title": "availability heuristic",
     "content": "judging the likelihood of events based on their availability in memory; if instances come readily to mind (perhaps because of their vividness), we presume such events are common.",
     "de_title": "Verfügbarkeitsheuristik",
     "de_content": "Beurteilung der Wahrscheinlichkeit von Ereignissen anhand ihrer Verfügbarkeit im Gedächtnis; Wenn uns Vorfälle schnell in den Sinn kommen (vielleicht wegen ihrer Lebendigkeit), gehen wir davon aus, dass solche Ereignisse häufig vorkommen."
   },
-  { 
+  {
     "id": 470,
     "title": "overconfidence",
     "content": "the tendency to be more confident than correct—to overestimate the accuracy of our beliefs and judgments.",
     "de_title": "Selbstüberschätzung",
     "de_content": "die Tendenz, eher zuversichtlich als korrekt zu sein – die Genauigkeit unserer Überzeugungen und Urteile zu überschätzen."
   },
-  { 
+  {
     "id": 471,
     "title": "belief perseverance",
     "content": "clinging to one’s initial conceptions after the basis on which they were formed has been discredited.",
     "de_title": "Glaube Ausdauer",
     "de_content": "an den ursprünglichen Vorstellungen festzuhalten, nachdem die Grundlage, auf der sie entstanden sind, in Misskredit geraten ist."
   },
-  { 
+  {
     "id": 472,
     "title": "framing",
     "content": "the way an issue is posed; how an issue is framed can significantly affect decisions and judgments.",
     "de_title": "Rahmen",
     "de_content": "die Art und Weise, wie ein Problem gestellt wird; Die Art und Weise, wie ein Thema formuliert wird, kann Entscheidungen und Urteile erheblich beeinflussen."
   },
-  { 
+  {
     "id": 473,
     "title": "nudge",
     "content": "framing choices in a way that encourages people to make beneficial decisions.",
     "de_title": "Schubs",
     "de_content": "Entscheidungen so zu gestalten, dass Menschen dazu ermutigt werden, vorteilhafte Entscheidungen zu treffen."
   },
-  { 
+  {
     "id": 474,
     "title": "creativity",
     "content": "the ability to produce new and valuable ideas.",
     "de_title": "Kreativität",
     "de_content": "die Fähigkeit, neue und wertvolle Ideen hervorzubringen."
   },
-  { 
+  {
     "id": 475,
     "title": "convergent thinking",
     "content": "narrowing the available problem solutions to determine the single best solution.",
     "de_title": "konvergentes Denken",
     "de_content": "Eingrenzen der verfügbaren Problemlösungen, um die beste Einzellösung zu ermitteln."
   },
-  { 
+  {
     "id": 476,
     "title": "divergent thinking",
     "content": "expanding the number of possible problem solutions; creative thinking that diverges in different directions.",
     "de_title": "divergentes Denken",
     "de_content": "Erweiterung der Anzahl möglicher Problemlösungen; kreatives Denken, das in verschiedene Richtungen divergiert."
   },
-  { 
+  {
     "id": 477,
     "title": "Chapter - ",
     "content": "Language and Thought",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 478,
     "title": "language",
     "content": "our spoken, written, or signed words and the ways we combine them to communicate meaning.",
     "de_title": "Sprache",
     "de_content": "unsere gesprochenen, geschriebenen oder unterschriebenen Wörter und die Art und Weise, wie wir sie kombinieren, um Bedeutung zu vermitteln."
   },
-  { 
+  {
     "id": 479,
     "title": "phoneme",
     "content": "in a language, the smallest distinctive sound unit.",
     "de_title": "Phonem",
     "de_content": "in einer Sprache die kleinste charakteristische Lauteinheit."
   },
-  { 
+  {
     "id": 480,
     "title": "morpheme",
     "content": "in a language, the smallest unit that carries meaning; may be a word or a part of a word (such as a prefix).",
     "de_title": "morpheme",
     "de_content": "in einer Sprache die kleinste Einheit, die Bedeutung trägt; kann ein Wort oder ein Teil eines Wortes (z. B. ein Präfix) sein."
   },
-  { 
+  {
     "id": 481,
     "title": "grammar",
     "content": "in a language, a system of rules that enables us to communicate with and understand others. Semantics is the language’s set of rules for deriving meaning from sounds, and syntax is its set of rules for combining words into grammatically sensible sentences.",
     "de_title": "Grammatik",
     "de_content": "in einer Sprache ein System von Regeln, das es uns ermöglicht, mit anderen zu kommunizieren und sie zu verstehen. Semantik ist das Regelwerk der Sprache zum Ableiten von Bedeutungen aus Lauten, und Syntax ist das Regelwerk zum Kombinieren von Wörtern zu grammatikalisch sinnvollen Sätzen."
   },
-  { 
+  {
     "id": 483,
     "title": "babbling stage",
     "content": "the stage in speech development, beginning around 4 months, during which an infant spontaneously utters various sounds that are not all related to the household language.",
     "de_title": "plappernde Bühne",
     "de_content": "die Phase der Sprachentwicklung, die etwa im vierten Monat beginnt und in der ein Säugling spontan verschiedene Laute von sich gibt, die nicht alle mit der Haushaltssprache zu tun haben."
   },
-  { 
+  {
     "id": 484,
     "title": "one-word stage",
     "content": "the stage in speech development, from about age 1 to 2, during which a child speaks mostly in single words.",
     "de_title": "Ein-Wort-Stadium",
     "de_content": "die Phase der Sprachentwicklung, etwa im Alter von 1 bis 2 Jahren, in der ein Kind hauptsächlich in einzelnen Wörtern spricht."
   },
-  { 
+  {
     "id": 485,
     "title": "two-word stage",
     "content": "the stage in speech development, beginning about age 2, during which a child speaks mostly in two-word sentences.",
     "de_title": "Zwei-Wort-Stufe",
     "de_content": "die Phase der Sprachentwicklung, die etwa im Alter von 2 Jahren beginnt und in der ein Kind hauptsächlich in Zwei-Wort-Sätzen spricht."
   },
-  { 
+  {
     "id": 486,
     "title": "telegraphic speech",
     "content": "the early speech stage in which a child speaks like a telegram—“go car”—using mostly nouns and verbs.",
     "de_title": "telegrafische Rede",
     "de_content": "das frühe Sprachstadium, in dem ein Kind wie ein Telegramm spricht – „Auto fahren“ – und dabei hauptsächlich Substantive und Verben verwendet."
   },
-  { 
+  {
     "id": 487,
     "title": "aphasia",
     "content": "impairment of language, usually caused by left hemisphere damage either to Broca’s area (impairing speaking) or to Wernicke’s area (impairing understanding).",
     "de_title": "Aphasie",
     "de_content": "Beeinträchtigung der Sprache, die normalerweise durch eine Schädigung der linken Hemisphäre entweder im Broca-Bereich (Beeinträchtigung des Sprechens) oder im Wernicke-Bereich (Beeinträchtigung des Verständnisses) verursacht wird."
   },
-  { 
+  {
     "id": 488,
     "title": "Broca’s area",
     "content": "a frontal lobe brain area, usually in the left hemisphere, that helps control language expression by directing the muscle movements involved in speech.",
     "de_title": "Brocas Platz",
     "de_content": "Ein Gehirnbereich im Frontallappen, normalerweise in der linken Hemisphäre, der bei der Steuerung des Sprachausdrucks hilft, indem er die beim Sprechen beteiligten Muskelbewegungen steuert."
   },
-  { 
+  {
     "id": 489,
     "title": "Wernicke’s area",
     "content": "a brain area, usually in the left temporal lobe, involved in language comprehension and expression.",
     "de_title": "Wernickes Gegend",
     "de_content": "ein Gehirnbereich, normalerweise im linken Schläfenlappen, der am Sprachverständnis und -ausdruck beteiligt ist."
   },
-  { 
+  {
     "id": 490,
     "title": "linguistic determinism",
     "content": "Whorf’s hypothesis that language determines the way we think.",
     "de_title": "sprachlicher Determinismus",
     "de_content": "Whorfs Hypothese, dass die Sprache die Art und Weise bestimmt, wie wir denken."
   },
-  { 
+  {
     "id": 491,
     "title": "linguistic relativism",
     "content": "the idea that language influences the way we think.",
     "de_title": "sprachlicher Relativismus",
     "de_content": "die Idee, dass Sprache die Art und Weise beeinflusst, wie wir denken."
   },
-  { 
+  {
     "id": 492,
     "title": "CHAPTER 10: Intelligence",
     "content": "What Is Intelligence?",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 493,
     "title": "intelligence",
     "content": "the ability to learn from experience, solve problems, and use knowledge to adapt to new situations.",
     "de_title": "Intelligenz",
     "de_content": "die Fähigkeit, aus Erfahrungen zu lernen, Probleme zu lösen und Wissen zu nutzen, um sich an neue Situationen anzupassen."
   },
-  { 
+  {
     "id": 494,
     "title": "general intelligence (g)",
     "content": "according to Spearman and others, underlies all mental abilities and is therefore measured by every task on an intelligence test.",
     "de_title": "allgemeine Intelligenz (g)",
     "de_content": "Laut Spearman und anderen liegt es allen geistigen Fähigkeiten zugrunde und wird daher bei jeder Aufgabe eines Intelligenztests gemessen."
   },
-  { 
+  {
     "id": 495,
     "title": "fluid intelligence (Gf)",
     "content": "our ability to reason speedily and abstractly; tends to decrease with age, especially during late adulthood.",
     "de_title": "Fluide Intelligenz (Gf)",
     "de_content": "unsere Fähigkeit, schnell und abstrakt zu denken; Mit zunehmendem Alter nimmt die Tendenz ab, insbesondere im späten Erwachsenenalter."
   },
-  { 
+  {
     "id": 496,
     "title": "crystallized intelligence (Gc)",
     "content": "our accumulated knowledge and verbal skills; tends to increase with age.",
     "de_title": "kristallisierte Intelligenz (Gc)",
     "de_content": "unser angesammeltes Wissen und unsere verbalen Fähigkeiten; nimmt tendenziell mit zunehmendem Alter zu."
   },
-  { 
+  {
     "id": 497,
     "title": "Cattell-Horn-Carroll (CHC) theory",
     "content": "the theory that our intelligence is based on g as well as specific abilities, bridged by Gf and Gc.",
     "de_title": "Cattell-Horn-Carroll (CHC)-Theorie",
     "de_content": "die Theorie, dass unsere Intelligenz sowohl auf g als auch auf spezifischen Fähigkeiten basiert, verbunden durch Gf und Gc."
   },
-  { 
+  {
     "id": 498,
     "title": "savant syndrome",
     "content": "a condition in which a person otherwise limited in mental ability has an exceptional specific skill, such as in computation or drawing.",
     "de_title": "Savant-Syndrom",
     "de_content": "ein Zustand, in dem eine Person, die ansonsten in ihren geistigen Fähigkeiten eingeschränkt wäre, über eine außergewöhnliche spezifische Fähigkeit verfügt, beispielsweise im Rechnen oder Zeichnen."
   },
-  { 
+  {
     "id": 499,
     "title": "emotional intelligence",
     "content": "the ability to perceive, understand, manage, and use emotions.",
     "de_title": "emotionale Intelligenz",
     "de_content": "die Fähigkeit, Emotionen wahrzunehmen, zu verstehen, zu verwalten und zu nutzen."
   },
-  { 
+  {
     "id": 515,
     "title": "Chapter - ",
     "content": "Intelligence Assessment and Dynamics",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 500,
     "title": "intelligence test",
     "content": "a method for assessing an individual’s mental aptitudes and comparing them with those of others, using numerical scores.",
     "de_title": "Intelligenztest",
     "de_content": "eine Methode zur Beurteilung der geistigen Fähigkeiten einer Person und zum Vergleich mit denen anderer mithilfe numerischer Werte."
   },
-  { 
+  {
     "id": 501,
     "title": "achievement test",
     "content": "a test designed to assess what a person has learned.",
     "de_title": "Leistungstest",
     "de_content": "ein Test, mit dem beurteilt werden soll, was eine Person gelernt hat."
   },
-  { 
+  {
     "id": 502,
     "title": "aptitude test",
     "content": "a test designed to predict a person’s future performance; aptitude is the capacity to learn.",
     "de_title": "Eignungsprüfung",
     "de_content": "ein Test, der die zukünftige Leistung einer Person vorhersagen soll; Eignung ist die Fähigkeit zu lernen."
   },
-  { 
+  {
     "id": 503,
     "title": "mental age",
     "content": "a measure of intelligence test performance devised by Binet; the level of performance typically associated with children of a certain chronological age. Thus, a child who does as well as an average 8-year-old is said to have a mental age of 8.",
     "de_title": "geistiges Alter",
     "de_content": "ein von Binet entwickeltes Maß für die Leistung von Intelligenztests; das Leistungsniveau, das typischerweise mit Kindern eines bestimmten chronologischen Alters verbunden ist. Daher sagt man, dass ein Kind, dem es genauso gut geht wie ein durchschnittlicher 8-Jähriger, ein geistiges Alter von 8 Jahren hat."
   },
-  { 
+  {
     "id": 504,
     "title": "Stanford-Binet",
     "content": "the widely used American revision (by Terman at Stanford University) of Binet’s original intelligence test.",
     "de_title": "Stanford-Binet",
     "de_content": "die weit verbreitete amerikanische Überarbeitung (von Terman an der Stanford University) von Binets ursprünglichem Intelligenztest."
   },
-  { 
+  {
     "id": 505,
     "title": "intelligence quotient (IQ)",
     "content": "defined originally as the ratio of mental age (ma) to chronological age (ca) multiplied by 100 (thus, On contemporary intelligence tests, the average performance for a given age is assigned a score of 100",
     "de_title": "Intelligenzquotient (IQ)",
     "de_content": "Ursprünglich definiert als das Verhältnis des geistigen Alters (ma) zum chronologischen Alter (ca), multipliziert mit 100 (somit wird bei modernen Intelligenztests der durchschnittlichen Leistung für ein bestimmtes Alter ein Wert von 100 zugewiesen"
   },
-  { 
+  {
     "id": 506,
     "title": "Wechsler Adult Intelligence Scale (WAIS)",
     "content": "the WAIS and its companion versions for children are the most widely used intelligence tests; they contain verbal and performance (nonverbal) subtests.",
     "de_title": "Wechsler Adult Intelligence Scale (WAIS)",
     "de_content": "Der WAIS und seine Begleitversionen für Kinder sind die am häufigsten verwendeten Intelligenztests. Sie enthalten verbale und leistungsbezogene (nonverbale) Untertests."
   },
-  { 
+  {
     "id": 507,
     "title": "standardization",
     "content": "defining uniform testing procedures and meaningful scores by comparison with the performance of a pretested group.",
     "de_title": "Standardisierung",
     "de_content": "Definition einheitlicher Testverfahren und aussagekräftiger Ergebnisse durch Vergleich mit der Leistung einer vorab getesteten Gruppe."
   },
-  { 
+  {
     "id": 508,
     "title": "normal curve",
     "content": "the bell-shaped curve that describes the distribution of many physical and psychological attributes. Most scores fall near the average, and fewer and fewer scores lie near the extremes.",
     "de_title": "Normalkurve",
     "de_content": "die glockenförmige Kurve, die die Verteilung vieler physischer und psychischer Eigenschaften beschreibt. Die meisten Werte liegen in der Nähe des Durchschnitts, und immer weniger Werte liegen im Extrembereich."
   },
-  { 
+  {
     "id": 509,
     "title": "reliability",
     "content": "the extent to which a test yields consistent results, as assessed by the consistency of scores on two halves of the test, on alternative forms of the test, or on retesting.",
     "de_title": "Zuverlässigkeit",
     "de_content": "das Ausmaß, in dem ein Test konsistente Ergebnisse liefert, gemessen an der Konsistenz der Ergebnisse in zwei Testhälften, bei alternativen Testformen oder bei Wiederholungstests."
   },
-  { 
+  {
     "id": 510,
     "title": "validity",
     "content": "the extent to which a test measures or predicts what it is supposed to. (See also predictive validity.)",
     "de_title": "Gültigkeit",
     "de_content": "das Ausmaß, in dem ein Test misst oder vorhersagt, was er soll. (Siehe auch Vorhersagevalidität.)"
   },
-  { 
+  {
     "id": 511,
     "title": "predictive validity",
     "content": "the success with which a test predicts the behavior it is designed to predict; it is assessed by computing the correlation between test scores and the criterion behavior. (Also called criterion-related validity.)",
     "de_title": "prognostische Validität",
     "de_content": "der Erfolg, mit dem ein Test das Verhalten vorhersagt, das er vorhersagen soll; Die Bewertung erfolgt durch Berechnung der Korrelation zwischen Testergebnissen und dem Kriteriumverhalten. (Auch kriterienbezogene Validität genannt.)"
   },
-  { 
+  {
     "id": 512,
     "title": "cross-sectional study",
     "content": "research that compares people of different ages at the same point in time.",
     "de_title": "Querschnittsstudie",
     "de_content": "Forschung, die Menschen unterschiedlichen Alters zum gleichen Zeitpunkt vergleicht."
   },
-  { 
+  {
     "id": 513,
     "title": "longitudinal study",
     "content": "research that follows and retests the same people over time.",
     "de_title": "Längsschnittstudie",
     "de_content": "Forschung, die dieselben Personen im Laufe der Zeit verfolgt und erneut testet."
   },
-  { 
+  {
     "id": 514,
     "title": "cohort",
     "content": "a group of people sharing a common characteristic, such as being from a given time period.",
     "de_title": "Kohorte",
     "de_content": "eine Gruppe von Menschen, die ein gemeinsames Merkmal haben, beispielsweise aus einem bestimmten Zeitraum stammen."
   },
-  { 
+  {
     "id": 516,
     "title": "Chapter - ",
     "content": "Genetic and Environmental Influences on Intelligence",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 517,
     "title": "heritability",
     "content": "the proportion of variation among individuals in a group that we can attribute to genes. The heritability of a trait may vary, depending on the range of populations and environments studied.",
     "de_title": "Erblichkeit",
     "de_content": "der Anteil der Variation zwischen Individuen in einer Gruppe, den wir den Genen zuschreiben können. Die Vererbbarkeit eines Merkmals kann je nach untersuchtem Populations- und Umgebungsbereich variieren."
   },
-  { 
+  {
     "id": 518,
     "title": "growth mindset",
     "content": "a focus on learning and growing rather than viewing abilities as fixed.",
     "de_title": "Wachstumsmentalität",
     "de_content": "ein Fokus auf Lernen und Wachstum, anstatt Fähigkeiten als festgelegt anzusehen."
   },
-  { 
+  {
     "id": 519,
     "title": "stereotype threat",
     "content": "a self-confirming concern that one will be evaluated based on a negative stereotype.",
     "de_title": "stereotype Bedrohung",
     "de_content": "eine sich selbst bestätigende Sorge, dass man aufgrund eines negativen Stereotyps bewertet wird."
   },
-  { 
+  {
     "id": 520,
     "title": "CHAPTER 11: What Drives Us: Hunger, Sex Belonging, and Achievement",
     "content": "Basic Motivational Concepts",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 521,
     "title": "motivation",
     "content": "a need or desire that energizes and directs behavior.",
     "de_title": "Motivation",
     "de_content": "ein Bedürfnis oder Wunsch, der das Verhalten antreibt und steuert."
   },
-  { 
+  {
     "id": 522,
     "title": "instinct",
     "content": "a complex behavior that is rigidly patterned throughout a species and is unlearned.",
     "de_title": "Instinkt",
     "de_content": "ein komplexes Verhalten, das einer Art starr nachempfunden und nicht erlernt ist."
   },
-  { 
+  {
     "id": 523,
     "title": "physiological need",
     "content": "a basic bodily requirement.",
     "de_title": "physiologisches Bedürfnis",
     "de_content": "ein Grundbedürfnis des Körpers."
   },
-  { 
+  {
     "id": 524,
     "title": "drive-reduction theory",
     "content": "the idea that a physiological need creates an aroused state (a drive) that motivates an organism to satisfy the need.",
     "de_title": "Antriebsreduktionstheorie",
     "de_content": "die Vorstellung, dass ein physiologisches Bedürfnis einen Erregungszustand (einen Trieb) erzeugt, der einen Organismus dazu motiviert, das Bedürfnis zu befriedigen."
   },
-  { 
+  {
     "id": 525,
     "title": "homeostasis",
     "content": "a tendency to maintain a balanced or constant internal state; the regulation of any aspect of body chemistry, such as blood glucose, around a particular level.",
     "de_title": "Homöostase",
     "de_content": "eine Tendenz, einen ausgeglichenen oder konstanten inneren Zustand aufrechtzuerhalten; die Regulierung aller Aspekte der Körperchemie, wie z. B. des Blutzuckers, um einen bestimmten Wert."
   },
-  { 
+  {
     "id": 526,
     "title": "incentive",
     "content": "a positive or negative environmental stimulus that motivates behavior.",
     "de_title": "Anreiz",
     "de_content": "ein positiver oder negativer Umweltreiz, der Verhalten motiviert."
   },
-  { 
+  {
     "id": 527,
     "title": "Yerkes-Dodson law",
     "content": "the principle that performance increases with arousal only up to a point, beyond which performance decreases.",
     "de_title": "Yerkes-Dodson-Gesetz",
     "de_content": "Das Prinzip, dass die Leistung mit der Erregung nur bis zu einem gewissen Punkt zunimmt, jenseits dessen die Leistung abnimmt."
   },
-  { 
+  {
     "id": 528,
     "title": "hierarchy of needs",
     "content": "Maslow’s pyramid of human needs, beginning at the base with physiological needs that must first be satisfied before people can fulfill their higher-level safety needs and then psychological needs.",
     "de_title": "Hierarchie der Bedürfnisse",
     "de_content": "Maslows Pyramide menschlicher Bedürfnisse beginnt an der Basis mit physiologischen Bedürfnissen, die zuerst befriedigt werden müssen, bevor Menschen ihre höheren Sicherheitsbedürfnisse erfüllen können, und dann mit psychologischen Bedürfnissen."
   },
-  { 
+  {
     "id": 529,
     "title": "Chapter - ",
     "content": "Hunger",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 530,
     "title": "glucose",
     "content": "the form of sugar that circulates in the blood and provides the major source of energy for body tissues. When its level is low, we feel hunger.",
     "de_title": "Glucose",
     "de_content": "die Form von Zucker, die im Blut zirkuliert und die Hauptenergiequelle für das Körpergewebe darstellt. Wenn sein Wert niedrig ist, verspüren wir Hunger."
   },
-  { 
+  {
     "id": 531,
     "title": "set point",
     "content": "the point at which the “weight thermostat” may be set. When the body falls below this weight, increased hunger and a lowered metabolic rate may combine to restore lost weight.",
     "de_title": "Sollwert",
     "de_content": "der Punkt, auf den der „Gewichtsthermostat“ eingestellt werden kann. Wenn der Körper dieses Gewicht unterschreitet, können verstärkter Hunger und eine verringerte Stoffwechselrate zusammen dazu führen, dass das verlorene Gewicht wiederhergestellt wird."
   },
-  { 
+  {
     "id": 532,
     "title": "basal metabolic rate",
     "content": "the body’s resting rate of energy output.",
     "de_title": "Grundumsatz",
     "de_content": "die Energieabgaberate des Körpers im Ruhezustand."
   },
-  { 
+  {
     "id": 534,
     "title": "obesity",
     "content": "defined as a body mass index (BMI) measurement of 30 or higher, which is calculated from our weight-to-height ratio. (Individuals who are overweight have a BMI of 25 or higher.)",
     "de_title": "Fettleibigkeit",
     "de_content": "definiert als ein Body-Mass-Index (BMI) von 30 oder höher, der aus unserem Gewicht-zu-Größe-Verhältnis berechnet wird. (Übergewichtige Personen haben einen BMI von 25 oder höher.)"
   },
-  { 
+  {
     "id": 535,
     "title": "CHAPTER - ",
     "content": "Sexual Motivation",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 536,
     "title": "asexual",
     "content": "having no sexual attraction toward others.",
     "de_title": "asexuell",
     "de_content": "keine sexuelle Anziehung zu anderen haben."
   },
-  { 
+  {
     "id": 537,
     "title": "testosterone",
     "content": "the most important male sex hormone. Males and females have it, but the additional testosterone in males stimulates the growth of the male sex organs during the fetal period, and the development of the male sex characteristics during puberty.",
     "de_title": "Testosteron",
     "de_content": "das wichtigste männliche Sexualhormon. Männer und Frauen haben es, aber das zusätzliche Testosteron bei Männern stimuliert das Wachstum der männlichen Geschlechtsorgane während der Fötalperiode und die Entwicklung der männlichen Geschlechtsmerkmale während der Pubertät."
   },
-  { 
+  {
     "id": 538,
     "title": "estrogens",
     "content": "sex hormones, such as estradiol, that contribute to female sex characteristics and are secreted in greater amounts by females than by males. Estrogen levels peak during ovulation. In nonhuman mammals, this promotes sexual receptivity.",
     "de_title": "Östrogene",
     "de_content": "Sexualhormone wie Östradiol, die zu den weiblichen Geschlechtsmerkmalen beitragen und von Frauen in größeren Mengen ausgeschüttet werden als von Männern. Der Östrogenspiegel erreicht während des Eisprungs seinen Höhepunkt. Bei nichtmenschlichen Säugetieren fördert dies die sexuelle Empfänglichkeit."
   },
-  { 
+  {
     "id": 539,
     "title": "sexual response cycle",
     "content": "the four stages of sexual responding described by Masters and Johnson—excitement, plateau, orgasm, and resolution.",
     "de_title": "sexueller Reaktionszyklus",
     "de_content": "die vier von Masters und Johnson beschriebenen Phasen der sexuellen Reaktion – Erregung, Plateau, Orgasmus und Auflösung."
   },
-  { 
+  {
     "id": 540,
     "title": "refractory period",
     "content": "in human sexuality, a resting period that occurs after orgasm, during which a person cannot achieve another orgasm.",
     "de_title": "Refraktärzeit",
     "de_content": "In der menschlichen Sexualität eine Ruhephase nach dem Orgasmus, in der eine Person keinen weiteren Orgasmus erreichen kann."
   },
-  { 
+  {
     "id": 541,
     "title": "sexual dysfunction",
     "content": "a problem that consistently impairs sexual arousal or functioning at any point in the sexual response cycle.",
     "de_title": "sexuelle Dysfunktion",
     "de_content": "ein Problem, das die sexuelle Erregung oder Funktion zu jedem Zeitpunkt des sexuellen Reaktionszyklus dauerhaft beeinträchtigt."
   },
-  { 
+  {
     "id": 542,
     "title": "erectile disorder",
     "content": "inability to develop or maintain an erection due to insufficient blood flow to the penis.",
     "de_title": "Erektionsstörung",
     "de_content": "Unfähigkeit, eine Erektion zu entwickeln oder aufrechtzuerhalten, da der Blutfluss zum Penis unzureichend ist."
   },
-  { 
+  {
     "id": 543,
     "title": "female orgasmic disorder",
     "content": "distress due to infrequently or never experiencing orgasm.",
     "de_title": "weibliche Orgasmusstörung",
     "de_content": "Stress aufgrund seltener oder nie erlebter Orgasmen."
   },
-  { 
+  {
     "id": 544,
     "title": "paraphilias",
     "content": "sexual arousal from fantasies, behaviors, or urges involving nonhuman objects, the suffering of self or others, and/or nonconsenting persons.",
     "de_title": "Paraphilien",
     "de_content": "sexuelle Erregung durch Fantasien, Verhaltensweisen oder Triebe, die nichtmenschliche Objekte, das Leiden von sich selbst oder anderen und/oder nicht einwilligende Personen betreffen."
   },
-  { 
+  {
     "id": 545,
     "title": "AIDS (acquired immune deficiency syndrome)",
     "content": "a life-threatening condition caused by the human immunodeficiency virus (HIV), a sexually transmitted infection. AIDS depletes the immune system, leaving the person vulnerable to infections.",
     "de_title": "AIDS (erworbenes Immunschwächesyndrom)",
     "de_content": "eine lebensbedrohliche Erkrankung, die durch das Humane Immundefizienzvirus (HIV), eine sexuell übertragbare Infektion, verursacht wird. AIDS schwächt das Immunsystem und macht die Person anfällig für Infektionen."
   },
-  { 
+  {
     "id": 546,
     "title": "sexual orientation",
     "content": "the direction of our sexual attractions, as reflected in our longings and fantasies.",
     "de_title": "sexuelle Orientierung",
     "de_content": "die Richtung unserer sexuellen Anziehungskraft, wie sie sich in unseren Sehnsüchten und Fantasien widerspiegelt."
   },
-  { 
+  {
     "id": 547,
     "title": "CHAPTER - ",
     "content": "Affiliation and Achievement",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 548,
     "title": "affiliation need",
     "content": "the need to build and maintain relationships and to feel part of a group.",
     "de_title": "Zugehörigkeitsbedürfnis",
     "de_content": "das Bedürfnis, Beziehungen aufzubauen und aufrechtzuerhalten und sich als Teil einer Gruppe zu fühlen."
   },
-  { 
+  {
     "id": 549,
     "title": "self-determination theory",
     "content": "the theory that we feel motivated to satisfy our needs for competence, autonomy, and relatedness.",
     "de_title": "Selbstbestimmungstheorie",
     "de_content": "die Theorie, dass wir uns motiviert fühlen, unsere Bedürfnisse nach Kompetenz, Autonomie und Verbundenheit zu befriedigen."
   },
-  { 
+  {
     "id": 550,
     "title": "ostracism",
     "content": "deliberate social exclusion of individuals or groups.",
     "de_title": "Ächtung",
     "de_content": "bewusste soziale Ausgrenzung von Einzelpersonen oder Gruppen."
   },
-  { 
+  {
     "id": 551,
     "title": "narcissism",
     "content": "excessive self-love and self-absorption.",
     "de_title": "Narzissmus",
     "de_content": "übermäßige Selbstliebe und Selbstbezogenheit."
   },
-  { 
+  {
     "id": 552,
     "title": "achievement motivation",
     "content": "a desire for significant accomplishment, for mastery of skills or ideas, for control, and for attaining a high standard.",
     "de_title": "Leistungsmotivation",
     "de_content": "der Wunsch nach bedeutender Leistung, nach der Beherrschung von Fähigkeiten oder Ideen, nach Kontrolle und nach dem Erreichen eines hohen Standards."
   },
-  { 
+  {
     "id": 553,
     "title": "grit",
     "content": "in psychology, passion and perseverance in the pursuit of long-term goals.",
     "de_title": "Streugut",
     "de_content": "in Psychologie, Leidenschaft und Ausdauer bei der Verfolgung langfristiger Ziele."
   },
-  { 
+  {
     "id": 554,
     "title": "intrinsic motivation",
     "content": "a desire to perform a behavior effectively for its own sake.",
     "de_title": "intrinsische Motivation",
     "de_content": "der Wunsch, ein Verhalten um seiner selbst willen effektiv auszuführen."
   },
-  { 
+  {
     "id": 555,
     "title": "extrinsic motivation",
     "content": "the desire to perform a behavior to receive promised rewards or avoid threatened punishment.",
     "de_title": "extrinsische Motivation",
     "de_content": "der Wunsch, ein Verhalten auszuführen, um versprochene Belohnungen zu erhalten oder einer drohenden Strafe zu entgehen."
   },
-  { 
+  {
     "id": 556,
     "title": "CHAPTER 12: Emotions, Stress, and Health",
     "content": "Introduction to Emotion",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 557,
     "title": "emotion",
     "content": "a response of the whole organism, involving (1) physiological arousal, (2) expressive behaviors, and, most importantly, (3) conscious experience resulting from one’s interpretations.",
     "de_title": "Emotion",
     "de_content": "eine Reaktion des gesamten Organismus, die (1) physiologische Erregung, (2) Ausdrucksverhalten und, was am wichtigsten ist, (3) bewusste Erfahrung, die aus den eigenen Interpretationen resultiert, umfasst."
   },
-  { 
+  {
     "id": 558,
     "title": "James-Lange theory",
     "content": "the theory that our experience of emotion occurs when we become aware of our physiological responses to an emotion arousing stimulus.",
     "de_title": "James-Lange-Theorie",
     "de_content": "Die Theorie, dass unsere Emotionserfahrung dann auftritt, wenn wir uns unserer physiologischen Reaktionen auf einen emotionsauslösenden Reiz bewusst werden."
   },
-  { 
+  {
     "id": 559,
     "title": "Cannon-Bard theory",
     "content": "the theory that an emotion-arousing stimulus simultaneously triggers (1) physiological responses and (2) the subjective experience of emotion.",
     "de_title": "Cannon-Bard-Theorie",
     "de_content": "die Theorie, dass ein emotionserregender Reiz gleichzeitig (1) physiologische Reaktionen und (2) das subjektive Erleben von Emotionen auslöst."
   },
-  { 
+  {
     "id": 560,
     "title": "two-factor theory",
     "content": "the Schachter-Singer theory that to experience emotion one must (1) be physically aroused and (2) cognitively label the arousal.",
     "de_title": "Zwei-Faktoren-Theorie",
     "de_content": "die Schachter-Singer-Theorie, dass man, um Emotionen zu erleben, (1) körperlich erregt sein und (2) die Erregung kognitiv kennzeichnen muss."
   },
-  { 
+  {
     "id": 561,
     "title": "polygraph",
     "content": "a machine used in attempts to detect lies; measures emotion-linked changes in perspiration, heart rate, and breathing.",
     "de_title": "Lügendetektor",
     "de_content": "eine Maschine, mit der versucht wird, Lügen aufzudecken; misst emotionsbedingte Veränderungen in Schweiß, Herzfrequenz und Atmung."
   },
-  { 
+  {
     "id": 562,
     "title": "CHAPTER - ",
     "content": "Expressing Emotion",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 563,
     "title": "behavior feedback effect",
     "content": "the tendency of behavior to influence our own and others’ thoughts, feelings, and actions.",
     "de_title": "Verhaltens-Feedback-Effekt",
     "de_content": "die Tendenz des Verhaltens, unsere eigenen und die Gedanken, Gefühle und Handlungen anderer zu beeinflussen."
   },
-  { 
+  {
     "id": 564,
     "title": "facial feedback effect",
     "content": "the tendency of facial muscle states to trigger corresponding feelings, such as fear, anger, or happiness.",
     "de_title": "Gesichts-Feedback-Effekt",
     "de_content": "die Tendenz von Gesichtsmuskelzuständen, entsprechende Gefühle wie Angst, Wut oder Glück auszulösen."
   },
-  { 
+  {
     "id": 565,
     "title": "behavior feedback effect",
     "content": "the tendency of behavior to influence our own and others’ thoughts, feelings, and actions.",
     "de_title": "Verhaltens-Feedback-Effekt",
     "de_content": "die Tendenz des Verhaltens, unsere eigenen und die Gedanken, Gefühle und Handlungen anderer zu beeinflussen."
   },
-  { 
+  {
     "id": 566,
     "title": "CHAPTER - ",
     "content": "Experiencing Emotion",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 567,
     "title": "catharsis",
     "content": "in psychology, the idea that “releasing” aggressive energy (through action or fantasy) relieves aggressive urges.",
     "de_title": "Katharsis",
     "de_content": "In der Psychologie die Idee, dass das „Freisetzen“ aggressiver Energie (durch Handlung oder Fantasie) aggressive Triebe lindert."
   },
-  { 
+  {
     "id": 568,
     "title": "feel-good, do-good phenomenon",
     "content": "people’s tendency to be helpful when in a good mood.",
     "de_title": "Wohlfühl- und Wohlfühlphänomen",
     "de_content": "die Tendenz von Menschen, hilfsbereit zu sein, wenn sie gute Laune haben."
   },
-  { 
+  {
     "id": 569,
     "title": "positive psychology",
     "content": "the scientific study of human flourishing, with the goals of discovering and promoting strengths and virtues that help individuals and communities to thrive.",
     "de_title": "Positive Psychologie",
     "de_content": "die wissenschaftliche Untersuchung des menschlichen Gedeihens mit dem Ziel, Stärken und Tugenden zu entdecken und zu fördern, die Einzelpersonen und Gemeinschaften zum Gedeihen verhelfen."
   },
-  { 
+  {
     "id": 570,
     "title": "subjective well-being",
     "content": "self-perceived happiness or satisfaction with life. Used along with measures of objective well-being (for example, physical and economic indicators) to evaluate people’s quality of life.",
     "de_title": "Subjektives Wohlsein",
     "de_content": "selbst wahrgenommenes Glück oder Zufriedenheit mit dem Leben. Wird zusammen mit Maßen für das objektive Wohlbefinden (z. B. physische und wirtschaftliche Indikatoren) verwendet, um die Lebensqualität von Menschen zu bewerten."
   },
-  { 
+  {
     "id": 571,
     "title": "adaptation-level phenomenon",
     "content": "our tendency to form judgments (of sounds, of lights, of income) relative to a neutral level defined by our prior experience.",
     "de_title": "Phänomen auf der Anpassungsebene",
     "de_content": "unsere Tendenz, Urteile (über Geräusche, Lichter, Einkommen) relativ zu einem neutralen Niveau zu bilden, das durch unsere früheren Erfahrungen definiert wird."
   },
-  { 
+  {
     "id": 572,
     "title": "relative deprivation",
     "content": "the perception that we are worse off relative to those with whom we compare ourselves.",
     "de_title": "relative Deprivation",
     "de_content": "die Wahrnehmung, dass es uns im Vergleich zu denen, mit denen wir uns vergleichen, schlechter geht."
   },
-  { 
+  {
     "id": 573,
     "title": "CHAPTER - ",
     "content": "Stress and Illness",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 574,
     "title": "stress",
     "content": "the process by which we perceive and respond to certain events, called stressors, that we appraise as threatening or challenging.",
     "de_title": "Stress",
     "de_content": "der Prozess, durch den wir bestimmte Ereignisse, sogenannte Stressfaktoren, die wir als bedrohlich oder herausfordernd einschätzen, wahrnehmen und darauf reagieren."
   },
-  { 
+  {
     "id": 575,
     "title": "approach and avoidance motives",
     "content": "the drive to move toward (approach) or away from (avoid) a stimulus.",
     "de_title": "Annäherungs- und Vermeidungsmotive",
     "de_content": "der Drang, sich auf einen Reiz zuzubewegen (sich ihm zu nähern) oder sich von ihm zu entfernen (aus ihm auszuweichen)."
   },
-  { 
+  {
     "id": 576,
     "title": "general adaptation syndrome (GAS)",
     "content": "Selye’s concept of the body’s adaptive response to stress in three phases—alarm, resistance, exhaustion.",
     "de_title": "Allgemeines Anpassungssyndrom (GAS)",
     "de_content": "Selyes Konzept der adaptiven Reaktion des Körpers auf Stress in drei Phasen – Alarm, Widerstand, Erschöpfung."
   },
-  { 
+  {
     "id": 577,
     "title": "tend-and-befriend response",
     "content": "under stress, people (especially women) often provide support to others (tend) and bond with and seek support from others (befriend).",
     "de_title": "„Neige-und-sich-anfreunden“-Antwort",
     "de_content": "Unter Stress unterstützen Menschen (vor allem Frauen) oft andere (sich um sie kümmern) und knüpfen Kontakte zu anderen und suchen Unterstützung bei ihnen (sich mit ihnen anfreunden)."
   },
-  { 
+  {
     "id": 578,
     "title": "health psychology",
     "content": "a subfield of psychology that provides psychology’s contribution to behavioral medicine.",
     "de_title": "Gesundheitspsychologie",
     "de_content": "ein Teilgebiet der Psychologie, das den Beitrag der Psychologie zur Verhaltensmedizin liefert."
   },
-  { 
+  {
     "id": 579,
     "title": "psychoneuroimmunology",
     "content": "the study of how psychological, neural, and endocrine processes together affect our immune system and resulting health.",
     "de_title": "Psychoneuroimmunologie",
     "de_content": "die Untersuchung, wie psychologische, neuronale und endokrine Prozesse zusammen unser Immunsystem und die daraus resultierende Gesundheit beeinflussen."
   },
-  { 
+  {
     "id": 580,
     "title": "coronary heart disease",
     "content": "the clogging of the vessels that nourish the heart muscle; a leading cause of death in many developed countries.",
     "de_title": "koronare Herzerkrankung",
     "de_content": "die Verstopfung der Gefäße, die den Herzmuskel versorgen; eine der häufigsten Todesursachen in vielen entwickelten Ländern."
   },
-  { 
+  {
     "id": 581,
     "title": "Type A",
     "content": "Friedman and Rosenman’s term for competitive, hard-driving, impatient, verbally aggressive, and anger-prone people.",
     "de_title": "Tippe A",
     "de_content": "Friedmans und Rosenmans Begriff für wettbewerbsorientierte, ehrgeizige, ungeduldige, verbal aggressive und zu Wut neigende Menschen."
   },
-  { 
+  {
     "id": 582,
     "title": "Type B",
     "content": "Friedman and Rosenman’s term for easygoing, relaxed people.",
     "de_title": "Typ B",
     "de_content": "Friedmans und Rosenmans Begriff für lockere, entspannte Menschen."
   },
-  { 
+  {
     "id": 583,
     "title": "CHAPTER - ",
     "content": "Health and Coping",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 584,
     "title": "coping",
     "content": "alleviating stress using emotional, cognitive, or behavioral methods.",
     "de_title": "Bewältigung",
     "de_content": "Linderung von Stress durch emotionale, kognitive oder verhaltensbezogene Methoden."
   },
-  { 
+  {
     "id": 585,
     "title": "problem-focused coping",
     "content": "attempting to alleviate stress directly—by changing the stressor or the way we interact with that stressor.",
     "de_title": "problemorientierte Bewältigung",
     "de_content": "Der Versuch, Stress direkt zu lindern – indem wir den Stressor oder die Art und Weise, wie wir mit diesem Stressor interagieren, ändern."
   },
-  { 
+  {
     "id": 586,
     "title": "emotion-focused coping",
     "content": "attempting to alleviate stress by avoiding or ignoring a stressor and attending to emotional needs related to our stress reaction.",
     "de_title": "emotionsfokussierte Bewältigung",
     "de_content": "Der Versuch, Stress zu lindern, indem man einen Stressor vermeidet oder ignoriert und auf emotionale Bedürfnisse im Zusammenhang mit unserer Stressreaktion eingeht."
   },
-  { 
+  {
     "id": 587,
     "title": "personal control",
     "content": "our sense of controlling our environment rather than feeling helpless.",
     "de_title": "persönliche Kontrolle",
     "de_content": "unser Gefühl, unsere Umwelt zu kontrollieren, anstatt uns hilflos zu fühlen."
   },
-  { 
+  {
     "id": 588,
     "title": "learned helplessness",
     "content": "the hopelessness and passive resignation humans and other animals learn when unable to avoid repeated aversive events.",
     "de_title": "erlernte Hilflosigkeit",
     "de_content": "die Hoffnungslosigkeit und passive Resignation, die Menschen und andere Tiere lernen, wenn sie wiederholten aversiven Ereignissen nicht aus dem Weg gehen können."
   },
-  { 
+  {
     "id": 589,
     "title": "external locus of control",
     "content": "the perception that outside forces beyond our personal control determine our fate.",
     "de_title": "externen Ort der Kontrolle",
     "de_content": "die Wahrnehmung, dass äußere Kräfte außerhalb unserer persönlichen Kontrolle unser Schicksal bestimmen."
   },
-  { 
+  {
     "id": 590,
     "title": "internal locus of control",
     "content": "the perception that we control our own fate.",
     "de_title": "interner Kontrollort",
     "de_content": "die Wahrnehmung, dass wir unser eigenes Schicksal kontrollieren."
   },
-  { 
+  {
     "id": 591,
     "title": "self-control",
     "content": "the ability to control impulses and delay short-term gratification for greater long-term rewards.",
     "de_title": "Selbstkontrolle",
     "de_content": "die Fähigkeit, Impulse zu kontrollieren und kurzfristige Befriedigungen hinauszuzögern, um langfristig größere Belohnungen zu erhalten."
   },
-  { 
+  {
     "id": 592,
     "title": "aerobic exercise",
     "content": "sustained exercise that increases heart and lung fitness; also helps alleviate depression and anxiety.",
     "de_title": "Aerobic Übung",
     "de_content": "anhaltendes Training, das die Herz- und Lungenfitness steigert; Hilft auch bei der Linderung von Depressionen und Angstzuständen."
   },
-  { 
+  {
     "id": 593,
     "title": "mindfulness meditation",
     "content": "a reflective practice in which people attend to current experiences in a nonjudgmental and accepting manner.",
     "de_title": "Achtsamkeitsmeditation",
     "de_content": "eine reflexive Praxis, bei der Menschen auf unvoreingenommene und akzeptierende Weise mit aktuellen Erfahrungen umgehen."
   },
-  { 
+  {
     "id": 594,
     "title": "CHAPTER 13: Social Psychology",
     "content": "Social Thinking",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 595,
     "title": "social psychology",
     "content": "the scientific study of how we think about, influence, and relate to one another.",
     "de_title": "Sozialpsychologie",
     "de_content": "die wissenschaftliche Untersuchung darüber, wie wir über einander denken, wie wir ihn beeinflussen und wie wir miteinander umgehen."
   },
-  { 
+  {
     "id": 596,
     "title": "attribution theory",
     "content": "the theory that we explain someone’s behavior by crediting either the situation or the person’s disposition.",
     "de_title": "Attributionstheorie",
     "de_content": "die Theorie, dass wir das Verhalten einer Person dadurch erklären, dass wir entweder die Situation oder die Veranlagung der Person anführen."
   },
-  { 
+  {
     "id": 597,
     "title": "fundamental attribution error",
     "content": "the tendency, when analyzing others’ behavior, to underestimate the impact of the situation and to overestimate the impact of personal disposition.",
     "de_title": "grundlegender Zuordnungsfehler",
     "de_content": "die Tendenz, bei der Analyse des Verhaltens anderer die Auswirkungen der Situation zu unterschätzen und die Auswirkungen der persönlichen Disposition zu überschätzen."
   },
-  { 
+  {
     "id": 598,
     "title": "attitude",
     "content": "feelings, often influenced by our beliefs, that predispose us to respond in a particular way to objects, people, and events.",
     "de_title": "Attitüde",
     "de_content": "Gefühle, die oft von unseren Überzeugungen beeinflusst werden und uns dazu veranlassen, auf bestimmte Weise auf Objekte, Menschen und Ereignisse zu reagieren."
   },
-  { 
+  {
     "id": 599,
     "title": "foot-in-the-door phenomenon",
     "content": "the tendency for people who have first agreed to a small request to comply later with a larger request.",
     "de_title": "Fuß-in-der-Tür-Phänomen",
     "de_content": "die Tendenz von Personen, die zunächst einer kleinen Bitte zugestimmt haben, später einer größeren Bitte nachzukommen."
   },
-  { 
+  {
     "id": 600,
     "title": "role",
     "content": "a set of expectations (norms) about a social position, defining how those in the position ought to behave.",
     "de_title": "Rolle",
     "de_content": "eine Reihe von Erwartungen (Normen) an eine soziale Position, die definieren, wie sich die Personen in dieser Position verhalten sollten."
   },
-  { 
+  {
     "id": 601,
     "title": "cognitive dissonance theory",
     "content": "the theory that we act to reduce the discomfort (dissonance) we feel when two of our thoughts (cognitions) are inconsistent. For example, when we become aware that our attitudes and our actions clash, we can reduce the resulting dissonance by changing our attitudes.",
     "de_title": "Kognitive Dissonanz Theorie",
     "de_content": "Die Theorie, dass wir handeln, um das Unbehagen (Dissonanz) zu reduzieren, das wir empfinden, wenn zwei unserer Gedanken (Erkenntnisse) inkonsistent sind. Wenn wir uns zum Beispiel bewusst werden, dass unsere Einstellungen und unser Handeln im Widerspruch stehen, können wir die daraus resultierende Dissonanz reduzieren, indem wir unsere Einstellungen ändern."
   },
-  { 
+  {
     "id": 602,
     "title": "peripheral route persuasion",
     "content": "occurs when people are influenced by incidental cues, such as a speaker’s attractiveness.",
     "de_title": "Überzeugung der peripheren Route",
     "de_content": "tritt auf, wenn Menschen durch zufällige Hinweise beeinflusst werden, beispielsweise durch die Attraktivität eines Sprechers."
   },
-  { 
+  {
     "id": 603,
     "title": "central route persuasion",
     "content": "occurs when interested people’s thinking is influenced by considering evidence and arguments.",
     "de_title": "zentrale Route Überzeugung",
     "de_content": "tritt auf, wenn das Denken interessierter Menschen durch die Berücksichtigung von Beweisen und Argumenten beeinflusst wird."
   },
-  { 
+  {
     "id": 604,
     "title": "Chapter - ",
     "content": "Social Influence",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 605,
     "title": "norms",
     "content": "understood rules for accepted and expected behavior. Norms prescribe “proper” behavior.",
     "de_title": "Normen",
     "de_content": "verstandene Regeln für akzeptiertes und erwartetes Verhalten. Normen schreiben „richtiges“ Verhalten vor."
   },
-  { 
+  {
     "id": 606,
     "title": "conformity",
     "content": "adjusting our behavior or thinking to coincide with a group standard.",
     "de_title": "Konformität",
     "de_content": "Wir passen unser Verhalten oder Denken so an, dass es mit einem Gruppenstandard übereinstimmt."
   },
-  { 
+  {
     "id": 607,
     "title": "normative social influence",
     "content": "influence resulting from a person’s desire to gain approval or avoid disapproval.",
     "de_title": "normativer sozialer Einfluss",
     "de_content": "Einfluss, der aus dem Wunsch einer Person resultiert, Zustimmung zu erlangen oder Missbilligung zu vermeiden."
   },
-  { 
+  {
     "id": 608,
     "title": "informational social influence",
     "content": "influence resulting from a person’s willingness to accept others’ opinions about reality.",
     "de_title": "informativer sozialer Einfluss",
     "de_content": "Einfluss, der aus der Bereitschaft einer Person resultiert, die Meinungen anderer über die Realität zu akzeptieren."
   },
-  { 
+  {
     "id": 609,
     "title": "social facilitation",
     "content": "in the presence of others, improved performance on simple or well-learned tasks, and worsened performance on difficult tasks.",
     "de_title": "soziale Erleichterung",
     "de_content": "in Anwesenheit anderer verbesserte Leistung bei einfachen oder gut erlernten Aufgaben und schlechtere Leistung bei schwierigen Aufgaben."
   },
-  { 
+  {
     "id": 610,
     "title": "social loafing",
     "content": "the tendency for people in a group to exert less effort when pooling their efforts toward attaining a common goal than when individually accountable.",
     "de_title": "Bummeln",
     "de_content": "Die Tendenz, dass Menschen in einer Gruppe weniger Anstrengungen unternehmen, wenn sie ihre Anstrengungen bündeln, um ein gemeinsames Ziel zu erreichen, als wenn sie einzeln verantwortlich sind."
   },
-  { 
+  {
     "id": 611,
     "title": "deindividuation",
     "content": "the loss of self-awareness and self-restraint occurring in group situations that foster arousal and anonymity.",
     "de_title": "Deindividualisierung",
     "de_content": "der Verlust des Selbstbewusstseins und der Selbstbeherrschung, der in Gruppensituationen auftritt, die Erregung und Anonymität fördern."
   },
-  { 
+  {
     "id": 612,
     "title": "group polarization",
     "content": "the enhancement of a group’s prevailing inclinations through discussion within the group.",
     "de_title": "Gruppenpolarisierung",
     "de_content": "die Stärkung der vorherrschenden Neigungen einer Gruppe durch Diskussion innerhalb der Gruppe."
   },
-  { 
+  {
     "id": 613,
     "title": "groupthink",
     "content": "the mode of thinking that occurs when the desire for harmony in a decision-making group overrides a realistic appraisal of alternatives.",
     "de_title": "Gruppendenken",
     "de_content": "die Denkweise, die auftritt, wenn der Wunsch nach Harmonie in einer Entscheidungsgruppe eine realistische Einschätzung von Alternativen außer Kraft setzt."
   },
-  { 
+  {
     "id": 614,
     "title": "Chapter - ",
     "content": "Antisocial Relations",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 615,
     "title": "prejudice",
     "content": "an unjustifiable and usually negative attitude toward a group and its members. Prejudice generally involves stereotyped beliefs, negative feelings, and a predisposition to discriminatory action.",
     "de_title": "Vorurteil",
     "de_content": "eine ungerechtfertigte und meist negative Einstellung gegenüber einer Gruppe und ihren Mitgliedern. Vorurteile beinhalten im Allgemeinen stereotype Überzeugungen, negative Gefühle und eine Veranlagung zu diskriminierendem Handeln."
   },
-  { 
+  {
     "id": 616,
     "title": "stereotype",
     "content": "a generalized (sometimes accurate but often overgeneralized) belief about a group of people.",
     "de_title": "Stereotyp",
     "de_content": "a generalized (sometimes accurate but often overgeneralized) belief about a group of people."
   },
-  { 
+  {
     "id": 617,
     "title": "discrimination",
     "content": "unjustifiable negative behavior toward a group or its members.",
     "de_title": "Diskriminierung",
     "de_content": "ungerechtfertigtes negatives Verhalten gegenüber einer Gruppe oder ihren Mitgliedern."
   },
-  { 
+  {
     "id": 618,
     "title": "just-world phenomenon",
     "content": "the tendency for people to believe that the world is just and people therefore get what they deserve and deserve what they get.",
     "de_title": "Phänomen der gerechten Welt",
     "de_content": "die Tendenz der Menschen zu glauben, dass die Welt gerecht ist und dass die Menschen deshalb bekommen, was sie verdienen, und dass sie verdienen, was sie bekommen."
   },
-  { 
+  {
     "id": 619,
     "title": "ingroup",
     "content": "“us”—people with whom we share a common identity.",
     "de_title": "in einer Gruppe",
     "de_content": "„wir“ – Menschen, mit denen wir eine gemeinsame Identität teilen."
   },
-  { 
+  {
     "id": 620,
     "title": "outgroup",
     "content": "“them”—those perceived as different or apart from our ingroup.",
     "de_title": "Fremdgruppe",
     "de_content": "„sie“ – diejenigen, die als anders oder als von unserer Eigengruppe getrennt wahrgenommen werden."
   },
-  { 
+  {
     "id": 621,
     "title": "ingroup bias",
     "content": "the tendency to favor our own group.",
     "de_title": "Ingroup-Voreingenommenheit",
     "de_content": "die Tendenz, die eigene Gruppe zu bevorzugen."
   },
-  { 
+  {
     "id": 622,
     "title": "scapegoat theory",
     "content": "the theory that prejudice offers an outlet for anger by providing someone to blame.",
     "de_title": "Sündenbock-Theorie",
     "de_content": "die Theorie, dass Vorurteile ein Ventil für Wut bieten, indem sie jemandem die Schuld geben."
   },
-  { 
+  {
     "id": 623,
     "title": "other-race effect",
     "content": "the tendency to recall faces of one’s own race more accurately than faces of other races. Also called the cross-race effect and the own-race bias.",
     "de_title": "Andere-Rassen-Effekt",
     "de_content": "die Tendenz, sich an Gesichter der eigenen Rasse genauer zu erinnern als an Gesichter anderer Rassen. Wird auch Cross-Race-Effekt und Own-Race-Bias genannt."
   },
-  { 
+  {
     "id": 625,
     "title": "aggression",
     "content": "any physical or verbal behavior intended to harm someone physically or emotionally.",
     "de_title": "Aggression",
     "de_content": "jedes körperliche oder verbale Verhalten, das darauf abzielt, jemandem körperlich oder emotional zu schaden."
   },
-  { 
+  {
     "id": 626,
     "title": "frustration-aggression principle",
     "content": "the principle that frustration—the blocking of an attempt to achieve some goal—creates anger, which can generate aggression.",
     "de_title": "Frustrations-Aggressions-Prinzip",
     "de_content": "das Prinzip, dass Frustration – das Blockieren eines Versuchs, ein Ziel zu erreichen – Wut erzeugt, die Aggression hervorrufen kann."
   },
-  { 
+  {
     "id": 627,
     "title": "social script",
     "content": "a culturally modeled guide for how to act in various situations.",
     "de_title": "soziales Drehbuch",
     "de_content": "ein kulturell modellierter Leitfaden für das Verhalten in verschiedenen Situationen."
   },
-  { 
+  {
     "id": 628,
     "title": "CHAPTER - ",
     "content": "Prosocial Relations",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 629,
     "title": "mere exposure effect",
     "content": "the tendency for repeated exposure to novel stimuli to increase our liking of them.",
     "de_title": "bloßer Belichtungseffekt",
     "de_content": "the tendency for repeated exposure to novel stimuli to increase our liking of them."
   },
-  { 
+  {
     "id": 630,
     "title": "companionate love",
     "content": "the deep affectionate attachment we feel for those with whom our lives are intertwined.",
     "de_title": "Kameradschaftliche Liebe",
     "de_content": "die tiefe, liebevolle Verbundenheit, die wir für diejenigen empfinden, mit denen unser Leben verbunden ist."
   },
-  { 
+  {
     "id": 631,
     "title": "equity",
     "content": "a condition in which people receive from a relationship in proportion to what they give to it.",
     "de_title": "Eigenkapital",
     "de_content": "ein Zustand, in dem Menschen von einer Beziehung im Verhältnis zu dem erhalten, was sie ihr geben."
   },
-  { 
+  {
     "id": 632,
     "title": "self-disclosure",
     "content": "the act of revealing intimate aspects of ourselves to others.",
     "de_title": "Selbstauskunft",
     "de_content": "der Akt, anderen intime Aspekte von uns selbst zu offenbaren."
   },
-  { 
+  {
     "id": 633,
     "title": "altruism",
     "content": "unselfish regard for the welfare of others.",
     "de_title": "Altruismus",
     "de_content": "selbstlose Rücksichtnahme auf das Wohlergehen anderer."
   },
-  { 
+  {
     "id": 634,
     "title": "bystander effect",
     "content": "the tendency for any given bystander to be less likely to give aid if other bystanders are present.",
     "de_title": "Nebeneffekt",
     "de_content": "die Tendenz, dass ein bestimmter Umstehender weniger wahrscheinlich Hilfe leistet, wenn andere Umstehende anwesend sind."
   },
-  { 
+  {
     "id": 635,
     "title": "social exchange theory",
     "content": "the theory that our social behavior is an exchange process, the aim of which is to maximize benefits and minimize costs.",
     "de_title": "Theorie des sozialen Austauschs",
     "de_content": "die Theorie, dass unser soziales Verhalten ein Austauschprozess ist, dessen Ziel es ist, den Nutzen zu maximieren und die Kosten zu minimieren."
   },
-  { 
+  {
     "id": 636,
     "title": "reciprocity norm",
     "content": "an expectation that people will help, not hurt, those who have helped them.",
     "de_title": "Reziprozitätsnorm",
     "de_content": "eine Erwartung, dass die Menschen denjenigen helfen, die ihnen geholfen haben, und sie nicht verletzen."
   },
-  { 
+  {
     "id": 637,
     "title": "social-responsibility norm",
     "content": "an expectation that people will help those needing their help.",
     "de_title": "soziale Verantwortungsnorm",
     "de_content": "eine Erwartung, dass Menschen denjenigen helfen, die ihre Hilfe benötigen."
   },
-  { 
+  {
     "id": 638,
     "title": "conflict",
     "content": "a perceived incompatibility of actions, goals, or ideas.",
     "de_title": "Konflikt",
     "de_content": "eine wahrgenommene Unvereinbarkeit von Handlungen, Zielen oder Ideen."
   },
-  { 
+  {
     "id": 639,
     "title": "social trap",
     "content": "a situation in which two parties, by each pursuing their self-interest rather than the good of the group, become caught in mutually destructive behavior.",
     "de_title": "soziale Falle",
     "de_content": "eine Situation, in der zwei Parteien, indem sie jeweils ihr Eigeninteresse und nicht das Wohl der Gruppe verfolgen, in ein für beide Seiten destruktives Verhalten verwickelt werden."
   },
-  { 
+  {
     "id": 640,
     "title": "mirror-image perceptions",
     "content": "mutual views often held by conflicting parties, as when each side sees itself as ethical and peaceful and views the other side as evil and aggressive.",
     "de_title": "Spiegelbildwahrnehmungen",
     "de_content": "gegenseitige Ansichten, die häufig von Konfliktparteien vertreten werden, beispielsweise wenn sich jede Seite als ethisch und friedlich und die andere Seite als böse und aggressiv betrachtet."
   },
-  { 
+  {
     "id": 641,
     "title": "self-fulfilling prophecy",
     "content": "a belief that leads to its own fulfillment.",
     "de_title": "sich selbst erfüllende Prophezeiung",
     "de_content": "ein Glaube, der zu seiner eigenen Erfüllung führt."
   },
-  { 
+  {
     "id": 642,
     "title": "superordinate goals",
     "content": "shared goals that override differences among people and require their cooperation.",
     "de_title": "übergeordnete Ziele",
     "de_content": "gemeinsame Ziele, die die Unterschiede zwischen Menschen außer Kraft setzen und ihre Zusammenarbeit erfordern."
   },
-  { 
+  {
     "id": 643,
     "title": "GRIT",
     "content": "Graduated and Reciprocated Initiatives in Tension-Reduction—a strategy designed to decrease international tensions.",
     "de_title": "STREUGUT",
     "de_content": "Abgestufte und reziproke Initiativen zur Spannungsreduzierung – eine Strategie zur Verringerung internationaler Spannungen."
   },
-  { 
+  {
     "id": 644,
     "title": "passionate love",
     "content": "an aroused state of intense positive absorption in another, usually present at the beginning of a romantic relationship.",
     "de_title": "leidenschaftliche Liebe",
     "de_content": "ein erregter Zustand intensiver positiver Versenkung in einen anderen, der normalerweise zu Beginn einer romantischen Beziehung auftritt."
   },
-  { 
+  {
     "id": 645,
     "title": "CHAPTER 14: Personality",
     "content": "Introduction to Personality and Psychodynamic Theories",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 646,
     "title": "personality",
     "content": "an individual’s characteristic pattern of thinking, feeling, and acting.",
     "de_title": "Persönlichkeit",
     "de_content": "das charakteristische Muster des Denkens, Fühlens und Handelns einer Person."
   },
-  { 
+  {
     "id": 647,
     "title": "psychodynamic theories",
     "content": "theories that view personality with a focus on the unconscious and the importance of childhood experiences.",
     "de_title": "psychodynamische Theorien",
     "de_content": "Theorien, die die Persönlichkeit mit einem Fokus auf das Unbewusste und die Bedeutung von Kindheitserfahrungen betrachten."
   },
-  { 
+  {
     "id": 648,
     "title": "psychoanalysis",
     "content": "Freud’s theory of personality that attributes thoughts and actions to unconscious motives and conflicts; the techniques used in treating psychological disorders by seeking to expose and interpret unconscious tensions.",
     "de_title": "Psychoanalyse",
     "de_content": "Freuds Persönlichkeitstheorie, die Gedanken und Handlungen auf unbewusste Motive und Konflikte zurückführt; die Techniken zur Behandlung psychischer Störungen, bei denen versucht wird, unbewusste Spannungen aufzudecken und zu interpretieren."
   },
-  { 
+  {
     "id": 649,
     "title": "unconscious",
     "content": "according to Freud, a reservoir of mostly unacceptable thoughts, wishes, feelings, and memories. According to contemporary psychologists, information processing of which we are unaware.",
     "de_title": "unbewusst",
     "de_content": "Laut Freud ein Reservoir meist inakzeptabler Gedanken, Wünsche, Gefühle und Erinnerungen. Nach Ansicht zeitgenössischer Psychologen ist uns die Informationsverarbeitung nicht bewusst."
   },
-  { 
+  {
     "id": 650,
     "title": "free association",
     "content": "in psychoanalysis, a method of exploring the unconscious in which the person relaxes and says whatever comes to mind, no matter how trivial or embarrassing.",
     "de_title": "freie Assoziation",
     "de_content": "In der Psychoanalyse eine Methode zur Erforschung des Unbewussten, bei der sich die Person entspannt und alles sagt, was ihr in den Sinn kommt, egal wie trivial oder peinlich es ist."
   },
-  { 
+  {
     "id": 651,
     "title": "id",
     "content": "a reservoir of unconscious psychic energy that, according to Freud, strives to satisfy basic sexual and aggressive drives. The id operates on the pleasure principle, demanding immediate gratification.",
     "de_title": "id",
     "de_content": "ein Reservoir unbewusster psychischer Energie, das laut Freud danach strebt, grundlegende sexuelle und aggressive Triebe zu befriedigen. Das Es funktioniert nach dem Lustprinzip und verlangt sofortige Befriedigung."
   },
-  { 
+  {
     "id": 652,
     "title": "ego",
     "content": "the partly conscious, “executive” part of personality that, according to Freud, mediates among the demands of the id, the superego, and reality. The ego operates on the reality principle, satisfying the id’s desires in ways that will realistically bring pleasure rather than pain.",
     "de_title": "ego",
     "de_content": "der teilweise bewusste, „exekutive“ Teil der Persönlichkeit, der laut Freud zwischen den Anforderungen des Es, des Über-Ichs und der Realität vermittelt. Das Ego arbeitet nach dem Realitätsprinzip und befriedigt die Wünsche des Es auf eine Weise, die realistischerweise eher Freude als Schmerz bringt."
   },
-  { 
+  {
     "id": 653,
     "title": "superego",
     "content": "the partly conscious part of personality that, according to Freud, represents internalized ideals and provides standards for judgment (the conscience) and for future aspirations.",
     "de_title": "Über-Ich",
     "de_content": "der teilweise bewusste Teil der Persönlichkeit, der laut Freud verinnerlichte Ideale repräsentiert und Maßstäbe für das Urteil (das Gewissen) und für zukünftige Bestrebungen liefert."
   },
-  { 
+  {
     "id": 654,
     "title": "psychosexual stages",
     "content": "the childhood stages of development (oral, anal, phallic, latency, genital) during which, according to Freud, the id’s pleasure seeking energies focus on distinct erogenous zones.",
     "de_title": "psychosexuelle Stadien",
     "de_content": "die kindlichen Entwicklungsstadien (oral, anal, phallisch, Latenz, genital), in denen sich laut Freud die lustsuchenden Energien des Es auf bestimmte erogene Zonen konzentrieren."
   },
-  { 
+  {
     "id": 655,
     "title": "Oedipus",
     "content": "[ED-uh-puss] complex according to Freud, a boy’s sexual desires toward his mother and feelings of jealousy and hatred for the rival father.",
     "de_title": "Ödipus",
     "de_content": "[ED-uh-puss]-Komplex nach Freud, das sexuelle Verlangen eines Jungen gegenüber seiner Mutter und Gefühle der Eifersucht und des Hasses auf den rivalisierenden Vater."
   },
-  { 
+  {
     "id": 656,
     "title": "identification",
     "content": "the process by which, according to Freud, children incorporate their parents’ values into their developing superegos.",
     "de_title": "Identifikation",
     "de_content": "Der Prozess, durch den Kinder laut Freud die Werte ihrer Eltern in ihr sich entwickelndes Über-Ich integrieren."
   },
-  { 
+  {
     "id": 657,
     "title": "fixation",
     "content": "in psychoanalytic theory, a lingering focus of pleasure-seeking energies at an earlier psychosexual stage, in which conflicts were unresolved.",
     "de_title": "Fixierung",
     "de_content": "in der psychoanalytischen Theorie ein anhaltender Fokus vergnügungssüchtiger Energien in einem früheren psychosexuellen Stadium, in dem Konflikte ungelöst waren."
   },
-  { 
+  {
     "id": 658,
     "title": "defense mechanisms",
     "content": "in psychoanalytic theory, the ego’s protective methods of reducing anxiety by unconsciously distorting reality.",
     "de_title": "Verteidigungsmechanismus",
     "de_content": "In der psychoanalytischen Theorie die Schutzmethoden des Egos zur Reduzierung von Angstzuständen durch unbewusste Verzerrung der Realität."
   },
-  { 
+  {
     "id": 659,
     "title": "repression",
     "content": "in psychoanalytic theory, the basic defense mechanism that banishes from consciousness anxiety-arousing thoughts, feelings, and memories.",
     "de_title": "Repression",
     "de_content": "In der psychoanalytischen Theorie der grundlegende Abwehrmechanismus, der angstauslösende Gedanken, Gefühle und Erinnerungen aus dem Bewusstsein verbannt."
   },
-  { 
+  {
     "id": 660,
     "title": "collective unconscious",
     "content": "Carl Jung’s concept of a shared, inherited reservoir of memory traces from our species’ history.",
     "de_title": "kollektiven Unbewussten",
     "de_content": "Carl Jungs Konzept eines gemeinsamen, vererbten Gedächtnisreservoirs geht auf die Geschichte unserer Spezies zurück."
   },
-  { 
+  {
     "id": 661,
     "title": "terror-management theory",
     "content": "a theory of death-related anxiety; explores people’s emotional and behavioral responses to reminders of their impending death.",
     "de_title": "Theorie des Terrormanagements",
     "de_content": "eine Theorie der Todesangst; untersucht die emotionalen und Verhaltensreaktionen von Menschen auf Erinnerungen an ihren bevorstehenden Tod."
   },
-  { 
+  {
     "id": 662,
     "title": "Thematic Apperception Test (TAT)",
     "content": "a projective test in which people express their inner feelings and interests through the stories they make up about ambiguous scenes.",
     "de_title": "Thematischer Apperzeptionstest",
     "de_content": "ein projektiver Test, bei dem Menschen ihre inneren Gefühle und Interessen durch die Geschichten zum Ausdruck bringen, die sie über mehrdeutige Szenen erfinden."
   },
-  { 
+  {
     "id": 663,
     "title": "projective test",
     "content": "a personality test, such as the TAT or Rorschach, that provides ambiguous images designed to trigger projection of people’s inner dynamics.",
     "de_title": "projektiver Test",
     "de_content": "ein Persönlichkeitstest wie der TAT oder Rorschach, der mehrdeutige Bilder liefert, die eine Projektion der inneren Dynamik von Menschen auslösen sollen."
   },
-  { 
+  {
     "id": 664,
     "title": "Rorschach inkblot test",
     "content": "a projective test designed by Hermann Rorschach; seeks to identify people’s inner feelings by analyzing how they interpret 10 inkblots.",
     "de_title": "Rorschach-Tintenkleckstest",
     "de_content": "ein projektiver Test, entworfen von Hermann Rorschach; versucht, die inneren Gefühle von Menschen zu identifizieren, indem analysiert wird, wie sie 10 Tintenkleckse interpretieren."
   },
-  { 
+  {
     "id": 665,
     "title": "CHAPTER - ",
     "content": "Humanistic Theories and Trait Theories",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 666,
     "title": "humanistic theories",
     "content": "theories that view personality with a focus on the potential for healthy personal growth.",
     "de_title": "Humanistische Theorien",
     "de_content": "Theorien, die die Persönlichkeit mit dem Fokus auf das Potenzial für gesundes persönliches Wachstum betrachten."
   },
-  { 
+  {
     "id": 667,
     "title": "hierarchy of needs",
     "content": "Maslow’s pyramid of human needs, beginning at the base with physiological needs that must first be satisfied before people can fulfill their higher-level safety needs and then psychological needs.",
     "de_title": "Hierarchie der Bedürfnisse",
     "de_content": "Maslows Pyramide menschlicher Bedürfnisse beginnt an der Basis mit physiologischen Bedürfnissen, die zuerst befriedigt werden müssen, bevor Menschen ihre höheren Sicherheitsbedürfnisse erfüllen können, und dann mit psychologischen Bedürfnissen."
   },
-  { 
+  {
     "id": 668,
     "title": "self-actualization",
     "content": "according to Maslow, one of the ultimate psychological needs that arises after basic physical and psychological needs are met and self-esteem is achieved; the motivation to fulfill one’s potential.",
     "de_title": "Selbstaktualisierung",
     "de_content": "Laut Maslow eines der ultimativen psychologischen Bedürfnisse, das entsteht, nachdem grundlegende physische und psychische Bedürfnisse befriedigt und das Selbstwertgefühl erreicht sind; die Motivation, sein Potenzial auszuschöpfen."
   },
-  { 
+  {
     "id": 669,
     "title": "self-transcendence",
     "content": "according to Maslow, the striving for identity, meaning, and purpose beyond the self.",
     "de_title": "Selbsttranszendenz",
     "de_content": "nach Maslow das Streben nach Identität, Sinn und Zweck über das Selbst hinaus."
   },
-  { 
+  {
     "id": 670,
     "title": "unconditional positive regard",
     "content": "a caring, accepting, nonjudgmental attitude, which Carl Rogers believed would help people develop self-awareness and self acceptance.",
     "de_title": "bedingungslose positive Wertschätzung",
     "de_content": "eine fürsorgliche, akzeptierende, nicht wertende Haltung, von der Carl Rogers glaubte, dass sie den Menschen helfen würde, Selbstbewusstsein und Selbstakzeptanz zu entwickeln."
   },
-  { 
+  {
     "id": 671,
     "title": "self-concept",
     "content": "all our thoughts and feelings about ourselves, in answer to the question, “Who am I?”",
     "de_title": "Selbstverständnis",
     "de_content": "all unsere Gedanken und Gefühle über uns selbst, als Antwort auf die Frage „Wer bin ich?“"
   },
-  { 
+  {
     "id": 672,
     "title": "trait",
     "content": "a characteristic pattern of behavior or a disposition to feel and act in certain ways, as assessed by self-report inventories and peer reports.",
     "de_title": "Eigenschaft",
     "de_content": "ein charakteristisches Verhaltensmuster oder die Neigung, auf bestimmte Weise zu fühlen und zu handeln, wie anhand von Selbstberichten und Berichten von Kollegen beurteilt."
   },
-  { 
+  {
     "id": 673,
     "title": "personality inventory",
     "content": "a questionnaire (often with true-false or agree-disagree items) on which people respond to items designed to gauge a wide range of feelings and behaviors; used to assess selected personality traits.",
     "de_title": "Persönlichkeitsinventur",
     "de_content": "ein Fragebogen (häufig mit „Wahr-Falsch“- oder „Zustimmen-nicht-Stimmen“-Fragen), auf dem Menschen auf Items antworten, die darauf abzielen, ein breites Spektrum an Gefühlen und Verhaltensweisen einzuschätzen; dient der Beurteilung ausgewählter Persönlichkeitsmerkmale."
   },
-  { 
+  {
     "id": 674,
     "title": "Minnesota Multiphasic Personality Inventory (MMPI)",
     "content": "the most widely researched and clinically used of all personality tests. Originally developed to identify emotional disorders (still considered its most appropriate use), this test is now used for many other screening purposes.",
     "de_title": "Minnesota Multiphasic Personality Inventory (MMPI)",
     "de_content": "der am weitesten erforschte und klinisch am häufigsten verwendete Persönlichkeitstest. Ursprünglich wurde dieser Test zur Identifizierung emotionaler Störungen entwickelt (wird immer noch als seine am besten geeignete Anwendung angesehen), wird dieser Test heute für viele andere Screening-Zwecke verwendet."
   },
-  { 
+  {
     "id": 676,
     "title": "empirically derived test",
     "content": "a test (such as the MMPI) created by selecting from a pool of items those that discriminate between groups.",
     "de_title": "empirisch abgeleiteter Test",
     "de_content": "ein Test (wie der MMPI), der durch die Auswahl derjenigen aus einem Pool von Elementen erstellt wird, die zwischen Gruppen unterscheiden."
   },
-  { 
+  {
     "id": 677,
     "title": "Big Five factors",
     "content": "researchers identified five factors—openness, conscientiousness, extraversion, agreeableness, and neuroticism—that describe personality. (Also called the five-factor model.)",
     "de_title": "Big Five factors",
     "de_content": "Forscher identifizierten fünf Faktoren – Offenheit, Gewissenhaftigkeit, Extraversion, Verträglichkeit und Neurotizismus – die die Persönlichkeit beschreiben. (Auch Fünf-Faktoren-Modell genannt.)"
   },
-  { 
+  {
     "id": 678,
     "title": "CHAPTER - ",
     "content": "Social-Cognitive Theories and the Self",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 679,
     "title": "social-cognitive perspective",
     "content": "a view of behavior as influenced by the interaction between people’s traits (including their thinking) and their social context.",
     "de_title": "sozial-kognitive Perspektive",
     "de_content": "eine Sichtweise des Verhaltens, das durch die Interaktion zwischen den Merkmalen von Menschen (einschließlich ihres Denkens) und ihrem sozialen Kontext beeinflusst wird."
   },
-  { 
+  {
     "id": 680,
     "title": "reciprocal determinism",
     "content": "the interacting influences of behavior, internal cognition, and environment.",
     "de_title": "reziproker Determinismus",
     "de_content": "die interagierenden Einflüsse von Verhalten, innerer Wahrnehmung und Umwelt."
   },
-  { 
+  {
     "id": 681,
     "title": "self",
     "content": "in contemporary psychology, assumed to be the center of personality, the organizer of our thoughts, feelings, and actions.",
     "de_title": "selbst",
     "de_content": "In der zeitgenössischen Psychologie wird davon ausgegangen, dass es das Zentrum der Persönlichkeit und der Organisator unserer Gedanken, Gefühle und Handlungen ist."
   },
-  { 
+  {
     "id": 682,
     "title": "spotlight effect",
     "content": "overestimating others’ noticing and evaluating our appearance, performance, and blunders (as if we presume a spotlight shines on us).",
     "de_title": "Spotlight-Effekt",
     "de_content": "Wir überschätzen die Wahrnehmung und Bewertung unseres Aussehens, unserer Leistung und unserer Fehler durch andere (als würden wir annehmen, dass ein Scheinwerfer auf uns scheint)."
   },
-  { 
+  {
     "id": 683,
     "title": "self-esteem",
     "content": "our feelings of high or low self-worth.",
     "de_title": "Selbstachtung",
     "de_content": "unsere Gefühle von hohem oder niedrigem Selbstwertgefühl."
   },
-  { 
+  {
     "id": 684,
     "title": "self-efficacy",
     "content": "our sense of competence and effectiveness.",
     "de_title": "Selbstwirksamkeit",
     "de_content": "unser Gefühl für Kompetenz und Wirksamkeit."
   },
-  { 
+  {
     "id": 685,
     "title": "self-serving bias",
     "content": "a readiness to perceive ourselves favorably.",
     "de_title": "eigennützige Voreingenommenheit",
     "de_content": "die Bereitschaft, uns selbst positiv wahrzunehmen."
   },
-  { 
+  {
     "id": 686,
     "title": "narcissism",
     "content": "excessive self-love and self-absorption.",
     "de_title": "Narzissmus",
     "de_content": "übermäßige Selbstliebe und Selbstbezogenheit."
   },
-  { 
+  {
     "id": 687,
     "title": "CHAPTER 15: Psychological Disorders",
     "content": "Introduction to Psychological Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 688,
     "title": "psychological disorder",
     "content": "a syndrome marked by a clinically significant disturbance in an individual’s cognitions, emotion regulation, or behavior.",
     "de_title": "psychische Störung",
     "de_content": "ein Syndrom, das durch eine klinisch signifikante Störung der kognitiven Fähigkeiten, der Emotionsregulation oder des Verhaltens einer Person gekennzeichnet ist."
   },
-  { 
+  {
     "id": 689,
     "title": "medical model",
     "content": "the concept that diseases, in this case psychological disorders, have physical causes that can be diagnosed, treated, and, in most cases, cured, often through treatment in a hospital.",
     "de_title": "medizinisches Modell",
     "de_content": "Das Konzept, dass Krankheiten, in diesem Fall psychische Störungen, körperliche Ursachen haben, die diagnostiziert, behandelt und in den meisten Fällen geheilt werden können, oft durch eine Behandlung in einem Krankenhaus."
   },
-  { 
+  {
     "id": 690,
     "title": "epigenetics",
     "content": "“above” or “in addition to” (epi) genetics; the study of the molecular mechanisms by which environments can influence genetic expression (without a DNA change).",
     "de_title": "Epigenetik",
     "de_content": "„über“ oder „zusätzlich zu“ (Epi-)Genetik; die Untersuchung der molekularen Mechanismen, durch die Umgebungen die genetische Expression beeinflussen können (ohne eine DNA-Veränderung)."
   },
-  { 
+  {
     "id": 691,
     "title": "DSM-5",
     "content": "the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition; a widely used system for classifying psychological disorders.",
     "de_title": "DSM-5",
     "de_content": "das Diagnostic and Statistical Manual of Mental Disorders der American Psychiatric Association, 5. Auflage; ein weit verbreitetes System zur Klassifizierung psychischer Störungen."
   },
-  { 
+  {
     "id": 692,
     "title": "Chapter - ",
     "content": "Anxiety-Related Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 693,
     "title": "anxiety disorders",
     "content": "psychological disorders characterized by distressing, persistent anxiety or maladaptive behaviors that reduce anxiety.",
     "de_title": "Angststörungen",
     "de_content": "Psychische Störungen, die durch belastende, anhaltende Angst oder unangepasstes Verhalten gekennzeichnet sind, das die Angst verringert."
   },
-  { 
+  {
     "id": 694,
     "title": "generalized anxiety disorder",
     "content": "an anxiety disorder in which a person is continually tense, apprehensive, and in a state of autonomic nervous system arousal.",
     "de_title": "generalisierte Angststörung",
     "de_content": "Eine Angststörung, bei der eine Person ständig angespannt und ängstlich ist und sich in einem Zustand der Erregung des autonomen Nervensystems befindet."
   },
-  { 
+  {
     "id": 695,
     "title": "panic disorder",
     "content": "an anxiety disorder marked by unpredictable, minutes-long episodes of intense dread in which a person may experience terror and accompanying chest pain, choking, or other frightening sensations; often followed by worry over a possible next attack.",
     "de_title": "Panikstörung",
     "de_content": "eine Angststörung, die durch unvorhersehbare, minutenlange Episoden intensiver Angst gekennzeichnet ist, in denen eine Person Angst verspüren und damit einhergehend Brustschmerzen, Würgen oder andere beängstigende Empfindungen verspüren kann; oft gefolgt von der Sorge vor einem möglichen nächsten Angriff."
   },
-  { 
+  {
     "id": 696,
     "title": "specific phobia",
     "content": "an anxiety disorder marked by a persistent, irrational fear and avoidance of a specific object, activity, or situation.",
     "de_title": "spezifische Phobie",
     "de_content": "Eine Angststörung, die durch eine anhaltende, irrationale Angst und Vermeidung eines bestimmten Objekts, einer bestimmten Aktivität oder einer bestimmten Situation gekennzeichnet ist."
   },
-  { 
+  {
     "id": 697,
     "title": "obsessive-compulsive disorder (OCD)",
     "content": "a disorder characterized by unwanted repetitive thoughts (obsessions), actions (compulsions), or both.",
     "de_title": "Zwangsstörung (OCD)",
     "de_content": "eine Störung, die durch unerwünschte, sich wiederholende Gedanken (Obsessionen), Handlungen (Zwänge) oder beides gekennzeichnet ist."
   },
-  { 
+  {
     "id": 698,
     "title": "posttraumatic stress disorder (PTSD)",
     "content": "a disorder characterized by haunting memories, nightmares, hypervigilance, avoidance of trauma-related stimuli, social withdrawal, jumpy anxiety, numbness of feeling, and/or insomnia that lingers for four weeks or more after a traumatic experience.",
     "de_title": "Posttraumatische Belastungsstörung (PTBS)",
     "de_content": "Eine Störung, die durch eindringliche Erinnerungen, Albträume, Hypervigilanz, Vermeidung traumabedingter Reize, sozialen Rückzug, nervöse Ängste, Taubheitsgefühle und/oder Schlaflosigkeit gekennzeichnet ist und nach einem traumatischen Erlebnis vier Wochen oder länger anhält."
   },
-  { 
+  {
     "id": 699,
     "title": "somatic symptom disorder",
     "content": "a psychological disorder in which the symptoms take a somatic (bodily) form without apparent physical cause.",
     "de_title": "somatische Symptomstörung",
     "de_content": "eine psychische Störung, bei der die Symptome eine somatische (körperliche) Form ohne erkennbare körperliche Ursache annehmen."
   },
-  { 
+  {
     "id": 700,
     "title": "illness anxiety disorder",
     "content": "a disorder in which a person interprets normal physical sensations as symptoms of a disease. (Formerly called hypochondriasis.)",
     "de_title": "Krankheit Angststörung",
     "de_content": "eine Störung, bei der eine Person normale körperliche Empfindungen als Symptome einer Krankheit interpretiert. (Früher Hypochondriasis genannt.)"
   },
-  { 
+  {
     "id": 701,
     "title": "Chapter - ",
     "content": "Depressive Disorders and Bipolar Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 702,
     "title": "major depressive disorder",
     "content": "a disorder in which a person experiences, in the absence of drug use or a medical condition, two or more weeks with five or more symptoms, at least one of which must be either (1) depressed mood or (2) loss of interest or pleasure.",
     "de_title": "Depression",
     "de_content": "Eine Störung, bei der eine Person, ohne Drogenkonsum oder eine medizinische Erkrankung, zwei oder mehr Wochen lang fünf oder mehr Symptome erlebt, von denen mindestens eines entweder (1) depressive Verstimmung oder (2) Interessenverlust oder sein muss Vergnügen."
   },
-  { 
+  {
     "id": 703,
     "title": "bipolar disorders",
     "content": "a group of disorders in which a person alternates between the hopelessness and lethargy of depression and the overexcited state of mania. (Formerly called manic-depressive disorder.)",
     "de_title": "bipolare Störungen",
     "de_content": "Eine Gruppe von Störungen, bei denen eine Person zwischen der Hoffnungslosigkeit und Lethargie einer Depression und dem übererregten Zustand der Manie wechselt. (Früher als manisch-depressive Störung bezeichnet.)"
   },
-  { 
+  {
     "id": 704,
     "title": "mania",
     "content": "a hyperactive, wildly optimistic state in which dangerously poor judgment is common.",
     "de_title": "Manie",
     "de_content": "ein hyperaktiver, äußerst optimistischer Zustand, in dem gefährlich schlechtes Urteilsvermögen häufig ist."
   },
-  { 
+  {
     "id": 705,
     "title": "rumination",
     "content": "compulsive fretting; overthinking our problems and their causes.",
     "de_title": "Wiederkäuen",
     "de_content": "zwanghaftes Grübeln; Überdenken unserer Probleme und ihrer Ursachen."
   },
-  { 
+  {
     "id": 706,
     "title": "CHAPTER - ",
     "content": "Schizophrenia",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 707,
     "title": "schizophrenia",
     "content": "a disorder characterized by delusions, hallucinations, disorganized speech, and/or diminished, inappropriate emotional expression.",
     "de_title": "Schizophrenie",
     "de_content": "Eine Störung, die durch Wahnvorstellungen, Halluzinationen, desorganisierte Sprache und/oder verminderten, unangemessenen emotionalen Ausdruck gekennzeichnet ist."
   },
-  { 
+  {
     "id": 708,
     "title": "psychotic disorders",
     "content": "a group of disorders marked by irrational ideas, distorted perceptions, and a loss of contact with reality.",
     "de_title": "psychotische Störungen",
     "de_content": "eine Gruppe von Störungen, die durch irrationale Vorstellungen, verzerrte Wahrnehmungen und einen Verlust des Kontakts mit der Realität gekennzeichnet sind."
   },
-  { 
+  {
     "id": 709,
     "title": "delusion",
     "content": "a false belief, often of persecution or grandeur, that may accompany psychotic disorders.",
     "de_title": "Täuschung",
     "de_content": "ein falscher Glaube, oft an Verfolgung oder Größe, der psychotische Störungen begleiten kann."
   },
-  { 
+  {
     "id": 710,
     "title": "chronic schizophrenia",
     "content": "(also called process schizophrenia) a form of schizophrenia in which symptoms usually appear by late adolescence or early adulthood. As people age, psychotic episodes last longer and recovery periods shorten.",
     "de_title": "chronische Schizophrenie",
     "de_content": "(auch Prozessschizophrenie genannt) ist eine Form der Schizophrenie, bei der die Symptome normalerweise im späten Jugend- oder frühen Erwachsenenalter auftreten. Mit zunehmendem Alter dauern psychotische Episoden länger und die Erholungsphasen werden kürzer."
   },
-  { 
+  {
     "id": 711,
     "title": "acute schizophrenia",
     "content": "(also called reactive schizophrenia) a form of schizophrenia that can begin at any age, frequently occurs in response to a traumatic event, and from which recovery is much more likely.",
     "de_title": "akute Schizophrenie",
     "de_content": "(auch reaktive Schizophrenie genannt) ist eine Form der Schizophrenie, die in jedem Alter beginnen kann, häufig als Reaktion auf ein traumatisches Ereignis auftritt und bei der eine Genesung viel wahrscheinlicher ist."
   },
-  { 
+  {
     "id": 712,
     "title": "Chapter - ",
     "content": "Dissociative, Personality, and Eating Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 713,
     "title": "dissociative disorders",
     "content": "controversial, rare disorders in which conscious awareness becomes separated (dissociated) from previous memories, thoughts, and feelings.",
     "de_title": "dissoziative Störungen",
     "de_content": "umstrittene, seltene Störungen, bei denen das Bewusstsein von früheren Erinnerungen, Gedanken und Gefühlen getrennt (dissoziiert) wird."
   },
-  { 
+  {
     "id": 714,
     "title": "dissociative identity disorder (DID)",
     "content": "a rare dissociative disorder in which a person exhibits two or more distinct and alternating identities. (Formerly called multiple personality disorder.)",
     "de_title": "Dissoziative Identitätsstörung (DID)",
     "de_content": "eine seltene dissoziative Störung, bei der eine Person zwei oder mehr unterschiedliche und abwechselnde Identitäten aufweist. (Früher als multiple Persönlichkeitsstörung bezeichnet.)"
   },
-  { 
+  {
     "id": 715,
     "title": "personality disorders",
     "content": "inflexible and enduring behavior patterns that impair social functioning.",
     "de_title": "Persönlichkeitsstörung",
     "de_content": "unflexible und dauerhafte Verhaltensmuster, die das soziale Funktionieren beeinträchtigen."
   },
-  { 
+  {
     "id": 716,
     "title": "antisocial personality disorder",
     "content": "a personality disorder in which a person (usually a man) exhibits a lack of conscience for wrongdoing, even toward friends and family members; may be aggressive and ruthless or a clever con artist.",
     "de_title": "Antisoziale Persönlichkeitsstörung",
     "de_content": "eine Persönlichkeitsstörung, bei der eine Person (normalerweise ein Mann) ein mangelndes Gewissen für Fehlverhalten zeigt, selbst gegenüber Freunden und Familienmitgliedern; kann aggressiv und rücksichtslos sein oder ein cleverer Betrüger."
   },
-  { 
+  {
     "id": 717,
     "title": "anorexia nervosa",
     "content": "an eating disorder in which a person (usually an adolescent female) maintains a starvation diet despite being significantly underweight, and has an inaccurate self-perception; sometimes accompanied by excessive exercise.",
     "de_title": "Anorexia nervosa",
     "de_content": "eine Essstörung, bei der eine Person (normalerweise eine jugendliche Frau) trotz deutlichem Untergewicht eine Hungerdiät einhält und eine ungenaue Selbstwahrnehmung hat; manchmal begleitet von übermäßigem Training."
   },
-  { 
+  {
     "id": 718,
     "title": "bulimia nervosa",
     "content": "an eating disorder in which a person’s binge eating (usually of high-calorie foods) is followed by inappropriate weight-loss promoting behavior, such as vomiting, laxative use, fasting, or excessive exercise.",
     "de_title": "Bulimie",
     "de_content": "Eine Essstörung, bei der auf Essattacken (in der Regel kalorienreiche Nahrungsmittel) unangemessenes, den Gewichtsverlust förderndes Verhalten wie Erbrechen, Abführmittelkonsum, Fasten oder übermäßiger Sport folgt."
   },
-  { 
+  {
     "id": 719,
     "title": "binge-eating disorder",
     "content": "significant binge-eating episodes, followed by distress, disgust, or guilt, but without the compensatory behavior that marks bulimia nervosa.",
     "de_title": "Binge-Eating-Störung",
     "de_content": "erhebliche Essattacken, gefolgt von Kummer, Ekel oder Schuldgefühlen, jedoch ohne das kompensatorische Verhalten, das eine Bulimia nervosa kennzeichnet."
   },
-  { 
+  {
     "id": 720,
     "title": "Chapter - ",
     "content": "Neurodevelopmental Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 721,
     "title": "neurodevelopmental disorder",
     "content": "central nervous system abnormalities (usually in the brain) that start in childhood and alter thinking and behavior (as in intellectual limitations or a psychological disorder).",
     "de_title": "neurologische Entwicklungsstörung",
     "de_content": "Anomalien des zentralen Nervensystems (normalerweise im Gehirn), die in der Kindheit beginnen und das Denken und Verhalten verändern (z. B. bei intellektuellen Einschränkungen oder einer psychischen Störung)."
   },
-  { 
+  {
     "id": 722,
     "title": "intellectual disability",
     "content": "a condition of limited mental ability, indicated by an intelligence test score of 70 or below and difficulty adapting to the demands of life. (Formerly referred to as mental retardation.)",
     "de_title": "beschränkter Intellekt",
     "de_content": "ein Zustand eingeschränkter geistiger Fähigkeiten, der durch einen Intelligenztestwert von 70 oder weniger und Schwierigkeiten bei der Anpassung an die Anforderungen des Lebens angezeigt wird. (Früher als geistige Behinderung bezeichnet.)"
   },
-  { 
+  {
     "id": 723,
     "title": "autism spectrum disorder (ASD)",
     "content": "a disorder that appears in childhood and is marked by significant limitations in communication and social interaction, and by rigidly fixated interests and repetitive behaviors.",
     "de_title": "Autismus-Spektrum-Störung (ASD)",
     "de_content": "Eine Störung, die in der Kindheit auftritt und durch erhebliche Einschränkungen in der Kommunikation und sozialen Interaktion sowie durch starr fixierte Interessen und sich wiederholende Verhaltensweisen gekennzeichnet ist."
   },
-  { 
+  {
     "id": 724,
     "title": "attention-deficit/hyperactivity disorder (ADHD)",
     "content": "a psychological disorder marked by extreme inattention and/or hyperactivity and impulsivity.",
     "de_title": "Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS)",
     "de_content": "eine psychische Störung, die durch extreme Unaufmerksamkeit und/oder Hyperaktivität und Impulsivität gekennzeichnet ist."
   },
-  { 
+  {
     "id": 725,
     "title": "CHAPTER 16: Therapy",
     "content": "Introduction to Therapy and the Psychological Therapies",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 726,
     "title": "psychotherapy",
     "content": "treatment involving psychological techniques; consists of interactions between a trained therapist and someone seeking to overcome psychological difficulties or achieve personal growth.",
     "de_title": "Psychotherapie",
     "de_content": "Behandlung mit psychologischen Techniken; besteht aus Interaktionen zwischen einem ausgebildeten Therapeuten und jemandem, der psychische Schwierigkeiten überwinden oder persönliches Wachstum erreichen möchte."
   },
-  { 
+  {
     "id": 727,
     "title": "biomedical therapy",
     "content": "prescribed medications or procedures that act directly on the person’s physiology.",
     "de_title": "biomedizinische Therapie",
     "de_content": "verschriebene Medikamente oder Verfahren, die sich direkt auf die Physiologie der Person auswirken."
   },
-  { 
+  {
     "id": 728,
     "title": "eclectic approach",
     "content": "an approach to psychotherapy that uses techniques from various forms of therapy.",
     "de_title": "eklektischer Ansatz",
     "de_content": "ein Ansatz der Psychotherapie, der Techniken aus verschiedenen Therapieformen nutzt."
   },
-  { 
+  {
     "id": 729,
     "title": "psychoanalysis",
     "content": "Sigmund Freud’s therapeutic technique. Freud believed the patient’s free associations, resistances, dreams, and transferences—and the analyst’s interpretations of them—released previously repressed feelings, allowing the patient to gain self-insight.",
     "de_title": "Psychoanalyse",
     "de_content": "Sigmund Freuds therapeutische Technik. Freud glaubte, dass die freien Assoziationen, Widerstände, Träume und Übertragungen des Patienten – und die Interpretationen davon durch den Analytiker – zuvor unterdrückte Gefühle freisetzten und es dem Patienten ermöglichten, Selbsterkenntnis zu gewinnen."
   },
-  { 
+  {
     "id": 730,
     "title": "resistance",
     "content": "in psychoanalysis, the blocking from consciousness of anxiety-laden material.",
     "de_title": "Widerstand",
     "de_content": "in der Psychoanalyse die Blockierung des Bewusstseins von angstbeladenem Material."
   },
-  { 
+  {
     "id": 731,
     "title": "interpretation",
     "content": "in psychoanalysis, the analyst’s noting of supposed dream meanings, resistances, and other significant behaviors and events in order to promote insight.",
     "de_title": "Deutung",
     "de_content": "In der Psychoanalyse notiert der Analytiker vermeintliche Traumbedeutungen, Widerstände und andere bedeutsame Verhaltensweisen und Ereignisse, um Einsicht zu fördern."
   },
-  { 
+  {
     "id": 732,
     "title": "transference",
     "content": "in psychoanalysis, the patient’s transfer to the analyst of emotions linked with other relationships (such as love or hatred for a parent).",
     "de_title": "Übertragung",
     "de_content": "In der Psychoanalyse die Übertragung von Emotionen, die mit anderen Beziehungen verbunden sind (z. B. Liebe oder Hass gegenüber einem Elternteil), durch den Patienten an den Analytiker."
   },
-  { 
+  {
     "id": 733,
     "title": "psychodynamic therapy",
     "content": "therapy deriving from the psychoanalytic tradition; views individuals as responding to unconscious forces and childhood experiences, and seeks to enhance self-insight.",
     "de_title": "psychodynamische Therapie",
     "de_content": "Therapie aus der psychoanalytischen Tradition; betrachtet den Einzelnen als eine Reaktion auf unbewusste Kräfte und Kindheitserfahrungen und versucht, die Selbsterkenntnis zu verbessern."
   },
-  { 
+  {
     "id": 734,
     "title": "insight therapies",
     "content": "therapies that aim to improve psychological functioning by increasing a person’s awareness of underlying motives and defenses.",
     "de_title": "Einsichtstherapien",
     "de_content": "Therapien, die darauf abzielen, die psychologische Funktionsfähigkeit zu verbessern, indem sie das Bewusstsein einer Person für die zugrunde liegenden Motive und Abwehrmechanismen schärfen."
   },
-  { 
+  {
     "id": 735,
     "title": "person-centered therapy",
     "content": "a humanistic therapy, developed by Carl Rogers, in which the therapist uses techniques such as active listening within an accepting, genuine, empathic environment to facilitate clients’ growth. (Also called client-centered therapy.)",
     "de_title": "personenzentrierte Therapie",
     "de_content": "Eine von Carl Rogers entwickelte humanistische Therapie, bei der der Therapeut Techniken wie aktives Zuhören in einer akzeptierenden, echten und einfühlsamen Umgebung einsetzt, um das Wachstum des Klienten zu fördern. (Auch klientenzentrierte Therapie genannt.)"
   },
-  { 
+  {
     "id": 736,
     "title": "active listening",
     "content": "empathic listening in which the listener echoes, restates, and seeks clarification. A feature of Rogers’ person-centered therapy.",
     "de_title": "aktives Zuhören",
     "de_content": "Einfühlsames Zuhören, bei dem der Zuhörer nachdenkt, wiederholt und nach Klärung sucht. Ein Merkmal der personzentrierten Therapie von Rogers."
   },
-  { 
+  {
     "id": 737,
     "title": "unconditional positive regard",
     "content": "a caring, accepting, nonjudgmental attitude, which Carl Rogers believed would help clients develop self-awareness and self acceptance.",
     "de_title": "bedingungslose positive Wertschätzung",
     "de_content": "eine fürsorgliche, akzeptierende und nicht wertende Haltung, von der Carl Rogers glaubte, dass sie den Klienten helfen würde, Selbstbewusstsein und Selbstakzeptanz zu entwickeln."
   },
-  { 
+  {
     "id": 738,
     "title": "behavior therapy",
     "content": "therapy that applies learning principles to the elimination of unwanted behaviors.",
     "de_title": "Verhaltenstherapie",
     "de_content": "Therapie, die Lernprinzipien zur Beseitigung unerwünschter Verhaltensweisen anwendet."
   },
-  { 
+  {
     "id": 739,
     "title": "counterconditioning",
     "content": "behavior therapy procedures that use classical conditioning to evoke new responses to stimuli that are triggering unwanted behaviors; include exposure therapies and aversive conditioning.",
     "de_title": "Gegenkonditionierung",
     "de_content": "Verhaltenstherapeutische Verfahren, die mithilfe klassischer Konditionierung neue Reaktionen auf Reize hervorrufen, die unerwünschte Verhaltensweisen auslösen; Dazu gehören Expositionstherapien und aversive Konditionierung."
   },
-  { 
+  {
     "id": 740,
     "title": "exposure therapies",
     "content": "behavioral techniques, such as systematic desensitization and virtual reality exposure therapy, that treat anxieties by exposing people (in imaginary or actual situations) to the things they fear and avoid.",
     "de_title": "Expositionstherapien",
     "de_content": "Verhaltenstechniken wie systematische Desensibilisierung und Virtual-Reality-Expositionstherapie, die Ängste behandeln, indem sie Menschen (in imaginären oder tatsächlichen Situationen) den Dingen aussetzen, die sie fürchten und meiden."
   },
-  { 
+  {
     "id": 741,
     "title": "systematic desensitization",
     "content": "a type of exposure therapy that associates a pleasant relaxed state with gradually increasing anxiety-triggering stimuli. Commonly used to treat specific phobias.",
     "de_title": "systematische Desensibilisierung",
     "de_content": "eine Form der Konfrontationstherapie, die einen angenehm entspannten Zustand mit allmählich zunehmenden angstauslösenden Reizen verbindet. Wird häufig zur Behandlung spezifischer Phobien eingesetzt."
   },
-  { 
+  {
     "id": 742,
     "title": "virtual reality exposure therapy",
     "content": "a ounterconditioning technique that treats anxiety through creative electronic simulations in which people can safely face their greatest fears, such as airplane flying, spiders, or public speaking.",
     "de_title": "Virtual-Reality-Expositionstherapie",
     "de_content": "Eine Unterkonditionierungstechnik, die Ängste durch kreative elektronische Simulationen behandelt, in denen Menschen ihren größten Ängsten wie Flugzeugfliegen, Spinnen oder öffentlichen Reden sicher begegnen können."
   },
-  { 
+  {
     "id": 743,
     "title": "aversive conditioning",
     "content": "associates an unpleasant state (such as nausea) with an unwanted behavior (such as drinking alcohol).",
     "de_title": "aversive Konditionierung",
     "de_content": "verbindet einen unangenehmen Zustand (z. B. Übelkeit) mit einem unerwünschten Verhalten (z. B. Alkoholkonsum)."
   },
-  { 
+  {
     "id": 744,
     "title": "token economy",
     "content": "an operant conditioning procedure in which people earn a token for exhibiting a desired behavior and can later exchange tokens for privileges or treats.",
     "de_title": "Token-Ökonomie",
     "de_content": "ein operantes Konditionierungsverfahren, bei dem Menschen einen Token für das Zeigen eines gewünschten Verhaltens verdienen und Token später gegen Privilegien oder Belohnungen eintauschen können."
   },
-  { 
+  {
     "id": 745,
     "title": "cognitive therapy",
     "content": "therapy that teaches people new, more adaptive ways of thinking; based on the assumption that thoughts intervene between events and our emotional reactions.",
     "de_title": "kognitive Therapie",
     "de_content": "Therapie, die Menschen neue, anpassungsfähigere Denkweisen lehrt; basierend auf der Annahme, dass Gedanken zwischen Ereignissen und unseren emotionalen Reaktionen eingreifen."
   },
-  { 
+  {
     "id": 746,
     "title": "cognitive-behavioral therapy (CBT)",
     "content": "a popular integrative therapy that combines cognitive therapy (changing self-defeating thinking) with behavior therapy (changing behavior).",
     "de_title": "kognitive Verhaltenstherapie (CBT)",
     "de_content": "eine beliebte integrative Therapie, die kognitive Therapie (Änderung selbstzerstörerischen Denkens) mit Verhaltenstherapie (Verhaltensänderung) kombiniert."
   },
-  { 
+  {
     "id": 747,
     "title": "group therapy",
     "content": "therapy conducted with groups rather than individuals, providing benefits from group interaction.",
     "de_title": "Gruppentherapie",
     "de_content": "Die Therapie wird mit Gruppen und nicht mit Einzelpersonen durchgeführt und bietet Vorteile aus der Gruppeninteraktion."
   },
-  { 
+  {
     "id": 748,
     "title": "family therapy",
     "content": "therapy that treats people in the context of their family system. Views an individual’s unwanted behaviors as influenced by, or directed at, other family members.",
     "de_title": "Familientherapie",
     "de_content": "Therapie, die Menschen im Kontext ihres Familiensystems behandelt. Betrachtet das unerwünschte Verhalten einer Person als von anderen Familienmitgliedern beeinflusst oder gegen sie gerichtet."
   },
-  { 
+  {
     "id": 749,
     "title": "CHAPTER - ",
     "content": "Evaluating Psychotherapies",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 750,
     "title": "confirmation bias",
     "content": "a tendency to search for information that supports our preconceptions and to ignore or distort contradictory evidence.",
     "de_title": "Bestätigungsfehler",
     "de_content": "eine Tendenz, nach Informationen zu suchen, die unsere Vorurteile stützen, und widersprüchliche Beweise zu ignorieren oder zu verzerren."
   },
-  { 
+  {
     "id": 751,
     "title": "meta-analysis",
     "content": "a statistical procedure for analyzing the results of multiple studies to reach an overall conclusion.",
     "de_title": "Metaanalyse",
     "de_content": "ein statistisches Verfahren zur Analyse der Ergebnisse mehrerer Studien, um zu einer Gesamtschlussfolgerung zu gelangen."
   },
-  { 
+  {
     "id": 752,
     "title": "evidence-based practice",
     "content": "clinical decision making that integrates the best available research with clinical expertise and patient characteristics and preferences.",
     "de_title": "evidenzbasierte Praxis",
     "de_content": "klinische Entscheidungsfindung, die die beste verfügbare Forschung mit klinischem Fachwissen sowie Patientenmerkmalen und -präferenzen integriert."
   },
-  { 
+  {
     "id": 753,
     "title": "therapeutic alliance",
     "content": "a bond of trust and mutual understanding between a therapist and client, who work together constructively to overcome the client’s problem.",
     "de_title": "therapeutische Allianz",
     "de_content": "ein Band des Vertrauens und des gegenseitigen Verständnisses zwischen einem Therapeuten und einem Klienten, die konstruktiv zusammenarbeiten, um das Problem des Klienten zu lösen."
   },
-  { 
+  {
     "id": 754,
     "title": "CHAPTER - ",
     "content": "The Biomedical Therapies and Preventing Psychological Disorders",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 755,
     "title": "psychopharmacology",
     "content": "the study of the effects of drugs on mind and behavior.",
     "de_title": "Psychopharmakologie",
     "de_content": "die Untersuchung der Auswirkungen von Drogen auf Geist und Verhalten."
   },
-  { 
+  {
     "id": 757,
     "title": "antipsychotic drugs",
     "content": "drugs used to treat schizophrenia and other forms of severe thought disorders.",
     "de_title": "Antipsychotika",
     "de_content": "Medikamente zur Behandlung von Schizophrenie und anderen Formen schwerer Denkstörungen."
   },
-  { 
+  {
     "id": 758,
     "title": "antianxiety drugs",
     "content": "drugs used to control anxiety and agitation.",
     "de_title": "angstlösende Medikamente",
     "de_content": "Medikamente zur Kontrolle von Angstzuständen und Unruhe."
   },
-  { 
+  {
     "id": 759,
     "title": "antidepressant drugs",
     "content": "drugs used to treat depressive disorders, anxiety disorders, obsessive-compulsive and related disorders, and posttraumatic stress disorder. (Several widely used antidepressant drugs are selective serotonin reuptake inhibitors—SSRIs.)",
     "de_title": "antidepressant drugs",
     "de_content": "Medikamente zur Behandlung von depressiven Störungen, Angststörungen, Zwangsstörungen und verwandten Störungen sowie posttraumatischen Belastungsstörungen. (Mehrere weit verbreitete Antidepressiva sind selektive Serotonin-Wiederaufnahmehemmer – SSRIs.)"
   },
-  { 
+  {
     "id": 760,
     "title": "electroconvulsive therapy (ECT)",
     "content": "a biomedical therapy for severely depressed patients in which a brief electric current is sent through the brain of an anesthetized patient.",
     "de_title": "Elektrokrampftherapie (ECT)",
     "de_content": "eine biomedizinische Therapie für schwer depressive Patienten, bei der ein kurzer elektrischer Strom durch das Gehirn eines anästhesierten Patienten geschickt wird."
   },
-  { 
+  {
     "id": 761,
     "title": "transcranial magnetic stimulation (TMS)",
     "content": "the application of repeated pulses of magnetic energy to the brain; used to stimulate or uppress brain activity.",
     "de_title": "Transkranielle Magnetstimulation (TMS)",
     "de_content": "die Anwendung wiederholter magnetischer Energieimpulse auf das Gehirn; Wird verwendet, um die Gehirnaktivität zu stimulieren oder zu unterdrücken."
   },
-  { 
+  {
     "id": 762,
     "title": "psychosurgery",
     "content": "surgery that removes or destroys brain tissue in an effort to change behavior.",
     "de_title": "Psychochirurgie",
     "de_content": "Operation, bei der Gehirngewebe entfernt oder zerstört wird, um das Verhalten zu ändern."
   },
-  { 
+  {
     "id": 763,
     "title": "lobotomy",
     "content": "a psychosurgical procedure once used to calm uncontrollably emotional or violent patients. The procedure cut the nerves connecting the frontal lobes to the emotion-controlling centers of the inner brain.",
     "de_title": "Lobotomie",
     "de_content": "ein psychochirurgisches Verfahren, das einst zur Beruhigung unkontrollierbar emotionaler oder gewalttätiger Patienten eingesetzt wurde. Der Eingriff durchtrennte die Nerven, die die Frontallappen mit den emotionskontrollierenden Zentren des inneren Gehirns verbinden."
   },
-  { 
+  {
     "id": 764,
     "title": "resilience",
     "content": "the personal strength that helps people cope with stress and recover from adversity and even trauma.",
     "de_title": "Widerstandsfähigkeit",
     "de_content": "die persönliche Stärke, die Menschen hilft, mit Stress umzugehen und sich von Widrigkeiten und sogar Traumata zu erholen."
   },
-  { 
+  {
     "id": 765,
     "title": "posttraumatic growth",
     "content": "positive psychological changes following a struggle with extremely challenging circumstances and life crises.",
     "de_title": "Posttraumatisches Wachstum",
     "de_content": "positive psychologische Veränderungen nach einem Kampf mit extrem herausfordernden Umständen und Lebenskrisen."
   },
-  { 
+  {
     "id": 766,
-    "title": "",
-    "content": "",
+    "title": "CHAPTER Appendix: C",
+    "content": "Work and Life Satisfaction",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 767,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "flow",
+    "content": "a completely involved, focused state, with diminished awareness of self and time; results from full engagement of our skills.",
+    "de_title": "fließen",
+    "de_content": "ein völlig engagierter, konzentrierter Zustand mit vermindertem Selbst- und Zeitbewusstsein; resultiert aus dem vollen Einsatz unserer Fähigkeiten."
   },
-  { 
+  {
     "id": 768,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "industrial-organizational (I/O) psychology",
+    "content": "the application of psychological concepts and methods to human behavior in workplaces.",
+    "de_title": "Industrie-Organisationspsychologie (I/O).",
+    "de_content": "die Anwendung psychologischer Konzepte und Methoden auf menschliches Verhalten am Arbeitsplatz."
   },
-  { 
+  {
     "id": 769,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "personnel psychology",
+    "content": "an I/O psychology subfield that helps with job seeking, and with employee recruitment, selection, placement, training, appraisal, and development.",
+    "de_title": "Personalpsychologie",
+    "de_content": "ein Teilgebiet der I/O-Psychologie, das bei der Arbeitssuche sowie bei der Rekrutierung, Auswahl, Vermittlung, Schulung, Beurteilung und Entwicklung von Mitarbeitern hilft."
   },
-  { 
+  {
     "id": 770,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "organizational psychology",
+    "content": "an I/O psychology subfield that examines organizational influences on worker satisfaction and productivity and facilitates organizational change.",
+    "de_title": "Organisationspsychologie",
+    "de_content": "ein Teilgebiet der I/O-Psychologie, das organisatorische Einflüsse auf die Zufriedenheit und Produktivität der Mitarbeiter untersucht und organisatorische Veränderungen erleichtert."
   },
-  { 
+  {
     "id": 771,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "human factors psychology",
+    "content": "a field of psychology allied with I/O psychology that explores how people and machines interact and how machines and physical environments can be made safe and easy to use.",
+    "de_title": "Psychologie menschlicher Faktoren",
+    "de_content": "ein mit der I/O-Psychologie verbundener Bereich der Psychologie, der untersucht, wie Menschen und Maschinen interagieren und wie Maschinen und physische Umgebungen sicher und benutzerfreundlich gemacht werden können."
   },
-  { 
+  {
     "id": 772,
-    "title": "",
-    "content": "",
+    "title": "CHAPTER - ",
+    "content": "Personnel Psychology",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 773,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "structured interview",
+    "content": "an interview process that asks the same job-relevant questions of all applicants, each of whom is rated on established scales.",
+    "de_title": "strukturiertes Interview",
+    "de_content": "ein Vorstellungsgespräch, bei dem allen Bewerbern die gleichen berufsrelevanten Fragen gestellt werden und jeder Bewerber anhand festgelegter Skalen bewertet wird."
   },
-  { 
+  {
     "id": 774,
-    "title": "",
-    "content": "",
+    "title": "CHAPTER - ",
+    "content": "Organizational Psychology",
     "de_title": "",
     "de_content": ""
   },
-  { 
+  {
     "id": 775,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "leadership",
+    "content": "an individual’s ability to motivate and influence others to contribute to their group’s success.",
+    "de_title": "Führung",
+    "de_content": "die Fähigkeit eines Einzelnen, andere zu motivieren und zu beeinflussen, um zum Erfolg ihrer Gruppe beizutragen."
   },
-  { 
+  {
     "id": 776,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "task leadership",
+    "content": "goal-oriented leadership that sets standards, organizes work, and focuses attention on goals.",
+    "de_title": "Aufgabenführung",
+    "de_content": "Zielorientierte Führung, die Maßstäbe setzt, die Arbeit organisiert und den Fokus auf Ziele richtet."
   },
-  { 
+  {
     "id": 777,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
+    "title": "social leadership",
+    "content": "group-oriented leadership that builds teamwork, mediates conflict, and offers support.",
+    "de_title": "soziale Führung",
+    "de_content": "Gruppenorientierte Führung, die Teamarbeit aufbaut, Konflikte schlichtet und Unterstützung bietet."
   },
-  { 
-    "id": 778,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
+  {
     "id": 779,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 780,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 781,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 782,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 783,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 784,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 785,
-    "title": "",
-    "content": "",
-    "de_title": "",
-    "de_content": ""
-  },
-  { 
-    "id": 786,
     "title": "",
     "content": "",
     "de_title": "",
