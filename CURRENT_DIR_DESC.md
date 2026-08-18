@@ -34,6 +34,10 @@
 | `app/lib/chapter2.json` | Unused/legacy chapter 2 definitions. |
 | `app/lib/c7_to_c9.json` | Unused/legacy stub for chapters 7–9. |
 | `app/lib/addid.py` | One-off script for assigning ids; not used by the Next app. |
+| `lib/types.ts` | Clean schema: `Chapter`, `DefinitionCard`, `Question`. |
+| `lib/chapters.ts` | `getChapters()` catalog from JSON header rows (not used by UI yet). |
+| `lib/get-definitions.ts` | `getDefinitions()`: cards only, no header rows (not used by UI yet). |
+| `lib/get-questions.ts` | `getQuestions()`: Q&A only, no header rows (not used by UI yet). |
 
 ## ShadCN / tooling
 
