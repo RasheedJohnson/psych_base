@@ -1,7 +1,8 @@
 "use client";
 
-import { useMemo, useState, useSyncExternalStore } from "react";
+import { useMemo, useState } from "react";
 
+import AnswerDialog from "@/components/AnswerDialog";
 import AnswerPanel from "@/components/AnswerPanel";
 import { Button } from "@/components/ui/button";
 import {
@@ -16,6 +17,9 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "@/components/ui/empty";
+import { useHash } from "@/hooks/use-hash";
+import { useWideScreen } from "@/hooks/use-wide-screen";
+import { chapterHeading, chapterIdFromHash } from "@/lib/chapters";
 import type { Chapter, Question } from "@/lib/types";
 
 type QuestionListProps = {
@@ -28,58 +32,21 @@ type ChapterQuestionsProps = {
   questions: Question[];
 };
 
-/** Subscribe to the URL hash. Next.js Link uses pushState, so hashchange may not fire. */
-function subscribeToHash(onStoreChange: () => void) {
-  const onClick = (event: MouseEvent) => {
-    const anchor = (event.target as Element | null)?.closest("a");
-    if (!anchor?.getAttribute("href")?.includes("#")) {
-      return;
-    }
-    window.setTimeout(onStoreChange, 0);
-    window.setTimeout(onStoreChange, 50);
-  };
-
-  window.addEventListener("hashchange", onStoreChange);
-  window.addEventListener("popstate", onStoreChange);
-  document.addEventListener("click", onClick);
-
-  return () => {
-    window.removeEventListener("hashchange", onStoreChange);
-    window.removeEventListener("popstate", onStoreChange);
-    document.removeEventListener("click", onClick);
-  };
-}
-
-function hashSnapshot(): string {
-  return window.location.hash.replace(/^#/, "");
-}
-
-function chapterIdFromHash(hash: string, chapters: Chapter[]): string {
-  if (chapters.some((chapter) => chapter.id === hash)) {
-    return hash;
-  }
-  return chapters[0]?.id ?? "";
-}
-
-function chapterHeading(chapter: Chapter): string {
-  if (chapter.number === null) {
-    return chapter.title;
-  }
-  return `${String(chapter.number).padStart(2, "0")} — ${chapter.title}`;
-}
-
 /**
- * Selection lives here so a new `key={chapter.id}` remounts with Empty on the right.
+ * Selection lives here so a new `key={chapter.id}` remounts with Empty on the
+ * right (wide) or a closed dialog (narrow).
  */
 function ChapterQuestions({ chapter, questions }: ChapterQuestionsProps) {
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const selected = questions.find((item) => item.id === selectedId) ?? null;
+  /* Tailwind `lg`: two columns + AnswerPanel; below that, one column + dialog. */
+  const isWide = useWideScreen();
 
   return (
     <section
       id={chapter.id}
       aria-label={chapterHeading(chapter)}
-      className="mx-auto grid max-w-6xl scroll-mt-32 grid-cols-1 gap-4 p-4 lg:grid-cols-2 lg:items-start"
+      className="mx-auto grid max-w-6xl scroll-mt-24 grid-cols-1 gap-4 p-4 lg:grid-cols-2 lg:items-start"
     >
       <div className="flex min-w-0 flex-col gap-4">
         <Card>
@@ -88,7 +55,7 @@ function ChapterQuestions({ chapter, questions }: ChapterQuestionsProps) {
             <CardDescription>
               {questions.length === 0
                 ? "No questions in this chapter."
-                : `${questions.length} questions · click one to type the answer`}
+                : `${questions.length} questions · click one to see the answer`}
             </CardDescription>
           </CardHeader>
         </Card>
@@ -114,28 +81,36 @@ function ChapterQuestions({ chapter, questions }: ChapterQuestionsProps) {
         </ul>
       </div>
 
-      <aside
-        aria-label="Answer"
-        className="flex min-h-64 min-w-0 lg:sticky lg:top-32"
-      >
-        <AnswerPanel
-          key={selected?.id ?? "empty"}
+      {isWide ? (
+        /* `hidden lg:flex` keeps SSR HTML from stacking the panel on phones. */
+        <aside
+          aria-label="Answer"
+          className="hidden min-h-64 min-w-0 lg:sticky lg:top-24 lg:flex"
+        >
+          <AnswerPanel
+            key={selected?.id ?? "empty"}
+            question={selected}
+          />
+        </aside>
+      ) : (
+        <AnswerDialog
           question={selected}
+          onClose={() => setSelectedId(null)}
         />
-      </aside>
+      )}
     </section>
   );
 }
 
 /**
- * Questions dashboard client: one chapter at a time (Navbar hash), list on the
- * left, answer typewriter on the right. Keeps the page as a data-loading wrapper.
+ * Questions dashboard client: one chapter at a time (Navbar hash). Wide
+ * screens keep the list + AnswerPanel columns; narrow screens open a dialog.
  */
 export default function QuestionList({
   chapters,
   questions,
 }: QuestionListProps) {
-  const hash = useSyncExternalStore(subscribeToHash, hashSnapshot, () => "");
+  const hash = useHash();
   const chapterId = chapterIdFromHash(hash, chapters);
 
   const questionsByChapter = useMemo(() => {

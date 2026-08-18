@@ -14,19 +14,23 @@
 
 | File | Purpose |
 | --- | --- |
-| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog and `ThemeToggle`; ShadCN Button + Separator. |
+| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions (hamburger on small screens), always-visible chapter `DropdownMenu`, and `ThemeToggle`. |
 | `components/theme-provider.tsx` | Client wrapper around `next-themes` ThemeProvider; used once in the root layout. |
 | `components/ThemeToggle.tsx` | Outline icon Button that flips light/dark via `next-themes`; Sun/Moon from lucide. |
 | `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
 | `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination; Empty if the catalog is missing. |
 | `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
-| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons, selected id into `AnswerPanel`; Empty if the catalog is missing. |
-| `components/AnswerPanel.tsx` | Right column: ShadCN Empty until a question is selected, then typewriter of the answer (Card + Separator). |
-| `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
-| `components/ui/card.tsx` | ShadCN Card family; ink border and hard shadow, no overflow clip. |
-| `components/ui/separator.tsx` | ShadCN Separator; thickness from `--border-width`. |
-| `components/ui/pagination.tsx` | ShadCN Pagination; composes Button (active = default, others = outline). |
-| `components/ui/empty.tsx` | ShadCN Empty state; raised card plate + optional primary icon well. |
+| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons; wide = `AnswerPanel`, narrow = `AnswerDialog`. Empty if the catalog is missing. |
+| `components/AnswerPanel.tsx` | Wide right column: ShadCN Empty until a question is selected, then typewriter of the answer (Card + Separator). |
+| `components/AnswerDialog.tsx` | Narrow-screen Q&A: ShadCN Dialog with the question as title and `TypedAnswer` in the body. |
+| `components/TypedAnswer.tsx` | Shared typewriter paragraph used by `AnswerPanel` and `AnswerDialog`. |
+
+## Hooks
+
+| File | Purpose |
+| --- | --- |
+| `hooks/use-hash.ts` | `useHash()` — URL hash without `#`; used by Navbar, CardsPager, QuestionList. |
+| `hooks/use-wide-screen.ts` | `useWideScreen()` — true at Tailwind `lg` (1024px); questions two-column vs dialog. |
 
 ## Data
 
@@ -36,7 +40,7 @@
 | `lib/data/definitions.json` | Normalized definition cards (no header rows). |
 | `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
 | `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar and both dashboards. |
+| `lib/chapters.ts` | `getChapters()` plus `chapterShortLabel`, `chapterHeading`, `chapterIdFromHash`. |
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`; used by `/dashboard/cards`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`; used by `/dashboard/questions`. |
 
@@ -59,6 +63,18 @@
 | `CURRENT_ARCHITECTURE.md` | Brief architecture overview. |
 | `CURRENT_DIR_DESC.md` | This dictionary. |
 
+## UI primitives
+
+| File | Purpose |
+| --- | --- |
+| `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
+| `components/ui/card.tsx` | ShadCN Card family; ink border and hard shadow, no overflow clip. |
+| `components/ui/separator.tsx` | ShadCN Separator; thickness from `--border-width`. |
+| `components/ui/pagination.tsx` | ShadCN Pagination; composes Button (active = default, others = outline). |
+| `components/ui/empty.tsx` | ShadCN Empty state; raised card plate + optional primary icon well. |
+| `components/ui/dialog.tsx` | ShadCN Dialog; raised popover plate + hard shadow (used by `AnswerDialog`). |
+| `components/ui/dropdown-menu.tsx` | ShadCN DropdownMenu; raised popover plate (used by Navbar chapters). |
+
 ## Remaining layout classNames (not old visual chrome)
 
 These still have `className`s that are placement, wrapping, or 3D — not leftover zinc/slate/gradient soup. Wrapping them in extra primitives would mean undoing Card/Button defaults.
@@ -72,3 +88,4 @@ These still have `className`s that are placement, wrapping, or 3D — not leftov
 | `components/DefinitionFlipCard.tsx` | 3D flip (`perspective`, `backface-visibility`, `rotateY`). Native button chrome is stripped so the Card is the plate. |
 | `components/QuestionList.tsx` | Two-column layout, sticky answer, wrapping question Button text. |
 | `components/AnswerPanel.tsx` | `w-full` on the answer Card; separator spacing. |
+| `components/AnswerDialog.tsx` | Dialog max-height / scroll for long answers; title wrapping and close-button gutter. |

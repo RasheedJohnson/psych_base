@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState, useSyncExternalStore } from "react";
+import { useMemo, useState } from "react";
 
 import DefinitionFlipCard from "@/components/DefinitionFlipCard";
 import {
@@ -24,6 +24,8 @@ import {
   PaginationNext,
   PaginationPrevious,
 } from "@/components/ui/pagination";
+import { useHash } from "@/hooks/use-hash";
+import { chapterHeading, chapterIdFromHash } from "@/lib/chapters";
 import type { Chapter, DefinitionCard } from "@/lib/types";
 
 /** Two rows of three on large screens; chapters with fewer cards just leave gaps. */
@@ -38,47 +40,6 @@ type ChapterDeckProps = {
   chapter: Chapter;
   cards: DefinitionCard[];
 };
-
-/** Subscribe to the URL hash. Next.js Link uses pushState, so hashchange may not fire. */
-function subscribeToHash(onStoreChange: () => void) {
-  const onClick = (event: MouseEvent) => {
-    const anchor = (event.target as Element | null)?.closest("a");
-    if (!anchor?.getAttribute("href")?.includes("#")) {
-      return;
-    }
-    // 0ms if the hash is already updated; 50ms if the router is still pushing.
-    window.setTimeout(onStoreChange, 0);
-    window.setTimeout(onStoreChange, 50);
-  };
-
-  window.addEventListener("hashchange", onStoreChange);
-  window.addEventListener("popstate", onStoreChange);
-  document.addEventListener("click", onClick);
-
-  return () => {
-    window.removeEventListener("hashchange", onStoreChange);
-    window.removeEventListener("popstate", onStoreChange);
-    document.removeEventListener("click", onClick);
-  };
-}
-
-function hashSnapshot(): string {
-  return window.location.hash.replace(/^#/, "");
-}
-
-function chapterIdFromHash(hash: string, chapters: Chapter[]): string {
-  if (chapters.some((chapter) => chapter.id === hash)) {
-    return hash;
-  }
-  return chapters[0]?.id ?? "";
-}
-
-function chapterHeading(chapter: Chapter): string {
-  if (chapter.number === null) {
-    return chapter.title;
-  }
-  return `${String(chapter.number).padStart(2, "0")} — ${chapter.title}`;
-}
 
 /** Compact window: 1 … 4 5 6 … 11. Small totals print every page. */
 function visiblePages(current: number, total: number): Array<number | "ellipsis"> {
@@ -130,7 +91,7 @@ function ChapterDeck({ chapter, cards }: ChapterDeckProps) {
     <section
       id={chapter.id}
       aria-label={chapterHeading(chapter)}
-      className="mx-auto flex max-w-6xl scroll-mt-32 flex-col gap-4 p-4"
+      className="mx-auto flex max-w-6xl scroll-mt-24 flex-col gap-4 p-4"
     >
       <Card>
         <CardHeader>
@@ -214,7 +175,7 @@ function ChapterDeck({ chapter, cards }: ChapterDeckProps) {
  * Keeps app/dashboard/cards/page.tsx as a data-loading server wrapper.
  */
 export default function CardsPager({ chapters, definitions }: CardsPagerProps) {
-  const hash = useSyncExternalStore(subscribeToHash, hashSnapshot, () => "");
+  const hash = useHash();
   const chapterId = chapterIdFromHash(hash, chapters);
 
   // Group once; 683 cards is cheap but this avoids reshuffling on every flip/page click.

@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { CircleHelp } from "lucide-react";
 
+import TypedAnswer from "@/components/TypedAnswer";
 import {
   Card,
   CardContent,
@@ -19,37 +19,16 @@ import {
 import { Separator } from "@/components/ui/separator";
 import type { Question } from "@/lib/types";
 
-/** One character per tick so the answer is readable as it appears. */
-const TYPE_MS = 16;
-
 type AnswerPanelProps = {
   question: Question | null;
 };
 
 /**
- * Right column: Empty until a question is selected, then type its answer.
- * Parent remounts this with key={question.id} so a new pick starts from "".
+ * Right column on wide screens: Empty until a question is selected, then type
+ * its answer. Parent remounts this with key={question.id} so a new pick starts
+ * from "".
  */
 export default function AnswerPanel({ question }: AnswerPanelProps) {
-  const [typed, setTyped] = useState("");
-
-  useEffect(() => {
-    if (!question) {
-      return;
-    }
-
-    let index = 0;
-    const timer = window.setInterval(() => {
-      index += 1;
-      setTyped(question.answer.slice(0, index));
-      if (index >= question.answer.length) {
-        window.clearInterval(timer);
-      }
-    }, TYPE_MS);
-
-    return () => window.clearInterval(timer);
-  }, [question]);
-
   if (!question) {
     return (
       <Empty>
@@ -66,8 +45,6 @@ export default function AnswerPanel({ question }: AnswerPanelProps) {
     );
   }
 
-  const stillTyping = typed.length < question.answer.length;
-
   return (
     <Card className="w-full">
       <CardHeader>
@@ -75,10 +52,7 @@ export default function AnswerPanel({ question }: AnswerPanelProps) {
       </CardHeader>
       <CardContent>
         <Separator className="mb-3" />
-        <p>
-          {typed}
-          {stillTyping ? <span aria-hidden="true">|</span> : null}
-        </p>
+        <TypedAnswer text={question.answer} />
       </CardContent>
     </Card>
   );

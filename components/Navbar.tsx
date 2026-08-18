@@ -3,12 +3,25 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, type ReactNode } from "react";
-import { Menu, X } from "lucide-react";
+import { ChevronDown, Menu, X } from "lucide-react";
 
 import ThemeToggle from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
+import {
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuItem,
+  DropdownMenuTrigger,
+} from "@/components/ui/dropdown-menu";
 import { Separator } from "@/components/ui/separator";
+import { useHash } from "@/hooks/use-hash";
+import {
+  chapterHeading,
+  chapterIdFromHash,
+  chapterShortLabel,
+} from "@/lib/chapters";
 import type { Chapter } from "@/lib/types";
+import { cn } from "@/lib/utils";
 
 /** Primary routes. */
 const NAV_LINKS = [
@@ -40,14 +53,6 @@ function chapterHref(pathname: string, chapterId: string): string {
   return `${base}#${chapterId}`;
 }
 
-/** 00–16 for numbered chapters; C for unnumbered extras (appendix). */
-function chapterLabel(chapter: Chapter): string {
-  if (chapter.number === null) {
-    return "C";
-  }
-  return String(chapter.number).padStart(2, "0");
-}
-
 function NavButton({
   href,
   active,
@@ -59,7 +64,7 @@ function NavButton({
 }: {
   href: string;
   active?: boolean;
-  size?: "sm" | "xs";
+  size?: "sm";
   variant?: "default" | "outline";
   title?: string;
   onNavigate?: () => void;
@@ -103,31 +108,69 @@ function RouteButtons({
   ));
 }
 
-function ChapterButtons({
+/**
+ * Chapter catalog as a dropdown. Trigger shows the short label on dashboards
+ * (00–16 / C) and "Chapters" elsewhere.
+ */
+function ChapterMenu({
   chapters,
   pathname,
+  hash,
   onNavigate,
 }: {
   chapters: Chapter[];
   pathname: string;
+  hash: string;
   onNavigate: () => void;
 }) {
-  return chapters.map((chapter) => (
-    <NavButton
-      key={chapter.id}
-      href={chapterHref(pathname, chapter.id)}
-      size="xs"
-      variant="outline"
-      title={chapter.title}
-      onNavigate={onNavigate}
-    >
-      {chapterLabel(chapter)}
-    </NavButton>
-  ));
+  const onDashboard = pathname.startsWith("/dashboard");
+  const chapterId = chapterIdFromHash(hash, chapters);
+  const current = chapters.find((chapter) => chapter.id === chapterId);
+  const triggerLabel =
+    onDashboard && current ? chapterShortLabel(current) : "Chapters";
+
+  return (
+    <DropdownMenu>
+      <DropdownMenuTrigger asChild>
+        <Button type="button" variant="outline" size="sm" aria-label="Chapters">
+          {triggerLabel}
+          <ChevronDown aria-hidden="true" />
+        </Button>
+      </DropdownMenuTrigger>
+      <DropdownMenuContent
+        align="end"
+        className="min-w-56 max-w-[min(20rem,calc(100vw-2rem))]"
+      >
+        {chapters.map((chapter) => {
+          const isActive = onDashboard && chapter.id === chapterId;
+          return (
+            <DropdownMenuItem
+              key={chapter.id}
+              asChild
+              className={cn(
+                "cursor-pointer whitespace-normal",
+                isActive && "bg-primary text-primary-foreground"
+              )}
+            >
+              <Link
+                href={chapterHref(pathname, chapter.id)}
+                title={chapter.title}
+                aria-current={isActive ? "true" : undefined}
+                onClick={onNavigate}
+              >
+                {chapterHeading(chapter)}
+              </Link>
+            </DropdownMenuItem>
+          );
+        })}
+      </DropdownMenuContent>
+    </DropdownMenu>
+  );
 }
 
 const Navbar = ({ chapters }: NavbarProps) => {
   const pathname = usePathname();
+  const hash = useHash();
   const [open, setOpen] = useState(false);
 
   const closeMenu = () => setOpen(false);
@@ -137,17 +180,23 @@ const Navbar = ({ chapters }: NavbarProps) => {
       aria-label="Main"
       className="sticky top-0 z-20 bg-card shadow-sm"
     >
-      {/* Brand + primary routes + mobile toggle */}
+      {/* Brand + primary routes + chapter dropdown + mobile toggle */}
       <div className="flex items-center justify-between gap-3 p-3">
         <NavButton href="/" variant="default" onNavigate={closeMenu}>
           V&apos;s PsychDB
         </NavButton>
 
-        {/* Routes stay on the right with the theme toggle; hamburger is mobile-only. */}
         <div className="flex items-center gap-2">
           <div className="hidden items-center gap-2 md:flex">
             <RouteButtons pathname={pathname} onNavigate={closeMenu} />
           </div>
+
+          <ChapterMenu
+            chapters={chapters}
+            pathname={pathname}
+            hash={hash}
+            onNavigate={closeMenu}
+          />
 
           <ThemeToggle />
 
@@ -166,32 +215,12 @@ const Navbar = ({ chapters }: NavbarProps) => {
         </div>
       </div>
 
-      {/* Desktop chapter catalog */}
-      <div className="hidden md:block">
-        <Separator />
-        <div className="flex flex-wrap gap-2 p-3">
-          <ChapterButtons
-            chapters={chapters}
-            pathname={pathname}
-            onNavigate={closeMenu}
-          />
-        </div>
-      </div>
-
-      {/* Mobile menu: same Button markup, no Sheet */}
+      {/* Mobile menu: primary routes only — chapters stay in the top bar. */}
       {open ? (
         <div id="nav-menu" className="flex flex-col gap-3 p-3 md:hidden">
           <Separator />
           <div className="flex flex-wrap gap-2">
             <RouteButtons pathname={pathname} onNavigate={closeMenu} />
-          </div>
-          <Separator />
-          <div className="flex flex-wrap gap-2">
-            <ChapterButtons
-              chapters={chapters}
-              pathname={pathname}
-              onNavigate={closeMenu}
-            />
           </div>
         </div>
       ) : null}
