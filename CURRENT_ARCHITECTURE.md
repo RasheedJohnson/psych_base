@@ -11,7 +11,9 @@ PsychBase is a Next.js 16 App Router app (React 19, TypeScript, Tailwind CSS v4)
 
 ## Design system
 
-ShadCN is initialized (Tailwind v4, CSS variables, `cn` in `lib/utils.ts`). There are **no** `components/ui` primitives yet. `app/globals.css` holds neobrutalist tokens (thick borders, hard offset shadows, radius 0, high-contrast colors). `<html>` has class `dark` so those dark tokens apply; existing pages still use their own hardcoded classes.
+ShadCN is initialized (Tailwind v4, CSS variables, `cn` in `lib/utils.ts`). `app/globals.css` holds neobrutalist tokens (thick borders, hard offset shadows, radius 0, high-contrast colors). `<html>` has class `dark` so those dark tokens apply; existing pages still use their own hardcoded classes.
+
+`components/ui` now has five neobrutalist primitives (not wired to pages yet): **button**, **card**, **separator**, **pagination**, **empty**. They use the existing tokens (`border`, `shadow-*`, `--radius`, `--border-width`) rather than hardcoded colors. Pagination composes Button.
 
 ## Unused / legacy
 
@@ -19,4 +21,4 @@ ShadCN is initialized (Tailwind v4, CSS variables, `cn` in `lib/utils.ts`). Ther
 
 ## Planned next
 
-`/dashboard/cards`, `/dashboard/questions`, a home picker, and neobrutalist ShadCN UI under `/components/ui`.
+`/dashboard/cards`, `/dashboard/questions`, a home picker, and wiring the new `/components/ui` primitives into pages.

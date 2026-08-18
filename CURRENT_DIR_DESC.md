@@ -19,6 +19,11 @@
 | `components/HorizontalRule.tsx` | Gradient divider used on home and questions. |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
 | `components/QuestionCard.tsx` | Unused/legacy question/answer presentational card. |
+| `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
+| `components/ui/card.tsx` | ShadCN Card family; ink border and hard shadow, no overflow clip. |
+| `components/ui/separator.tsx` | ShadCN Separator; thickness from `--border-width`. |
+| `components/ui/pagination.tsx` | ShadCN Pagination; composes Button (active = default, others = outline). |
+| `components/ui/empty.tsx` | ShadCN Empty state; raised card plate + optional primary icon well. |
 
 ## Data
 
@@ -34,8 +39,8 @@
 
 | File | Purpose |
 | --- | --- |
-| `components.json` | ShadCN CLI config (radix-nova, CSS variables, `@/*` aliases). No UI files generated yet. |
-| `lib/utils.ts` | `cn()` helper (clsx + tailwind-merge) for future `/components/ui`. |
+| `components.json` | ShadCN CLI config (radix-nova, CSS variables, `@/*` aliases). |
+| `lib/utils.ts` | `cn()` helper (clsx + tailwind-merge) used by `/components/ui`. |
 | `package.json` | Scripts and deps (Next, React, Tailwind v4, ShadCN stack). |
 | `tsconfig.json` | TypeScript config; `@/*` → repo root. |
 | `postcss.config.mjs` | PostCSS with `@tailwindcss/postcss`. |
