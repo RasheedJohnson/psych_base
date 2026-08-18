@@ -1,165 +1,197 @@
 "use client";
-import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import { useState } from 'react';
 
+import Link from "next/link";
+import { usePathname } from "next/navigation";
+import { useState, type ReactNode } from "react";
+import { Menu, X } from "lucide-react";
 
+import { Button } from "@/components/ui/button";
+import { Separator } from "@/components/ui/separator";
+import type { Chapter } from "@/lib/types";
 
-const Navbar = () => {
-  const [open, setOpen] = useState(false);
-  const currentPage = usePathname();
+/** Primary routes. Dashboard pages may 404 until those routes exist. */
+const NAV_LINKS = [
+  { href: "/", label: "Home" },
+  { href: "/dashboard/cards", label: "Cards" },
+  { href: "/dashboard/questions", label: "Questions" },
+] as const;
 
-  const handleClick = () => {
-    if (open) {
-      setOpen(false);
-    } else {
-      setOpen(true);
-    }
+type NavbarProps = {
+  /** Catalog from getChapters() — not hardcoded title strings. */
+  chapters: Chapter[];
+};
+
+/** Home is exact; other routes also match nested paths. */
+function linkIsActive(href: string, pathname: string): boolean {
+  if (href === "/") {
+    return pathname === "/";
   }
+  return pathname === href || pathname.startsWith(`${href}/`);
+}
 
-  const navItemsQuestions = [
-    "Learning Objective Questions – Kapitel 01",
-    "Learning Objective Questions – Kapitel 02",
-    "Learning Objective Questions – Kapitel 03",
-    "Learning Objective Questions – Kapitel 04",
-    "Learning Objective Questions – Kapitel 05",
-    "Learning Objective Questions – Kapitel 06",
-    "Learning Objective Questions – Kapitel 07",
-    "Learning Objective Questions – Kapitel 08",
-    "Learning Objective Questions – Kapitel 09",
-    "Learning Objective Questions – Kapitel 10",
-    "Learning Objective Questions – Kapitel 11",
-    "Learning Objective Questions – Kapitel 12",
-    "Learning Objective Questions – Kapitel 13",
-    "Learning Objective Questions – Kapitel 14",
-    "Learning Objective Questions – Kapitel 15",
-    "Learning Objective Questions – Kapitel 16"
-  ]
+/**
+ * Chapter jumps follow the current content type (cards vs questions).
+ * Hash targets will match dashboard section ids once those pages exist.
+ */
+function chapterHref(pathname: string, chapterId: string): string {
+  const base = pathname.includes("question")
+    ? "/dashboard/questions"
+    : "/dashboard/cards";
+  return `${base}#${chapterId}`;
+}
 
-  const navItems = [
-    "CHAPTER 0: Prologue",
-    "CHAPTER 1: Thinking Critically With Psychological Science",
-    "CHAPTER 2: The Biology of Mind",
-    "CHAPTER 3: Consciousness and the Two TrackMind",
-    "CHAPTER 4: Nature, Nurture, and Human Diversity",
-    "CHAPTER 5: Developing Through the Life Span",
-    "CHAPTER 6: Sensation and Perception",
-    "CHAPTER 7: Learning",
-    "CHAPTER 8: Memory",
-    "CHAPTER 9: Thinking and Language",
-    "CHAPTER 10: Intelligence",
-    "CHAPTER 11: What Drives Us: Hunger, Sex Belonging, and Achievement",
-    "CHAPTER 12: Emotions, Stress, and Health",
-    "CHAPTER 13: Social Psychology",
-    "CHAPTER 14: Personality",
-    "CHAPTER 15: Psychological Disorders",
-    "CHAPTER 16: Therapy"
-  ]
+/** 00–16 for numbered chapters; C for unnumbered extras (appendix). */
+function chapterLabel(chapter: Chapter): string {
+  if (chapter.number === null) {
+    return "C";
+  }
+  return String(chapter.number).padStart(2, "0");
+}
+
+function NavButton({
+  href,
+  active,
+  size = "sm",
+  variant,
+  title,
+  onNavigate,
+  children,
+}: {
+  href: string;
+  active?: boolean;
+  size?: "sm" | "xs";
+  variant?: "default" | "outline";
+  title?: string;
+  onNavigate?: () => void;
+  children: ReactNode;
+}) {
+  return (
+    <Button
+      asChild
+      size={size}
+      variant={variant ?? (active ? "default" : "outline")}
+    >
+      <Link
+        href={href}
+        title={title}
+        aria-current={active ? "page" : undefined}
+        onClick={onNavigate}
+      >
+        {children}
+      </Link>
+    </Button>
+  );
+}
+
+/** Fresh node list each call so desktop and mobile trees do not share instances. */
+function RouteButtons({
+  pathname,
+  onNavigate,
+}: {
+  pathname: string;
+  onNavigate: () => void;
+}) {
+  return NAV_LINKS.map((link) => (
+    <NavButton
+      key={link.href}
+      href={link.href}
+      active={linkIsActive(link.href, pathname)}
+      onNavigate={onNavigate}
+    >
+      {link.label}
+    </NavButton>
+  ));
+}
+
+function ChapterButtons({
+  chapters,
+  pathname,
+  onNavigate,
+}: {
+  chapters: Chapter[];
+  pathname: string;
+  onNavigate: () => void;
+}) {
+  return chapters.map((chapter) => (
+    <NavButton
+      key={chapter.id}
+      href={chapterHref(pathname, chapter.id)}
+      size="xs"
+      variant="outline"
+      title={chapter.title}
+      onNavigate={onNavigate}
+    >
+      {chapterLabel(chapter)}
+    </NavButton>
+  ));
+}
+
+const Navbar = ({ chapters }: NavbarProps) => {
+  const pathname = usePathname();
+  const [open, setOpen] = useState(false);
+
+  const closeMenu = () => setOpen(false);
 
   return (
-    <nav className='max-w-screen top-0 sticky border-b-[1px] border-slate-300/40 p-6 backdrop-blur-sm z-20 flex flex-row justify-between shadow-2xl shadow-black'>
-      <div className=''>
-        <Link href="/" className='font-bold'>
+    <nav
+      aria-label="Main"
+      className="sticky top-0 z-20 border-b bg-card shadow-sm"
+    >
+      {/* Brand + primary routes + mobile toggle */}
+      <div className="flex items-center justify-between gap-3 p-3">
+        <NavButton href="/" variant="default" onNavigate={closeMenu}>
           V&apos;s PsychDB
-        </Link>
+        </NavButton>
+
+        <div className="hidden items-center gap-2 md:flex">
+          <RouteButtons pathname={pathname} onNavigate={closeMenu} />
+        </div>
+
+        <Button
+          type="button"
+          size="icon"
+          variant="outline"
+          className="md:hidden"
+          aria-expanded={open}
+          aria-controls="nav-menu"
+          aria-label={open ? "Close menu" : "Open menu"}
+          onClick={() => setOpen((isOpen) => !isOpen)}
+        >
+          {open ? <X /> : <Menu />}
+        </Button>
       </div>
 
-      {
-        currentPage.toString().includes("question") ? (
-          <Link className='semibold ml-10 py-2 px-6 border-gray-100/15 border-[1px] rounded-lg content-center' href="/">
-            DEFINITIONS</Link>
-        ): (
-        <Link className='semibold ml-10 py-2 px-6 border-gray-100/15 border-[1px] rounded-lg content-center' href="/questions">
-              QUESTIONS</Link>
-          )
-      }
-
-      {
-        !open ? (
-          <div
-            onClick={handleClick}
-            className='flex flex-col gap-[4px] h-[30px] w-[40px] rounded-sm border-[1px] justify-center items-center border-white/30 visible md:invisible absolute top-5 right-6 z-40'>
-            <div className='h-[2px] w-[25px] bg-white/75'></div>
-            <div className='h-[2px] w-[25px] bg-white/75'></div>
-            <div className='h-[2px] w-[25px] bg-white/75'></div>            
-          </div>
-        ) : (
-            <div className='flex flex-col'>
-              <div
-                onClick={handleClick}
-                className='flex flex-col h-[30px] w-[40px] rounded-sm border-[1px] justify-center items-center border-white/30 visible md:invisible absolute top-5 right-6 z-40'>
-                <div className='h-[2px] w-[25px] bg-white/75 rotate-[135deg] absolute transition-all'></div>
-                <div className='h-[2px] w-[25px] bg-white/75 opacity-0'></div>
-                <div className='h-[2px] w-[25px] bg-white/75 rotate-[45deg] absolute transition-all'></div>            
-              </div>
-              <div className='flex flex-col gap-5 rounded-md border-[1px] border-slate-300/40 bg-black/75 p-6 backdrop:blur-sm font-light text-sm visible md:invisible absolute top-20 right-6 z-40'>
-                {
-                  currentPage.toString().includes("question") ? (
-                      navItemsQuestions.map((item, index) => (
-                        
-                        <Link
-                          key={index}
-                          className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-                          href={`#${item}`}>
-                          {`${item.slice(-2)}`}
-                        </Link>
-                      )
-                    )
-                  ) : (
-                    navItems.map((item, index) => (
-                        <Link
-                          key={index}
-                          className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-                          href={`#${item}`}>
-                          {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}
-                        </Link>
-                      )
-                    )
-                  )
-                }
-                {
-                  currentPage.toString().includes("questions") ? (
-                    <Link href="/">
-                      HOME</Link>
-                  ) : (
-                    <Link href="/questions">
-                      QUESTIONS</Link>
-                  )
-                }
-            </div>
-            
-          </div>
-        )
-      }
-
-      <div className='flex flex-row gap-5 font-light text-sm invisible md:visible'>
-        {
-          currentPage.toString().includes("question") ? (
-              navItemsQuestions.map((item, index) => (
-                
-                <Link
-                  key={index}
-                  className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-                  href={`#${item}`}>
-                  {`${item.slice(-2)}`}
-                </Link>
-              )
-            )
-          ) : (
-            navItems.map((item, index) => (
-                <Link
-                  key={index}
-                  className="hover:text-blue-300 hover:scale-[105%] hover:font-semibold"
-                  href={`#${item}`}>
-                  {`${item.slice(0, 2).toLowerCase()}${item.slice(8, 10)}`}
-                </Link>
-              )
-            )
-          )
-        }
+      {/* Desktop chapter catalog */}
+      <div className="hidden md:block">
+        <Separator />
+        <div className="flex flex-wrap gap-2 p-3">
+          <ChapterButtons
+            chapters={chapters}
+            pathname={pathname}
+            onNavigate={closeMenu}
+          />
+        </div>
       </div>
+
+      {/* Mobile menu: same Button markup, no Sheet */}
+      {open ? (
+        <div id="nav-menu" className="flex flex-col gap-3 p-3 md:hidden">
+          <Separator />
+          <div className="flex flex-wrap gap-2">
+            <RouteButtons pathname={pathname} onNavigate={closeMenu} />
+          </div>
+          <Separator />
+          <div className="flex flex-wrap gap-2">
+            <ChapterButtons
+              chapters={chapters}
+              pathname={pathname}
+              onNavigate={closeMenu}
+            />
+          </div>
+        </div>
+      ) : null}
     </nav>
-  )
-}
+  );
+};
 
 export default Navbar;

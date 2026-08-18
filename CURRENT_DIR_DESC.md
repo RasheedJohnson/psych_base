@@ -4,9 +4,9 @@
 
 | File | Purpose |
 | --- | --- |
-| `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, global `Navbar`. |
+| `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, `getChapters()` into `Navbar`. |
 | `app/page.tsx` | Home: title + `HorizontalRule` + `Content`. |
-| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, `cn`-ready theme map. |
+| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, site-wide page pattern on `body`. |
 | `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from mixed `app/lib/questions.json`. |
 | `app/questions/questions.css` | Page-local styles for chapter titles and question cards. |
 
@@ -14,7 +14,7 @@
 
 | File | Purpose |
 | --- | --- |
-| `components/Navbar.tsx` | Sticky nav with hardcoded chapter lists and DEFINITIONS / QUESTIONS toggle. |
+| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog; ShadCN Button + Separator. |
 | `components/Content.tsx` | Home definition list from mixed `new_test.json`; chapter vs card by title containing `"CHAPTER"`. |
 | `components/HorizontalRule.tsx` | Gradient divider used on home and questions. |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
@@ -33,7 +33,7 @@
 | `lib/data/definitions.json` | Normalized definition cards (no header rows). |
 | `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
 | `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`. |
+| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar. |
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`. |
 | `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |

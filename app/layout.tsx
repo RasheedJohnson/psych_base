@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import { getChapters } from "@/lib/chapters";
 import { cn } from "@/lib/utils";
 
 /* Inter is the existing app face; expose it as --font-sans for ShadCN tokens. */
@@ -17,6 +18,9 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  /* Catalog is read once on the server and passed into the client nav. */
+  const chapters = getChapters();
+
   return (
     /* `.dark` selects neobrutalist dark tokens (class-based, not prefers-color-scheme). */
     <html
@@ -24,8 +28,9 @@ export default function RootLayout({
       lang="en"
       className={cn("dark font-sans", inter.variable)}
     >
+      {/* Page pattern is on body in globals.css; routes do not paint a background. */}
       <body className="antialiased">
-        <Navbar />
+        <Navbar chapters={chapters} />
         {children}
       </body>
     </html>
