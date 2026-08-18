@@ -7,7 +7,7 @@
 | `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, global `Navbar`. |
 | `app/page.tsx` | Home: title + `HorizontalRule` + `Content`. |
 | `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, `cn`-ready theme map. |
-| `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from `questions.json`. |
+| `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from mixed `app/lib/questions.json`. |
 | `app/questions/questions.css` | Page-local styles for chapter titles and question cards. |
 
 ## Components
@@ -15,7 +15,7 @@
 | File | Purpose |
 | --- | --- |
 | `components/Navbar.tsx` | Sticky nav with hardcoded chapter lists and DEFINITIONS / QUESTIONS toggle. |
-| `components/Content.tsx` | Home definition list from `new_test.json`; chapter vs card by title containing `"CHAPTER"`. |
+| `components/Content.tsx` | Home definition list from mixed `new_test.json`; chapter vs card by title containing `"CHAPTER"`. |
 | `components/HorizontalRule.tsx` | Gradient divider used on home and questions. |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
 | `components/QuestionCard.tsx` | Unused/legacy question/answer presentational card. |
@@ -29,15 +29,19 @@
 
 | File | Purpose |
 | --- | --- |
-| `app/lib/new_test.json` | Home definitions (EN/DE). Chapter headers mixed into the same array. |
-| `app/lib/questions.json` | `/questions` items. Chapter rows: `title` set, `question`/`answer` empty. |
+| `lib/data/chapters.json` | Normalized chapter catalog: `{ id, number, title }`. |
+| `lib/data/definitions.json` | Normalized definition cards (no header rows). |
+| `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
+| `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
+| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`. |
+| `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`. |
+| `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`. |
+| `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |
+| `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by `Content.tsx`. |
+| `app/lib/questions.json` | Mixed Q&A + chapter banners; still used by `/questions`. |
 | `app/lib/chapter2.json` | Unused/legacy chapter 2 definitions. |
 | `app/lib/c7_to_c9.json` | Unused/legacy stub for chapters 7–9. |
 | `app/lib/addid.py` | One-off script for assigning ids; not used by the Next app. |
-| `lib/types.ts` | Clean schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` catalog from JSON header rows (not used by UI yet). |
-| `lib/get-definitions.ts` | `getDefinitions()`: cards only, no header rows (not used by UI yet). |
-| `lib/get-questions.ts` | `getQuestions()`: Q&A only, no header rows (not used by UI yet). |
 
 ## ShadCN / tooling
 

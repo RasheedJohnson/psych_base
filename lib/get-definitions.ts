@@ -1,28 +1,12 @@
 /**
- * Read definition cards from the current mixed JSON list.
- * Not imported by UI yet — Content.tsx still reads new_test.json directly.
+ * Read definition cards from the normalized JSON.
+ * Not imported by UI yet — Content.tsx still reads app/lib/new_test.json.
  */
 
-import definitionRows from "@/app/lib/new_test.json";
+import definitions from "@/lib/data/definitions.json";
 import type { DefinitionCard } from "./types";
 
-/**
- * Chapter/section banners live in the same array as cards. Content.tsx treats
- * any title containing "chapter" (any case) as a heading — including stubs
- * like "CHAPTER - " and "Chapter 1 - 2:". Those rows are not definition cards,
- * so they are filtered out here.
- */
-function isHeaderRow(row: { title: string }): boolean {
-  return row.title.toLowerCase().includes("chapter");
-}
-
-/** Definition cards only: no chapter or section header rows. */
+/** Definition cards only; chapter/section headers live in chapters.json. */
 export function getDefinitions(): DefinitionCard[] {
-  return definitionRows.filter((row) => !isHeaderRow(row)).map((row) => ({
-    id: row.id,
-    title: row.title,
-    content: row.content,
-    deTitle: row.de_title,
-    deContent: row.de_content,
-  }));
+  return definitions;
 }
