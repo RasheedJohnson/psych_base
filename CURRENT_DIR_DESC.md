@@ -9,6 +9,7 @@
 | `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, site-wide page pattern on `body`. |
 | `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from mixed `app/lib/questions.json`. |
 | `app/questions/questions.css` | Page-local styles for chapter titles and question cards. |
+| `app/dashboard/cards/page.tsx` | `/dashboard/cards` server page: `getChapters()` + `getDefinitions()` into `CardsPager`. |
 
 ## Components
 
@@ -16,6 +17,8 @@
 | --- | --- |
 | `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog; ShadCN Button + Separator. |
 | `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
+| `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination. |
+| `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
 | `components/Content.tsx` | Unused/legacy home definition list from mixed `new_test.json`. |
 | `components/HorizontalRule.tsx` | Gradient divider used on `/questions`. |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
@@ -34,8 +37,8 @@
 | `lib/data/definitions.json` | Normalized definition cards (no header rows). |
 | `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
 | `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar. |
-| `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`. |
+| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar and `/dashboard/cards`. |
+| `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`; used by `/dashboard/cards`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`. |
 | `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |
 | `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by unused `Content.tsx`. |
