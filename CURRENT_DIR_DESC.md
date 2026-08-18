@@ -5,7 +5,7 @@
 | File | Purpose |
 | --- | --- |
 | `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, `getChapters()` into `Navbar`. |
-| `app/page.tsx` | Home: title + `HorizontalRule` + `Content`. |
+| `app/page.tsx` | Home: thin wrapper around `HomeModeSelect` (no definition list). |
 | `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, site-wide page pattern on `body`. |
 | `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from mixed `app/lib/questions.json`. |
 | `app/questions/questions.css` | Page-local styles for chapter titles and question cards. |
@@ -15,8 +15,9 @@
 | File | Purpose |
 | --- | --- |
 | `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog; ShadCN Button + Separator. |
-| `components/Content.tsx` | Home definition list from mixed `new_test.json`; chapter vs card by title containing `"CHAPTER"`. |
-| `components/HorizontalRule.tsx` | Gradient divider used on home and questions. |
+| `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
+| `components/Content.tsx` | Unused/legacy home definition list from mixed `new_test.json`. |
+| `components/HorizontalRule.tsx` | Gradient divider used on `/questions`. |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
 | `components/QuestionCard.tsx` | Unused/legacy question/answer presentational card. |
 | `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
@@ -37,7 +38,7 @@
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`. |
 | `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |
-| `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by `Content.tsx`. |
+| `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by unused `Content.tsx`. |
 | `app/lib/questions.json` | Mixed Q&A + chapter banners; still used by `/questions`. |
 | `app/lib/chapter2.json` | Unused/legacy chapter 2 definitions. |
 | `app/lib/c7_to_c9.json` | Unused/legacy stub for chapters 7–9. |
