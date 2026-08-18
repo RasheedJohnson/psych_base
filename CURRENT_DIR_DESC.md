@@ -7,9 +7,8 @@
 | `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, `getChapters()` into `Navbar`. |
 | `app/page.tsx` | Home: thin wrapper around `HomeModeSelect` (no definition list). |
 | `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, site-wide page pattern on `body`. |
-| `app/questions/page.tsx` | `/questions` client page: accordion-style Q&A from mixed `app/lib/questions.json`. |
-| `app/questions/questions.css` | Page-local styles for chapter titles and question cards. |
 | `app/dashboard/cards/page.tsx` | `/dashboard/cards` server page: `getChapters()` + `getDefinitions()` into `CardsPager`. |
+| `app/dashboard/questions/page.tsx` | `/dashboard/questions` server page: `getChapters()` + `getQuestions()` into `QuestionList`. |
 
 ## Components
 
@@ -19,8 +18,10 @@
 | `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
 | `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination. |
 | `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
+| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons, selected id into `AnswerPanel`. |
+| `components/AnswerPanel.tsx` | Right column: ShadCN Empty until a question is selected, then typewriter of the answer (Card + Separator). |
 | `components/Content.tsx` | Unused/legacy home definition list from mixed `new_test.json`. |
-| `components/HorizontalRule.tsx` | Gradient divider used on `/questions`. |
+| `components/HorizontalRule.tsx` | Unused/legacy gradient divider (was `/questions`; still imported only by unused `Content.tsx`). |
 | `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
 | `components/QuestionCard.tsx` | Unused/legacy question/answer presentational card. |
 | `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
@@ -37,12 +38,12 @@
 | `lib/data/definitions.json` | Normalized definition cards (no header rows). |
 | `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
 | `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar and `/dashboard/cards`. |
+| `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar and both dashboards. |
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`; used by `/dashboard/cards`. |
-| `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`. |
+| `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`; used by `/dashboard/questions`. |
 | `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |
 | `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by unused `Content.tsx`. |
-| `app/lib/questions.json` | Mixed Q&A + chapter banners; still used by `/questions`. |
+| `app/lib/questions.json` | Unused/legacy mixed Q&A + chapter banners (old `/questions` route). |
 | `app/lib/chapter2.json` | Unused/legacy chapter 2 definitions. |
 | `app/lib/c7_to_c9.json` | Unused/legacy stub for chapters 7–9. |
 | `app/lib/addid.py` | One-off script for assigning ids; not used by the Next app. |
