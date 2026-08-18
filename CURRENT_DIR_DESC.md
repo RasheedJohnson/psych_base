@@ -16,14 +16,10 @@
 | --- | --- |
 | `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog; ShadCN Button + Separator. |
 | `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
-| `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination. |
+| `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination; Empty if the catalog is missing. |
 | `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
-| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons, selected id into `AnswerPanel`. |
+| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons, selected id into `AnswerPanel`; Empty if the catalog is missing. |
 | `components/AnswerPanel.tsx` | Right column: ShadCN Empty until a question is selected, then typewriter of the answer (Card + Separator). |
-| `components/Content.tsx` | Unused/legacy home definition list from mixed `new_test.json`. |
-| `components/HorizontalRule.tsx` | Unused/legacy gradient divider (was `/questions`; still imported only by unused `Content.tsx`). |
-| `components/VerticalRule.tsx` | Unused/legacy vertical divider. |
-| `components/QuestionCard.tsx` | Unused/legacy question/answer presentational card. |
 | `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
 | `components/ui/card.tsx` | ShadCN Card family; ink border and hard shadow, no overflow clip. |
 | `components/ui/separator.tsx` | ShadCN Separator; thickness from `--border-width`. |
@@ -41,12 +37,6 @@
 | `lib/chapters.ts` | `getChapters()` from `lib/data/chapters.json`; used by root layout → Navbar and both dashboards. |
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`; used by `/dashboard/cards`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`; used by `/dashboard/questions`. |
-| `scripts/normalize-data.mjs` | One-off migrator: mixed JSON → `lib/data/*.json`. |
-| `app/lib/new_test.json` | Mixed definitions + chapter headers; still used by unused `Content.tsx`. |
-| `app/lib/questions.json` | Unused/legacy mixed Q&A + chapter banners (old `/questions` route). |
-| `app/lib/chapter2.json` | Unused/legacy chapter 2 definitions. |
-| `app/lib/c7_to_c9.json` | Unused/legacy stub for chapters 7–9. |
-| `app/lib/addid.py` | One-off script for assigning ids; not used by the Next app. |
 
 ## ShadCN / tooling
 
@@ -66,3 +56,16 @@
 | --- | --- |
 | `CURRENT_ARCHITECTURE.md` | Brief architecture overview. |
 | `CURRENT_DIR_DESC.md` | This dictionary. |
+
+## Remaining layout classNames (not old visual chrome)
+
+These still have `className`s that are placement, wrapping, or 3D — not leftover zinc/slate/gradient soup. Wrapping them in extra primitives would mean undoing Card/Button defaults.
+
+| File | Why the utilities stay |
+| --- | --- |
+| `components/Navbar.tsx` | Sticky bar, flex rows, `md:hidden` menu. `bg-card shadow-sm` is token fill; a Card wrapper would need padding/radius overrides. |
+| `components/HomeModeSelect.tsx` | Two-column grid and footer alignment (`h-full`, `mt-auto`, `w-full`). |
+| `components/CardsPager.tsx` | Page max-width, card grid, pagination disabled opacity. |
+| `components/DefinitionFlipCard.tsx` | 3D flip (`perspective`, `backface-visibility`, `rotateY`). Native button chrome is stripped so the Card is the plate. |
+| `components/QuestionList.tsx` | Two-column layout, sticky answer, wrapping question Button text. |
+| `components/AnswerPanel.tsx` | `w-full` on the answer Card; separator spacing. |

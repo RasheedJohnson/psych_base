@@ -1,6 +1,6 @@
 /**
- * Read Q&A items from the normalized JSON.
- * Not imported by UI yet — questions/page.tsx still reads app/lib/questions.json.
+ * Q&A items from lib/data/questions.json.
+ * Used by /dashboard/questions.
  */
 
 import questions from "@/lib/data/questions.json";

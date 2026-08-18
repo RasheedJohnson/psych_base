@@ -10,6 +10,12 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "@/components/ui/empty";
+import {
   Pagination,
   PaginationContent,
   PaginationEllipsis,
@@ -231,12 +237,12 @@ export default function CardsPager({ chapters, definitions }: CardsPagerProps) {
   if (!chapter) {
     return (
       <section className="mx-auto max-w-6xl p-4">
-        <Card>
-          <CardHeader>
-            <CardTitle>Cards</CardTitle>
-            <CardDescription>No chapters to show.</CardDescription>
-          </CardHeader>
-        </Card>
+        <Empty>
+          <EmptyHeader>
+            <EmptyTitle>Cards</EmptyTitle>
+            <EmptyDescription>No chapters to show.</EmptyDescription>
+          </EmptyHeader>
+        </Empty>
       </section>
     );
   }

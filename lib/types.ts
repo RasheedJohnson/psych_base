@@ -1,6 +1,5 @@
 /**
- * Clean content schema. On-disk JSON in lib/data/ matches these types.
- * Pages still import the mixed files in app/lib/; they are not wired here yet.
+ * Content schema. On-disk JSON in lib/data/ matches these types.
  */
 
 /** Stable id: "0"–"16" for numbered chapters, slug for extras (e.g. appendix-c). */

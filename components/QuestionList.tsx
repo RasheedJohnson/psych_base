@@ -10,6 +10,12 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import {
+  Empty,
+  EmptyDescription,
+  EmptyHeader,
+  EmptyTitle,
+} from "@/components/ui/empty";
 import type { Chapter, Question } from "@/lib/types";
 
 type QuestionListProps = {
@@ -151,12 +157,12 @@ export default function QuestionList({
   if (!chapter) {
     return (
       <section className="mx-auto max-w-6xl p-4">
-        <Card>
-          <CardHeader>
-            <CardTitle>Questions</CardTitle>
-            <CardDescription>No chapters to show.</CardDescription>
-          </CardHeader>
-        </Card>
+        <Empty>
+          <EmptyHeader>
+            <EmptyTitle>Questions</EmptyTitle>
+            <EmptyDescription>No chapters to show.</EmptyDescription>
+          </EmptyHeader>
+        </Empty>
       </section>
     );
   }

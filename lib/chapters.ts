@@ -1,8 +1,6 @@
 /**
  * Chapter catalog from lib/data/chapters.json.
- *
- * Navbar still hardcodes two title arrays; later it can call getChapters()
- * instead of those lists.
+ * Used by root layout → Navbar and both dashboards.
  */
 
 import chapters from "@/lib/data/chapters.json";

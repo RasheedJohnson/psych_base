@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import type { Chapter } from "@/lib/types";
 
-/** Primary routes. Dashboard pages may 404 until those routes exist. */
+/** Primary routes. */
 const NAV_LINKS = [
   { href: "/", label: "Home" },
   { href: "/dashboard/cards", label: "Cards" },
@@ -31,7 +31,6 @@ function linkIsActive(href: string, pathname: string): boolean {
 
 /**
  * Chapter jumps follow the current content type (cards vs questions).
- * Hash targets will match dashboard section ids once those pages exist.
  */
 function chapterHref(pathname: string, chapterId: string): string {
   const base = pathname.includes("question")
@@ -135,7 +134,7 @@ const Navbar = ({ chapters }: NavbarProps) => {
   return (
     <nav
       aria-label="Main"
-      className="sticky top-0 z-20 border-b bg-card shadow-sm"
+      className="sticky top-0 z-20 bg-card shadow-sm"
     >
       {/* Brand + primary routes + mobile toggle */}
       <div className="flex items-center justify-between gap-3 p-3">
@@ -190,6 +189,9 @@ const Navbar = ({ chapters }: NavbarProps) => {
           </div>
         </div>
       ) : null}
+
+      {/* Bottom edge is a Separator so the bar does not need a one-off border-b. */}
+      <Separator />
     </nav>
   );
 };

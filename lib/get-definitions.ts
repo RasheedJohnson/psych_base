@@ -1,6 +1,6 @@
 /**
- * Read definition cards from the normalized JSON.
- * Not imported by UI yet — Content.tsx still reads app/lib/new_test.json.
+ * Definition cards from lib/data/definitions.json.
+ * Used by /dashboard/cards.
  */
 
 import definitions from "@/lib/data/definitions.json";
