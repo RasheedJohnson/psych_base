@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState, type ReactNode } from "react";
 import { Menu, X } from "lucide-react";
 
+import ThemeToggle from "@/components/ThemeToggle";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import type { Chapter } from "@/lib/types";
@@ -142,22 +143,27 @@ const Navbar = ({ chapters }: NavbarProps) => {
           V&apos;s PsychDB
         </NavButton>
 
-        <div className="hidden items-center gap-2 md:flex">
-          <RouteButtons pathname={pathname} onNavigate={closeMenu} />
-        </div>
+        {/* Routes stay on the right with the theme toggle; hamburger is mobile-only. */}
+        <div className="flex items-center gap-2">
+          <div className="hidden items-center gap-2 md:flex">
+            <RouteButtons pathname={pathname} onNavigate={closeMenu} />
+          </div>
 
-        <Button
-          type="button"
-          size="icon"
-          variant="outline"
-          className="md:hidden"
-          aria-expanded={open}
-          aria-controls="nav-menu"
-          aria-label={open ? "Close menu" : "Open menu"}
-          onClick={() => setOpen((isOpen) => !isOpen)}
-        >
-          {open ? <X /> : <Menu />}
-        </Button>
+          <ThemeToggle />
+
+          <Button
+            type="button"
+            size="icon"
+            variant="outline"
+            className="md:hidden"
+            aria-expanded={open}
+            aria-controls="nav-menu"
+            aria-label={open ? "Close menu" : "Open menu"}
+            onClick={() => setOpen((isOpen) => !isOpen)}
+          >
+            {open ? <X /> : <Menu />}
+          </Button>
+        </div>
       </div>
 
       {/* Desktop chapter catalog */}

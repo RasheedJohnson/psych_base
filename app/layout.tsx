@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import { ThemeProvider } from "@/components/theme-provider";
 import { getChapters } from "@/lib/chapters";
 import { cn } from "@/lib/utils";
 
@@ -22,16 +23,24 @@ export default function RootLayout({
   const chapters = getChapters();
 
   return (
-    /* `.dark` selects neobrutalist dark tokens (class-based, not prefers-color-scheme). */
+    /* suppressHydrationWarning: next-themes may add `.dark` before React hydrates. */
     <html
       id="main_doc"
       lang="en"
-      className={cn("dark font-sans", inter.variable)}
+      className={cn("font-sans", inter.variable)}
+      suppressHydrationWarning
     >
       {/* Page pattern is on body in globals.css; routes do not paint a background. */}
       <body className="antialiased">
-        <Navbar chapters={chapters} />
-        {children}
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          enableSystem={false}
+          disableTransitionOnChange
+        >
+          <Navbar chapters={chapters} />
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );

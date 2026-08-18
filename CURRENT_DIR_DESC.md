@@ -4,9 +4,9 @@
 
 | File | Purpose |
 | --- | --- |
-| `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `dark` on `<html>`, `getChapters()` into `Navbar`. |
+| `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `ThemeProvider` (light default, class-based), `getChapters()` into `Navbar`. |
 | `app/page.tsx` | Home: thin wrapper around `HomeModeSelect` (no definition list). |
-| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables, site-wide page pattern on `body`. |
+| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables (light `:root`, dark `.dark`), site-wide page pattern on `body`. |
 | `app/dashboard/cards/page.tsx` | `/dashboard/cards` server page: `getChapters()` + `getDefinitions()` into `CardsPager`. |
 | `app/dashboard/questions/page.tsx` | `/dashboard/questions` server page: `getChapters()` + `getQuestions()` into `QuestionList`. |
 
@@ -14,7 +14,9 @@
 
 | File | Purpose |
 | --- | --- |
-| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog; ShadCN Button + Separator. |
+| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions plus chapter catalog and `ThemeToggle`; ShadCN Button + Separator. |
+| `components/theme-provider.tsx` | Client wrapper around `next-themes` ThemeProvider; used once in the root layout. |
+| `components/ThemeToggle.tsx` | Outline icon Button that flips light/dark via `next-themes`; Sun/Moon from lucide. |
 | `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
 | `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination; Empty if the catalog is missing. |
 | `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
@@ -44,7 +46,7 @@
 | --- | --- |
 | `components.json` | ShadCN CLI config (radix-nova, CSS variables, `@/*` aliases). |
 | `lib/utils.ts` | `cn()` helper (clsx + tailwind-merge) used by `/components/ui`. |
-| `package.json` | Scripts and deps (Next, React, Tailwind v4, ShadCN stack). |
+| `package.json` | Scripts and deps (Next, React, Tailwind v4, ShadCN stack, next-themes). |
 | `tsconfig.json` | TypeScript config; `@/*` → repo root. |
 | `postcss.config.mjs` | PostCSS with `@tailwindcss/postcss`. |
 | `next.config.mjs` | Empty Next config. |
@@ -64,6 +66,7 @@ These still have `className`s that are placement, wrapping, or 3D — not leftov
 | File | Why the utilities stay |
 | --- | --- |
 | `components/Navbar.tsx` | Sticky bar, flex rows, `md:hidden` menu. `bg-card shadow-sm` is token fill; a Card wrapper would need padding/radius overrides. |
+| `components/ThemeToggle.tsx` | Icon swap uses `dark:hidden` / `hidden dark:block` so the painted icon tracks the `<html>` class without a mount gate. |
 | `components/HomeModeSelect.tsx` | Two-column grid and footer alignment (`h-full`, `mt-auto`, `w-full`). |
 | `components/CardsPager.tsx` | Page max-width, card grid, pagination disabled opacity. |
 | `components/DefinitionFlipCard.tsx` | 3D flip (`perspective`, `backface-visibility`, `rotateY`). Native button chrome is stripped so the Card is the plate. |

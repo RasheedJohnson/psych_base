@@ -2,7 +2,7 @@
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
 
-/* Class-based dark mode: put `.dark` on <html> to activate `.dark` tokens. */
+/* Class-based dark mode: ThemeProvider toggles `.dark` on <html> (light is default). */
 @custom-variant dark (&:is(.dark *));
 
 /*
@@ -11,6 +11,7 @@
   so future /components/ui primitives pick these up automatically.
 */
 :root {
+  color-scheme: light;
   --radius: 0px;
   --background: oklch(0.985 0.02 95);
   --foreground: oklch(0.145 0 0);
@@ -47,6 +48,7 @@
 }
 
 .dark {
+  color-scheme: dark;
   --background: oklch(0.145 0 0);
   --foreground: oklch(0.985 0 0);
   --card: oklch(0.205 0 0);
