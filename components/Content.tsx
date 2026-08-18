@@ -2,17 +2,6 @@
 import items from "@/app/lib/new_test.json";
 import { useState } from 'react';
 import HorizontalRule from "./HorizontalRule";
-import VerticalRule from "./VerticalRule";
-
-
-type Item = {
-  id: number;
-  title: string;
-  content: string;
-  de_title: string;
-  de_content?: string;
-};
-
 
 export default function Content() {
   

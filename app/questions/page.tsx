@@ -4,16 +4,6 @@ import { useState } from 'react';
 import "@/app/questions/questions.css";
 import HorizontalRule from "@/components/HorizontalRule";
 
-
-type Item = {
-  id: number;
-  title: string;
-  content: string;
-  de_title: string;
-  de_content?: string;
-};
-
-
 export default function Questions() {
   const [open, setOpen] = useState<Record<number, boolean>>({});
 

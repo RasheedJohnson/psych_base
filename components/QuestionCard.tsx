@@ -1,22 +1,15 @@
-import React, { useState } from 'react';
-
-type Item = {
-  id: number;
-  title: string;
+type QuestionCardProps = {
   question: string;
   answer: string;
 };
 
-
-const QuestionCard = (props: any) => {
-  
+const QuestionCard = ({ question, answer }: QuestionCardProps) => {
   return (
-    <div
-      className=''>
-      <h3 className=''>{props.question}</h3>
-      <p className=''>{props.answer}</p>
+    <div className="">
+      <h3 className="">{question}</h3>
+      <p className="">{answer}</p>
     </div>
-  )
-}
+  );
+};
 
-export default QuestionCard
+export default QuestionCard;
