@@ -2,8 +2,10 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
+import { cn } from "@/lib/utils";
 
-const inter = Inter({ subsets: ["latin"] });
+/* Inter is the existing app face; expose it as --font-sans for ShadCN tokens. */
+const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
   title: "Vs PsychDB",
@@ -16,8 +18,13 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html id="main_doc" lang="en">
-      <body className={inter.className}>
+    /* `.dark` selects neobrutalist dark tokens (class-based, not prefers-color-scheme). */
+    <html
+      id="main_doc"
+      lang="en"
+      className={cn("dark font-sans", inter.variable)}
+    >
+      <body className="antialiased">
         <Navbar />
         {children}
       </body>
