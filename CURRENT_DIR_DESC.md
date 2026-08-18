@@ -5,7 +5,7 @@
 | File | Purpose |
 | --- | --- |
 | `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `ThemeProvider` (light default, class-based), `getChapters()` into `Navbar`. |
-| `app/page.tsx` | Home: thin wrapper around `HomeModeSelect` (no definition list). |
+| `app/page.tsx` | Home: `getChapters()` into `HomeModeSelect` (no definition list). |
 | `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables (light `:root`, dark `.dark`), site-wide page pattern on `body`. |
 | `app/dashboard/cards/page.tsx` | `/dashboard/cards` server page: `getChapters()` + `getDefinitions()` into `CardsPager`. |
 | `app/dashboard/questions/page.tsx` | `/dashboard/questions` server page: `getChapters()` + `getQuestions()` into `QuestionList`. |
@@ -14,13 +14,13 @@
 
 | File | Purpose |
 | --- | --- |
-| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions (hamburger on small screens), always-visible chapter `DropdownMenu`, and `ThemeToggle`. |
+| `components/Navbar.tsx` | Sticky neo nav: Home / Cards / Questions (hamburger on small screens; Cards/Questions keep the chapter hash), always-visible chapter `DropdownMenu`, and `ThemeToggle`. |
 | `components/theme-provider.tsx` | Client wrapper around `next-themes` ThemeProvider; used once in the root layout. |
 | `components/ThemeToggle.tsx` | Outline icon Button that flips light/dark via `next-themes`; Sun/Moon from lucide. |
-| `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to `/dashboard/cards` and `/dashboard/questions`. |
-| `components/CardsPager.tsx` | Cards dashboard client: hash-selected chapter, grid of flip cards, ShadCN Pagination; Empty if the catalog is missing. |
+| `components/HomeModeSelect.tsx` | Home picker: two ShadCN Cards with Buttons to Cards/Questions, hashed with the last selected chapter. |
+| `components/CardsPager.tsx` | Cards dashboard client: `useChapterId` chapter, grid of flip cards, ShadCN Pagination; Empty if the catalog is missing. |
 | `components/DefinitionFlipCard.tsx` | One flip plate: EN/DE term on the front, EN/DE definition on the back (ShadCN Card + Separator). |
-| `components/QuestionList.tsx` | Questions dashboard client: hash-selected chapter, question Buttons; wide = `AnswerPanel`, narrow = `AnswerDialog`. Empty if the catalog is missing. |
+| `components/QuestionList.tsx` | Questions dashboard client: `useChapterId` chapter, question Buttons; wide = `AnswerPanel`, narrow = `AnswerDialog`. Empty if the catalog is missing. |
 | `components/AnswerPanel.tsx` | Wide right column: ShadCN Empty until a question is selected, then typewriter of the answer (Card + Separator). |
 | `components/AnswerDialog.tsx` | Narrow-screen Q&A: ShadCN Dialog with the question as title and `TypedAnswer` in the body. |
 | `components/TypedAnswer.tsx` | Shared typewriter paragraph used by `AnswerPanel` and `AnswerDialog`. |
@@ -29,7 +29,8 @@
 
 | File | Purpose |
 | --- | --- |
-| `hooks/use-hash.ts` | `useHash()` — URL hash without `#`; used by Navbar, CardsPager, QuestionList. |
+| `hooks/use-hash.ts` | `useHash()` — URL hash without `#`; `replaceLocationHash()` syncs a missing dashboard hash. |
+| `hooks/use-chapter-id.ts` | `useChapterId()` — hash, else last stored chapter, else first catalog id. Used by Navbar, HomeModeSelect, CardsPager, QuestionList. |
 | `hooks/use-wide-screen.ts` | `useWideScreen()` — true at Tailwind `lg` (1024px); questions two-column vs dialog. |
 
 ## Data
@@ -40,7 +41,8 @@
 | `lib/data/definitions.json` | Normalized definition cards (no header rows). |
 | `lib/data/questions.json` | Normalized Q&A cards (no header rows). |
 | `lib/types.ts` | Schema: `Chapter`, `DefinitionCard`, `Question`. |
-| `lib/chapters.ts` | `getChapters()` plus `chapterShortLabel`, `chapterHeading`, `chapterIdFromHash`. |
+| `lib/chapters.ts` | `getChapters()` plus `chapterShortLabel`, `chapterHeading`, `chapterIdFromHash`, `resolveChapterId`, `chapterPageHref`. |
+| `lib/last-chapter.ts` | `localStorage` last-chapter id (`psychbase:chapter`) with same-tab subscriber notify. |
 | `lib/get-definitions.ts` | `getDefinitions()` from `lib/data/definitions.json`; used by `/dashboard/cards`. |
 | `lib/get-questions.ts` | `getQuestions()` from `lib/data/questions.json`; used by `/dashboard/questions`. |
 

@@ -14,10 +14,10 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { Separator } from "@/components/ui/separator";
-import { useHash } from "@/hooks/use-hash";
+import { useChapterId } from "@/hooks/use-chapter-id";
 import {
   chapterHeading,
-  chapterIdFromHash,
+  chapterPageHref,
   chapterShortLabel,
 } from "@/lib/chapters";
 import type { Chapter } from "@/lib/types";
@@ -50,7 +50,7 @@ function chapterHref(pathname: string, chapterId: string): string {
   const base = pathname.includes("question")
     ? "/dashboard/questions"
     : "/dashboard/cards";
-  return `${base}#${chapterId}`;
+  return chapterPageHref(base, chapterId);
 }
 
 function NavButton({
@@ -91,15 +91,19 @@ function NavButton({
 /** Fresh node list each call so desktop and mobile trees do not share instances. */
 function RouteButtons({
   pathname,
+  chapterId,
   onNavigate,
 }: {
   pathname: string;
+  chapterId: string;
   onNavigate: () => void;
 }) {
   return NAV_LINKS.map((link) => (
     <NavButton
       key={link.href}
-      href={link.href}
+      href={
+        link.href === "/" ? link.href : chapterPageHref(link.href, chapterId)
+      }
       active={linkIsActive(link.href, pathname)}
       onNavigate={onNavigate}
     >
@@ -115,16 +119,15 @@ function RouteButtons({
 function ChapterMenu({
   chapters,
   pathname,
-  hash,
+  chapterId,
   onNavigate,
 }: {
   chapters: Chapter[];
   pathname: string;
-  hash: string;
+  chapterId: string;
   onNavigate: () => void;
 }) {
   const onDashboard = pathname.startsWith("/dashboard");
-  const chapterId = chapterIdFromHash(hash, chapters);
   const current = chapters.find((chapter) => chapter.id === chapterId);
   const triggerLabel =
     onDashboard && current ? chapterShortLabel(current) : "Chapters";
@@ -170,7 +173,7 @@ function ChapterMenu({
 
 const Navbar = ({ chapters }: NavbarProps) => {
   const pathname = usePathname();
-  const hash = useHash();
+  const chapterId = useChapterId(chapters);
   const [open, setOpen] = useState(false);
 
   const closeMenu = () => setOpen(false);
@@ -188,13 +191,17 @@ const Navbar = ({ chapters }: NavbarProps) => {
 
         <div className="flex items-center gap-2">
           <div className="hidden items-center gap-2 md:flex">
-            <RouteButtons pathname={pathname} onNavigate={closeMenu} />
+            <RouteButtons
+              pathname={pathname}
+              chapterId={chapterId}
+              onNavigate={closeMenu}
+            />
           </div>
 
           <ChapterMenu
             chapters={chapters}
             pathname={pathname}
-            hash={hash}
+            chapterId={chapterId}
             onNavigate={closeMenu}
           />
 
@@ -220,7 +227,11 @@ const Navbar = ({ chapters }: NavbarProps) => {
         <div id="nav-menu" className="flex flex-col gap-3 p-3 md:hidden">
           <Separator />
           <div className="flex flex-wrap gap-2">
-            <RouteButtons pathname={pathname} onNavigate={closeMenu} />
+            <RouteButtons
+              pathname={pathname}
+              chapterId={chapterId}
+              onNavigate={closeMenu}
+            />
           </div>
         </div>
       ) : null}

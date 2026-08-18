@@ -17,9 +17,9 @@ import {
   EmptyHeader,
   EmptyTitle,
 } from "@/components/ui/empty";
-import { useHash } from "@/hooks/use-hash";
+import { useChapterId } from "@/hooks/use-chapter-id";
 import { useWideScreen } from "@/hooks/use-wide-screen";
-import { chapterHeading, chapterIdFromHash } from "@/lib/chapters";
+import { chapterHeading } from "@/lib/chapters";
 import type { Chapter, Question } from "@/lib/types";
 
 type QuestionListProps = {
@@ -103,15 +103,15 @@ function ChapterQuestions({ chapter, questions }: ChapterQuestionsProps) {
 }
 
 /**
- * Questions dashboard client: one chapter at a time (Navbar hash). Wide
- * screens keep the list + AnswerPanel columns; narrow screens open a dialog.
+ * Questions dashboard client: one chapter at a time (hash, else last stored
+ * chapter). Wide screens keep the list + AnswerPanel columns; narrow screens
+ * open a dialog.
  */
 export default function QuestionList({
   chapters,
   questions,
 }: QuestionListProps) {
-  const hash = useHash();
-  const chapterId = chapterIdFromHash(hash, chapters);
+  const chapterId = useChapterId(chapters);
 
   const questionsByChapter = useMemo(() => {
     const grouped = new Map<string, Question[]>();

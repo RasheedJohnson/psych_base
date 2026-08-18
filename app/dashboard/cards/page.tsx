@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 /**
  * Definition cards dashboard.
- * Data is read on the server; paging, hash chapter jumps, and flips are client-side.
+ * Data is read on the server; paging, chapter selection, and flips are client-side.
  */
 export default function CardsPage() {
   const chapters = getChapters();

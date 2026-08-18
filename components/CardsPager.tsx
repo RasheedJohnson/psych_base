@@ -24,8 +24,8 @@ import {
   PaginationNext,
   PaginationPrevious,
 } from "@/components/ui/pagination";
-import { useHash } from "@/hooks/use-hash";
-import { chapterHeading, chapterIdFromHash } from "@/lib/chapters";
+import { useChapterId } from "@/hooks/use-chapter-id";
+import { chapterHeading } from "@/lib/chapters";
 import type { Chapter, DefinitionCard } from "@/lib/types";
 
 /** Two rows of three on large screens; chapters with fewer cards just leave gaps. */
@@ -171,12 +171,12 @@ function ChapterDeck({ chapter, cards }: ChapterDeckProps) {
 }
 
 /**
- * One chapter at a time (hash from Navbar), then paginate that chapter's cards.
- * Keeps app/dashboard/cards/page.tsx as a data-loading server wrapper.
+ * One chapter at a time (hash, else last stored chapter), then paginate
+ * that chapter's cards. Keeps app/dashboard/cards/page.tsx as a data-loading
+ * server wrapper.
  */
 export default function CardsPager({ chapters, definitions }: CardsPagerProps) {
-  const hash = useHash();
-  const chapterId = chapterIdFromHash(hash, chapters);
+  const chapterId = useChapterId(chapters);
 
   // Group once; 683 cards is cheap but this avoids reshuffling on every flip/page click.
   const cardsByChapter = useMemo(() => {

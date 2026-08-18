@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 
 /**
  * Practice questions dashboard.
- * Data is read on the server; chapter hash, selection, and typewriter are client-side.
+ * Data is read on the server; chapter selection and typewriter are client-side.
  */
 export default function QuestionsPage() {
   const chapters = getChapters();

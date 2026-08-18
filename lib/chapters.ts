@@ -1,6 +1,6 @@
 /**
  * Chapter catalog from lib/data/chapters.json.
- * Used by root layout → Navbar and both dashboards.
+ * Used by root layout → Navbar, home picker, and both dashboards.
  */
 
 import chapters from "@/lib/data/chapters.json";
@@ -30,4 +30,27 @@ export function chapterIdFromHash(hash: string, catalog: Chapter[]): string {
     return hash;
   }
   return catalog[0]?.id ?? "";
+}
+
+/**
+ * Live URL hash wins when it is a catalog id; otherwise the last stored
+ * chapter; otherwise the first chapter in the catalog.
+ */
+export function resolveChapterId(
+  hash: string,
+  stored: string,
+  catalog: Chapter[]
+): string {
+  if (catalog.some((chapter) => chapter.id === hash)) {
+    return hash;
+  }
+  return chapterIdFromHash(stored, catalog);
+}
+
+/** Dashboard routes keep the chapter in the hash so Cards ↔ Questions stay put. */
+export function chapterPageHref(pathname: string, chapterId: string): string {
+  if (!chapterId) {
+    return pathname;
+  }
+  return `${pathname}#${chapterId}`;
 }
