@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PsychBase
 
-## Getting Started
+A static study app for a psychology textbook. It shows bilingual (EN/DE) definition cards and practice questions, one chapter at a time.
 
-First, run the development server:
+The in-app name is **V's PsychDB**. There is no backend: all content is JSON in the repo.
+
+## Features
+
+- **Cards** — flip cards with English and German terms and definitions, six per page
+- **Questions** — one question at a time; wide screens show the answer beside the list, narrow screens open a dialog
+- **Chapters** — 00–16 plus appendix C; the last selected chapter stays selected when you move between Home, Cards, and Questions
+- **Theme** — light by default, with a toggle in the nav (choice is persisted)
+
+## Stack
+
+| | |
+| --- | --- |
+| Framework | [Next.js](https://nextjs.org/) 16 (App Router) |
+| UI | React 19, TypeScript, [Tailwind CSS](https://tailwindcss.com/) v4, [ShadCN](https://ui.shadcn.com/) (neobrutalist tokens) |
+| Theme | [next-themes](https://github.com/pacocoursey/next-themes) (class on `<html>`, system preference off) |
+
+Path alias `@/*` maps to the repo root.
+
+## Requirements
+
+- Node.js 20.9 or newer (Next.js 16)
+- npm (this repo uses `package-lock.json`)
+
+## Setup
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Script | What it does |
+| --- | --- |
+| `npm run dev` | Development server |
+| `npm run build` | Production build |
+| `npm start` | Serve the production build |
+| `npm run lint` | ESLint |
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+No environment variables are required.
 
-## Learn More
+## Pages
 
-To learn more about Next.js, take a look at the following resources:
+| Path | What you get |
+| --- | --- |
+| `/` | Home — pick Cards or Questions |
+| `/dashboard/cards` | Definition cards for the selected chapter |
+| `/dashboard/questions` | Practice questions for the selected chapter |
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Use the chapter menu in the nav (`00`–`16` and `C`) to jump. Cards and Questions links keep that chapter in the URL hash. If the hash is missing, the last chapter is restored from `localStorage`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Content
 
-## Deploy on Vercel
+Source files live in `lib/data/`:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| File | Records | Shape |
+| --- | --- | --- |
+| `chapters.json` | 18 | `{ id, number, title }` (`number` is `null` for the appendix) |
+| `definitions.json` | 683 | `{ id, chapterId, termEn, definitionEn, termDe, definitionDe }` |
+| `questions.json` | 316 | `{ id, chapterId, question, answer }` |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Types are in `lib/types.ts`. Loaders: `getChapters()`, `getDefinitions()`, `getQuestions()`.
+
+## Docs
+
+| File | What it covers |
+| --- | --- |
+| [CURRENT_ARCHITECTURE.md](CURRENT_ARCHITECTURE.md) | Routes, data model, chapter selection, design system |
+| [CURRENT_DIR_DESC.md](CURRENT_DIR_DESC.md) | File-by-file map of the live app |

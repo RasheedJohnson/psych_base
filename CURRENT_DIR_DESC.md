@@ -62,6 +62,7 @@
 
 | File | Purpose |
 | --- | --- |
+| `README.md` | Project overview, setup, scripts, pages, and content counts. |
 | `CURRENT_ARCHITECTURE.md` | Brief architecture overview. |
 | `CURRENT_DIR_DESC.md` | This dictionary. |
 
