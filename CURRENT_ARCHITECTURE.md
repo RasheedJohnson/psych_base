@@ -37,7 +37,7 @@ Hash subscription is `useHash()` (`hooks/use-hash.ts`). Chapter selection is `us
 
 ## Design system
 
-ShadCN is initialized (Tailwind v4, CSS variables, `cn` in `lib/utils.ts`). `app/globals.css` holds neobrutalist tokens (thick borders, hard offset shadows, radius 0, high-contrast colors) plus the site-wide page pattern. Light tokens live on `:root`; dark tokens live on `.dark`. `next-themes` toggles that class and persists the choice.
+ShadCN is initialized (Tailwind v4, CSS variables, `cn` in `lib/utils.ts`). `app/globals.css` holds neobrutalist tokens (thick borders, hard offset shadows, slight `--radius`, high-contrast colors) plus the site-wide page pattern. Light tokens live on `:root`; dark tokens live on `.dark`. `next-themes` toggles that class and persists the choice. Corner rounding is only the `--radius` token: primitives already use `rounded-*`, and `box-shadow` follows the element's radius so raised plates keep matching rounded shadows.
 
 `components/ui` has seven neobrutalist primitives: **button**, **card**, **separator**, **pagination**, **empty**, **dialog**, **dropdown-menu**. They use the existing tokens (`border`, `shadow-*`, `--radius`, `--border-width`) rather than hardcoded colors. Pagination composes Button. Dialog close and dropdown trigger compose Button. Navbar uses button, separator, dropdown-menu, and ThemeToggle. Home picker uses card and button. Cards dashboard uses card, separator, pagination, and empty. Questions dashboard uses button, card, separator, empty, and dialog.
 

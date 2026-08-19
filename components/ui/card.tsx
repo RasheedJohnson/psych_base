@@ -2,7 +2,7 @@ import * as React from "react"
 
 import { cn } from "@/lib/utils"
 
-/** Raised card plate: ink border + hard offset shadow. No overflow clip so the shadow is visible. */
+/** Raised card plate: ink border, --radius rounding, hard offset shadow. No overflow clip so the shadow is visible. */
 function Card({
   className,
   size = "default",

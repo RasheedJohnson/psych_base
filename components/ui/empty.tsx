@@ -3,7 +3,7 @@ import { cva, type VariantProps } from "class-variance-authority"
 
 import { cn } from "@/lib/utils"
 
-/** Empty frame is a raised card plate, not a dashed hairline. */
+/** Empty frame is a raised card plate (border, --radius rounding, hard shadow). */
 function Empty({ className, ...props }: React.ComponentProps<"div">) {
   return (
     <div

@@ -6,7 +6,7 @@
 | --- | --- |
 | `app/layout.tsx` | Root layout: metadata, Inter as `--font-sans`, `ThemeProvider` (light default, class-based), `getChapters()` into `Navbar`. |
 | `app/page.tsx` | Home: `getChapters()` into `HomeModeSelect` (no definition list). |
-| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables (light `:root`, dark `.dark`), site-wide page pattern on `body`. |
+| `app/globals.css` | Tailwind v4 entry, ShadCN imports, neobrutalist CSS variables (light `:root`, dark `.dark`, slight `--radius` for plates and their shadows), site-wide page pattern on `body`. |
 | `app/dashboard/cards/page.tsx` | `/dashboard/cards` server page: `getChapters()` + `getDefinitions()` into `CardsPager`. |
 | `app/dashboard/questions/page.tsx` | `/dashboard/questions` server page: `getChapters()` + `getQuestions()` into `QuestionList`. |
 
@@ -70,13 +70,13 @@
 
 | File | Purpose |
 | --- | --- |
-| `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + offset shadow + press). |
-| `components/ui/card.tsx` | ShadCN Card family; ink border and hard shadow, no overflow clip. |
+| `components/ui/button.tsx` | ShadCN Button; raised neo variants (border + `--radius` rounding + offset shadow + press). |
+| `components/ui/card.tsx` | ShadCN Card family; ink border, `--radius` rounding, and hard shadow, no overflow clip. |
 | `components/ui/separator.tsx` | ShadCN Separator; thickness from `--border-width`. |
 | `components/ui/pagination.tsx` | ShadCN Pagination; composes Button (active = default, others = outline). |
-| `components/ui/empty.tsx` | ShadCN Empty state; raised card plate + optional primary icon well. |
-| `components/ui/dialog.tsx` | ShadCN Dialog; raised popover plate + hard shadow (used by `AnswerDialog`). |
-| `components/ui/dropdown-menu.tsx` | ShadCN DropdownMenu; raised popover plate (used by Navbar chapters). |
+| `components/ui/empty.tsx` | ShadCN Empty state; raised card plate (`--radius` rounding) + optional primary icon well. |
+| `components/ui/dialog.tsx` | ShadCN Dialog; raised popover plate + `--radius` rounding + hard shadow (used by `AnswerDialog`). |
+| `components/ui/dropdown-menu.tsx` | ShadCN DropdownMenu; raised popover plate with `--radius` rounding (used by Navbar chapters). |
 
 ## Remaining layout classNames (not old visual chrome)
 

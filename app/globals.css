@@ -7,12 +7,13 @@
 
 /*
   Neobrutalist tokens: thick ink borders, hard offset shadows (no blur),
-  little/no rounding, high-contrast fills. Semantic names stay ShadCN-standard
+  slight corner radius, high-contrast fills. Semantic names stay ShadCN-standard
   so future /components/ui primitives pick these up automatically.
 */
 :root {
   color-scheme: light;
-  --radius: 0px;
+  /* Slight plate rounding. ShadCN rounded-* utilities and box-shadows follow this. */
+  --radius: 0.375rem;
   --background: oklch(0.985 0.02 95);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
@@ -119,7 +120,7 @@
   --color-foreground: var(--foreground);
   --color-background: var(--background);
 
-  /* Radius scale stays 0 when --radius is 0. */
+  /* Radius scale follows --radius (buttons use lg, cards/dialogs use xl). */
   --radius-sm: calc(var(--radius) * 0.6);
   --radius-md: calc(var(--radius) * 0.8);
   --radius-lg: var(--radius);
@@ -131,7 +132,11 @@
   /* Thick default borders; arbitrary widths like border-[1px] are unchanged. */
   --border-width: 3px;
 
-  /* Hard offset shadows (no blur) using the current border color. */
+  /*
+    Hard offset shadows (no blur) using the current border color.
+    box-shadow copies the element's border-radius, so raised plates keep
+    matching rounded shadows without extra wrappers or filter drop-shadows.
+  */
   --shadow-2xs: 2px 2px 0 0 var(--border);
   --shadow-xs: 2px 2px 0 0 var(--border);
   --shadow-sm: 4px 4px 0 0 var(--border);

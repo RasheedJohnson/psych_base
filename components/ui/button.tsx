@@ -5,8 +5,8 @@ import { Slot } from "radix-ui"
 import { cn } from "@/lib/utils"
 
 /*
-  Raised neo-brutal control: ink border + hard offset shadow from globals.css
-  tokens, then a press that steps the shadow down (xs) and off (none).
+  Raised neo-brutal control: ink border, --radius rounding, and hard offset
+  shadow from globals.css tokens. Press steps the shadow down (xs) then off.
 */
 const neoRaised =
   "border-border shadow-sm hover:translate-x-0.5 hover:translate-y-0.5 hover:shadow-xs active:translate-x-1 active:translate-y-1 active:shadow-none"
